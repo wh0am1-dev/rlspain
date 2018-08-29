@@ -23,4 +23,10 @@ rocket league ranking
   git commit -m 'data update'
   git push origin master
   ```
+
+  ## run server
+
+  ```bash
+  python -m http.server
+  ```
 -->
