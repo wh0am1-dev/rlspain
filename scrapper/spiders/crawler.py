@@ -40,10 +40,7 @@ class RLSpider(scrapy.Spider):
         self.items.append(item)
     
     def spider_closed(self, spider, reason):
-        from pprint import pprint
-        for item in self.items:
-            self.data[item['id']]['mmr'] = item['mmr']
-        pprint(self.data)
+        self.write_json()
 
     def parse(self, response):
         url = response.url
@@ -58,10 +55,11 @@ class RLSpider(scrapy.Spider):
     @staticmethod
     def load_json():
         data_ = None
-        with open('data/data.json') as f:
+        with open('data/players.json') as f:
             data_ = json.load(f)
         return data_
     
     @staticmethod
     def write_json():
+        # todo: write data to history
         pass
