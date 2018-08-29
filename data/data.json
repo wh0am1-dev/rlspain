@@ -1,1460 +1,1460 @@
 {
-  "Wolfsonthemoon": {
-    "nombre": "Wolfsonthemoon",
-    "puntos": 1919,
+  "76561198166053975": {
     "id": "76561198166053975",
-    "equipo": "UD Las Palmas eSports",
-    "rol": "",
+    "name": "Wolfsonthemoon",
+    "mmr": 1919,
+    "team": "UD Las Palmas eSports",
+    "role": "",
     "twitter": "Wolfsonthemoon",
-    "playstation": ""
+    "ps": false
   },
-  "GCR710": {
-    "nombre": "GCR710",
-    "puntos": 1888,
-    "id": "GCR710",
-    "equipo": "",
-    "rol": "",
+  "76561198063473656": {
+    "id": "76561198063473656",
+    "name": "GCR710",
+    "mmr": 1870,
+    "team": "",
+    "role": "",
     "twitter": "GCR710_",
-    "playstation": ""
+    "ps": false
   },
-  "Clayx": {
-    "nombre": "Clayx",
-    "puntos": 1877,
+  "76561198247922306": {
     "id": "76561198247922306",
-    "equipo": "x6tence",
-    "rol": "",
+    "name": "Clayx",
+    "mmr": 1877,
+    "team": "x6tence",
+    "role": "",
     "twitter": "ClayX_Rl",
-    "playstation": ""
+    "ps": false
   },
-  "Marc_By_8": {
-    "nombre": "Marc_By_8",
-    "puntos": 1922,
+  "76561198307356688": {
     "id": "76561198307356688",
-    "equipo": "Blitzers",
-    "rol": "",
+    "name": "Marc_By_8",
+    "mmr": 1922,
+    "team": "Blitzers",
+    "role": "",
     "twitter": "MaRc_By_8",
-    "playstation": ""
+    "ps": false
   },
-  "ASN_RuBiiX": {
-    "nombre": "ASN_RuBiiX",
-    "puntos": 1842,
+  "76561198847618075": {
     "id": "76561198847618075",
-    "equipo": "No Horizon",
-    "rol": "",
+    "name": "ASN_RuBiiX",
+    "mmr": 1842,
+    "team": "No Horizon",
+    "role": "",
     "twitter": "ASN_RuBiiX",
-    "playstation": ""
+    "ps": false
   },
-  "Casaprima": {
-    "nombre": "Casaprima",
-    "puntos": 1862,
-    "id": "Casaprima",
-    "equipo": "ECORP",
-    "rol": "",
+  "76561198329623270": {
+    "id": "76561198329623270",
+    "name": "Casaprima",
+    "mmr": 1862,
+    "team": "ECORP",
+    "role": "",
     "twitter": "TheCasaprima",
-    "playstation": ""
+    "ps": false
   },
-  "Zoor": {
-    "nombre": "Zoor",
-    "puntos": "#ERROR!",
+  "76561198046349883": {
     "id": "76561198046349883",
-    "equipo": "x6tence",
-    "rol": "",
+    "name": "Zoor",
+    "mmr": 1836,
+    "team": "x6tence",
+    "role": "",
     "twitter": "ZoorRL",
-    "playstation": ""
+    "ps": false
   },
-  "Vk-Sailen": {
-    "nombre": "Vk-Sailen",
-    "puntos": 1764,
+  "76561198397457726": {
     "id": "76561198397457726",
-    "equipo": "",
-    "rol": "",
+    "name": "Vk-Sailen",
+    "mmr": 1764,
+    "team": "",
+    "role": "",
     "twitter": "VKSaileeMz",
-    "playstation": ""
+    "ps": false
   },
-  "Nachitow": {
-    "nombre": "Nachitow",
-    "puntos": 1781,
+  "76561198391498026": {
     "id": "76561198391498026",
-    "equipo": "Blitzers",
-    "rol": "",
+    "name": "Nachitow",
+    "mmr": 1781,
+    "team": "Blitzers",
+    "role": "",
     "twitter": "NachitowRL",
-    "playstation": ""
+    "ps": false
   },
-  "Itsulen": {
-    "nombre": "Itsulen",
-    "puntos": 1825,
+  "76561198017739904": {
     "id": "76561198017739904",
-    "equipo": "",
-    "rol": "",
+    "name": "Itsulen",
+    "mmr": 1825,
+    "team": "",
+    "role": "",
     "twitter": "Itsulen",
-    "playstation": ""
+    "ps": false
   },
-  "ByMateos": {
-    "nombre": "ByMateos",
-    "puntos": 1783,
+  "76561198086962834": {
     "id": "76561198086962834",
-    "equipo": "x6tence",
-    "rol": "",
+    "name": "ByMateos",
+    "mmr": 1783,
+    "team": "x6tence",
+    "role": "",
     "twitter": "ByMateos_",
-    "playstation": ""
+    "ps": false
   },
-  "Swazer": {
-    "nombre": "Swazer",
-    "puntos": 1771,
+  "76561197992276806": {
     "id": "76561197992276806",
-    "equipo": "",
-    "rol": "",
+    "name": "Swazer",
+    "mmr": 1771,
+    "team": "",
+    "role": "",
     "twitter": "Swazer_",
-    "playstation": ""
+    "ps": false
   },
-  "Mister Ube": {
-    "nombre": "Mister Ube",
-    "puntos": 1685,
+  "76561198269120189": {
     "id": "76561198269120189",
-    "equipo": "UD Las Palmas eSports",
-    "rol": "",
+    "name": "Mister Ube",
+    "mmr": "#ERROR!",
+    "team": "UD Las Palmas eSports",
+    "role": "",
     "twitter": "MiSTeR_uBe_",
-    "playstation": ""
+    "ps": false
   },
-  "Black": {
-    "nombre": "Black",
-    "puntos": 1703,
+  "76561198078236085": {
     "id": "76561198078236085",
-    "equipo": "x6tence Academy",
-    "rol": "Coach",
+    "name": "Black",
+    "mmr": 1703,
+    "team": "x6tence Academy",
+    "role": "Coach",
     "twitter": "BlackRocketeer",
-    "playstation": ""
+    "ps": false
   },
-  "Syston": {
-    "nombre": "Syston",
-    "puntos": 1708,
+  "76561198117182114": {
     "id": "76561198117182114",
-    "equipo": "",
-    "rol": "",
+    "name": "Syston",
+    "mmr": 1708,
+    "team": "",
+    "role": "",
     "twitter": "Syston_rl",
-    "playstation": ""
+    "ps": false
   },
-  "Samuel": {
-    "nombre": "Samuel",
-    "puntos": 1699,
+  "76561198202624036": {
     "id": "76561198202624036",
-    "equipo": "FekyX",
-    "rol": "",
+    "name": "Samuel",
+    "mmr": 1699,
+    "team": "FekyX",
+    "role": "",
     "twitter": "samucortes2000",
-    "playstation": ""
+    "ps": false
   },
-  "Stake": {
-    "nombre": "Stake",
-    "puntos": 1698,
+  "76561198242455752": {
     "id": "76561198242455752",
-    "equipo": "Blitzers",
-    "rol": "",
+    "name": "Stake",
+    "mmr": 1698,
+    "team": "Blitzers",
+    "role": "",
     "twitter": "StakeYT",
-    "playstation": ""
+    "ps": false
   },
-  "Adriandro": {
-    "nombre": "Adriandro",
-    "puntos": 1690,
+  "76561198450035475": {
     "id": "76561198450035475",
-    "equipo": "#Equipo de Adriandro",
-    "rol": "",
+    "name": "Adriandro",
+    "mmr": 1690,
+    "team": "#Equipo de Adriandro",
+    "role": "",
     "twitter": "Adriandro_RL",
-    "playstation": ""
+    "ps": false
   },
-  "MV.": {
-    "nombre": "MV.",
-    "puntos": 1754,
+  "76561198319809944": {
     "id": "76561198319809944",
-    "equipo": "",
-    "rol": "",
+    "name": "MV.",
+    "mmr": 1768,
+    "team": "",
+    "role": "",
     "twitter": "CRISTIAN_MV_18",
-    "playstation": ""
+    "ps": false
   },
-  "BoomQuick": {
-    "nombre": "BoomQuick",
-    "puntos": 1705,
+  "76561198283164522": {
     "id": "76561198283164522",
-    "equipo": "No Horizon",
-    "rol": "",
+    "name": "BoomQuick",
+    "mmr": 1705,
+    "team": "No Horizon",
+    "role": "",
     "twitter": "y_b00mquick13",
-    "playstation": ""
+    "ps": false
   },
-  "Javirm2000": {
-    "nombre": "Javirm2000",
-    "puntos": 1671,
-    "id": "javirm2000",
-    "equipo": "",
-    "rol": "",
+  "76561198286316596": {
+    "id": "76561198286316596",
+    "name": "Javirm2000",
+    "mmr": 1671,
+    "team": "",
+    "role": "",
     "twitter": "javirm2000",
-    "playstation": ""
+    "ps": false
   },
-  "Hate": {
-    "nombre": "Hate",
-    "puntos": 1648,
+  "76561198104513162": {
     "id": "76561198104513162",
-    "equipo": "#Equipo de Adriandro",
-    "rol": "Sub",
+    "name": "Hate",
+    "mmr": 1648,
+    "team": "#Equipo de Adriandro",
+    "role": "Sub",
     "twitter": "Hate_RL",
-    "playstation": ""
+    "ps": false
   },
-  "Hadrianus": {
-    "nombre": "Hadrianus",
-    "puntos": "#ERROR!",
+  "76561198195843577": {
     "id": "76561198195843577",
-    "equipo": "FekyX",
-    "rol": "",
+    "name": "Hadrianus",
+    "mmr": 1669,
+    "team": "FekyX",
+    "role": "",
     "twitter": "RocketHadrianus",
-    "playstation": ""
+    "ps": false
   },
-  "Alru": {
-    "nombre": "Alru",
-    "puntos": 1652,
+  "76561198421214924": {
     "id": "76561198421214924",
-    "equipo": "ECORP",
-    "rol": "",
+    "name": "Alru",
+    "mmr": "#ERROR!",
+    "team": "ECORP",
+    "role": "",
     "twitter": "AlruRL",
-    "playstation": ""
+    "ps": false
   },
-  "Luxxor": {
-    "nombre": "Luxxor",
-    "puntos": 1652,
+  "76561198334924562": {
     "id": "76561198334924562",
-    "equipo": "",
-    "rol": "",
+    "name": "Luxxor",
+    "mmr": 1652,
+    "team": "",
+    "role": "",
     "twitter": "LuXxoR_RL",
-    "playstation": ""
+    "ps": false
   },
-  "DiLegacy": {
-    "nombre": "DiLegacy",
-    "puntos": 1687,
-    "id": "DiLegacy",
-    "equipo": "",
-    "rol": "",
+  "76561198244497836": {
+    "id": "76561198244497836",
+    "name": "DiLegacy",
+    "mmr": 1687,
+    "team": "",
+    "role": "",
     "twitter": "DiLegacyDL",
-    "playstation": ""
+    "ps": false
   },
-  "Misa": {
-    "nombre": "Misa",
-    "puntos": 1683,
+  "76561198138659600": {
     "id": 76561198138659600,
-    "equipo": "",
-    "rol": "",
+    "name": "Misa",
+    "mmr": 1683,
+    "team": "",
+    "role": "",
     "twitter": "Misa_RL_",
-    "playstation": ""
+    "ps": false
   },
-  "Madridista155": {
-    "nombre": "Madridista155",
-    "puntos": 1641,
+  "76561198374884993": {
     "id": "76561198374884993",
-    "equipo": "Kawaii Kiwis",
-    "rol": "",
+    "name": "Madridista155",
+    "mmr": 1641,
+    "team": "Kawaii Kiwis",
+    "role": "",
     "twitter": "madridista155RL",
-    "playstation": ""
+    "ps": false
   },
-  "Manu": {
-    "nombre": "Manu",
-    "puntos": 1674,
+  "76561198141184773": {
     "id": "76561198141184773",
-    "equipo": "Wizards Esports Club",
-    "rol": "",
+    "name": "Manu",
+    "mmr": 1630,
+    "team": "Wizards Esports Club",
+    "role": "",
     "twitter": "xXManuRLXx",
-    "playstation": ""
+    "ps": false
   },
-  "Jairo": {
-    "nombre": "Jairo",
-    "puntos": 1639,
+  "76561198827636313": {
     "id": "76561198827636313",
-    "equipo": "No Horizon",
-    "rol": "",
+    "name": "Jairo",
+    "mmr": 1639,
+    "team": "No Horizon",
+    "role": "",
     "twitter": "JairoFernandez_",
-    "playstation": ""
+    "ps": false
   },
-  "Wolf.": {
-    "nombre": "Wolf.",
-    "puntos": 1745,
+  "76561198283230023": {
     "id": "76561198283230023",
-    "equipo": "#Equipo de Adriandro",
-    "rol": "",
+    "name": "Wolf.",
+    "mmr": 1745,
+    "team": "#Equipo de Adriandro",
+    "role": "",
     "twitter": "WolfRL_",
-    "playstation": ""
+    "ps": false
   },
-  "Damian": {
-    "nombre": "Damian",
-    "puntos": 1620,
+  "76561198372482690": {
     "id": "76561198372482690",
-    "equipo": "",
-    "rol": "",
+    "name": "Damian",
+    "mmr": 1620,
+    "team": "",
+    "role": "",
     "twitter": "DamiDelevingne",
-    "playstation": ""
+    "ps": false
   },
-  "Grillo": {
-    "nombre": "Grillo",
-    "puntos": 1615,
+  "76561198841005281": {
     "id": "76561198841005281",
-    "equipo": "S1X6EES",
-    "rol": "",
+    "name": "Grillo",
+    "mmr": 1615,
+    "team": "S1X6EES",
+    "role": "",
     "twitter": "itsgrillo",
-    "playstation": ""
+    "ps": false
   },
-  "Ragner": {
-    "nombre": "Ragner",
-    "puntos": 1498,
+  "76561198023544143": {
     "id": "76561198023544143",
-    "equipo": "",
-    "rol": "",
+    "name": "Ragner",
+    "mmr": 1498,
+    "team": "",
+    "role": "",
     "twitter": "Ragner_RL",
-    "playstation": ""
+    "ps": false
   },
-  "kiermonster": {
-    "nombre": "kiermonster",
-    "puntos": 1617,
-    "id": "kiermonster",
-    "equipo": "Efficiency Team",
-    "rol": "",
+  "76561198339384251": {
+    "id": "76561198339384251",
+    "name": "kiermonster",
+    "mmr": 1663,
+    "team": "Efficiency Team",
+    "role": "",
     "twitter": "KierMonsteR_",
-    "playstation": ""
+    "ps": false
   },
-  "Cristian (Boss)": {
-    "nombre": "Cristian (Boss)",
-    "puntos": 1661,
+  "76561198845948731": {
     "id": "76561198845948731",
-    "equipo": "FekyX",
-    "rol": "",
+    "name": "Cristian (Boss)",
+    "mmr": 1661,
+    "team": "FekyX",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Evilwolf": {
-    "nombre": "Evilwolf",
-    "puntos": 1568,
+  "76561198121463093": {
     "id": "76561198121463093",
-    "equipo": "",
-    "rol": "",
+    "name": "Evilwolf",
+    "mmr": 1568,
+    "team": "",
+    "role": "",
     "twitter": "EvilWolf_RL",
-    "playstation": ""
+    "ps": false
   },
-  "Ymkl": {
-    "nombre": "Ymkl",
-    "puntos": 1493,
-    "id": "YMKL",
-    "equipo": "S1X6EES",
-    "rol": "",
+  "76561198116989021": {
+    "id": "76561198116989021",
+    "name": "Ymkl",
+    "mmr": 1493,
+    "team": "S1X6EES",
+    "role": "",
     "twitter": "Yemaikel",
-    "playstation": ""
+    "ps": false
   },
-  "XxkrratosxX": {
-    "nombre": "XxkrratosxX",
-    "puntos": 1511,
+  "76561198119213423": {
     "id": "76561198119213423",
-    "equipo": "Cold Gaming",
-    "rol": "",
+    "name": "XxkrratosxX",
+    "mmr": 1511,
+    "team": "Cold Gaming",
+    "role": "",
     "twitter": "XxKRRATOSxX",
-    "playstation": ""
+    "ps": false
   },
-  "Espumita": {
-    "nombre": "Espumita",
-    "puntos": 1688,
+  "76561198202845030": {
     "id": "76561198202845030",
-    "equipo": "",
-    "rol": "",
+    "name": "Espumita",
+    "mmr": 1754,
+    "team": "",
+    "role": "",
     "twitter": "EspumitaRL",
-    "playstation": ""
+    "ps": false
   },
-  "imtrbl": {
-    "nombre": "imtrbl",
-    "puntos": 1679,
+  "76561198417118771": {
     "id": "76561198417118771",
-    "equipo": "ECORP",
-    "rol": "",
+    "name": "imtrbl",
+    "mmr": 1679,
+    "team": "ECORP",
+    "role": "",
     "twitter": "trblrl",
-    "playstation": ""
+    "ps": false
   },
-  "Dmentza": {
-    "nombre": "Dmentza",
-    "puntos": "#ERROR!",
+  "76561198274964984": {
     "id": "76561198274964984",
-    "equipo": "#Equipo de Adriandro",
-    "rol": "",
+    "name": "Dmentza",
+    "mmr": "#ERROR!",
+    "team": "#Equipo de Adriandro",
+    "role": "",
     "twitter": "DmentZa_",
-    "playstation": ""
+    "ps": false
   },
-  "erale": {
-    "nombre": "erale",
-    "puntos": "#ERROR!",
-    "id": "ErAle001",
-    "equipo": "",
-    "rol": "",
+  "76561198122631127": {
+    "id": "76561198122631127",
+    "name": "erale",
+    "mmr": 1588,
+    "team": "",
+    "role": "",
     "twitter": "AleJimne5",
-    "playstation": ""
+    "ps": false
   },
-  "Jeytijey": {
-    "nombre": "Jeytijey",
-    "puntos": 1557,
+  "76561198058936316": {
     "id": "76561198058936316",
-    "equipo": "Kawaii Kiwis",
-    "rol": "",
+    "name": "Jeytijey",
+    "mmr": 1557,
+    "team": "Kawaii Kiwis",
+    "role": "",
     "twitter": "JeyTiJey",
-    "playstation": ""
+    "ps": false
   },
-  "Cruzz": {
-    "nombre": "Cruzz",
-    "puntos": 1582,
+  "76561198216191035": {
     "id": "76561198216191035",
-    "equipo": "",
-    "rol": "",
+    "name": "Cruzz",
+    "mmr": 1582,
+    "team": "",
+    "role": "",
     "twitter": "CruzzinhoRL",
-    "playstation": ""
+    "ps": false
   },
-  "Gaiade": {
-    "nombre": "Gaiade",
-    "puntos": 1575,
+  "gaiade": {
     "id": "gaiade",
-    "equipo": "",
-    "rol": "",
+    "name": "Gaiade",
+    "mmr": 1575,
+    "team": "",
+    "role": "",
     "twitter": "GaiadeRL",
-    "playstation": "PS"
+    "ps": true
   },
-  "Kontrol": {
-    "nombre": "Kontrol",
-    "puntos": 1602,
+  "76561198142129360": {
     "id": "76561198142129360",
-    "equipo": "UD Las Palmas eSports",
-    "rol": "",
+    "name": "Kontrol",
+    "mmr": 1602,
+    "team": "UD Las Palmas eSports",
+    "role": "",
     "twitter": "KontrolRL",
-    "playstation": ""
+    "ps": false
   },
-  "Byjesuxesp": {
-    "nombre": "Byjesuxesp",
-    "puntos": 1573,
-    "id": "ByJesuxEsP",
-    "equipo": "Wizards Esports Club",
-    "rol": "",
+  "76561198275403893": {
+    "id": "76561198275403893",
+    "name": "Byjesuxesp",
+    "mmr": 1573,
+    "team": "Wizards Esports Club",
+    "role": "",
     "twitter": "ByJesuxEsP",
-    "playstation": ""
+    "ps": false
   },
-  "Kappa": {
-    "nombre": "Kappa",
-    "puntos": 1601,
+  "76561198103865076": {
     "id": "76561198103865076",
-    "equipo": "Eagle Legend",
-    "rol": "",
+    "name": "Kappa",
+    "mmr": 1601,
+    "team": "Eagle Legend",
+    "role": "",
     "twitter": "kappa_rl",
-    "playstation": ""
+    "ps": false
   },
-  "De Boer": {
-    "nombre": "De Boer",
-    "puntos": 1598,
+  "76561198015021496": {
     "id": "76561198015021496",
-    "equipo": "Blitzers",
-    "rol": "Coach",
+    "name": "De Boer",
+    "mmr": 1598,
+    "team": "Blitzers",
+    "role": "Coach",
     "twitter": "de_Boer_",
-    "playstation": ""
+    "ps": false
   },
-  "Zasuj": {
-    "nombre": "Zasuj",
-    "puntos": 1535,
+  "76561198012869889": {
     "id": "76561198012869889",
-    "equipo": "S1X6EES",
-    "rol": "",
+    "name": "Zasuj",
+    "mmr": 1535,
+    "team": "S1X6EES",
+    "role": "",
     "twitter": "ZasujOfficial",
-    "playstation": ""
+    "ps": false
   },
-  "Estrupa": {
-    "nombre": "Estrupa",
-    "puntos": 1560,
+  "76561198240032432": {
     "id": "76561198240032432",
-    "equipo": "Wizards Esports Club",
-    "rol": "",
+    "name": "Estrupa",
+    "mmr": 1560,
+    "team": "Wizards Esports Club",
+    "role": "",
     "twitter": "Estrupa27",
-    "playstation": ""
+    "ps": false
   },
-  "Fredy": {
-    "nombre": "Fredy",
-    "puntos": 1535,
+  "76561198138902132": {
     "id": "76561198138902132",
-    "equipo": "Kawaii Kiwis",
-    "rol": "",
+    "name": "Fredy",
+    "mmr": 1535,
+    "team": "Kawaii Kiwis",
+    "role": "",
     "twitter": "RLFredy",
-    "playstation": ""
+    "ps": false
   },
-  "Javigames": {
-    "nombre": "Javigames",
-    "puntos": 1446,
+  "76561198352932824": {
     "id": "76561198352932824",
-    "equipo": "EFFICIENCY Team",
-    "rol": "",
+    "name": "Javigames",
+    "mmr": 1446,
+    "team": "EFFICIENCY Team",
+    "role": "",
     "twitter": "JaviGamesYT_xX",
-    "playstation": ""
+    "ps": false
   },
-  "Snax5": {
-    "nombre": "Snax5",
-    "puntos": 1590,
+  "76561198070619737": {
     "id": "76561198070619737",
-    "equipo": "x6tence Academy",
-    "rol": "",
+    "name": "Snax5",
+    "mmr": 1590,
+    "team": "x6tence Academy",
+    "role": "",
     "twitter": "EloiSegura",
-    "playstation": ""
+    "ps": false
   },
-  "Meliodas": {
-    "nombre": "Meliodas",
-    "puntos": 1546,
+  "76561198046829697": {
     "id": "76561198046829697",
-    "equipo": "",
-    "rol": "",
+    "name": "Meliodas",
+    "mmr": 1546,
+    "team": "",
+    "role": "",
     "twitter": "MeliodasRL",
-    "playstation": ""
+    "ps": false
   },
-  "Theica7": {
-    "nombre": "Theica7",
-    "puntos": 1521,
+  "76561198128270102": {
     "id": "76561198128270102",
-    "equipo": "Kawaii Kiwis",
-    "rol": "",
+    "name": "Theica7",
+    "mmr": 1521,
+    "team": "Kawaii Kiwis",
+    "role": "",
     "twitter": "Theica7",
-    "playstation": ""
+    "ps": false
   },
-  "Handriu": {
-    "nombre": "Handriu",
-    "puntos": 1542,
+  "76561198210103819": {
     "id": "76561198210103819",
-    "equipo": "Kawaii Kiwis",
-    "rol": "",
+    "name": "Handriu",
+    "mmr": 1542,
+    "team": "Kawaii Kiwis",
+    "role": "",
     "twitter": "HANDRIU_RL",
-    "playstation": ""
+    "ps": false
   },
-  "Magic": {
-    "nombre": "Magic",
-    "puntos": 1543,
+  "76561198261902516": {
     "id": "76561198261902516",
-    "equipo": "",
-    "rol": "",
+    "name": "Magic",
+    "mmr": 1543,
+    "team": "",
+    "role": "",
     "twitter": "MagicZondixYT",
-    "playstation": ""
+    "ps": false
   },
-  "Khaelan": {
-    "nombre": "Khaelan",
-    "puntos": 1542,
+  "76561198051727963": {
     "id": "76561198051727963",
-    "equipo": "x6tence",
-    "rol": "Coach",
+    "name": "Khaelan",
+    "mmr": 1542,
+    "team": "x6tence",
+    "role": "Coach",
     "twitter": "xXKhaelaNXx",
-    "playstation": ""
+    "ps": false
   },
-  "Irving": {
-    "nombre": "Irving",
-    "puntos": "#ERROR!",
+  "76561198244865642": {
     "id": "76561198244865642",
-    "equipo": "",
-    "rol": "",
+    "name": "Irving",
+    "mmr": 1558,
+    "team": "",
+    "role": "",
     "twitter": "Irving_ASF",
-    "playstation": ""
+    "ps": false
   },
-  "Salve": {
-    "nombre": "Salve",
-    "puntos": 1535,
+  "76561198011404375": {
     "id": "76561198011404375",
-    "equipo": "",
-    "rol": "",
+    "name": "Salve",
+    "mmr": 1535,
+    "team": "",
+    "role": "",
     "twitter": "Salve_RL",
-    "playstation": ""
+    "ps": false
   },
-  "Bell Sama": {
-    "nombre": "Bell Sama",
-    "puntos": 1529,
+  "76561198321452864": {
     "id": "76561198321452864",
-    "equipo": "S1X6EES",
-    "rol": "",
+    "name": "Bell Sama",
+    "mmr": 1529,
+    "team": "S1X6EES",
+    "role": "",
     "twitter": "Itezaaaa",
-    "playstation": ""
+    "ps": false
   },
-  "Freisa": {
-    "nombre": "Freisa",
-    "puntos": 1532,
+  "76561198337938976": {
     "id": "76561198337938976",
-    "equipo": "",
-    "rol": "",
+    "name": "Freisa",
+    "mmr": 1532,
+    "team": "",
+    "role": "",
     "twitter": "RLFreisa",
-    "playstation": ""
+    "ps": false
   },
-  "Jiiyee": {
-    "nombre": "Jiiyee",
-    "puntos": 1537,
+  "76561198046809450": {
     "id": "76561198046809450",
-    "equipo": "",
-    "rol": "",
+    "name": "Jiiyee",
+    "mmr": "#ERROR!",
+    "team": "",
+    "role": "",
     "twitter": "JiiYee",
-    "playstation": ""
+    "ps": false
   },
-  "Kleinako": {
-    "nombre": "Kleinako",
-    "puntos": 1515,
+  "76561198329334389": {
     "id": "76561198329334389",
-    "equipo": "FekyX",
-    "rol": "",
+    "name": "Kleinako",
+    "mmr": 1515,
+    "team": "FekyX",
+    "role": "",
     "twitter": "KleinakoRL",
-    "playstation": ""
+    "ps": false
   },
-  "Sito": {
-    "nombre": "Sito",
-    "puntos": 1518,
+  "76561198142310510": {
     "id": "76561198142310510",
-    "equipo": "x6tence Academy",
-    "rol": "",
+    "name": "Sito",
+    "mmr": 1518,
+    "team": "x6tence Academy",
+    "role": "",
     "twitter": "sito_skt",
-    "playstation": ""
+    "ps": false
   },
-  "Jofosu": {
-    "nombre": "Jofosu",
-    "puntos": 1434,
+  "76561198155851847": {
     "id": "76561198155851847",
-    "equipo": "QBits",
-    "rol": "",
+    "name": "Jofosu",
+    "mmr": 1434,
+    "team": "QBits",
+    "role": "",
     "twitter": "jofosu1",
-    "playstation": ""
+    "ps": false
   },
-  "Dreyar": {
-    "nombre": "Dreyar",
-    "puntos": 1526,
+  "76561198847201088": {
     "id": "76561198847201088",
-    "equipo": "Mavericks Esports",
-    "rol": "",
+    "name": "Dreyar",
+    "mmr": 1526,
+    "team": "Mavericks Esports",
+    "role": "",
     "twitter": "MarioGarciaCore",
-    "playstation": ""
+    "ps": false
   },
-  "Sete2pro": {
-    "nombre": "Sete2pro",
-    "puntos": 1540,
+  "76561198141919398": {
     "id": "76561198141919398",
-    "equipo": "",
-    "rol": "",
+    "name": "Sete2pro",
+    "mmr": "#ERROR!",
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Carloskista": {
-    "nombre": "Carloskista",
-    "puntos": "#ERROR!",
+  "76561198080519227": {
     "id": "76561198080519227",
-    "equipo": "",
-    "rol": "",
+    "name": "Carloskista",
+    "mmr": "#ERROR!",
+    "team": "",
+    "role": "",
     "twitter": "carloskistaRL",
-    "playstation": ""
+    "ps": false
   },
-  "Laska": {
-    "nombre": "Laska",
-    "puntos": 1416,
+  "76561198842031262": {
     "id": "76561198842031262",
-    "equipo": "",
-    "rol": "Retirado",
+    "name": "Laska",
+    "mmr": 1416,
+    "team": "",
+    "role": "Retirado",
     "twitter": "RafaMG9",
-    "playstation": ""
+    "ps": false
   },
-  "Melting": {
-    "nombre": "Melting",
-    "puntos": 1518,
+  "76561198147066345": {
     "id": "76561198147066345",
-    "equipo": "",
-    "rol": "",
+    "name": "Melting",
+    "mmr": 1518,
+    "team": "",
+    "role": "",
     "twitter": "MeltingRL",
-    "playstation": ""
+    "ps": false
   },
-  "Moltapor": {
-    "nombre": "Moltapor",
-    "puntos": 1526,
-    "id": "Moltapor",
-    "equipo": "Cowback",
-    "rol": "",
+  "76561198312669184": {
+    "id": "76561198312669184",
+    "name": "Moltapor",
+    "mmr": 1520,
+    "team": "Cowback",
+    "role": "",
     "twitter": "moltapor",
-    "playstation": ""
+    "ps": false
   },
-  "Happy Sausage": {
-    "nombre": "Happy Sausage",
-    "puntos": 1534,
+  "76561198808946113": {
     "id": "76561198808946113",
-    "equipo": "Team Genetic",
-    "rol": "",
+    "name": "Happy Sausage",
+    "mmr": "#ERROR!",
+    "team": "Team Genetic",
+    "role": "",
     "twitter": "HappySausagee",
-    "playstation": ""
+    "ps": false
   },
-  "Seeco": {
-    "nombre": "Seeco",
-    "puntos": 1517,
-    "id": "Seeco",
-    "equipo": "",
-    "rol": "Retirado",
+  "76561198104494616": {
+    "id": "76561198104494616",
+    "name": "Seeco",
+    "mmr": 1517,
+    "team": "",
+    "role": "Retirado",
     "twitter": "SecDesigns2k17",
-    "playstation": ""
+    "ps": false
   },
-  "JM.": {
-    "nombre": "JM.",
-    "puntos": 1517,
+  "76561198314089920": {
     "id": "76561198314089920",
-    "equipo": "?? / Crewnity",
-    "rol": "Jugador/Coach",
+    "name": "JM.",
+    "mmr": 1517,
+    "team": "?? / Crewnity",
+    "role": "Jugador/Coach",
     "twitter": "RLJuanma_",
-    "playstation": ""
+    "ps": false
   },
-  "Zeler": {
-    "nombre": "Zeler",
-    "puntos": 1517,
+  "76561198081687947": {
     "id": "76561198081687947",
-    "equipo": "Wizards Esports Club",
-    "rol": "",
+    "name": "Zeler",
+    "mmr": 1517,
+    "team": "Wizards Esports Club",
+    "role": "",
     "twitter": "ZelerRL",
-    "playstation": ""
+    "ps": false
   },
-  "Darkryx": {
-    "nombre": "Darkryx",
-    "puntos": 1516,
-    "id": "Darkryx",
-    "equipo": "x6tence Academy",
-    "rol": "Coach",
+  "76561198001767664": {
+    "id": "76561198001767664",
+    "name": "Darkryx",
+    "mmr": 1516,
+    "team": "x6tence Academy",
+    "role": "Coach",
     "twitter": "DarkryxGm",
-    "playstation": ""
+    "ps": false
   },
-  "Arturo.": {
-    "nombre": "Arturo.",
-    "puntos": 1528,
+  "76561198043877696": {
     "id": "76561198043877696",
-    "equipo": "",
-    "rol": "",
+    "name": "Arturo.",
+    "mmr": 1528,
+    "team": "",
+    "role": "",
     "twitter": "Arturozh",
-    "playstation": ""
+    "ps": false
   },
-  "System": {
-    "nombre": "System",
-    "puntos": 1518,
+  "76561198309484135": {
     "id": "76561198309484135",
-    "equipo": "",
-    "rol": "",
+    "name": "System",
+    "mmr": 1518,
+    "team": "",
+    "role": "",
     "twitter": "SystemRL",
-    "playstation": ""
+    "ps": false
   },
-  "borex": {
-    "nombre": "borex",
-    "puntos": "#ERROR!",
+  "76561198843064179": {
     "id": "76561198843064179",
-    "equipo": "A&E",
-    "rol": "",
+    "name": "borex",
+    "mmr": "#ERROR!",
+    "team": "A&E",
+    "role": "",
     "twitter": "theBorex7",
-    "playstation": ""
+    "ps": false
   },
-  "Maillo": {
-    "nombre": "Maillo",
-    "puntos": 1518,
+  "76561198134401169": {
     "id": "76561198134401169",
-    "equipo": "",
-    "rol": "",
+    "name": "Maillo",
+    "mmr": 1518,
+    "team": "",
+    "role": "",
     "twitter": "Maillooo_",
-    "playstation": ""
+    "ps": false
   },
-  "Cowisis": {
-    "nombre": "Cowisis",
-    "puntos": 1511,
+  "76561198045926736": {
     "id": "76561198045926736",
-    "equipo": "Cowback",
-    "rol": "",
+    "name": "Cowisis",
+    "mmr": 1511,
+    "team": "Cowback",
+    "role": "",
     "twitter": "cowisis",
-    "playstation": ""
+    "ps": false
   },
-  "Toni": {
-    "nombre": "Toni",
-    "puntos": 1513,
-    "id": "toni2510ar",
-    "equipo": "No Horizon",
-    "rol": "",
+  "76561198401593700": {
+    "id": 76561198401593700,
+    "name": "Toni",
+    "mmr": 1513,
+    "team": "No Horizon",
+    "role": "",
     "twitter": "toni2510ar",
-    "playstation": ""
+    "ps": false
   },
-  "DualView": {
-    "nombre": "DualView",
-    "puntos": 1478,
-    "id": "DualView",
-    "equipo": "",
-    "rol": "",
+  "76561198105630418": {
+    "id": "76561198105630418",
+    "name": "DualView",
+    "mmr": 1478,
+    "team": "",
+    "role": "",
     "twitter": "DualViewYT",
-    "playstation": ""
+    "ps": false
   },
-  "lete7": {
-    "nombre": "lete7",
-    "puntos": 1505,
+  "76561198803139952": {
     "id": "76561198803139952",
-    "equipo": "ECORP",
-    "rol": "",
+    "name": "lete7",
+    "mmr": 1505,
+    "team": "ECORP",
+    "role": "",
     "twitter": "RauuulVN",
-    "playstation": ""
+    "ps": false
   },
-  "Leiartxer": {
-    "nombre": "Leiartxer",
-    "puntos": 1506,
-    "id": "Leiartxer",
-    "equipo": "Eagle Legend",
-    "rol": "",
+  "76561198255931775": {
+    "id": "76561198255931775",
+    "name": "Leiartxer",
+    "mmr": 1529,
+    "team": "Eagle Legend",
+    "role": "",
     "twitter": "leiiartxer",
-    "playstation": ""
+    "ps": false
   },
-  "Binarydem0n": {
-    "nombre": "Binarydem0n",
-    "puntos": 1451,
-    "id": "B1naryDem0n",
-    "equipo": "FeKyX",
-    "rol": "",
+  "76561198131751119": {
+    "id": "76561198131751119",
+    "name": "Binarydem0n",
+    "mmr": 1463,
+    "team": "FeKyX",
+    "role": "",
     "twitter": "B1naryDem0nRL",
-    "playstation": ""
+    "ps": false
   },
-  "Kratos": {
-    "nombre": "Kratos",
-    "puntos": 1503,
+  "76561198399536154": {
     "id": "76561198399536154",
-    "equipo": "Team Genetic",
-    "rol": "",
+    "name": "Kratos",
+    "mmr": 1504,
+    "team": "Team Genetic",
+    "role": "",
     "twitter": "Kratos_RL",
-    "playstation": ""
+    "ps": false
   },
-  "hvgo": {
-    "nombre": "hvgo",
-    "puntos": 1474,
+  "76561198271033632": {
     "id": "76561198271033632",
-    "equipo": "",
-    "rol": "",
+    "name": "hvgo",
+    "mmr": 1474,
+    "team": "",
+    "role": "",
     "twitter": "hvg0_",
-    "playstation": ""
+    "ps": false
   },
-  "Roxas": {
-    "nombre": "Roxas",
-    "puntos": 1446,
+  "76561198057950383": {
     "id": "76561198057950383",
-    "equipo": "",
-    "rol": "",
+    "name": "Roxas",
+    "mmr": 1446,
+    "team": "",
+    "role": "",
     "twitter": "Roxas__RL",
-    "playstation": ""
+    "ps": false
   },
-  "Zombie": {
-    "nombre": "Zombie",
-    "puntos": 1464,
+  "76561198316034302": {
     "id": "76561198316034302",
-    "equipo": "FekyX",
-    "rol": "",
+    "name": "Zombie",
+    "mmr": 1464,
+    "team": "FekyX",
+    "role": "",
     "twitter": "ZombieRL_Yt",
-    "playstation": ""
+    "ps": false
   },
-  "dani_ana": {
-    "nombre": "dani_ana",
-    "puntos": 1527,
+  "76561198194418471": {
     "id": "76561198194418471",
-    "equipo": "",
-    "rol": "Retirado",
+    "name": "dani_ana",
+    "mmr": 1527,
+    "team": "",
+    "role": "Retirado",
     "twitter": "dani_anaRL",
-    "playstation": ""
+    "ps": false
   },
-  "Gunter": {
-    "nombre": "Gunter",
-    "puntos": 1494,
+  "76561198129300114": {
     "id": "76561198129300114",
-    "equipo": "",
-    "rol": "",
+    "name": "Gunter",
+    "mmr": 1494,
+    "team": "",
+    "role": "",
     "twitter": "GuunteR_",
-    "playstation": ""
+    "ps": false
   },
-  "Razor": {
-    "nombre": "Razor",
-    "puntos": 1478,
+  "76561198401868469": {
     "id": "76561198401868469",
-    "equipo": "",
-    "rol": "",
+    "name": "Razor",
+    "mmr": 1478,
+    "team": "",
+    "role": "",
     "twitter": "Reisorazor",
-    "playstation": ""
+    "ps": false
   },
-  "Allan": {
-    "nombre": "Allan",
-    "puntos": 1466,
+  "76561198443515688": {
     "id": "76561198443515688",
-    "equipo": "Blitzers",
-    "rol": "Sub",
+    "name": "Allan",
+    "mmr": 1466,
+    "team": "Blitzers",
+    "role": "Sub",
     "twitter": "Allaann17",
-    "playstation": ""
+    "ps": false
   },
-  "Timo": {
-    "nombre": "Timo",
-    "puntos": 1429,
+  "76561198211281451": {
     "id": "76561198211281451",
-    "equipo": "",
-    "rol": "",
+    "name": "Timo",
+    "mmr": 1429,
+    "team": "",
+    "role": "",
     "twitter": "TimoRL_",
-    "playstation": ""
+    "ps": false
   },
-  "Mikito": {
-    "nombre": "Mikito",
-    "puntos": "#ERROR!",
+  "76561198077873784": {
     "id": "76561198077873784",
-    "equipo": "??/Crewnity",
-    "rol": "Jugador/Coach",
+    "name": "Mikito",
+    "mmr": 1446,
+    "team": "??/Crewnity",
+    "role": "Jugador/Coach",
     "twitter": "iMikito",
-    "playstation": ""
+    "ps": false
   },
-  "eljoselillo7": {
-    "nombre": "eljoselillo7",
-    "puntos": 1479,
+  "76561198107773783": {
     "id": "76561198107773783",
-    "equipo": "FekyX",
-    "rol": "",
+    "name": "eljoselillo7",
+    "mmr": 1479,
+    "team": "FekyX",
+    "role": "",
     "twitter": "eljoselillo7",
-    "playstation": ""
+    "ps": false
   },
-  "Juanlu": {
-    "nombre": "Juanlu",
-    "puntos": 1409,
+  "76561198322585010": {
     "id": "76561198322585010",
-    "equipo": "",
-    "rol": "",
+    "name": "Juanlu",
+    "mmr": 1409,
+    "team": "",
+    "role": "",
     "twitter": "Juanlu_RL",
-    "playstation": ""
+    "ps": false
   },
-  "Alexyquemas": {
-    "nombre": "Alexyquemas",
-    "puntos": 1423,
+  "76561198062101077": {
     "id": "76561198062101077",
-    "equipo": "BLOWS Esports",
-    "rol": "",
+    "name": "Alexyquemas",
+    "mmr": 1423,
+    "team": "BLOWS Esports",
+    "role": "",
     "twitter": "alexyquemas",
-    "playstation": ""
+    "ps": false
   },
-  "Slaim": {
-    "nombre": "Slaim",
-    "puntos": 1464,
+  "76561198259218471": {
     "id": "76561198259218471",
-    "equipo": "",
-    "rol": "",
+    "name": "Slaim",
+    "mmr": 1464,
+    "team": "",
+    "role": "",
     "twitter": "SlaimRL",
-    "playstation": ""
+    "ps": false
   },
-  "Acasa": {
-    "nombre": "Acasa",
-    "puntos": 1431,
+  "76561198119628362": {
     "id": "76561198119628362",
-    "equipo": "",
-    "rol": "",
+    "name": "Acasa",
+    "mmr": 1446,
+    "team": "",
+    "role": "",
     "twitter": "acasa47",
-    "playstation": ""
+    "ps": false
   },
-  "Marches": {
-    "nombre": "Marches",
-    "puntos": 1449,
+  "76561198194595110": {
     "id": "76561198194595110",
-    "equipo": "",
-    "rol": "",
+    "name": "Marches",
+    "mmr": 1449,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "TheJn10": {
-    "nombre": "TheJn10",
-    "puntos": 1444,
+  "76561198114865613": {
     "id": "76561198114865613",
-    "equipo": "Crewnity",
-    "rol": "",
+    "name": "TheJn10",
+    "mmr": 1444,
+    "team": "Crewnity",
+    "role": "",
     "twitter": "TheJn10",
-    "playstation": ""
+    "ps": false
   },
-  "wilfred.": {
-    "nombre": "wilfred.",
-    "puntos": 1504,
+  "76561198398080762": {
     "id": "76561198398080762",
-    "equipo": "",
-    "rol": "",
+    "name": "wilfred.",
+    "mmr": 1504,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Rubik": {
-    "nombre": "Rubik",
-    "puntos": 1510,
+  "76561198185490510": {
     "id": "76561198185490510",
-    "equipo": "Wizards Esports Club",
-    "rol": "",
+    "name": "Rubik",
+    "mmr": "#ERROR!",
+    "team": "Wizards Esports Club",
+    "role": "",
     "twitter": "RubikYT_",
-    "playstation": ""
+    "ps": false
   },
-  "Choger": {
-    "nombre": "Choger",
-    "puntos": 1438,
+  "76561197964735836": {
     "id": "76561197964735836",
-    "equipo": "",
-    "rol": "",
+    "name": "Choger",
+    "mmr": 1438,
+    "team": "",
+    "role": "",
     "twitter": "ChogerRL",
-    "playstation": ""
+    "ps": false
   },
-  "Pepsy": {
-    "nombre": "Pepsy",
-    "puntos": 1437,
+  "76561198241997022": {
     "id": "76561198241997022",
-    "equipo": "FekyX",
-    "rol": "",
+    "name": "Pepsy",
+    "mmr": 1437,
+    "team": "FekyX",
+    "role": "",
     "twitter": "PepsyRL",
-    "playstation": ""
+    "ps": false
   },
-  "Senta": {
-    "nombre": "Senta",
-    "puntos": 1421,
+  "76561198446559192": {
     "id": "76561198446559192",
-    "equipo": "x6tence Academy",
-    "rol": "",
+    "name": "Senta",
+    "mmr": 1421,
+    "team": "x6tence Academy",
+    "role": "",
     "twitter": "AaronSenta",
-    "playstation": ""
+    "ps": false
   },
-  "CajoNasTeupas": {
-    "nombre": "CajoNasTeupas",
-    "puntos": 1481,
+  "76561198036351861": {
     "id": "76561198036351861",
-    "equipo": "",
-    "rol": "",
+    "name": "CajoNasTeupas",
+    "mmr": 1481,
+    "team": "",
+    "role": "",
     "twitter": "CajoNasTeupas",
-    "playstation": ""
+    "ps": false
   },
-  "kucilla": {
-    "nombre": "kucilla",
-    "puntos": 1421,
+  "76561198209617892": {
     "id": "76561198209617892",
-    "equipo": "",
-    "rol": "",
+    "name": "kucilla",
+    "mmr": 1421,
+    "team": "",
+    "role": "",
     "twitter": "kucilla11",
-    "playstation": ""
+    "ps": false
   },
-  "esva": {
-    "nombre": "esva",
-    "puntos": 1418,
+  "76561197970376127": {
     "id": "76561197970376127",
-    "equipo": "",
-    "rol": "",
+    "name": "esva",
+    "mmr": 1418,
+    "team": "",
+    "role": "",
     "twitter": "esva_",
-    "playstation": ""
+    "ps": false
   },
-  "Toavols": {
-    "nombre": "Toavols",
-    "puntos": 1399,
+  "76561198164621136": {
     "id": "76561198164621136",
-    "equipo": "",
-    "rol": "",
+    "name": "Toavols",
+    "mmr": 1399,
+    "team": "",
+    "role": "",
     "twitter": "Toavols",
-    "playstation": ""
+    "ps": false
   },
-  "Kassadinha": {
-    "nombre": "Kassadinha",
-    "puntos": 1413,
+  "76561198799160112": {
     "id": "76561198799160112",
-    "equipo": "Team Genetic",
-    "rol": "",
+    "name": "Kassadinha",
+    "mmr": 1413,
+    "team": "Team Genetic",
+    "role": "",
     "twitter": "Kassaaa2",
-    "playstation": ""
+    "ps": false
   },
-  "Idrk": {
-    "nombre": "Idrk",
-    "puntos": 1414,
+  "76561198352822740": {
     "id": "76561198352822740",
-    "equipo": "Team Genetic",
-    "rol": "",
+    "name": "Idrk",
+    "mmr": 1414,
+    "team": "Team Genetic",
+    "role": "",
     "twitter": "iDrkRL",
-    "playstation": ""
+    "ps": false
   },
-  "xnumb": {
-    "nombre": "xnumb",
-    "puntos": 1405,
+  "76561198038110242": {
     "id": "76561198038110242",
-    "equipo": "Mavericks Esports",
-    "rol": "",
+    "name": "xnumb",
+    "mmr": 1405,
+    "team": "Mavericks Esports",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "blyatiful": {
-    "nombre": "blyatiful",
-    "puntos": 1342,
+  "76561198105225387": {
     "id": "76561198105225387",
-    "equipo": "",
-    "rol": "",
+    "name": "blyatiful",
+    "mmr": 1342,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Escobarinho": {
-    "nombre": "Escobarinho",
-    "puntos": 1403,
+  "76561198000228038": {
     "id": "76561198000228038",
-    "equipo": "",
-    "rol": "",
+    "name": "Escobarinho",
+    "mmr": 1403,
+    "team": "",
+    "role": "",
     "twitter": "Eescobar8",
-    "playstation": ""
+    "ps": false
   },
-  "Jota": {
-    "nombre": "Jota",
-    "puntos": 1398,
+  "76561198117868648": {
     "id": "76561198117868648",
-    "equipo": "Crewnity",
-    "rol": "",
+    "name": "Jota",
+    "mmr": 1406,
+    "team": "Crewnity",
+    "role": "",
     "twitter": "talavero17",
-    "playstation": ""
+    "ps": false
   },
-  "Mr. Game": {
-    "nombre": "Mr. Game",
-    "puntos": 1392,
+  "76561198274230158": {
     "id": "76561198274230158",
-    "equipo": "Kawaii Kiwis",
-    "rol": "Coach",
+    "name": "Mr. Game",
+    "mmr": 1392,
+    "team": "Kawaii Kiwis",
+    "role": "Coach",
     "twitter": "GameGDRN",
-    "playstation": ""
+    "ps": false
   },
-  "Jfarrera": {
-    "nombre": "Jfarrera",
-    "puntos": 1381,
-    "id": "Jfarrera",
-    "equipo": "",
-    "rol": "",
+  "76561198194852753": {
+    "id": "76561198194852753",
+    "name": "Jfarrera",
+    "mmr": "#ERROR!",
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Revi": {
-    "nombre": "Revi",
-    "puntos": 1398,
+  "Revicen": {
     "id": "Revicen",
-    "equipo": "",
-    "rol": "",
+    "name": "Revi",
+    "mmr": 1403,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": "PS"
+    "ps": true
   },
-  "Mr. Soulman": {
-    "nombre": "Mr. Soulman",
-    "puntos": 1429,
+  "76561198163903878": {
     "id": "76561198163903878",
-    "equipo": "",
-    "rol": "",
+    "name": "Mr. Soulman",
+    "mmr": 1429,
+    "team": "",
+    "role": "",
     "twitter": "MisterSoulman",
-    "playstation": ""
+    "ps": false
   },
-  "Nolichu": {
-    "nombre": "Nolichu",
-    "puntos": 1397,
+  "76561198142550862": {
     "id": "76561198142550862",
-    "equipo": "",
-    "rol": "",
+    "name": "Nolichu",
+    "mmr": 1397,
+    "team": "",
+    "role": "",
     "twitter": "nolichu13",
-    "playstation": ""
+    "ps": false
   },
-  "Shados": {
-    "nombre": "Shados",
-    "puntos": 1377,
+  "76561198159556686": {
     "id": "76561198159556686",
-    "equipo": "",
-    "rol": "",
+    "name": "Shados",
+    "mmr": 1377,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "diegostarmo": {
-    "nombre": "diegostarmo",
-    "puntos": 1322,
+  "76561198141421009": {
     "id": "76561198141421009",
-    "equipo": "BLOWS Esports",
-    "rol": "",
+    "name": "diegostarmo",
+    "mmr": 1322,
+    "team": "BLOWS Esports",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Malag53": {
-    "nombre": "Malag53",
-    "puntos": 1450,
+  "76561198426648640": {
     "id": "76561198426648640",
-    "equipo": "",
-    "rol": "",
+    "name": "Malag53",
+    "mmr": 1450,
+    "team": "",
+    "role": "",
     "twitter": "malag53",
-    "playstation": ""
+    "ps": false
   },
-  "Migol": {
-    "nombre": "Migol",
-    "puntos": 1420,
+  "76561198387480823": {
     "id": "76561198387480823",
-    "equipo": "",
-    "rol": "",
+    "name": "Migol",
+    "mmr": 1420,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Anyelo LFT": {
-    "nombre": "Anyelo LFT",
-    "puntos": 1389,
+  "76561198405871360": {
     "id": "76561198405871360",
-    "equipo": "",
-    "rol": "",
+    "name": "Anyelo LFT",
+    "mmr": 1389,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
   "IBON1551": {
-    "nombre": "IBON1551",
-    "puntos": "#ERROR!",
     "id": "IBON1551",
-    "equipo": "",
-    "rol": "",
+    "name": "IBON1551",
+    "mmr": 1385,
+    "team": "",
+    "role": "",
     "twitter": "IBONAKORL",
-    "playstation": "PS"
+    "ps": true
   },
-  "bryyck": {
-    "nombre": "bryyck",
-    "puntos": 1343,
-    "id": "bryyck",
-    "equipo": "",
-    "rol": "",
+  "76561198128446766": {
+    "id": "76561198128446766",
+    "name": "bryyck",
+    "mmr": 1343,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Uri": {
-    "nombre": "Uri",
-    "puntos": 1294,
+  "Urii_15": {
     "id": "Urii_15",
-    "equipo": "ECORP",
-    "rol": "Manager",
+    "name": "Uri",
+    "mmr": 1294,
+    "team": "ECORP",
+    "role": "Manager",
     "twitter": "",
-    "playstation": "PS"
+    "ps": true
   },
-  "Fikxes": {
-    "nombre": "Fikxes",
-    "puntos": 1318,
+  "76561198261557099": {
     "id": "76561198261557099",
-    "equipo": "x6tence Academy",
-    "rol": "",
+    "name": "Fikxes",
+    "mmr": 1318,
+    "team": "x6tence Academy",
+    "role": "",
     "twitter": "FikXes_RL",
-    "playstation": ""
+    "ps": false
   },
-  "Feiroz": {
-    "nombre": "Feiroz",
-    "puntos": 1316,
+  "76561198178447123": {
     "id": "76561198178447123",
-    "equipo": "",
-    "rol": "",
+    "name": "Feiroz",
+    "mmr": 1316,
+    "team": "",
+    "role": "",
     "twitter": "FEIROZYT",
-    "playstation": ""
+    "ps": false
   },
-  ".Zhanath": {
-    "nombre": ".Zhanath",
-    "puntos": 1322,
+  "76561198249127056": {
     "id": "76561198249127056",
-    "equipo": "",
-    "rol": "",
+    "name": ".Zhanath",
+    "mmr": 1322,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Axel7Black": {
-    "nombre": "Axel7Black",
-    "puntos": 1297,
-    "id": "Axel7Black",
-    "equipo": "",
-    "rol": "",
+  "76561198396491363": {
+    "id": "76561198396491363",
+    "name": "Axel7Black",
+    "mmr": 1297,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Killero": {
-    "nombre": "Killero",
-    "puntos": 1330,
+  "76561198201592418": {
     "id": "76561198201592418",
-    "equipo": "",
-    "rol": "",
+    "name": "Killero",
+    "mmr": 1330,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Sebitas": {
-    "nombre": "Sebitas",
-    "puntos": 1353,
+  "76561198309413746": {
     "id": "76561198309413746",
-    "equipo": "",
-    "rol": "",
+    "name": "Sebitas",
+    "mmr": 1353,
+    "team": "",
+    "role": "",
     "twitter": "_sebitas15",
-    "playstation": ""
+    "ps": false
   },
-  "Kael": {
-    "nombre": "Kael",
-    "puntos": 1314,
+  "76561198094015498": {
     "id": "76561198094015498",
-    "equipo": "No Horizon",
-    "rol": "Coach",
+    "name": "Kael",
+    "mmr": 1314,
+    "team": "No Horizon",
+    "role": "Coach",
     "twitter": "KaelThx",
-    "playstation": ""
+    "ps": false
   },
-  "Misteral": {
-    "nombre": "Misteral",
-    "puntos": 1283,
-    "id": "misteral",
-    "equipo": "",
-    "rol": "",
+  "76561198081397600": {
+    "id": 76561198081397600,
+    "name": "Misteral",
+    "mmr": 1278,
+    "team": "",
+    "role": "",
     "twitter": "MisteralRL",
-    "playstation": ""
+    "ps": false
   },
   "TORRES8232": {
-    "nombre": "TORRES8232",
-    "puntos": 1277,
     "id": "TORRES8232",
-    "equipo": "",
-    "rol": "",
+    "name": "TORRES8232",
+    "mmr": 1277,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": "PS"
+    "ps": true
   },
-  "MrMochu": {
-    "nombre": "MrMochu",
-    "puntos": 1281,
+  "76561198124489167": {
     "id": "76561198124489167",
-    "equipo": "",
-    "rol": "",
+    "name": "MrMochu",
+    "mmr": 1281,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Sr Pato": {
-    "nombre": "Sr Pato",
-    "puntos": 1264,
+  "76561198084746897": {
     "id": "76561198084746897",
-    "equipo": "",
-    "rol": "",
+    "name": "Sr Pato",
+    "mmr": 1264,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "solounturnomas": {
-    "nombre": "solounturnomas",
-    "puntos": 1261,
+  "76561198069276390": {
     "id": "76561198069276390",
-    "equipo": "",
-    "rol": "",
+    "name": "solounturnomas",
+    "mmr": 1261,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
   "Jocelyte": {
-    "nombre": "Jocelyte",
-    "puntos": 1264,
     "id": "Jocelyte",
-    "equipo": "",
-    "rol": "",
+    "name": "Jocelyte",
+    "mmr": 1264,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": "PS"
+    "ps": true
   },
-  "Vila": {
-    "nombre": "Vila",
-    "puntos": 1228,
+  "76561198133680785": {
     "id": "76561198133680785",
-    "equipo": "",
-    "rol": "",
+    "name": "Vila",
+    "mmr": 1228,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Tronsrock": {
-    "nombre": "Tronsrock",
-    "puntos": 1268,
+  "76561198085590247": {
     "id": "76561198085590247",
-    "equipo": "",
-    "rol": "",
+    "name": "Tronsrock",
+    "mmr": 1268,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Cogollo": {
-    "nombre": "Cogollo",
-    "puntos": 1139,
+  "cogollo214": {
     "id": "cogollo214",
-    "equipo": "",
-    "rol": "",
+    "name": "Cogollo",
+    "mmr": 1139,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": "PS"
+    "ps": true
   },
-  "Chuky": {
-    "nombre": "Chuky",
-    "puntos": 1212,
+  "76561198067470090": {
     "id": "76561198067470090",
-    "equipo": "",
-    "rol": "",
+    "name": "Chuky",
+    "mmr": 1212,
+    "team": "",
+    "role": "",
     "twitter": "chukyrl",
-    "playstation": ""
+    "ps": false
   },
-  "Jafifu": {
-    "nombre": "Jafifu",
-    "puntos": 1359,
-    "id": "jafifu",
-    "equipo": "x6tence Academy",
-    "rol": "",
+  "76561198258589901": {
+    "id": "76561198258589901",
+    "name": "Jafifu",
+    "mmr": 1351,
+    "team": "x6tence Academy",
+    "role": "",
     "twitter": "SrJafifu",
-    "playstation": ""
+    "ps": false
   },
-  "Avaqueri": {
-    "nombre": "Avaqueri",
-    "puntos": 1199,
+  "76561198176900010": {
     "id": "76561198176900010",
-    "equipo": "",
-    "rol": "",
+    "name": "Avaqueri",
+    "mmr": 1199,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "LeonFlame": {
-    "nombre": "LeonFlame",
-    "puntos": 1171,
+  "76561198169772083": {
     "id": "76561198169772083",
-    "equipo": "",
-    "rol": "",
+    "name": "LeonFlame",
+    "mmr": 1171,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Elprote": {
-    "nombre": "Elprote",
-    "puntos": 1300,
+  "76561198259435749": {
     "id": "76561198259435749",
-    "equipo": "x6tence Academy",
-    "rol": "",
+    "name": "Elprote",
+    "mmr": 1300,
+    "team": "x6tence Academy",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "aitorsora": {
-    "nombre": "aitorsora",
-    "puntos": 1140,
+  "76561198196074815": {
     "id": "76561198196074815",
-    "equipo": "",
-    "rol": "",
+    "name": "aitorsora",
+    "mmr": 1140,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Japi": {
-    "nombre": "Japi",
-    "puntos": 1125,
+  "76561198283849477": {
     "id": "76561198283849477",
-    "equipo": "Team Genetic",
-    "rol": "CEO",
+    "name": "Japi",
+    "mmr": 1125,
+    "team": "Team Genetic",
+    "role": "CEO",
     "twitter": "JapiKailer",
-    "playstation": ""
+    "ps": false
   },
-  "Phenoz": {
-    "nombre": "Phenoz",
-    "puntos": 1115,
+  "76561198115904602": {
     "id": "76561198115904602",
-    "equipo": "",
-    "rol": "Manager",
+    "name": "Phenoz",
+    "mmr": 1115,
+    "team": "",
+    "role": "Manager",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
-  "Avnoctvm": {
-    "nombre": "Avnoctvm",
-    "puntos": 1406,
+  "76561198357286096": {
     "id": "76561198357286096",
-    "equipo": "",
-    "rol": "",
+    "name": "Avnoctvm",
+    "mmr": 1406,
+    "team": "",
+    "role": "",
     "twitter": "08Blizzard",
-    "playstation": ""
+    "ps": false
   },
-  "Dani Culé": {
-    "nombre": "Dani Culé",
-    "puntos": 1473,
+  "76561198118522141": {
     "id": "76561198118522141",
-    "equipo": "",
-    "rol": "",
+    "name": "Dani Culé",
+    "mmr": 1473,
+    "team": "",
+    "role": "",
     "twitter": "dani26197",
-    "playstation": ""
+    "ps": false
   },
-  "King": {
-    "nombre": "King",
-    "puntos": 1376,
+  "76561198074488100": {
     "id": 76561198074488100,
-    "equipo": "",
-    "rol": "",
+    "name": "King",
+    "mmr": 1376,
+    "team": "",
+    "role": "",
     "twitter": "",
-    "playstation": ""
+    "ps": false
   },
   "ItsLiriiKz": {
-    "nombre": "ItsLiriiKz",
-    "puntos": 1505,
     "id": "ItsLiriiKz",
-    "equipo": "",
-    "rol": "",
+    "name": "ItsLiriiKz",
+    "mmr": 1505,
+    "team": "",
+    "role": "",
     "twitter": "xBlacKzyy",
-    "playstation": "PS"
+    "ps": true
   }
 }
