@@ -1,0 +1,29 @@
+/*
+  custom styles
+*/
+
+body {
+  font-family: Oswald;
+}
+
+.blokk {
+  font-family: "BLOKKNeue-Regular";
+}
+
+.rl-list-column {
+  max-height: 60vh;
+}
+
+.rl-item-list {
+  overflow-y: scroll;
+  list-style: none;
+}
+
+.rl-item-border {
+  border-bottom: 1px solid #222;
+}
+
+.rl-item {
+  padding: 0.2em;
+  height: 2em;
+}

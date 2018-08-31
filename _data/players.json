@@ -1,5 +1,5 @@
-{
-  "76561198166053975": {
+[
+  {
     "id": "76561198166053975",
     "name": "Wolfsonthemoon",
     "team": "UD Las Palmas eSports",
@@ -7,7 +7,7 @@
     "twitter": "Wolfsonthemoon",
     "ps": false
   },
-  "76561198063473656": {
+  {
     "id": "76561198063473656",
     "name": "GCR710",
     "team": "",
@@ -15,7 +15,7 @@
     "twitter": "GCR710_",
     "ps": false
   },
-  "76561198247922306": {
+  {
     "id": "76561198247922306",
     "name": "Clayx",
     "team": "x6tence",
@@ -23,7 +23,7 @@
     "twitter": "ClayX_Rl",
     "ps": false
   },
-  "76561198307356688": {
+  {
     "id": "76561198307356688",
     "name": "Marc_By_8",
     "team": "Blitzers",
@@ -31,7 +31,7 @@
     "twitter": "MaRc_By_8",
     "ps": false
   },
-  "76561198847618075": {
+  {
     "id": "76561198847618075",
     "name": "ASN_RuBiiX",
     "team": "No Horizon",
@@ -39,7 +39,7 @@
     "twitter": "ASN_RuBiiX",
     "ps": false
   },
-  "76561198329623270": {
+  {
     "id": "76561198329623270",
     "name": "Casaprima",
     "team": "ECORP",
@@ -47,7 +47,7 @@
     "twitter": "TheCasaprima",
     "ps": false
   },
-  "76561198046349883": {
+  {
     "id": "76561198046349883",
     "name": "Zoor",
     "team": "x6tence",
@@ -55,7 +55,7 @@
     "twitter": "ZoorRL",
     "ps": false
   },
-  "76561198397457726": {
+  {
     "id": "76561198397457726",
     "name": "Vk-Sailen",
     "team": "",
@@ -63,7 +63,7 @@
     "twitter": "VKSaileeMz",
     "ps": false
   },
-  "76561198391498026": {
+  {
     "id": "76561198391498026",
     "name": "Nachitow",
     "team": "Blitzers",
@@ -71,7 +71,7 @@
     "twitter": "NachitowRL",
     "ps": false
   },
-  "76561198017739904": {
+  {
     "id": "76561198017739904",
     "name": "Itsulen",
     "team": "",
@@ -79,7 +79,7 @@
     "twitter": "Itsulen",
     "ps": false
   },
-  "76561198086962834": {
+  {
     "id": "76561198086962834",
     "name": "ByMateos",
     "team": "x6tence",
@@ -87,7 +87,7 @@
     "twitter": "ByMateos_",
     "ps": false
   },
-  "76561197992276806": {
+  {
     "id": "76561197992276806",
     "name": "Swazer",
     "team": "",
@@ -95,7 +95,7 @@
     "twitter": "Swazer_",
     "ps": false
   },
-  "76561198269120189": {
+  {
     "id": "76561198269120189",
     "name": "Mister Ube",
     "team": "UD Las Palmas eSports",
@@ -103,7 +103,7 @@
     "twitter": "MiSTeR_uBe_",
     "ps": false
   },
-  "76561198078236085": {
+  {
     "id": "76561198078236085",
     "name": "Black",
     "team": "x6tence Academy",
@@ -111,7 +111,7 @@
     "twitter": "BlackRocketeer",
     "ps": false
   },
-  "76561198117182114": {
+  {
     "id": "76561198117182114",
     "name": "Syston",
     "team": "",
@@ -119,7 +119,7 @@
     "twitter": "Syston_rl",
     "ps": false
   },
-  "76561198202624036": {
+  {
     "id": "76561198202624036",
     "name": "Samuel",
     "team": "FekyX",
@@ -127,7 +127,7 @@
     "twitter": "samucortes2000",
     "ps": false
   },
-  "76561198242455752": {
+  {
     "id": "76561198242455752",
     "name": "Stake",
     "team": "Blitzers",
@@ -135,7 +135,7 @@
     "twitter": "StakeYT",
     "ps": false
   },
-  "76561198450035475": {
+  {
     "id": "76561198450035475",
     "name": "Adriandro",
     "team": "#Equipo de Adriandro",
@@ -143,7 +143,7 @@
     "twitter": "Adriandro_RL",
     "ps": false
   },
-  "76561198319809944": {
+  {
     "id": "76561198319809944",
     "name": "MV.",
     "team": "",
@@ -151,7 +151,7 @@
     "twitter": "CRISTIAN_MV_18",
     "ps": false
   },
-  "76561198283164522": {
+  {
     "id": "76561198283164522",
     "name": "BoomQuick",
     "team": "No Horizon",
@@ -159,7 +159,7 @@
     "twitter": "y_b00mquick13",
     "ps": false
   },
-  "76561198286316596": {
+  {
     "id": "76561198286316596",
     "name": "Javirm2000",
     "team": "",
@@ -167,7 +167,7 @@
     "twitter": "javirm2000",
     "ps": false
   },
-  "76561198104513162": {
+  {
     "id": "76561198104513162",
     "name": "Hate",
     "team": "#Equipo de Adriandro",
@@ -175,7 +175,7 @@
     "twitter": "Hate_RL",
     "ps": false
   },
-  "76561198195843577": {
+  {
     "id": "76561198195843577",
     "name": "Hadrianus",
     "team": "FekyX",
@@ -183,7 +183,7 @@
     "twitter": "RocketHadrianus",
     "ps": false
   },
-  "76561198421214924": {
+  {
     "id": "76561198421214924",
     "name": "Alru",
     "team": "ECORP",
@@ -191,7 +191,7 @@
     "twitter": "AlruRL",
     "ps": false
   },
-  "76561198334924562": {
+  {
     "id": "76561198334924562",
     "name": "Luxxor",
     "team": "",
@@ -199,7 +199,7 @@
     "twitter": "LuXxoR_RL",
     "ps": false
   },
-  "76561198244497836": {
+  {
     "id": "76561198244497836",
     "name": "DiLegacy",
     "team": "",
@@ -207,15 +207,15 @@
     "twitter": "DiLegacyDL",
     "ps": false
   },
-  "76561198138659600": {
-    "id": 76561198138659600,
+  {
+    "id": "76561198138659600",
     "name": "Misa",
     "team": "",
     "role": "",
     "twitter": "Misa_RL_",
     "ps": false
   },
-  "76561198374884993": {
+  {
     "id": "76561198374884993",
     "name": "Madridista155",
     "team": "Kawaii Kiwis",
@@ -223,7 +223,7 @@
     "twitter": "madridista155RL",
     "ps": false
   },
-  "76561198141184773": {
+  {
     "id": "76561198141184773",
     "name": "Manu",
     "team": "Wizards Esports Club",
@@ -231,7 +231,7 @@
     "twitter": "xXManuRLXx",
     "ps": false
   },
-  "76561198827636313": {
+  {
     "id": "76561198827636313",
     "name": "Jairo",
     "team": "No Horizon",
@@ -239,7 +239,7 @@
     "twitter": "JairoFernandez_",
     "ps": false
   },
-  "76561198283230023": {
+  {
     "id": "76561198283230023",
     "name": "Wolf.",
     "team": "#Equipo de Adriandro",
@@ -247,7 +247,7 @@
     "twitter": "WolfRL_",
     "ps": false
   },
-  "76561198372482690": {
+  {
     "id": "76561198372482690",
     "name": "Damian",
     "team": "",
@@ -255,7 +255,7 @@
     "twitter": "DamiDelevingne",
     "ps": false
   },
-  "76561198841005281": {
+  {
     "id": "76561198841005281",
     "name": "Grillo",
     "team": "S1X6EES",
@@ -263,7 +263,7 @@
     "twitter": "itsgrillo",
     "ps": false
   },
-  "76561198023544143": {
+  {
     "id": "76561198023544143",
     "name": "Ragner",
     "team": "",
@@ -271,7 +271,7 @@
     "twitter": "Ragner_RL",
     "ps": false
   },
-  "76561198339384251": {
+  {
     "id": "76561198339384251",
     "name": "kiermonster",
     "team": "Efficiency Team",
@@ -279,7 +279,7 @@
     "twitter": "KierMonsteR_",
     "ps": false
   },
-  "76561198845948731": {
+  {
     "id": "76561198845948731",
     "name": "Cristian (Boss)",
     "team": "FekyX",
@@ -287,7 +287,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198121463093": {
+  {
     "id": "76561198121463093",
     "name": "Evilwolf",
     "team": "",
@@ -295,7 +295,7 @@
     "twitter": "EvilWolf_RL",
     "ps": false
   },
-  "76561198116989021": {
+  {
     "id": "76561198116989021",
     "name": "Ymkl",
     "team": "S1X6EES",
@@ -303,7 +303,7 @@
     "twitter": "Yemaikel",
     "ps": false
   },
-  "76561198119213423": {
+  {
     "id": "76561198119213423",
     "name": "XxkrratosxX",
     "team": "Cold Gaming",
@@ -311,7 +311,7 @@
     "twitter": "XxKRRATOSxX",
     "ps": false
   },
-  "76561198202845030": {
+  {
     "id": "76561198202845030",
     "name": "Espumita",
     "team": "",
@@ -319,7 +319,7 @@
     "twitter": "EspumitaRL",
     "ps": false
   },
-  "76561198417118771": {
+  {
     "id": "76561198417118771",
     "name": "imtrbl",
     "team": "ECORP",
@@ -327,7 +327,7 @@
     "twitter": "trblrl",
     "ps": false
   },
-  "76561198274964984": {
+  {
     "id": "76561198274964984",
     "name": "Dmentza",
     "team": "#Equipo de Adriandro",
@@ -335,7 +335,7 @@
     "twitter": "DmentZa_",
     "ps": false
   },
-  "76561198122631127": {
+  {
     "id": "76561198122631127",
     "name": "erale",
     "team": "",
@@ -343,7 +343,7 @@
     "twitter": "AleJimne5",
     "ps": false
   },
-  "76561198058936316": {
+  {
     "id": "76561198058936316",
     "name": "Jeytijey",
     "team": "Kawaii Kiwis",
@@ -351,7 +351,7 @@
     "twitter": "JeyTiJey",
     "ps": false
   },
-  "76561198216191035": {
+  {
     "id": "76561198216191035",
     "name": "Cruzz",
     "team": "",
@@ -359,7 +359,7 @@
     "twitter": "CruzzinhoRL",
     "ps": false
   },
-  "gaiade": {
+  {
     "id": "gaiade",
     "name": "Gaiade",
     "team": "",
@@ -367,7 +367,7 @@
     "twitter": "GaiadeRL",
     "ps": true
   },
-  "76561198142129360": {
+  {
     "id": "76561198142129360",
     "name": "Kontrol",
     "team": "UD Las Palmas eSports",
@@ -375,7 +375,7 @@
     "twitter": "KontrolRL",
     "ps": false
   },
-  "76561198275403893": {
+  {
     "id": "76561198275403893",
     "name": "Byjesuxesp",
     "team": "Wizards Esports Club",
@@ -383,7 +383,7 @@
     "twitter": "ByJesuxEsP",
     "ps": false
   },
-  "76561198103865076": {
+  {
     "id": "76561198103865076",
     "name": "Kappa",
     "team": "Eagle Legend",
@@ -391,7 +391,7 @@
     "twitter": "kappa_rl",
     "ps": false
   },
-  "76561198015021496": {
+  {
     "id": "76561198015021496",
     "name": "De Boer",
     "team": "Blitzers",
@@ -399,7 +399,7 @@
     "twitter": "de_Boer_",
     "ps": false
   },
-  "76561198012869889": {
+  {
     "id": "76561198012869889",
     "name": "Zasuj",
     "team": "S1X6EES",
@@ -407,7 +407,7 @@
     "twitter": "ZasujOfficial",
     "ps": false
   },
-  "76561198240032432": {
+  {
     "id": "76561198240032432",
     "name": "Estrupa",
     "team": "Wizards Esports Club",
@@ -415,7 +415,7 @@
     "twitter": "Estrupa27",
     "ps": false
   },
-  "76561198138902132": {
+  {
     "id": "76561198138902132",
     "name": "Fredy",
     "team": "Kawaii Kiwis",
@@ -423,7 +423,7 @@
     "twitter": "RLFredy",
     "ps": false
   },
-  "76561198352932824": {
+  {
     "id": "76561198352932824",
     "name": "Javigames",
     "team": "EFFICIENCY Team",
@@ -431,7 +431,7 @@
     "twitter": "JaviGamesYT_xX",
     "ps": false
   },
-  "76561198070619737": {
+  {
     "id": "76561198070619737",
     "name": "Snax5",
     "team": "x6tence Academy",
@@ -439,7 +439,7 @@
     "twitter": "EloiSegura",
     "ps": false
   },
-  "76561198046829697": {
+  {
     "id": "76561198046829697",
     "name": "Meliodas",
     "team": "",
@@ -447,7 +447,7 @@
     "twitter": "MeliodasRL",
     "ps": false
   },
-  "76561198128270102": {
+  {
     "id": "76561198128270102",
     "name": "Theica7",
     "team": "Kawaii Kiwis",
@@ -455,7 +455,7 @@
     "twitter": "Theica7",
     "ps": false
   },
-  "76561198210103819": {
+  {
     "id": "76561198210103819",
     "name": "Handriu",
     "team": "Kawaii Kiwis",
@@ -463,7 +463,7 @@
     "twitter": "HANDRIU_RL",
     "ps": false
   },
-  "76561198261902516": {
+  {
     "id": "76561198261902516",
     "name": "Magic",
     "team": "",
@@ -471,7 +471,7 @@
     "twitter": "MagicZondixYT",
     "ps": false
   },
-  "76561198051727963": {
+  {
     "id": "76561198051727963",
     "name": "Khaelan",
     "team": "x6tence",
@@ -479,7 +479,7 @@
     "twitter": "xXKhaelaNXx",
     "ps": false
   },
-  "76561198244865642": {
+  {
     "id": "76561198244865642",
     "name": "Irving",
     "team": "",
@@ -487,7 +487,7 @@
     "twitter": "Irving_ASF",
     "ps": false
   },
-  "76561198011404375": {
+  {
     "id": "76561198011404375",
     "name": "Salve",
     "team": "",
@@ -495,7 +495,7 @@
     "twitter": "Salve_RL",
     "ps": false
   },
-  "76561198321452864": {
+  {
     "id": "76561198321452864",
     "name": "Bell Sama",
     "team": "S1X6EES",
@@ -503,7 +503,7 @@
     "twitter": "Itezaaaa",
     "ps": false
   },
-  "76561198337938976": {
+  {
     "id": "76561198337938976",
     "name": "Freisa",
     "team": "",
@@ -511,7 +511,7 @@
     "twitter": "RLFreisa",
     "ps": false
   },
-  "76561198046809450": {
+  {
     "id": "76561198046809450",
     "name": "Jiiyee",
     "team": "",
@@ -519,7 +519,7 @@
     "twitter": "JiiYee",
     "ps": false
   },
-  "76561198329334389": {
+  {
     "id": "76561198329334389",
     "name": "Kleinako",
     "team": "FekyX",
@@ -527,7 +527,7 @@
     "twitter": "KleinakoRL",
     "ps": false
   },
-  "76561198142310510": {
+  {
     "id": "76561198142310510",
     "name": "Sito",
     "team": "x6tence Academy",
@@ -535,7 +535,7 @@
     "twitter": "sito_skt",
     "ps": false
   },
-  "76561198155851847": {
+  {
     "id": "76561198155851847",
     "name": "Jofosu",
     "team": "QBits",
@@ -543,7 +543,7 @@
     "twitter": "jofosu1",
     "ps": false
   },
-  "76561198847201088": {
+  {
     "id": "76561198847201088",
     "name": "Dreyar",
     "team": "Mavericks Esports",
@@ -551,7 +551,7 @@
     "twitter": "MarioGarciaCore",
     "ps": false
   },
-  "76561198141919398": {
+  {
     "id": "76561198141919398",
     "name": "Sete2pro",
     "team": "",
@@ -559,7 +559,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198080519227": {
+  {
     "id": "76561198080519227",
     "name": "Carloskista",
     "team": "",
@@ -567,7 +567,7 @@
     "twitter": "carloskistaRL",
     "ps": false
   },
-  "76561198842031262": {
+  {
     "id": "76561198842031262",
     "name": "Laska",
     "team": "",
@@ -575,7 +575,7 @@
     "twitter": "RafaMG9",
     "ps": false
   },
-  "76561198147066345": {
+  {
     "id": "76561198147066345",
     "name": "Melting",
     "team": "",
@@ -583,7 +583,7 @@
     "twitter": "MeltingRL",
     "ps": false
   },
-  "76561198312669184": {
+  {
     "id": "76561198312669184",
     "name": "Moltapor",
     "team": "Cowback",
@@ -591,7 +591,7 @@
     "twitter": "moltapor",
     "ps": false
   },
-  "76561198808946113": {
+  {
     "id": "76561198808946113",
     "name": "Happy Sausage",
     "team": "Team Genetic",
@@ -599,7 +599,7 @@
     "twitter": "HappySausagee",
     "ps": false
   },
-  "76561198104494616": {
+  {
     "id": "76561198104494616",
     "name": "Seeco",
     "team": "",
@@ -607,7 +607,7 @@
     "twitter": "SecDesigns2k17",
     "ps": false
   },
-  "76561198314089920": {
+  {
     "id": "76561198314089920",
     "name": "JM.",
     "team": "?? / Crewnity",
@@ -615,7 +615,7 @@
     "twitter": "RLJuanma_",
     "ps": false
   },
-  "76561198081687947": {
+  {
     "id": "76561198081687947",
     "name": "Zeler",
     "team": "Wizards Esports Club",
@@ -623,7 +623,7 @@
     "twitter": "ZelerRL",
     "ps": false
   },
-  "76561198001767664": {
+  {
     "id": "76561198001767664",
     "name": "Darkryx",
     "team": "x6tence Academy",
@@ -631,7 +631,7 @@
     "twitter": "DarkryxGm",
     "ps": false
   },
-  "76561198043877696": {
+  {
     "id": "76561198043877696",
     "name": "Arturo.",
     "team": "",
@@ -639,7 +639,7 @@
     "twitter": "Arturozh",
     "ps": false
   },
-  "76561198309484135": {
+  {
     "id": "76561198309484135",
     "name": "System",
     "team": "",
@@ -647,7 +647,7 @@
     "twitter": "SystemRL",
     "ps": false
   },
-  "76561198843064179": {
+  {
     "id": "76561198843064179",
     "name": "borex",
     "team": "A&E",
@@ -655,7 +655,7 @@
     "twitter": "theBorex7",
     "ps": false
   },
-  "76561198134401169": {
+  {
     "id": "76561198134401169",
     "name": "Maillo",
     "team": "",
@@ -663,7 +663,7 @@
     "twitter": "Maillooo_",
     "ps": false
   },
-  "76561198045926736": {
+  {
     "id": "76561198045926736",
     "name": "Cowisis",
     "team": "Cowback",
@@ -671,15 +671,15 @@
     "twitter": "cowisis",
     "ps": false
   },
-  "76561198401593700": {
-    "id": 76561198401593700,
+  {
+    "id": "76561198401593700",
     "name": "Toni",
     "team": "No Horizon",
     "role": "",
     "twitter": "toni2510ar",
     "ps": false
   },
-  "76561198105630418": {
+  {
     "id": "76561198105630418",
     "name": "DualView",
     "team": "",
@@ -687,7 +687,7 @@
     "twitter": "DualViewYT",
     "ps": false
   },
-  "76561198803139952": {
+  {
     "id": "76561198803139952",
     "name": "lete7",
     "team": "ECORP",
@@ -695,7 +695,7 @@
     "twitter": "RauuulVN",
     "ps": false
   },
-  "76561198255931775": {
+  {
     "id": "76561198255931775",
     "name": "Leiartxer",
     "team": "Eagle Legend",
@@ -703,7 +703,7 @@
     "twitter": "leiiartxer",
     "ps": false
   },
-  "76561198131751119": {
+  {
     "id": "76561198131751119",
     "name": "Binarydem0n",
     "team": "FeKyX",
@@ -711,7 +711,7 @@
     "twitter": "B1naryDem0nRL",
     "ps": false
   },
-  "76561198399536154": {
+  {
     "id": "76561198399536154",
     "name": "Kratos",
     "team": "Team Genetic",
@@ -719,7 +719,7 @@
     "twitter": "Kratos_RL",
     "ps": false
   },
-  "76561198271033632": {
+  {
     "id": "76561198271033632",
     "name": "hvgo",
     "team": "",
@@ -727,7 +727,7 @@
     "twitter": "hvg0_",
     "ps": false
   },
-  "76561198057950383": {
+  {
     "id": "76561198057950383",
     "name": "Roxas",
     "team": "",
@@ -735,7 +735,7 @@
     "twitter": "Roxas__RL",
     "ps": false
   },
-  "76561198316034302": {
+  {
     "id": "76561198316034302",
     "name": "Zombie",
     "team": "FekyX",
@@ -743,7 +743,7 @@
     "twitter": "ZombieRL_Yt",
     "ps": false
   },
-  "76561198194418471": {
+  {
     "id": "76561198194418471",
     "name": "dani_ana",
     "team": "",
@@ -751,7 +751,7 @@
     "twitter": "dani_anaRL",
     "ps": false
   },
-  "76561198129300114": {
+  {
     "id": "76561198129300114",
     "name": "Gunter",
     "team": "",
@@ -759,7 +759,7 @@
     "twitter": "GuunteR_",
     "ps": false
   },
-  "76561198401868469": {
+  {
     "id": "76561198401868469",
     "name": "Razor",
     "team": "",
@@ -767,7 +767,7 @@
     "twitter": "Reisorazor",
     "ps": false
   },
-  "76561198443515688": {
+  {
     "id": "76561198443515688",
     "name": "Allan",
     "team": "Blitzers",
@@ -775,7 +775,7 @@
     "twitter": "Allaann17",
     "ps": false
   },
-  "76561198211281451": {
+  {
     "id": "76561198211281451",
     "name": "Timo",
     "team": "",
@@ -783,7 +783,7 @@
     "twitter": "TimoRL_",
     "ps": false
   },
-  "76561198077873784": {
+  {
     "id": "76561198077873784",
     "name": "Mikito",
     "team": "??/Crewnity",
@@ -791,7 +791,7 @@
     "twitter": "iMikito",
     "ps": false
   },
-  "76561198107773783": {
+  {
     "id": "76561198107773783",
     "name": "eljoselillo7",
     "team": "FekyX",
@@ -799,7 +799,7 @@
     "twitter": "eljoselillo7",
     "ps": false
   },
-  "76561198322585010": {
+  {
     "id": "76561198322585010",
     "name": "Juanlu",
     "team": "",
@@ -807,7 +807,7 @@
     "twitter": "Juanlu_RL",
     "ps": false
   },
-  "76561198062101077": {
+  {
     "id": "76561198062101077",
     "name": "Alexyquemas",
     "team": "BLOWS Esports",
@@ -815,7 +815,7 @@
     "twitter": "alexyquemas",
     "ps": false
   },
-  "76561198259218471": {
+  {
     "id": "76561198259218471",
     "name": "Slaim",
     "team": "",
@@ -823,7 +823,7 @@
     "twitter": "SlaimRL",
     "ps": false
   },
-  "76561198119628362": {
+  {
     "id": "76561198119628362",
     "name": "Acasa",
     "team": "",
@@ -831,7 +831,7 @@
     "twitter": "acasa47",
     "ps": false
   },
-  "76561198194595110": {
+  {
     "id": "76561198194595110",
     "name": "Marches",
     "team": "",
@@ -839,7 +839,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198114865613": {
+  {
     "id": "76561198114865613",
     "name": "TheJn10",
     "team": "Crewnity",
@@ -847,7 +847,7 @@
     "twitter": "TheJn10",
     "ps": false
   },
-  "76561198398080762": {
+  {
     "id": "76561198398080762",
     "name": "wilfred.",
     "team": "",
@@ -855,7 +855,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198185490510": {
+  {
     "id": "76561198185490510",
     "name": "Rubik",
     "team": "Wizards Esports Club",
@@ -863,7 +863,7 @@
     "twitter": "RubikYT_",
     "ps": false
   },
-  "76561197964735836": {
+  {
     "id": "76561197964735836",
     "name": "Choger",
     "team": "",
@@ -871,7 +871,7 @@
     "twitter": "ChogerRL",
     "ps": false
   },
-  "76561198241997022": {
+  {
     "id": "76561198241997022",
     "name": "Pepsy",
     "team": "FekyX",
@@ -879,7 +879,7 @@
     "twitter": "PepsyRL",
     "ps": false
   },
-  "76561198446559192": {
+  {
     "id": "76561198446559192",
     "name": "Senta",
     "team": "x6tence Academy",
@@ -887,7 +887,7 @@
     "twitter": "AaronSenta",
     "ps": false
   },
-  "76561198036351861": {
+  {
     "id": "76561198036351861",
     "name": "CajoNasTeupas",
     "team": "",
@@ -895,7 +895,7 @@
     "twitter": "CajoNasTeupas",
     "ps": false
   },
-  "76561198209617892": {
+  {
     "id": "76561198209617892",
     "name": "kucilla",
     "team": "",
@@ -903,7 +903,7 @@
     "twitter": "kucilla11",
     "ps": false
   },
-  "76561197970376127": {
+  {
     "id": "76561197970376127",
     "name": "esva",
     "team": "",
@@ -911,7 +911,7 @@
     "twitter": "esva_",
     "ps": false
   },
-  "76561198164621136": {
+  {
     "id": "76561198164621136",
     "name": "Toavols",
     "team": "",
@@ -919,7 +919,7 @@
     "twitter": "Toavols",
     "ps": false
   },
-  "76561198799160112": {
+  {
     "id": "76561198799160112",
     "name": "Kassadinha",
     "team": "Team Genetic",
@@ -927,7 +927,7 @@
     "twitter": "Kassaaa2",
     "ps": false
   },
-  "76561198352822740": {
+  {
     "id": "76561198352822740",
     "name": "Idrk",
     "team": "Team Genetic",
@@ -935,7 +935,7 @@
     "twitter": "iDrkRL",
     "ps": false
   },
-  "76561198038110242": {
+  {
     "id": "76561198038110242",
     "name": "xnumb",
     "team": "Mavericks Esports",
@@ -943,7 +943,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198105225387": {
+  {
     "id": "76561198105225387",
     "name": "blyatiful",
     "team": "",
@@ -951,7 +951,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198000228038": {
+  {
     "id": "76561198000228038",
     "name": "Escobarinho",
     "team": "",
@@ -959,7 +959,7 @@
     "twitter": "Eescobar8",
     "ps": false
   },
-  "76561198117868648": {
+  {
     "id": "76561198117868648",
     "name": "Jota",
     "team": "Crewnity",
@@ -967,7 +967,7 @@
     "twitter": "talavero17",
     "ps": false
   },
-  "76561198274230158": {
+  {
     "id": "76561198274230158",
     "name": "Mr. Game",
     "team": "Kawaii Kiwis",
@@ -975,7 +975,7 @@
     "twitter": "GameGDRN",
     "ps": false
   },
-  "76561198194852753": {
+  {
     "id": "76561198194852753",
     "name": "Jfarrera",
     "team": "",
@@ -983,7 +983,7 @@
     "twitter": "",
     "ps": false
   },
-  "Revicen": {
+  {
     "id": "Revicen",
     "name": "Revi",
     "team": "",
@@ -991,7 +991,7 @@
     "twitter": "",
     "ps": true
   },
-  "76561198163903878": {
+  {
     "id": "76561198163903878",
     "name": "Mr. Soulman",
     "team": "",
@@ -999,7 +999,7 @@
     "twitter": "MisterSoulman",
     "ps": false
   },
-  "76561198142550862": {
+  {
     "id": "76561198142550862",
     "name": "Nolichu",
     "team": "",
@@ -1007,7 +1007,7 @@
     "twitter": "nolichu13",
     "ps": false
   },
-  "76561198159556686": {
+  {
     "id": "76561198159556686",
     "name": "Shados",
     "team": "",
@@ -1015,7 +1015,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198141421009": {
+  {
     "id": "76561198141421009",
     "name": "diegostarmo",
     "team": "BLOWS Esports",
@@ -1023,7 +1023,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198426648640": {
+  {
     "id": "76561198426648640",
     "name": "Malag53",
     "team": "",
@@ -1031,7 +1031,7 @@
     "twitter": "malag53",
     "ps": false
   },
-  "76561198387480823": {
+  {
     "id": "76561198387480823",
     "name": "Migol",
     "team": "",
@@ -1039,7 +1039,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198405871360": {
+  {
     "id": "76561198405871360",
     "name": "Anyelo LFT",
     "team": "",
@@ -1047,7 +1047,7 @@
     "twitter": "",
     "ps": false
   },
-  "IBON1551": {
+  {
     "id": "IBON1551",
     "name": "IBON1551",
     "team": "",
@@ -1055,7 +1055,7 @@
     "twitter": "IBONAKORL",
     "ps": true
   },
-  "76561198128446766": {
+  {
     "id": "76561198128446766",
     "name": "bryyck",
     "team": "",
@@ -1063,7 +1063,7 @@
     "twitter": "",
     "ps": false
   },
-  "Urii_15": {
+  {
     "id": "Urii_15",
     "name": "Uri",
     "team": "ECORP",
@@ -1071,7 +1071,7 @@
     "twitter": "",
     "ps": true
   },
-  "76561198261557099": {
+  {
     "id": "76561198261557099",
     "name": "Fikxes",
     "team": "x6tence Academy",
@@ -1079,7 +1079,7 @@
     "twitter": "FikXes_RL",
     "ps": false
   },
-  "76561198178447123": {
+  {
     "id": "76561198178447123",
     "name": "Feiroz",
     "team": "",
@@ -1087,7 +1087,7 @@
     "twitter": "FEIROZYT",
     "ps": false
   },
-  "76561198249127056": {
+  {
     "id": "76561198249127056",
     "name": ".Zhanath",
     "team": "",
@@ -1095,7 +1095,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198396491363": {
+  {
     "id": "76561198396491363",
     "name": "Axel7Black",
     "team": "",
@@ -1103,7 +1103,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198201592418": {
+  {
     "id": "76561198201592418",
     "name": "Killero",
     "team": "",
@@ -1111,7 +1111,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198309413746": {
+  {
     "id": "76561198309413746",
     "name": "Sebitas",
     "team": "",
@@ -1119,7 +1119,7 @@
     "twitter": "_sebitas15",
     "ps": false
   },
-  "76561198094015498": {
+  {
     "id": "76561198094015498",
     "name": "Kael",
     "team": "No Horizon",
@@ -1127,15 +1127,15 @@
     "twitter": "KaelThx",
     "ps": false
   },
-  "76561198081397600": {
-    "id": 76561198081397600,
+  {
+    "id": "76561198081397600",
     "name": "Misteral",
     "team": "",
     "role": "",
     "twitter": "MisteralRL",
     "ps": false
   },
-  "TORRES8232": {
+  {
     "id": "TORRES8232",
     "name": "TORRES8232",
     "team": "",
@@ -1143,7 +1143,7 @@
     "twitter": "",
     "ps": true
   },
-  "76561198124489167": {
+  {
     "id": "76561198124489167",
     "name": "MrMochu",
     "team": "",
@@ -1151,7 +1151,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198084746897": {
+  {
     "id": "76561198084746897",
     "name": "Sr Pato",
     "team": "",
@@ -1159,7 +1159,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198069276390": {
+  {
     "id": "76561198069276390",
     "name": "solounturnomas",
     "team": "",
@@ -1167,7 +1167,7 @@
     "twitter": "",
     "ps": false
   },
-  "Jocelyte": {
+  {
     "id": "Jocelyte",
     "name": "Jocelyte",
     "team": "",
@@ -1175,7 +1175,7 @@
     "twitter": "",
     "ps": true
   },
-  "76561198133680785": {
+  {
     "id": "76561198133680785",
     "name": "Vila",
     "team": "",
@@ -1183,7 +1183,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198085590247": {
+  {
     "id": "76561198085590247",
     "name": "Tronsrock",
     "team": "",
@@ -1191,7 +1191,7 @@
     "twitter": "",
     "ps": false
   },
-  "cogollo214": {
+  {
     "id": "cogollo214",
     "name": "Cogollo",
     "team": "",
@@ -1199,7 +1199,7 @@
     "twitter": "",
     "ps": true
   },
-  "76561198067470090": {
+  {
     "id": "76561198067470090",
     "name": "Chuky",
     "team": "",
@@ -1207,7 +1207,7 @@
     "twitter": "chukyrl",
     "ps": false
   },
-  "76561198258589901": {
+  {
     "id": "76561198258589901",
     "name": "Jafifu",
     "team": "x6tence Academy",
@@ -1215,7 +1215,7 @@
     "twitter": "SrJafifu",
     "ps": false
   },
-  "76561198176900010": {
+  {
     "id": "76561198176900010",
     "name": "Avaqueri",
     "team": "",
@@ -1223,7 +1223,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198169772083": {
+  {
     "id": "76561198169772083",
     "name": "LeonFlame",
     "team": "",
@@ -1231,7 +1231,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198259435749": {
+  {
     "id": "76561198259435749",
     "name": "Elprote",
     "team": "x6tence Academy",
@@ -1239,7 +1239,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198196074815": {
+  {
     "id": "76561198196074815",
     "name": "aitorsora",
     "team": "",
@@ -1247,7 +1247,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198283849477": {
+  {
     "id": "76561198283849477",
     "name": "Japi",
     "team": "Team Genetic",
@@ -1255,7 +1255,7 @@
     "twitter": "JapiKailer",
     "ps": false
   },
-  "76561198115904602": {
+  {
     "id": "76561198115904602",
     "name": "Phenoz",
     "team": "",
@@ -1263,7 +1263,7 @@
     "twitter": "",
     "ps": false
   },
-  "76561198357286096": {
+  {
     "id": "76561198357286096",
     "name": "Avnoctvm",
     "team": "",
@@ -1271,7 +1271,7 @@
     "twitter": "08Blizzard",
     "ps": false
   },
-  "76561198118522141": {
+  {
     "id": "76561198118522141",
     "name": "Dani Culé",
     "team": "",
@@ -1279,15 +1279,15 @@
     "twitter": "dani26197",
     "ps": false
   },
-  "76561198074488100": {
-    "id": 76561198074488100,
+  {
+    "id": "76561198074488100",
     "name": "King",
     "team": "",
     "role": "",
     "twitter": "",
     "ps": false
   },
-  "ItsLiriiKz": {
+  {
     "id": "ItsLiriiKz",
     "name": "ItsLiriiKz",
     "team": "",
@@ -1295,4 +1295,4 @@
     "twitter": "xBlacKzyy",
     "ps": true
   }
-}
+]
