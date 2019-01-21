@@ -16,7 +16,7 @@
     "inspect": "bankai inspect index.js",
     "clean": "rm -r dist/",
     "crawl": "node crawler.js",
-    "sync": "git add assets/data/db.json && git commit -m 'chore: data sync' && git push origin master"
+    "sync": "git add assets/data/db.json && git commit -m 'chore: data sync' && git push origin master && npm run build && npm run deploy"
   },
   "keywords": [],
   "author": "",
