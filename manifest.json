@@ -1,13 +1,13 @@
 {
-  "name": "tmpscrapper",
-  "short_name": "tmpscrapper",
-  "description": "project generated using neko250/choof",
+  "name": "rlscrapper",
+  "short_name": "rlscrapper",
+  "description": "rocket league spanish database pwa",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#333",
-  "theme_color": "#333",
+  "background_color": "#111111",
+  "theme_color": "#111111",
   "icons": [{
-    "src": "/assets/img/choof.svg",
+    "src": "/assets/img/rlscrapper.svg",
     "type": "image/svg+xml",
     "sizes": "192x192 512x512"
   }]

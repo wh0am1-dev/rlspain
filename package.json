@@ -1,7 +1,7 @@
 {
-  "name": "tmpscrapper",
+  "name": "rlscrapper",
   "version": "0.0.0",
-  "description": "project generated using neko250/choof",
+  "description": "rocket league spanish database pwa",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -18,8 +18,15 @@
     "crawl": "node crawler.js",
     "sync": "git add assets/data/db.json && git commit -m 'chore: data sync' && git push origin master && npm run build && npm run deploy"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "rocket",
+    "league",
+    "mmr",
+    "ranking",
+    "website",
+    "salve"
+  ],
+  "author": "neko250",
   "license": "MIT",
   "dependencies": {
     "choo": "^6.13.1",
