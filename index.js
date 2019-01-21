@@ -22,7 +22,7 @@ if (typeof window !== 'undefined' && window.history.scrollRestoration) {
 }
 
 // ==== stores ====
-app.use(require('./stores/clicks'))
+app.use(require('./stores/db'))
 
 // ==== routes ====
 app.route('/', require('./views/home'))
