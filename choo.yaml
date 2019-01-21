@@ -1,0 +1,22 @@
+projectName: tmpscrapper
+template:
+  url: https://github.com/neko250/choof
+  name: choof
+generators:
+  component:
+    src: .generators/component.js
+    target: components
+  view:
+    src: .generators/view.js
+    target: views
+  plugin:
+    src: .generators/plugin.js
+    target: plugins
+  store:
+    src: .generators/store.js
+    target: stores
+required:
+  - _editorconfig
+  - _gitignore
+  - _choo.yaml
+  - _package.json

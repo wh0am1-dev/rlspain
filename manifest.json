@@ -1,0 +1,14 @@
+{
+  "name": "tmpscrapper",
+  "short_name": "tmpscrapper",
+  "description": "project generated using neko250/choof",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#333",
+  "theme_color": "#333",
+  "icons": [{
+    "src": "/assets/img/choof.svg",
+    "type": "image/svg+xml",
+    "sizes": "192x192 512x512"
+  }]
+}

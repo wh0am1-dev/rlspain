@@ -1,32 +1,50 @@
-# rlscrapper
+<div align="center">
 
-rocket league ranking
+# :soccer: rlscrapper :car:
 
-<!--
-  ## installation
+rocket league spanish database pwa
 
-  ```bash
-  git clone https://github.con/neko250/rlscrapper
-  cd rlscrapper
-  virtualenv venv
-  source venv/bin/activate
-  pip install -r requirements.txt
-  deactivate
-  ```
+<br>
 
-  ## update data
+## :computer: how-to
 
-  ```bash
-  source venv/bin/activate
-  scrapy crawl rlspider -o log/rlspider.json
-  git add --all
-  git commit -m 'data update'
-  git push origin master
-  ```
+### data mining
 
-  ## run server
+:floppy_disk: __`npm run install`__<br>
+initial project setup
 
-  ```bash
-  python -m http.server
-  ```
--->
+:spider: __`npm run crawl`__<br>
+update database from sources
+
+:recycle: __`npm run sync`__<br>
+update remote database
+
+<br>
+
+### web development
+
+:hammer: __`npm start`__<br>
+local development server
+
+:triangular_ruler: __`npm run gen`__<br>
+scaffold new components
+
+:construction: __`npm run build`__<br>
+compile files into `dist/`
+
+:rocket: __`npm run deploy`__<br>
+deploy website to gh-pages
+
+:microscope: __`npm test`__<br>
+lint and validate deps
+
+:mag: __`npm run inspect`__<br>
+visualise the app structure
+
+<br>
+
+---
+
+![](https://img.shields.io/badge/neko250-333333.svg?style=for-the-badge) [![](https://img.shields.io/badge/based_on-choof-333333.svg?style=for-the-badge)](https://github.com/neko250/choof)
+
+</div>
