@@ -1,0 +1,294 @@
+{
+  "settings": {
+    "size": {
+      "width": 315,
+      "height": 315
+    },
+    "crest": false
+  },
+  "layers": [
+    [],
+    [
+      {
+        "type": "arc_r",
+        "vertices": [
+          {
+            "x": 135,
+            "y": 75
+          },
+          {
+            "x": 75,
+            "y": 135
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 75,
+            "y": 135
+          },
+          {
+            "x": 75,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "type": "arc_r",
+        "vertices": [
+          {
+            "x": 75,
+            "y": 195
+          },
+          {
+            "x": 135,
+            "y": 255
+          },
+          {
+            "x": 195,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 195,
+            "y": 195
+          },
+          {
+            "x": 195,
+            "y": 135
+          },
+          {
+            "x": 195,
+            "y": 135
+          },
+          {
+            "x": 255,
+            "y": 135
+          }
+        ]
+      },
+      {
+        "type": "arc_r",
+        "vertices": [
+          {
+            "x": 195,
+            "y": 135
+          },
+          {
+            "x": 135,
+            "y": 75
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 135,
+            "y": 75
+          },
+          {
+            "x": 195,
+            "y": 75
+          }
+        ]
+      },
+      {
+        "type": "arc_c",
+        "vertices": [
+          {
+            "x": 195,
+            "y": 75
+          },
+          {
+            "x": 255,
+            "y": 135
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 255,
+            "y": 135
+          },
+          {
+            "x": 255,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "type": "arc_c",
+        "vertices": [
+          {
+            "x": 255,
+            "y": 195
+          },
+          {
+            "x": 195,
+            "y": 255
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 195,
+            "y": 255
+          },
+          {
+            "x": 135,
+            "y": 255
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 195,
+            "y": 195
+          },
+          {
+            "x": 255,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "type": "arc_r",
+        "vertices": [
+          {
+            "x": 135,
+            "y": 105
+          },
+          {
+            "x": 105,
+            "y": 135
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 105,
+            "y": 135
+          },
+          {
+            "x": 105,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "type": "arc_r",
+        "vertices": [
+          {
+            "x": 105,
+            "y": 195
+          },
+          {
+            "x": 135,
+            "y": 225
+          },
+          {
+            "x": 165,
+            "y": 195
+          }
+        ]
+      },
+      {
+        "type": "line",
+        "vertices": [
+          {
+            "x": 165,
+            "y": 195
+          },
+          {
+            "x": 165,
+            "y": 135
+          }
+        ]
+      },
+      {
+        "type": "arc_r",
+        "vertices": [
+          {
+            "x": 165,
+            "y": 135
+          },
+          {
+            "x": 135,
+            "y": 105
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "type": "arc_r",
+        "vertices": [
+          {
+            "x": 165,
+            "y": 15
+          },
+          {
+            "x": 15,
+            "y": 165
+          },
+          {
+            "x": 165,
+            "y": 315
+          },
+          {
+            "x": 315,
+            "y": 165
+          },
+          {
+            "x": 165,
+            "y": 15
+          }
+        ]
+      }
+    ]
+  ],
+  "styles": [
+    {
+      "thickness": 10,
+      "strokeLinecap": "round",
+      "strokeLinejoin": "round",
+      "color": "#ffffff",
+      "fill": "none",
+      "mirror_style": 0,
+      "transform": "rotate(45)"
+    },
+    {
+      "thickness": 6,
+      "strokeLinecap": "round",
+      "strokeLinejoin": "round",
+      "color": "#ff4136",
+      "fill": "none",
+      "mirror_style": 0,
+      "transform": "rotate(45)"
+    },
+    {
+      "thickness": 10,
+      "strokeLinecap": "round",
+      "strokeLinejoin": "round",
+      "color": "#111111",
+      "fill": "#111111",
+      "mirror_style": 0,
+      "transform": "rotate(45)"
+    }
+  ]
+}
