@@ -8,7 +8,7 @@ const mmr = require('./mmr')
 
 module.exports = (filter, player, idx) => {
   return html`
-    <li class="${show()} items-center lh-copy pa3 bb b--dark-gray" onclick=${twitter}>
+    <li class="${show()} items-center lh-copy pa3 bb b--dark-gray shadow-hover grow" onclick=${twitter}>
       ${position(idx)}
       ${info(player)}
       ${mmr(player)}
