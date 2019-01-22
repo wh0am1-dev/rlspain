@@ -2,12 +2,13 @@ const fs = require('fs')
 const crawler = require('crawler')
 
 const URL = 'https://rocketleague.tracker.network/profile/mmr'
+const buildURL =  p => `${URL}/${p.ps ? 'ps' : 'steam'}/${p.id}`
 
 const readDB = () => JSON.parse(fs.readFileSync('assets/data/db.json', 'utf8'))
 const writeDB = db => fs.writeFile('assets/data/db.json', JSON.stringify(db, null, 2), () => process.exit())
-const buildURL =  p => `${URL}/${p.ps ? 'ps' : 'steam'}/${p.id}`
-const updatePlayer = (db, id, mmr) => db[idx(db, id)].mmr = parseInt(mmr)
 const idx = (db, id) => { for (let i = 0; i < db.length; i++) if (db[i].id == id) return i; return null }
+const updatePlayer = (db, id, mmr) => db[idx(db, id)].mmr = parseInt(mmr)
+const comparePlayers = (a, b) => (a.mmr < b.mmr ? 1 : (a.mmr > b.mmr ? -1 : 0))
 
 const crawl = () => {
   let db = readDB()
@@ -27,7 +28,7 @@ const crawl = () => {
     }
   })
 
-  c.on('drain', () => writeDB(db))
+  c.on('drain', () => writeDB(db.sort(comparePlayers)))
   db.forEach(player => c.queue(buildURL(player)))
 }
 
