@@ -23,6 +23,7 @@ if (typeof window !== 'undefined' && window.history.scrollRestoration) {
 
 // ==== stores ====
 app.use(require('./stores/db'))
+app.use(require('./stores/filter'))
 
 // ==== routes ====
 app.route('/', require('./views/home'))
