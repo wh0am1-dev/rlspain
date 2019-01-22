@@ -20,7 +20,7 @@ const crawl = () => {
       let $ = res.$
       let id = res.request.uri.path.split('/')
       id = id[id.length - 1]
-      let mmr = $('body > div.container.content-container > div:nth-child(1) > div.trn-profile > div > div > div > div.col-md-3 > div.card.card-list > a.card-list-item.active > span').text()
+      let mmr = $('.card-list-item[data-id="13"] > .badge').text()
 
       updatePlayer(db, id, mmr)
       done()
