@@ -7,14 +7,16 @@ module.exports = (player, idx) => {
   let role = player => player.role !== '' ? html`<span class="f6 light-purple">[${player.role}]</span>` : ''
 
   return html`
-    <li class="flex items-center lh-copy pa3 ph0-l bb b--near-white">
-      <span class="f3 f1-ns red">${idx + 1}.</span>
+    <li class="flex items-center lh-copy pa3 bb b--dark-gray">
+      <span class="f3 f2-l red">${idx + 1}.</span>
+
       <div class="pl3 flex-auto">
-        <span class="f6 f4-ns db">${player.nickname} ${role(player)}</span>
+        <span class="f6 f5-m f4-l db">${player.nickname} ${role(player)}</span>
         ${team(player)}
       </div>
+
       <div>
-        <span class="f5 f3-ns">${player.mmr}</span>
+        <span class="f5 f4-m f3-l">${player.mmr}</span>
       </div>
     </li>
   `
