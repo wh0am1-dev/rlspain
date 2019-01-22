@@ -8,15 +8,16 @@
     "install": "yarn",
     "start": "bankai start index.js",
     "gen": "choo g",
-    "build": "bankai build index.js",
-    "deploy": "gh-pages -d dist",
+    "build": "bankai build index.js && cp CNAME dist/",
+    "deploy": "gh-pages -d dist -s \"**/*+(CNAME|.html|.js|.css|.json|.png|.svg)\"",
     "lint": "standard --verbose | snazzy",
     "deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons",
     "test": "npm run lint && npm run deps",
     "inspect": "bankai inspect index.js",
     "clean": "rm -r dist/",
     "crawl": "node crawler.js",
-    "sync": "git add assets/data/db.json && git commit -m 'chore: data sync' && git push origin master && npm run build && npm run deploy"
+    "commit_db": "git add assets/data/db.json && git commit -m \"chore: data sync\" && git push origin master",
+    "sync": "npm run commit_db && npm run build && npm run deploy"
   },
   "keywords": [
     "rocket",
