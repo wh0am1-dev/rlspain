@@ -1,14 +1,14 @@
 {
-  "name": "rlscrapper",
-  "short_name": "rlscrapper",
+  "name": "rlspain",
+  "short_name": "rlspain",
   "description": "rocket league spanish database pwa",
-  "start_url": "/",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#111111",
   "icons": [{
-    "src": "/assets/img/rlscrapper.svg",
-    "type": "image/svg+xml",
-    "sizes": "192x192 512x512"
+    "src": "assets/img/rlscrapper.png",
+    "type": "image/png",
+    "sizes": "512x512"
   }]
 }
