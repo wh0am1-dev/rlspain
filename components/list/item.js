@@ -15,15 +15,21 @@ module.exports = (filter, player, idx) => {
     </li>
   `
 
-  function show() {
-    return player.nickname.toLowerCase().indexOf(filter.query.toLowerCase()) > -1 ? 'flex' : 'dn'
+  function show () {
+    let res = true
+
+    if (filter.query.trim() !== '') {
+      res = false
+
+      filter.query.trim().toLowerCase().split(/(?:,| )+/).forEach(keyword => {
+        res = res || player.nickname.toLowerCase().indexOf(keyword) > -1
+      })
+    }
+
+    return res ? 'flex' : 'dn'
   }
 
-  function twitter() {
+  function twitter () {
     window.open(`https://twitter.com/${player.twitter}`, '_blank')
-  }
-
-  function steam() {
-    window.open(`https://steamcommunity.com/profiles/${player.id}`, '_blank')
   }
 }
