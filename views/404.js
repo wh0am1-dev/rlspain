@@ -1,7 +1,7 @@
 // 404 view
 
 const html = require('choo/html')
-const title = 'rlspain - 404'
+const title = 'rlspain.cf - 404'
 
 const button = require('../components/button')
 

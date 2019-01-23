@@ -1,7 +1,7 @@
 // home view
 
 const html = require('choo/html')
-const title = 'rlspain'
+const title = 'rlspain.cf'
 
 const header = require('../components/header')
 const filter = require('../components/filter')
