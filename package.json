@@ -8,7 +8,7 @@
     "install": "yarn",
     "start": "bankai start index.js",
     "gen": "choo g",
-    "build": "bankai build index.js && cp CNAME dist/",
+    "build": "npm run clean && bankai build index.js && cp CNAME dist/",
     "deploy": "gh-pages -d dist -s \"**/*+(CNAME|.html|.js|.css|.json|.png|.svg)\"",
     "lint": "standard --verbose | snazzy",
     "deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons",
