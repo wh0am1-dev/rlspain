@@ -2,7 +2,15 @@
 
 # :soccer: rlscrapper :car:
 
+[website @ rlspain.cf](https://rlspain.cf)
+
 rocket league spanish database pwa
+
+<br>
+
+## :floppy_disk: pre-requisites
+
+[node](https://nodejs.org) & [yarn](https://yarnpkg.com)
 
 <br>
 
@@ -10,10 +18,17 @@ rocket league spanish database pwa
 
 <br>
 
-### data mining
+###### :: setup ::
 
-:floppy_disk: __`npm install`__<br>
-initial project setup
+:balloon: __`git clone https://github.com/neko250/rlscrapper`__<br>
+clone the repository
+
+:rainbow: __`npm install`__<br>
+install dependencies
+
+<br>
+
+###### :: data mining ::
 
 :spider: __`npm run crawl`__<br>
 update database from sources
@@ -23,7 +38,7 @@ update remote database
 
 <br>
 
-### web development
+###### :: web development ::
 
 :hammer: __`npm start`__<br>
 local development server
