@@ -12,11 +12,11 @@ module.exports = player => {
     </div>
   `
 
-  function delta() {
+  function delta () {
     return `${diff > 0 ? '+' : ''}${diff}`
   }
 
-  function colour(d) {
+  function colour (d) {
     return diff < 0 ? 'red' : (diff > 0 ? 'green' : 'silver')
   }
 }

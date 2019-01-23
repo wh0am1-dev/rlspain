@@ -10,11 +10,11 @@ module.exports = player => {
     </div>
   `
 
-  function role() {
+  function role () {
     return player.role !== '' ? html`<span class="f6 light-purple">[${player.role}]</span>` : ''
   }
 
-  function team() {
+  function team () {
     return player.team !== '' ? html`<span class="f6 db silver">${player.team}</span>` : ''
   }
 }
