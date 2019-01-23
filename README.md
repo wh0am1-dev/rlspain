@@ -12,7 +12,7 @@ rocket league spanish database pwa
 
 ### data mining
 
-:floppy_disk: __`npm run install`__<br>
+:floppy_disk: __`npm install`__<br>
 initial project setup
 
 :spider: __`npm run crawl`__<br>
