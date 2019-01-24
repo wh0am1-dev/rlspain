@@ -15,7 +15,7 @@
     "test": "npm run lint && npm run deps",
     "inspect": "bankai inspect index.js",
     "clean": "rm -r dist/",
-    "crawl": "node crawler.js",
+    "crawl": "git pull && node crawler.js",
     "commit_db": "git add assets/data/db.json && git commit -m \"chore: data sync\" && git push origin master",
     "sync": "npm run commit_db && npm run build && npm run deploy"
   },
