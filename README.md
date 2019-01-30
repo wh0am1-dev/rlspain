@@ -23,7 +23,7 @@ rocket league spanish database pwa
 :balloon: __`git clone https://github.com/neko250/rlscrapper`__<br>
 clone the repository
 
-:rainbow: __`npm install`__<br>
+:rainbow: __`yarn`__<br>
 install dependencies
 
 <br>
