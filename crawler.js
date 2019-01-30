@@ -55,7 +55,7 @@ function comparePlayers (a, b) {
 
 function idx (db, id) {
   for (let i = 0; i < db.length; i++) {
-    if (db[i].id === id) {
+    if (db[i].id == id) {
       return i
     }
   }
