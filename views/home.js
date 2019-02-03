@@ -22,7 +22,8 @@ module.exports = (state, emit) => {
           ${list(state.db, state.filter)}
 
           <footer class="ph4 mt4 cf tc">
-            <p class="f6 f5-m f4-l">made with ${heart()} by ${link('neko250', 'https://github.com/neko250', true)}</p>
+            <p class="f6 f5-m f4-l">made with ${heart()} by</p>
+            <p class="f6 f5-m f4-l">${link('neko250', 'https://github.com/neko250', true)} &amp; ${link('Salve', 'https://twitter.com/Salve_RL', true)}</p>
           </footer>
         </div>
       </main>
