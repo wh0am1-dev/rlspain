@@ -42,6 +42,20 @@
     "_mmr": 1585
   },
   {
+    "nickname": "Cristian (Boss)",
+    "mmr": 1567,
+    "id": "76561198845948731",
+    "team": "",
+    "role": "",
+    "twitter": "BossxXxcristian",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1567
+  },
+  {
     "nickname": "KAISER",
     "mmr": 1545,
     "id": "76561198077329106",
@@ -81,7 +95,7 @@
     "name": "",
     "province": "",
     "region": "Valencia",
-    "_mmr": 1450
+    "_mmr": null
   },
   {
     "nickname": "ByMateos",
@@ -207,7 +221,7 @@
     "name": "",
     "province": "Sevilla",
     "region": "Andalucía",
-    "_mmr": 1924
+    "_mmr": 1909
   },
   {
     "nickname": "Itsulen",
@@ -263,7 +277,7 @@
     "name": "",
     "province": "Málaga",
     "region": "Andalucía",
-    "_mmr": 1817
+    "_mmr": 1824
   },
   {
     "nickname": "Wolfsonthemoon",
@@ -277,7 +291,7 @@
     "name": "",
     "province": "Barcelona",
     "region": "Cataluña",
-    "_mmr": 1839
+    "_mmr": 1814
   },
   {
     "nickname": "Byjesuxesp",
@@ -403,7 +417,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1770
+    "_mmr": 1761
   },
   {
     "nickname": "Casaprima",
@@ -417,7 +431,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1763
+    "_mmr": 1757
   },
   {
     "nickname": "Kontrol",
@@ -431,7 +445,7 @@
     "name": "",
     "province": "Sevilla",
     "region": "Andalucía",
-    "_mmr": 1790
+    "_mmr": 1752
   },
   {
     "nickname": "Swazer",
@@ -529,7 +543,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1751
+    "_mmr": 1734
   },
   {
     "nickname": "DiLegacy",
@@ -543,7 +557,7 @@
     "name": "",
     "province": "Gran Canarias",
     "region": "Canarias",
-    "_mmr": 1722
+    "_mmr": 1734
   },
   {
     "nickname": "Jairo",
@@ -683,7 +697,7 @@
     "name": "",
     "province": "Santander",
     "region": "Cantabria",
-    "_mmr": 1703
+    "_mmr": 1690
   },
   {
     "nickname": "Black",
@@ -907,7 +921,7 @@
     "name": "",
     "province": "Sevilla",
     "region": "Andalucía",
-    "_mmr": 1664
+    "_mmr": 1642
   },
   {
     "nickname": "Allan",
@@ -1047,7 +1061,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1638
+    "_mmr": 1616
   },
   {
     "nickname": "Pepsy",
@@ -1288,34 +1302,6 @@
     "_mmr": 1568
   },
   {
-    "nickname": "XxkrratosxX",
-    "mmr": 1567,
-    "id": "76561198119213423",
-    "team": "",
-    "role": "",
-    "twitter": "XxKRRATOSxX",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1570
-  },
-  {
-    "nickname": "Cristian (Boss)",
-    "mmr": 1567,
-    "id": "76561198845948731",
-    "team": "",
-    "role": "",
-    "twitter": "BossxXxcristian",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1567
-  },
-  {
     "nickname": "Ragner",
     "mmr": 1564,
     "id": "76561198023544143",
@@ -1356,6 +1342,20 @@
     "province": "",
     "region": "",
     "_mmr": 1562
+  },
+  {
+    "nickname": "XxkrratosxX",
+    "mmr": 1559,
+    "id": "76561198119213423",
+    "team": "",
+    "role": "",
+    "twitter": "XxKRRATOSxX",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1567
   },
   {
     "nickname": "Roxas",
@@ -1887,7 +1887,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1478
+    "_mmr": 1466
   },
   {
     "nickname": "wilfred.",
@@ -2069,7 +2069,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1442
+    "_mmr": 1420
   },
   {
     "nickname": "TheJn10",
@@ -2139,7 +2139,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1424
+    "_mmr": 1412
   },
   {
     "nickname": "Slaim",
@@ -2405,7 +2405,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1321
+    "_mmr": 1331
   },
   {
     "nickname": "Freex",
@@ -2433,7 +2433,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1301
+    "_mmr": 1317
   },
   {
     "nickname": "Tronsrock",
@@ -2629,6 +2629,6 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1087
+    "_mmr": 1108
   }
 ]
