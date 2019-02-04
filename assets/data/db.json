@@ -85,7 +85,7 @@
   },
   {
     "nickname": "Wralph",
-    "mmr": 1450,
+    "mmr": null,
     "id": "76561197960287930",
     "team": "",
     "role": "",
@@ -95,7 +95,7 @@
     "name": "",
     "province": "",
     "region": "Valencia",
-    "_mmr": null
+    "_mmr": 1450
   },
   {
     "nickname": "ByMateos",
@@ -1355,7 +1355,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1567
+    "_mmr": 1559
   },
   {
     "nickname": "Roxas",
