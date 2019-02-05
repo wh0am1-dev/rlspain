@@ -17,7 +17,7 @@ module.exports = (state, emit) => {
       <main class="ph4 cf center">
         ${header()}
 
-        <div class="min-vh-100 mt5">
+        <div id="content" class="min-vh-100 pt5">
           ${filter(state.filter, emit)}
           ${list(state.db, state.filter)}
 
