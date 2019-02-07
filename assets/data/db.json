@@ -14,6 +14,34 @@
     "_mmr": 2014
   },
   {
+    "nickname": "aLmeLa",
+    "mmr": 1352,
+    "id": "76561198142789746",
+    "team": "",
+    "role": "",
+    "twitter": "aLmeLa_RL",
+    "ps": false,
+    "twitch": "almela",
+    "name": "",
+    "province": "",
+    "region": "Comunidad Valenciana",
+    "_mmr": 1352
+  },
+  {
+    "nickname": "Andresmarcote",
+    "mmr": 1254,
+    "id": "Andresmarcote",
+    "team": "",
+    "role": "",
+    "twitter": "ByMarcote",
+    "ps": true,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "Galicia",
+    "_mmr": 1254
+  },
+  {
     "nickname": "Espumita",
     "mmr": 2006,
     "id": "76561198202845030",
@@ -2931,7 +2959,7 @@
     "id": "76561198085590247",
     "team": "",
     "role": "",
-    "twitter": "",
+    "twitter": "TronsRock_GG",
     "ps": false,
     "twitch": "",
     "name": "",
