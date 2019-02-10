@@ -14,6 +14,20 @@
     "_mmr": 2019
   },
   {
+    "nickname": "Barrusca",
+    "mmr": 1334,
+    "id": "Barrusca",
+    "team": "Rocket Eagles",
+    "role": "",
+    "twitter": "barrusca1",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Valencia",
+    "region": "Comunidad Valencia",
+    "_mmr": 1334
+  },
+  {
     "nickname": "Marc_By_8",
     "mmr": 2025,
     "id": "76561198307356688",
@@ -1391,7 +1405,7 @@
     "id": "76561198118522141",
     "team": "",
     "role": "",
-    "twitter": "dani26197",
+    "twitter": "DaniCule97",
     "ps": false,
     "twitch": "",
     "name": "",
@@ -1893,7 +1907,7 @@
     "nickname": "CarcaPro17",
     "mmr": 1510,
     "id": "CarcaPro17",
-    "team": "NightSkills",
+    "team": "Daraya Academy",
     "role": "",
     "twitter": "CarcaPro17",
     "ps": true,
