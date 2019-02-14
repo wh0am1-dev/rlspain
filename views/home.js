@@ -7,17 +7,13 @@ const header = require('../components/header')
 const filter = require('../components/filter')
 const list = require('../components/list/list')
 const link = require('../components/link')
-const fab = require('../components/fab')
 const heart = require('../components/heart')
 
 module.exports = (state, emit) => {
   if (state.title !== title) emit('DOMTitleChange', title)
 
-  let fab_ = document.querySelector('#fab')
-  let showFab_ = showFab()
-
   return html`
-    <body class="code lh-copy bg-near-black near-white" onscroll=${onScroll}>
+    <body class="code lh-copy bg-near-black near-white">
       <main class="ph4 cf center">
         ${header()}
 
@@ -30,19 +26,6 @@ module.exports = (state, emit) => {
           </footer>
         </div>
       </main>
-
-      ${fab()}
     </body>
   `
-
-  function showFab () {
-    return document.documentElement.scrollTop > (window.innerHeight * 1.5)
-  }
-
-  function onScroll () {
-    if (!showFab_ && showFab() || showFab_ && !showFab()) {
-      showFab_ = !showFab_
-      fab_.classList.toggle('db', showFab_)
-    }
-  }
 }
