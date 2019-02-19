@@ -14,6 +14,20 @@
     "_mmr": 2083
   },
   {
+    "nickname": "byivan15",
+    "mmr": 1706,
+    "id": "76561198095786913",
+    "team": "ECORP",
+    "role": "",
+    "twitter": "Byivan15",
+    "ps": false,
+    "twitch": "byivaan15",
+    "name": "",
+    "province": "",
+    "region": "Galicia",
+    "_mmr": 1706
+  },
+  {
     "nickname": "Nachitow",
     "mmr": 2081,
     "id": "76561198391498026",
@@ -772,11 +786,11 @@
   {
     "nickname": "Freisa",
     "mmr": 1664,
-    "id": "76561198337938976",
+    "id": "freisa_",
     "team": "",
     "role": "",
     "twitter": "RLFreisa",
-    "ps": false,
+    "ps": true,
     "twitch": "",
     "name": "",
     "province": "",
