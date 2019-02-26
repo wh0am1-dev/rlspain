@@ -2,7 +2,7 @@
 
 module.exports = (state, emitter) => {
   // === MAINTENANCE MODE ===
-  state.maintenance = true
+  state.maintenance = false
   // ========================
 
   emitter.on('maintenance:on', () => {
