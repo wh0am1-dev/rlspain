@@ -12,7 +12,6 @@ const maintenance = require('../components/maintenance')
 
 module.exports = (state, emit) => {
   if (state.title !== title) emit('DOMTitleChange', title)
-  const maintenanceMode = true
 
   return html`
     <body class="code lh-copy bg-near-black near-white">
@@ -31,9 +30,7 @@ module.exports = (state, emit) => {
   `
 
   function body () {
-    if (maintenanceMode) {
-      return maintenance()
-    }
+    if (state.maintenance) return maintenance()
 
     return html`
       ${filter(state.filter, emit)}
