@@ -18,10 +18,10 @@ module.exports = (state, emit) => {
       <main class="ph4 cf center">
         ${header()}
 
-        <div id="content" class="min-vh-100 pt5">
+        <div id="content" class="min-vh-100 pt5 relative">
           ${body()}
 
-          <footer class="ph4 mt4 cf tc">
+          <footer class="pv3 ph4 mt4 cf tc absolute bottom-0 w-100">
             <p class="f6 f5-m f4-l">made with ${heart()} by<br>${link('neko250', 'https://github.com/neko250', true)} & ${link('Salve', 'https://twitter.com/Salve_RL', true)}</p>
             <p class="f6 f5-m f4-l mt4"><span class="yellow ba br2 b--near-white pv1 ph2">v${require('../package.json').version} beta</span></p>
           </footer>
