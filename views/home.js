@@ -14,7 +14,7 @@ module.exports = (state, emit) => {
   if (state.title !== title) emit('DOMTitleChange', title)
 
   return html`
-    <body class="code lh-copy bg-near-black near-white">
+    <body class="code lh-copy bg-near-black near-white" style="cursor: default; user-select: none;">
       <main class="ph4 cf center">
         ${header()}
 
@@ -23,7 +23,7 @@ module.exports = (state, emit) => {
 
           <footer class="pv3 ph4 mt4 cf tc">
             <p class="f6 f5-m f4-l">made with ${heart()} by<br>${link('neko250', 'https://github.com/neko250', true)} & ${link('Salve', 'https://twitter.com/Salve_RL', true)}</p>
-            <p class="f6 f5-m f4-l mt4"><span class="yellow ba br2 b--near-white pv1 ph2">v${require('../package.json').version} beta</span></p>
+            <p class="f6 f5-m f4-l mt4"><span class="yellow hover-near-black hover-bg-yellow bg-animate ba b--yellow br2 pv1 ph2">v${require('../package.json').version} beta</span></p>
           </footer>
         </div>
       </main>
