@@ -23,6 +23,7 @@ module.exports = (state, emit) => {
 
           <footer class="ph4 mt4 cf tc">
             <p class="f6 f5-m f4-l">made with ${heart()} by<br>${link('neko250', 'https://github.com/neko250', true)} & ${link('Salve', 'https://twitter.com/Salve_RL', true)}</p>
+            <p class="f6 f5-m f4-l mt4"><span class="yellow ba br2 b--near-white pv1 ph2">v${require('../package.json').version} beta</span></p>
           </footer>
         </div>
       </main>
