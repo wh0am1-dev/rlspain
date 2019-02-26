@@ -7,6 +7,8 @@ const info = require('./info')
 const mmr = require('./mmr')
 
 module.exports = (filter, player, idx) => {
+  if (!player.mmr) return ''
+
   return html`
     <li class="${show()} items-center lh-copy pa3 bb b--dark-gray shadow-hover grow" onclick=${twitter}>
       ${position(idx)}
