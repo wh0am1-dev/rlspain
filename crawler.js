@@ -24,7 +24,7 @@ function crawl () {
       let $ = res.$
       let id = uriParts[uriParts.length - 1]
       let mmr = $('.card-list-item[data-id="13"] > .badge').text()
-      let gamesPlayed = +$('.stats:nth-of-type(3) > div:nth-child(1) > span').text()
+      let gamesPlayed = +$('.stats[data-id="13"] > div:nth-child(1) > span').text()
       let m = gamesPlayed ? mmr : 0
 
       updatePlayer(db, id, m)
