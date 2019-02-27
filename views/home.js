@@ -3,18 +3,19 @@
 const html = require('choo/html')
 const title = 'rlspain.cf'
 
-const header = require('../components/header')
+const button = require('../components/button')
 const filter = require('../components/filter')
-const list = require('../components/list/list')
-const link = require('../components/link')
+const header = require('../components/header')
 const heart = require('../components/heart')
+const link = require('../components/link')
+const list = require('../components/list/list')
 const maintenance = require('../components/maintenance')
 
 module.exports = (state, emit) => {
   if (state.title !== title) emit('DOMTitleChange', title)
 
   return html`
-    <body class="code lh-copy bg-near-black near-white" style="cursor: default; user-select: none;">
+    <body class="code lh-copy bg-near-black near-white" style="cursor: default; user-select: none; scroll-behavior: smooth;">
       <main class="ph4 cf center">
         ${header()}
 
