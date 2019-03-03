@@ -4,7 +4,6 @@ const html = require('choo/html')
 
 module.exports = (state, emit, player, idx) => {
   if (!player.mmr) return ''
-  let diff = player.mmr - player._mmr
 
   return html`
     <li class="${show()} items-center lh-copy pa3 bb b--dark-gray shadow-hover grow" onclick=${viewPlayer}>
@@ -31,10 +30,18 @@ module.exports = (state, emit, player, idx) => {
   }
 
   function delta () {
+    if (player._mmr === 0)
+      return '¡nuevo!'
+
+    let diff = player.mmr - player._mmr
     return `${diff > 0 ? '+' : ''}${diff}`
   }
 
   function deltaColour (d) {
+    if (player._mmr === 0)
+      return 'green'
+
+    let diff = player.mmr - player._mmr
     return diff < 0 ? 'red' : (diff > 0 ? 'green' : 'silver')
   }
 
