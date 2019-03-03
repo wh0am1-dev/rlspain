@@ -32,11 +32,12 @@ module.exports = (state, emit) => {
   `
 
   function body () {
-    if (state.maintenance) return maintenance()
+    if (state.maintenance)
+      return maintenance()
 
     return html`
-      ${filter(state.filter, emit)}
-      ${list(state.db, state.filter)}
+      ${filter(state, emit)}
+      ${list(state, emit)}
     `
   }
 }

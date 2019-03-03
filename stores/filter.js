@@ -3,12 +3,10 @@
 module.exports = (state, emitter) => {
   let timeout = null
 
-  state.filter = {
-    query: ''
-  }
+  state.filter = ''
 
   emitter.on('filter:update', query => {
-    state.filter.query = query
+    state.filter = query
     clearTimeout(timeout)
     timeout = setTimeout(() => emitter.emit('render'), 250);
   })

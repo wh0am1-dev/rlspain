@@ -4,14 +4,14 @@ const html = require('choo/html')
 
 const button = require('./button')
 
-module.exports = (filter, emit) => {
+module.exports = (state, emit) => {
   return html`
     <div class="center w-100 w-50-m w-third-l mb4 tc">
       ${button('FAQ', openFAQ)}
       ${button('Peticiones', openForm, 'ml4')}
 
       <input class="input-reset outline-0 bg-near-black near-white br-pill b--yellow pv2 ph3 w-100 mt4"
-        value=${filter.query} oninput=${update}
+        value=${state.filter} oninput=${update}
         type="text" name="query" placeholder="Buscar...">
     </div>
   `
@@ -25,7 +25,7 @@ module.exports = (filter, emit) => {
   }
 
   function openFAQ () {
-    emit('replaceState', '/faq')
+    emit('pushState', '/faq')
     window.scrollTo(0, 0)
   }
 }

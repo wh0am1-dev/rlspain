@@ -2,16 +2,12 @@
 
 const html = require('choo/html')
 
-const position = require('./position')
-const info = require('./info')
-const mmr = require('./mmr')
-
-module.exports = (filter, player, idx) => {
+module.exports = (state, emit, player, idx) => {
   if (!player.mmr) return ''
   let diff = player.mmr - player._mmr
 
   return html`
-    <li class="${show()} items-center lh-copy pa3 bb b--dark-gray shadow-hover grow" onclick=${twitter}>
+    <li class="${show()} items-center lh-copy pa3 bb b--dark-gray shadow-hover grow" onclick=${viewPlayer}>
       <span class="f3 f2-l yellow">${idx + 1}</span>
 
       <div class="pl3 flex-auto">
@@ -42,17 +38,17 @@ module.exports = (filter, player, idx) => {
     return diff < 0 ? 'red' : (diff > 0 ? 'green' : 'silver')
   }
 
-  function twitter () {
-    window.open(`https://twitter.com/${player.twitter}`, '_blank')
+  function viewPlayer () {
+    emit('pushState', `/player/${player.id}`)
   }
 
   function show () {
     let res = true
 
-    if (filter.query.trim() !== '') {
+    if (state.filter.trim() !== '') {
       res = false
 
-      filter.query.trim().toLowerCase().split(/(?:,| )+/).forEach(keyword => {
+      state.filter.trim().toLowerCase().split(/(?:,| )+/).forEach(keyword => {
         res = res || player.nickname.toLowerCase().indexOf(keyword) > -1
       })
     }

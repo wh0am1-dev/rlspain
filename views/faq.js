@@ -66,10 +66,9 @@ module.exports = (state, emit) => {
   function close () {
     window.scrollTo({
       top: 0,
-      left: 0,
-      behavior: 'smooth'
+      left: 0
     })
 
-    emit('replaceState', '/')
+    emit('pushState', '/')
   }
 }
