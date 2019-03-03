@@ -56,9 +56,9 @@ module.exports = (state, emit) => {
 
   function section (question) {
     return html`
-      <section class="fl w-100 w-50-l h-100 pa4">
-        <h2 class="mb4"><span class="yellow pv1">${question.q}</span></h2>
-        <p>${question.a}</p>
+      <section class="fl w-100 w-50-l h-100 pa4 tc">
+        <h2 class="f5 f4-m f3-l yellow">${question.q}</h2>
+        <p class="f6 f5-m f4-l">${question.a}</p>
       </section>
     `
   }
