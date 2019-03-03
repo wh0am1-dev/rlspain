@@ -46,6 +46,7 @@ module.exports = (state, emit, player, idx) => {
   }
 
   function viewPlayer () {
+    emit('db:setDetails', idx)
     emit('pushState', `/player/${player.id}`)
   }
 
