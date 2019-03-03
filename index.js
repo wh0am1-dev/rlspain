@@ -28,6 +28,7 @@ app.use(require('./stores/maintenance'))
 
 // ==== routes ====
 app.route('/', require('./views/home'))
+app.route('/player/:id', require('./views/player'))
 app.route('/faq', require('./views/faq'))
 app.route('/404', require('./views/404'))
 app.route('/*', require('./views/404'))
