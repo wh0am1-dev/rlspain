@@ -14,6 +14,34 @@
     "_mmr": 1771
   },
   {
+    "nickname": "Hawk",
+    "mmr": 1387,
+    "id": "76561197960752589",
+    "team": "",
+    "role": "",
+    "twitter": "HawkMJ23",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "País Vasco",
+    "_mmr": 1387
+  },
+  {
+    "nickname": "soyzegio",
+    "mmr": 1307,
+    "id": "76561198103566661",
+    "team": "",
+    "role": "",
+    "twitter": "SW_Zegio",
+    "ps": false,
+    "twitch": "soyzegio",
+    "name": "Sergio",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "_mmr": 1307
+  },
+  {
     "nickname": "Mister Ube",
     "mmr": 1744,
     "id": "76561198269120189",
@@ -213,7 +241,7 @@
     "nickname": "Leiartxer",
     "mmr": 1623,
     "id": "76561198255931775",
-    "team": "Efficiency Team",
+    "team": "",
     "role": "",
     "twitter": "leiiartxer",
     "ps": false,
