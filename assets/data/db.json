@@ -1,7 +1,7 @@
 [
   {
     "nickname": "DmentZa",
-    "mmr": 1773,
+    "mmr": 1785,
     "id": "76561198274964984",
     "team": "Crazy Crew",
     "role": "",
@@ -14,22 +14,8 @@
     "_mmr": 1773
   },
   {
-    "nickname": "Casaprima",
-    "mmr": 1749,
-    "id": "76561198329623270",
-    "team": "Beşiktaş JK",
-    "role": "",
-    "twitter": "TheCasaprima",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1749
-  },
-  {
     "nickname": "Mister Ube",
-    "mmr": 1747,
+    "mmr": 1764,
     "id": "76561198269120189",
     "team": "Getafe CF",
     "role": "",
@@ -42,8 +28,22 @@
     "_mmr": 1747
   },
   {
+    "nickname": "Casaprima",
+    "mmr": 1759,
+    "id": "76561198329623270",
+    "team": "Beşiktaş JK",
+    "role": "",
+    "twitter": "TheCasaprima",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1749
+  },
+  {
     "nickname": "Marc_By_8",
-    "mmr": 1745,
+    "mmr": 1753,
     "id": "76561198307356688",
     "team": "ARG",
     "role": "",
@@ -53,11 +53,11 @@
     "name": "",
     "province": "Barcelona",
     "region": "Cataluña",
-    "_mmr": 1755
+    "_mmr": 1745
   },
   {
     "nickname": "Espumita",
-    "mmr": 1737,
+    "mmr": 1732,
     "id": "76561198202845030",
     "team": "Villarreal CF",
     "role": "",
@@ -67,11 +67,11 @@
     "name": "",
     "province": "",
     "region": "Canarias",
-    "_mmr": 1738
+    "_mmr": 1737
   },
   {
     "nickname": "kiermonster",
-    "mmr": 1698,
+    "mmr": 1723,
     "id": "76561198339384251",
     "team": "Crazy Crew",
     "role": "",
@@ -84,50 +84,8 @@
     "_mmr": 1698
   },
   {
-    "nickname": "Adriandro",
-    "mmr": 1697,
-    "id": "76561198450035475",
-    "team": "SD Eibar",
-    "role": "",
-    "twitter": "Adriandro_RL",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "A Coruña",
-    "region": "Galicia",
-    "_mmr": 1721
-  },
-  {
-    "nickname": "Kontrol",
-    "mmr": 1681,
-    "id": "76561198142129360",
-    "team": "ARG",
-    "role": "",
-    "twitter": "KontrolRL",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "Sevilla",
-    "region": "Andalucía",
-    "_mmr": 1654
-  },
-  {
-    "nickname": "Cristian (Boss)",
-    "mmr": 1680,
-    "id": "76561198845948731",
-    "team": "",
-    "role": "",
-    "twitter": "BossxXxcristian",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1641
-  },
-  {
     "nickname": "Wolfsonthemoon",
-    "mmr": 1676,
+    "mmr": 1713,
     "id": "76561198166053975",
     "team": "Crazy Crew",
     "role": "",
@@ -137,25 +95,25 @@
     "name": "",
     "province": "Barcelona",
     "region": "Cataluña",
-    "_mmr": 1637
+    "_mmr": 1676
   },
   {
-    "nickname": "DiLegacy",
-    "mmr": 1673,
-    "id": "76561198244497836",
-    "team": "",
+    "nickname": "Kontrol",
+    "mmr": 1710,
+    "id": "76561198142129360",
+    "team": "ARG",
     "role": "",
-    "twitter": "DiLegacyDL",
+    "twitter": "KontrolRL",
     "ps": false,
     "twitch": "",
     "name": "",
-    "province": "Gran Canarias",
-    "region": "Canarias",
-    "_mmr": 1628
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "_mmr": 1681
   },
   {
     "nickname": "xXManuuXx",
-    "mmr": 1672,
+    "mmr": 1708,
     "id": "76561198141184773",
     "team": "SD Eibar",
     "role": "",
@@ -165,7 +123,35 @@
     "name": "",
     "province": "Sevilla",
     "region": "Andalucía",
-    "_mmr": 1697
+    "_mmr": 1672
+  },
+  {
+    "nickname": "Swazer",
+    "mmr": 1688,
+    "id": "76561197992276806",
+    "team": "Villarreal CF",
+    "role": "",
+    "twitter": "Swazer_",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "_mmr": 1587
+  },
+  {
+    "nickname": "imtrbl",
+    "mmr": 1675,
+    "id": "76561198417118771",
+    "team": "",
+    "role": "",
+    "twitter": "trblrl",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1645
   },
   {
     "nickname": "Hadry",
@@ -179,11 +165,11 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1695
+    "_mmr": 1671
   },
   {
     "nickname": "Luxxor",
-    "mmr": 1668,
+    "mmr": 1669,
     "id": "76561198334924562",
     "team": "Beşiktaş JK",
     "role": "",
@@ -193,7 +179,21 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1653
+    "_mmr": 1668
+  },
+  {
+    "nickname": "Cristian (Boss)",
+    "mmr": 1665,
+    "id": "76561198845948731",
+    "team": "",
+    "role": "",
+    "twitter": "BossxXxcristian",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1680
   },
   {
     "nickname": "Nachitow",
@@ -207,7 +207,49 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1642
+    "_mmr": 1665
+  },
+  {
+    "nickname": "Samuel",
+    "mmr": 1665,
+    "id": "76561198202624036",
+    "team": "Knocked Out",
+    "role": "",
+    "twitter": "samucortes2000",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "_mmr": 1609
+  },
+  {
+    "nickname": "Adriandro",
+    "mmr": 1662,
+    "id": "76561198450035475",
+    "team": "SD Eibar",
+    "role": "",
+    "twitter": "Adriandro_RL",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "A Coruña",
+    "region": "Galicia",
+    "_mmr": 1697
+  },
+  {
+    "nickname": "DiLegacy",
+    "mmr": 1662,
+    "id": "76561198244497836",
+    "team": "",
+    "role": "",
+    "twitter": "DiLegacyDL",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Gran Canarias",
+    "region": "Canarias",
+    "_mmr": 1673
   },
   {
     "nickname": "Syston",
@@ -224,6 +266,20 @@
     "_mmr": 1662
   },
   {
+    "nickname": "ASN_RuBiiX",
+    "mmr": 1662,
+    "id": "76561198847618075",
+    "team": "FekyX",
+    "role": "",
+    "twitter": "ASN_RuBiiX",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1653
+  },
+  {
     "nickname": "Melting",
     "mmr": 1659,
     "id": "76561198147066345",
@@ -238,36 +294,22 @@
     "_mmr": 1659
   },
   {
-    "nickname": "Evilwolf",
-    "mmr": 1657,
-    "id": "76561198121463093",
-    "team": "Echo Team",
+    "nickname": "Jairo",
+    "mmr": 1659,
+    "id": "76561198827636313",
+    "team": "",
     "role": "",
-    "twitter": "EvilWolf_RL",
+    "twitter": "JairoFernandez_",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1657
-  },
-  {
-    "nickname": "ASN_RuBiiX",
-    "mmr": 1653,
-    "id": "76561198847618075",
-    "team": "FekyX",
-    "role": "",
-    "twitter": "ASN_RuBiiX",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1631
+    "_mmr": 1640
   },
   {
     "nickname": "Itsulen",
-    "mmr": 1650,
+    "mmr": 1644,
     "id": "76561198017739904",
     "team": "Villarreal CF",
     "role": "",
@@ -277,35 +319,7 @@
     "name": "",
     "province": "Tarragona",
     "region": "Cataluña",
-    "_mmr": 1669
-  },
-  {
-    "nickname": "LTK_AtomiK",
-    "mmr": 1647,
-    "id": "76561198879295437",
-    "team": "",
-    "role": "",
-    "twitter": "rlatomik",
-    "ps": false,
-    "twitch": "ltk_atomik1",
-    "name": "",
-    "province": "",
-    "region": "Andalucía",
-    "_mmr": 1609
-  },
-  {
-    "nickname": "imtrbl",
-    "mmr": 1645,
-    "id": "76561198417118771",
-    "team": "",
-    "role": "",
-    "twitter": "trblrl",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1645
+    "_mmr": 1650
   },
   {
     "nickname": "Jiiyee",
@@ -319,21 +333,21 @@
     "name": "",
     "province": "Gijón",
     "region": "Asturias",
-    "_mmr": 1631
+    "_mmr": 1642
   },
   {
-    "nickname": "Jairo",
-    "mmr": 1640,
-    "id": "76561198827636313",
-    "team": "",
+    "nickname": "Evilwolf",
+    "mmr": 1641,
+    "id": "76561198121463093",
+    "team": "Echo Team",
     "role": "",
-    "twitter": "JairoFernandez_",
+    "twitter": "EvilWolf_RL",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1640
+    "_mmr": 1657
   },
   {
     "nickname": "Magiks.",
@@ -348,6 +362,48 @@
     "province": "",
     "region": "",
     "_mmr": 1639
+  },
+  {
+    "nickname": "GCR710",
+    "mmr": 1637,
+    "id": "76561198063473656",
+    "team": "ARG",
+    "role": "",
+    "twitter": "GCR710_",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Madrid",
+    "region": "Madrid",
+    "_mmr": 1608
+  },
+  {
+    "nickname": "LTK_AtomiK",
+    "mmr": 1631,
+    "id": "76561198879295437",
+    "team": "",
+    "role": "",
+    "twitter": "rlatomik",
+    "ps": false,
+    "twitch": "ltk_atomik1",
+    "name": "",
+    "province": "",
+    "region": "Andalucía",
+    "_mmr": 1647
+  },
+  {
+    "nickname": "Vk-Sailen",
+    "mmr": 1629,
+    "id": "76561198397457726",
+    "team": "",
+    "role": "",
+    "twitter": "VKSaileeMz",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1614
   },
   {
     "nickname": "ByMateos",
@@ -375,7 +431,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1620
+    "_mmr": 1628
   },
   {
     "nickname": "eljoselillo7",
@@ -392,32 +448,32 @@
     "_mmr": 1622
   },
   {
-    "nickname": "Vk-Sailen",
-    "mmr": 1614,
-    "id": "76561198397457726",
-    "team": "",
+    "nickname": "Kratos",
+    "mmr": 1619,
+    "id": "76561198399536154",
+    "team": "Team Genetic",
     "role": "",
-    "twitter": "VKSaileeMz",
+    "twitter": "Kratos_RL",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1614
+    "_mmr": 1608
   },
   {
-    "nickname": "Samuel",
-    "mmr": 1609,
-    "id": "76561198202624036",
-    "team": "Knocked Out",
+    "nickname": "Adriantors",
+    "mmr": 1616,
+    "id": "76561198107754473",
+    "team": "x6tence Black",
     "role": "",
-    "twitter": "samucortes2000",
+    "twitter": "AdriantorsRL",
     "ps": false,
-    "twitch": "",
+    "twitch": "Adriantors",
     "name": "",
-    "province": "Sevilla",
-    "region": "Andalucía",
-    "_mmr": 1625
+    "province": "Madrid",
+    "region": "Madrid",
+    "_mmr": 1544
   },
   {
     "nickname": "Sete2pro",
@@ -434,48 +490,6 @@
     "_mmr": 1609
   },
   {
-    "nickname": "Kratos",
-    "mmr": 1608,
-    "id": "76561198399536154",
-    "team": "Team Genetic",
-    "role": "",
-    "twitter": "Kratos_RL",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1639
-  },
-  {
-    "nickname": "Karsten",
-    "mmr": 1608,
-    "id": "76561198280869886",
-    "team": "Mav3ricks",
-    "role": "",
-    "twitter": "VGDKarsten",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1608
-  },
-  {
-    "nickname": "GCR710",
-    "mmr": 1608,
-    "id": "76561198063473656",
-    "team": "ARG",
-    "role": "",
-    "twitter": "GCR710_",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "Madrid",
-    "region": "Madrid",
-    "_mmr": 1525
-  },
-  {
     "nickname": "B00m_Qu!ck13",
     "mmr": 1603,
     "id": "76561198283164522",
@@ -490,18 +504,60 @@
     "_mmr": 1603
   },
   {
-    "nickname": "Swazer",
-    "mmr": 1587,
-    "id": "76561197992276806",
-    "team": "Villarreal CF",
+    "nickname": "Estrupa",
+    "mmr": 1603,
+    "id": "76561198240032432",
+    "team": "",
     "role": "",
-    "twitter": "Swazer_",
+    "twitter": "Estrupa27",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Ciudad Real",
+    "region": "",
+    "_mmr": 1563
+  },
+  {
+    "nickname": "Karsten",
+    "mmr": 1594,
+    "id": "76561198280869886",
+    "team": "Mav3ricks",
+    "role": "",
+    "twitter": "VGDKarsten",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1608
+  },
+  {
+    "nickname": "Stake",
+    "mmr": 1594,
+    "id": "76561198242455752",
+    "team": "Knocked Out",
+    "role": "",
+    "twitter": "StakeYT",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "_mmr": 1572
+  },
+  {
+    "nickname": "MV.",
+    "mmr": 1586,
+    "id": "76561198319809944",
+    "team": "",
+    "role": "",
+    "twitter": "CRISTIAN_MV_18",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "Sevilla",
     "region": "Andalucía",
-    "_mmr": 1587
+    "_mmr": 1576
   },
   {
     "nickname": "Zombie",
@@ -518,6 +574,20 @@
     "_mmr": 1584
   },
   {
+    "nickname": "Wolf.",
+    "mmr": 1581,
+    "id": "76561198283230023",
+    "team": "",
+    "role": "",
+    "twitter": "WolfRL_",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Madrid",
+    "region": "Madrid",
+    "_mmr": 1471
+  },
+  {
     "nickname": "Cruzz",
     "mmr": 1579,
     "id": "76561198216191035",
@@ -532,32 +602,18 @@
     "_mmr": 1579
   },
   {
-    "nickname": "Grillo",
-    "mmr": 1577,
-    "id": "76561198841005281",
-    "team": "Team Genetic",
+    "nickname": "Kappa",
+    "mmr": 1579,
+    "id": "76561198103865076",
+    "team": "Vanguard",
     "role": "",
-    "twitter": "itsgrillo",
+    "twitter": "kappa_rl",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1585
-  },
-  {
-    "nickname": "MV.",
-    "mmr": 1576,
-    "id": "76561198319809944",
-    "team": "",
-    "role": "",
-    "twitter": "CRISTIAN_MV_18",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "Sevilla",
-    "region": "Andalucía",
-    "_mmr": 1514
+    "_mmr": 1569
   },
   {
     "nickname": "Juanma_lokko",
@@ -588,22 +644,8 @@
     "_mmr": 1572
   },
   {
-    "nickname": "Stake",
-    "mmr": 1572,
-    "id": "76561198242455752",
-    "team": "Knocked Out",
-    "role": "",
-    "twitter": "StakeYT",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "Barcelona",
-    "region": "Cataluña",
-    "_mmr": 1572
-  },
-  {
     "nickname": "xSito",
-    "mmr": 1570,
+    "mmr": 1571,
     "id": "76561198142310510",
     "team": "GGAming",
     "role": "",
@@ -613,21 +655,21 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1569
+    "_mmr": 1570
   },
   {
-    "nickname": "Kappa",
-    "mmr": 1569,
-    "id": "76561198103865076",
-    "team": "Vanguard",
+    "nickname": "Grillo",
+    "mmr": 1566,
+    "id": "76561198841005281",
+    "team": "Team Genetic",
     "role": "",
-    "twitter": "kappa_rl",
+    "twitter": "itsgrillo",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1544
+    "_mmr": 1577
   },
   {
     "nickname": "Gerkee",
@@ -672,20 +714,6 @@
     "_mmr": 1563
   },
   {
-    "nickname": "Estrupa",
-    "mmr": 1563,
-    "id": "76561198240032432",
-    "team": "",
-    "role": "",
-    "twitter": "Estrupa27",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "Ciudad Real",
-    "region": "",
-    "_mmr": 1562
-  },
-  {
     "nickname": "dani_ana",
     "mmr": 1562,
     "id": "76561198194418471",
@@ -697,21 +725,21 @@
     "name": "",
     "province": "Málaga",
     "region": "Andalucía",
-    "_mmr": 1560
+    "_mmr": 1562
   },
   {
-    "nickname": "YOLID.",
-    "mmr": 1555,
-    "id": "76561198854576643",
-    "team": "Mav3ricks",
+    "nickname": "Fizno",
+    "mmr": 1557,
+    "id": "76561198357142889",
+    "team": "",
     "role": "",
-    "twitter": "YoLiD_GG",
+    "twitter": "Fiizno",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
-    "region": "",
-    "_mmr": 1513
+    "region": "Canarias",
+    "_mmr": 1503
   },
   {
     "nickname": "ErAle",
@@ -742,46 +770,46 @@
     "_mmr": 1547
   },
   {
-    "nickname": "Adriantors",
+    "nickname": "Damian",
     "mmr": 1544,
-    "id": "76561198107754473",
-    "team": "x6tence Black",
+    "id": "76561198372482690",
+    "team": "Team Genetic",
     "role": "",
-    "twitter": "AdriantorsRL",
+    "twitter": "DamiDelevingne",
     "ps": false,
-    "twitch": "Adriantors",
+    "twitch": "",
     "name": "",
-    "province": "Madrid",
-    "region": "Madrid",
-    "_mmr": 1579
+    "province": "Valencia",
+    "region": "Valencia",
+    "_mmr": 1518
   },
   {
-    "nickname": "Killero",
-    "mmr": 1538,
-    "id": "76561198201592418",
-    "team": "",
+    "nickname": "EnergY",
+    "mmr": 1539,
+    "id": "76561198050755884",
+    "team": "Team Fenix",
     "role": "",
-    "twitter": "KilleroRL",
+    "twitter": "EnergY1881",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1496
+    "_mmr": 1491
   },
   {
-    "nickname": "wilfred.",
-    "mmr": 1535,
-    "id": "76561198398080762",
+    "nickname": "YOLID.",
+    "mmr": 1538,
+    "id": "76561198854576643",
     "team": "Mav3ricks",
     "role": "",
-    "twitter": "wilfredusRL",
+    "twitter": "YoLiD_GG",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1535
+    "_mmr": 1555
   },
   {
     "nickname": "Borex",
@@ -840,20 +868,6 @@
     "_mmr": 1530
   },
   {
-    "nickname": "ILuZziOn.",
-    "mmr": 1530,
-    "id": "76561198168060263",
-    "team": "",
-    "role": "",
-    "twitter": "ILuZziOnYT",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "Madrid",
-    "region": "Madrid",
-    "_mmr": 1530
-  },
-  {
     "nickname": "Roxas",
     "mmr": 1527,
     "id": "76561198057950383",
@@ -865,21 +879,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1545
-  },
-  {
-    "nickname": "Migol",
-    "mmr": 1526,
-    "id": "76561198387480823",
-    "team": "",
-    "role": "",
-    "twitter": "",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1526
+    "_mmr": 1527
   },
   {
     "nickname": "Toavols",
@@ -910,6 +910,34 @@
     "_mmr": 1523
   },
   {
+    "nickname": "Gaiade",
+    "mmr": 1521,
+    "id": "76561198851094214",
+    "team": "",
+    "role": "",
+    "twitter": "GaiadeRL",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "Galicia",
+    "_mmr": 1461
+  },
+  {
+    "nickname": "Killero",
+    "mmr": 1520,
+    "id": "76561198201592418",
+    "team": "",
+    "role": "",
+    "twitter": "KilleroRL",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1538
+  },
+  {
     "nickname": "byivan15",
     "mmr": 1520,
     "id": "76561198095786913",
@@ -924,8 +952,22 @@
     "_mmr": 1520
   },
   {
+    "nickname": "Mikito",
+    "mmr": 1516,
+    "id": "76561198077873784",
+    "team": "",
+    "role": "",
+    "twitter": "iMikito",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1493
+  },
+  {
     "nickname": "antoniopn08",
-    "mmr": 1520,
+    "mmr": 1515,
     "id": "antoniopn08",
     "team": "",
     "role": "",
@@ -935,21 +977,21 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1512
+    "_mmr": 1520
   },
   {
-    "nickname": "Damian",
-    "mmr": 1518,
-    "id": "76561198372482690",
-    "team": "Team Genetic",
+    "nickname": "Ibra",
+    "mmr": 1515,
+    "id": "76561197995078397",
+    "team": "Daraya eSports",
     "role": "",
-    "twitter": "DamiDelevingne",
+    "twitter": "ibrahimovic9RL",
     "ps": false,
     "twitch": "",
     "name": "",
-    "province": "Valencia",
-    "region": "Valencia",
-    "_mmr": 1515
+    "province": "",
+    "region": "",
+    "_mmr": 1509
   },
   {
     "nickname": "TORRES8232",
@@ -966,18 +1008,32 @@
     "_mmr": 1514
   },
   {
-    "nickname": "CarcaPro17",
-    "mmr": 1513,
-    "id": "CarcaPro17",
-    "team": "Daraya Academy",
-    "role": "",
-    "twitter": "CarcaPro17",
-    "ps": true,
+    "nickname": "Black",
+    "mmr": 1512,
+    "id": "76561198078236085",
+    "team": "x6tence Black",
+    "role": "Coach",
+    "twitter": "BlackRocketeer",
+    "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
-    "region": "Castilla La Mancha",
-    "_mmr": 1513
+    "region": "",
+    "_mmr": 1494
+  },
+  {
+    "nickname": "wilfred.",
+    "mmr": 1511,
+    "id": "76561198398080762",
+    "team": "Mav3ricks",
+    "role": "",
+    "twitter": "wilfredusRL",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1535
   },
   {
     "nickname": "Darkryx",
@@ -994,32 +1050,46 @@
     "_mmr": 1511
   },
   {
-    "nickname": "Ibra",
+    "nickname": "NekoMasterGaming",
     "mmr": 1509,
-    "id": "76561197995078397",
-    "team": "Daraya eSports",
+    "id": "76561198401823488",
+    "team": "",
     "role": "",
-    "twitter": "ibrahimovic9RL",
+    "twitter": "NekoMasterRL",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1509
+    "_mmr": 1493
   },
   {
-    "nickname": "Fizno",
-    "mmr": 1503,
-    "id": "76561198357142889",
+    "nickname": "ILuZziOn.",
+    "mmr": 1508,
+    "id": "76561198168060263",
     "team": "",
     "role": "",
-    "twitter": "Fiizno",
+    "twitter": "ILuZziOnYT",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Madrid",
+    "region": "Madrid",
+    "_mmr": 1530
+  },
+  {
+    "nickname": "Migol",
+    "mmr": 1508,
+    "id": "76561198387480823",
+    "team": "",
+    "role": "",
+    "twitter": "",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
-    "region": "Canarias",
-    "_mmr": 1505
+    "region": "",
+    "_mmr": 1526
   },
   {
     "nickname": "Alex",
@@ -1064,36 +1134,8 @@
     "_mmr": 1501
   },
   {
-    "nickname": "Black",
-    "mmr": 1494,
-    "id": "76561198078236085",
-    "team": "x6tence Black",
-    "role": "Coach",
-    "twitter": "BlackRocketeer",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1462
-  },
-  {
-    "nickname": "Mikito",
-    "mmr": 1493,
-    "id": "76561198077873784",
-    "team": "",
-    "role": "",
-    "twitter": "iMikito",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1520
-  },
-  {
     "nickname": "NiNjA96pk",
-    "mmr": 1493,
+    "mmr": 1499,
     "id": "76561197997323736",
     "team": "H2H ESPORTS",
     "role": "",
@@ -1103,21 +1145,49 @@
     "name": "",
     "province": "",
     "region": "Galicia",
-    "_mmr": 1509
+    "_mmr": 1493
   },
   {
-    "nickname": "NekoMasterGaming",
-    "mmr": 1493,
-    "id": "76561198401823488",
+    "nickname": "itsAlain19",
+    "mmr": 1499,
+    "id": "76561198246451274",
     "team": "",
     "role": "",
-    "twitter": "NekoMasterRL",
+    "twitter": "TheMoreno_RL",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "Murcia",
+    "_mmr": 1487
+  },
+  {
+    "nickname": "kucilla",
+    "mmr": 1497,
+    "id": "76561198209617892",
+    "team": "",
+    "role": "",
+    "twitter": "kucilla11",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1508
+    "_mmr": 1484
+  },
+  {
+    "nickname": "Snax5",
+    "mmr": 1494,
+    "id": "76561198070619737",
+    "team": "x6tence Black",
+    "role": "",
+    "twitter": "EloiSegura",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1427
   },
   {
     "nickname": "Javigames",
@@ -1162,50 +1232,8 @@
     "_mmr": 1491
   },
   {
-    "nickname": "EnergY",
-    "mmr": 1491,
-    "id": "76561198050755884",
-    "team": "Team Fenix",
-    "role": "",
-    "twitter": "EnergY1881",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1459
-  },
-  {
-    "nickname": "XxkrratosxX",
-    "mmr": 1488,
-    "id": "76561198119213423",
-    "team": "Mav3ricks",
-    "role": "",
-    "twitter": "XxKRRATOSxX",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1488
-  },
-  {
-    "nickname": "itsAlain19",
-    "mmr": 1487,
-    "id": "76561198246451274",
-    "team": "",
-    "role": "",
-    "twitter": "TheMoreno_RL",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "Murcia",
-    "_mmr": 1487
-  },
-  {
     "nickname": "DrCole17",
-    "mmr": 1486,
+    "mmr": 1488,
     "id": "76561198105424316",
     "team": "",
     "role": "",
@@ -1215,7 +1243,7 @@
     "name": "",
     "province": "",
     "region": "Madrid",
-    "_mmr": 1511
+    "_mmr": 1486
   },
   {
     "nickname": "Idrk",
@@ -1243,21 +1271,21 @@
     "name": "",
     "province": "Alicante",
     "region": "Comunidad Valenciana",
-    "_mmr": 1467
+    "_mmr": 1486
   },
   {
-    "nickname": "kucilla",
-    "mmr": 1484,
-    "id": "76561198209617892",
-    "team": "",
+    "nickname": "Nolichu",
+    "mmr": 1485,
+    "id": "76561198142550862",
+    "team": "H2H Esports",
     "role": "",
-    "twitter": "kucilla11",
+    "twitter": "nolichu13",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1466
+    "_mmr": 1475
   },
   {
     "nickname": "Hugoo",
@@ -1274,6 +1302,62 @@
     "_mmr": 1483
   },
   {
+    "nickname": "CarcaPro17",
+    "mmr": 1481,
+    "id": "CarcaPro17",
+    "team": "Daraya Academy",
+    "role": "",
+    "twitter": "CarcaPro17",
+    "ps": true,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "Castilla La Mancha",
+    "_mmr": 1513
+  },
+  {
+    "nickname": "XxkrratosxX",
+    "mmr": 1481,
+    "id": "76561198119213423",
+    "team": "Mav3ricks",
+    "role": "",
+    "twitter": "XxKRRATOSxX",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1488
+  },
+  {
+    "nickname": "Torcal",
+    "mmr": 1481,
+    "id": "xTorcalYT",
+    "team": "",
+    "role": "",
+    "twitter": "TorcalRL",
+    "ps": true,
+    "twitch": "Torcal",
+    "name": "",
+    "province": "",
+    "region": "La Rioja",
+    "_mmr": 1465
+  },
+  {
+    "nickname": "orimndz28",
+    "mmr": 1480,
+    "id": "76561198232464164",
+    "team": "",
+    "role": "",
+    "twitter": "orimndz28_",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "Cataluña",
+    "_mmr": 1461
+  },
+  {
     "nickname": "Bell Sama",
     "mmr": 1478,
     "id": "76561198321452864",
@@ -1286,6 +1370,34 @@
     "province": "",
     "region": "",
     "_mmr": 1478
+  },
+  {
+    "nickname": "AaronSenta",
+    "mmr": 1478,
+    "id": "76561198446559192",
+    "team": "Baobab Gaming",
+    "role": "",
+    "twitter": "AaronSenta",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1471
+  },
+  {
+    "nickname": "Happy Sausage",
+    "mmr": 1478,
+    "id": "76561198808946113",
+    "team": "Team Genetic",
+    "role": "",
+    "twitter": "HappySausagee",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1421
   },
   {
     "nickname": "Dani Culé",
@@ -1316,20 +1428,6 @@
     "_mmr": 1476
   },
   {
-    "nickname": "Nolichu",
-    "mmr": 1475,
-    "id": "76561198142550862",
-    "team": "H2H Esports",
-    "role": "",
-    "twitter": "nolichu13",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1472
-  },
-  {
     "nickname": "Mr. Soulman",
     "mmr": 1474,
     "id": "76561198163903878",
@@ -1342,62 +1440,6 @@
     "province": "",
     "region": "",
     "_mmr": 1474
-  },
-  {
-    "nickname": "KAISER",
-    "mmr": 1473,
-    "id": "76561198206492220",
-    "team": "",
-    "role": "",
-    "twitter": "KAISER_ESP_",
-    "ps": false,
-    "twitch": "KAISER_ESP_",
-    "name": "",
-    "province": "",
-    "region": "Cataluña",
-    "_mmr": 1489
-  },
-  {
-    "nickname": "Zasuj",
-    "mmr": 1473,
-    "id": "76561198012869889",
-    "team": "S1X6EES",
-    "role": "",
-    "twitter": "ZasujOfficial",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "Sevilla",
-    "region": "Andalucía",
-    "_mmr": 1473
-  },
-  {
-    "nickname": "AaronSenta",
-    "mmr": 1471,
-    "id": "76561198446559192",
-    "team": "Baobab Gaming",
-    "role": "",
-    "twitter": "AaronSenta",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1488
-  },
-  {
-    "nickname": "Wolf.",
-    "mmr": 1471,
-    "id": "76561198283230023",
-    "team": "",
-    "role": "",
-    "twitter": "WolfRL_",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "Madrid",
-    "region": "Madrid",
-    "_mmr": 1471
   },
   {
     "nickname": "Arturo.",
@@ -1425,7 +1467,7 @@
     "name": "",
     "province": "",
     "region": "Andalucía",
-    "_mmr": 1448
+    "_mmr": 1470
   },
   {
     "nickname": "toni2510ar",
@@ -1439,11 +1481,11 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1479
+    "_mmr": 1469
   },
   {
     "nickname": "Handriu",
-    "mmr": 1468,
+    "mmr": 1469,
     "id": "76561198210103819",
     "team": "",
     "role": "",
@@ -1453,35 +1495,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1518
-  },
-  {
-    "nickname": "Cowisis",
-    "mmr": 1466,
-    "id": "76561198045926736",
-    "team": "",
-    "role": "",
-    "twitter": "cowisis",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "Barcelona",
-    "region": "Cataluña",
-    "_mmr": 1466
-  },
-  {
-    "nickname": "Torcal",
-    "mmr": 1465,
-    "id": "xTorcalYT",
-    "team": "",
-    "role": "",
-    "twitter": "TorcalRL",
-    "ps": true,
-    "twitch": "Torcal",
-    "name": "",
-    "province": "",
-    "region": "La Rioja",
-    "_mmr": 1465
+    "_mmr": 1468
   },
   {
     "nickname": "DualView",
@@ -1495,7 +1509,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1417
+    "_mmr": 1465
   },
   {
     "nickname": "Freisa",
@@ -1512,32 +1526,32 @@
     "_mmr": 1464
   },
   {
-    "nickname": "Gaiade",
-    "mmr": 1461,
-    "id": "76561198851094214",
-    "team": "",
+    "nickname": "Jofosu",
+    "mmr": 1464,
+    "id": "76561198155851847",
+    "team": "QBits",
     "role": "",
-    "twitter": "GaiadeRL",
+    "twitter": "jofosu1",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
-    "region": "Galicia",
-    "_mmr": 1461
+    "region": "",
+    "_mmr": 1449
   },
   {
-    "nickname": "orimndz28",
+    "nickname": "KAISER",
     "mmr": 1461,
-    "id": "76561198232464164",
+    "id": "76561198206492220",
     "team": "",
     "role": "",
-    "twitter": "orimndz28_",
+    "twitter": "KAISER_ESP_",
     "ps": false,
-    "twitch": "",
+    "twitch": "KAISER_ESP_",
     "name": "",
     "province": "",
     "region": "Cataluña",
-    "_mmr": 1411
+    "_mmr": 1473
   },
   {
     "nickname": "iXeToXx",
@@ -1554,6 +1568,20 @@
     "_mmr": 1460
   },
   {
+    "nickname": "Jeytijey",
+    "mmr": 1460,
+    "id": "76561198058936316",
+    "team": "",
+    "role": "",
+    "twitter": "JeyTiJey",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "Galicia",
+    "_mmr": 1459
+  },
+  {
     "nickname": "LuiisP",
     "mmr": 1459,
     "id": "LuiisP_03",
@@ -1568,18 +1596,18 @@
     "_mmr": 1459
   },
   {
-    "nickname": "Jeytijey",
+    "nickname": "Jfarrera",
     "mmr": 1459,
-    "id": "76561198058936316",
+    "id": "76561198194852753",
     "team": "",
     "role": "",
-    "twitter": "JeyTiJey",
+    "twitter": "",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
-    "region": "Galicia",
-    "_mmr": 1458
+    "region": "",
+    "_mmr": 1443
   },
   {
     "nickname": "Timo",
@@ -1596,32 +1624,32 @@
     "_mmr": 1457
   },
   {
-    "nickname": "Barrusca",
-    "mmr": 1450,
-    "id": "Barrusca",
-    "team": "Rocket Eagles",
+    "nickname": "CosmiKz",
+    "mmr": 1457,
+    "id": "ItsCosmiiKz",
+    "team": "Espectro eSports",
     "role": "",
-    "twitter": "barrusca1",
+    "twitter": "CosmiiKzRL",
     "ps": true,
-    "twitch": "",
+    "twitch": "CosmiiKzrl",
     "name": "",
-    "province": "Valencia",
-    "region": "Comunidad Valencia",
-    "_mmr": 1450
+    "province": "Madrid",
+    "region": "Madrid",
+    "_mmr": 1391
   },
   {
-    "nickname": "Jofosu",
-    "mmr": 1449,
-    "id": "76561198155851847",
-    "team": "QBits",
+    "nickname": "Zasuj",
+    "mmr": 1454,
+    "id": "76561198012869889",
+    "team": "S1X6EES",
     "role": "",
-    "twitter": "jofosu1",
+    "twitter": "ZasujOfficial",
     "ps": false,
     "twitch": "",
     "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1468
+    "province": "Sevilla",
+    "region": "Andalucía",
+    "_mmr": 1473
   },
   {
     "nickname": "PlayerZ",
@@ -1652,18 +1680,32 @@
     "_mmr": 1448
   },
   {
-    "nickname": "Ash",
+    "nickname": "Cowisis",
     "mmr": 1447,
-    "id": "Ash_Daystar",
-    "team": "Daraya eSports",
+    "id": "76561198045926736",
+    "team": "",
     "role": "",
-    "twitter": "ashdaystar",
+    "twitter": "cowisis",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "_mmr": 1466
+  },
+  {
+    "nickname": "Barrusca",
+    "mmr": 1445,
+    "id": "Barrusca",
+    "team": "Rocket Eagles",
+    "role": "",
+    "twitter": "barrusca1",
     "ps": true,
     "twitch": "",
     "name": "",
-    "province": "Madrid",
-    "region": "Madrid",
-    "_mmr": 1447
+    "province": "Valencia",
+    "region": "Comunidad Valencia",
+    "_mmr": 1450
   },
   {
     "nickname": "Escobarinho",
@@ -1708,34 +1750,6 @@
     "_mmr": 1444
   },
   {
-    "nickname": "Clayx",
-    "mmr": 1444,
-    "id": "76561198247922306",
-    "team": "ARG",
-    "role": "",
-    "twitter": "ClayX_Rl",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "Valencia",
-    "region": "Valencia",
-    "_mmr": 1431
-  },
-  {
-    "nickname": "Jfarrera",
-    "mmr": 1443,
-    "id": "76561198194852753",
-    "team": "",
-    "role": "",
-    "twitter": "",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1443
-  },
-  {
     "nickname": "Ragner",
     "mmr": 1442,
     "id": "76561198023544143",
@@ -1775,7 +1789,35 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1431
+    "_mmr": 1440
+  },
+  {
+    "nickname": "Clayx",
+    "mmr": 1437,
+    "id": "76561198247922306",
+    "team": "ARG",
+    "role": "",
+    "twitter": "ClayX_Rl",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Valencia",
+    "region": "Valencia",
+    "_mmr": 1444
+  },
+  {
+    "nickname": "Alexyquemas",
+    "mmr": 1437,
+    "id": "76561198062101077",
+    "team": "",
+    "role": "",
+    "twitter": "alexyquemas",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1428
   },
   {
     "nickname": "Pepsy",
@@ -1817,7 +1859,7 @@
     "name": "",
     "province": "Madrid",
     "region": "Madrid",
-    "_mmr": 1460
+    "_mmr": 1434
   },
   {
     "nickname": "Theica7",
@@ -1834,32 +1876,18 @@
     "_mmr": 1434
   },
   {
-    "nickname": "Alexyquemas",
-    "mmr": 1428,
-    "id": "76561198062101077",
-    "team": "",
-    "role": "",
-    "twitter": "alexyquemas",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1427
-  },
-  {
-    "nickname": "Snax5",
+    "nickname": "Ash",
     "mmr": 1427,
-    "id": "76561198070619737",
-    "team": "x6tence Black",
+    "id": "Ash_Daystar",
+    "team": "Daraya eSports",
     "role": "",
-    "twitter": "EloiSegura",
-    "ps": false,
+    "twitter": "ashdaystar",
+    "ps": true,
     "twitch": "",
     "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1474
+    "province": "Madrid",
+    "region": "Madrid",
+    "_mmr": 1447
   },
   {
     "nickname": "Wralph",
@@ -1873,7 +1901,7 @@
     "name": "",
     "province": "",
     "region": "Valencia",
-    "_mmr": 1466
+    "_mmr": 1427
   },
   {
     "nickname": "Binarydem0n",
@@ -1887,7 +1915,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1453
+    "_mmr": 1427
   },
   {
     "nickname": "De Boer",
@@ -1960,20 +1988,6 @@
     "_mmr": 1423
   },
   {
-    "nickname": "Happy Sausage",
-    "mmr": 1421,
-    "id": "76561198808946113",
-    "team": "Team Genetic",
-    "role": "",
-    "twitter": "HappySausagee",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1442
-  },
-  {
     "nickname": "xnumb",
     "mmr": 1419,
     "id": "76561198038110242",
@@ -1999,21 +2013,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1383
-  },
-  {
-    "nickname": "Vila",
-    "mmr": 1418,
-    "id": "76561198133680785",
-    "team": "",
-    "role": "",
-    "twitter": "",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1445
+    "_mmr": 1419
   },
   {
     "nickname": "Aleformula",
@@ -2083,21 +2083,21 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1406
+    "_mmr": 1410
   },
   {
-    "nickname": "Marches",
-    "mmr": 1408,
-    "id": "76561198194595110",
+    "nickname": "Hate",
+    "mmr": 1410,
+    "id": "76561198104513162",
     "team": "",
     "role": "",
-    "twitter": "",
+    "twitter": "Hate_RL",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1408
+    "_mmr": 1401
   },
   {
     "nickname": "Elprote",
@@ -2111,7 +2111,7 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1421
+    "_mmr": 1405
   },
   {
     "nickname": "BlancoLanda",
@@ -2126,20 +2126,6 @@
     "province": "",
     "region": "Galicia",
     "_mmr": 1402
-  },
-  {
-    "nickname": "Hate",
-    "mmr": 1401,
-    "id": "76561198104513162",
-    "team": "",
-    "role": "",
-    "twitter": "Hate_RL",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1408
   },
   {
     "nickname": "Irving",
@@ -2167,7 +2153,7 @@
     "name": "",
     "province": "",
     "region": "País Vasco",
-    "_mmr": 1395
+    "_mmr": 1400
   },
   {
     "nickname": "Sebitas",
@@ -2198,6 +2184,20 @@
     "_mmr": 1398
   },
   {
+    "nickname": "Misteral",
+    "mmr": 1398,
+    "id": 76561198081397600,
+    "team": "",
+    "role": "",
+    "twitter": "MisteralRL",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1343
+  },
+  {
     "nickname": "Carloskista",
     "mmr": 1395,
     "id": "76561198080519227",
@@ -2226,20 +2226,6 @@
     "_mmr": 1395
   },
   {
-    "nickname": "Anyelo LFT",
-    "mmr": 1394,
-    "id": "76561198405871360",
-    "team": "",
-    "role": "",
-    "twitter": "",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1404
-  },
-  {
     "nickname": "Fredy",
     "mmr": 1394,
     "id": "76561198138902132",
@@ -2254,6 +2240,20 @@
     "_mmr": 1394
   },
   {
+    "nickname": "Vila",
+    "mmr": 1393,
+    "id": "76561198133680785",
+    "team": "",
+    "role": "",
+    "twitter": "",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1418
+  },
+  {
     "nickname": "Draco.",
     "mmr": 1393,
     "id": "76561198023912340",
@@ -2266,20 +2266,6 @@
     "province": "",
     "region": "",
     "_mmr": 1393
-  },
-  {
-    "nickname": "CosmiKz",
-    "mmr": 1391,
-    "id": "ItsCosmiiKz",
-    "team": "Espectro eSports",
-    "role": "",
-    "twitter": "CosmiiKzRL",
-    "ps": true,
-    "twitch": "CosmiiKzrl",
-    "name": "",
-    "province": "Madrid",
-    "region": "Madrid",
-    "_mmr": 1423
   },
   {
     "nickname": "Met-break",
@@ -2307,21 +2293,7 @@
     "name": "",
     "province": "",
     "region": "País Vasco",
-    "_mmr": 1380
-  },
-  {
-    "nickname": "esva",
-    "mmr": 1385,
-    "id": "76561197970376127",
-    "team": "",
-    "role": "",
-    "twitter": "esva_",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1385
+    "_mmr": 1386
   },
   {
     "nickname": "Riryoku",
@@ -2380,6 +2352,20 @@
     "_mmr": 1383
   },
   {
+    "nickname": "Marches",
+    "mmr": 1382,
+    "id": "76561198194595110",
+    "team": "",
+    "role": "",
+    "twitter": "",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1408
+  },
+  {
     "nickname": "LiriiKz",
     "mmr": 1382,
     "id": "76561198796427062",
@@ -2392,20 +2378,6 @@
     "province": "",
     "region": "",
     "_mmr": 1382
-  },
-  {
-    "nickname": "AdriKilka",
-    "mmr": 1380,
-    "id": "76561198258212817",
-    "team": "Vanguard",
-    "role": "",
-    "twitter": "AdriRK_",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1380
   },
   {
     "nickname": ".Zhanath",
@@ -2434,6 +2406,20 @@
     "province": "Barcelona",
     "region": "Cataluña",
     "_mmr": 1376
+  },
+  {
+    "nickname": "AdriKilka",
+    "mmr": 1373,
+    "id": "76561198258212817",
+    "team": "Vanguard",
+    "role": "",
+    "twitter": "AdriRK_",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1380
   },
   {
     "nickname": "Chøcø.",
@@ -2478,20 +2464,6 @@
     "_mmr": 1369
   },
   {
-    "nickname": "ItsZalgo",
-    "mmr": 1364,
-    "id": "76561198054085859",
-    "team": "Hunters Esports",
-    "role": "",
-    "twitter": "kill01241",
-    "ps": false,
-    "twitch": "itszalgo",
-    "name": "",
-    "province": "Barcelona",
-    "region": "Cataluña",
-    "_mmr": 1335
-  },
-  {
     "nickname": "Shados",
     "mmr": 1362,
     "id": "76561198159556686",
@@ -2506,22 +2478,50 @@
     "_mmr": 1362
   },
   {
-    "nickname": "K-Sweet0",
-    "mmr": 1357,
-    "id": "76561198215794351",
-    "team": "Crazy Crew",
-    "role": "Coach",
-    "twitter": "Sweet0RL",
+    "nickname": "esva",
+    "mmr": 1361,
+    "id": "76561197970376127",
+    "team": "",
+    "role": "",
+    "twitter": "esva_",
     "ps": false,
-    "twitch": "Sweet0",
+    "twitch": "",
     "name": "",
-    "province": "Madrid",
-    "region": "Madrid",
-    "_mmr": 1357
+    "province": "",
+    "region": "",
+    "_mmr": 1385
+  },
+  {
+    "nickname": "taryM",
+    "mmr": 1357,
+    "id": "76561198238075134",
+    "team": "",
+    "role": "",
+    "twitter": "tarymx",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "Castilla la Mancha",
+    "_mmr": 1329
+  },
+  {
+    "nickname": "ItsZalgo",
+    "mmr": 1356,
+    "id": "76561198054085859",
+    "team": "Hunters Esports",
+    "role": "",
+    "twitter": "kill01241",
+    "ps": false,
+    "twitch": "itszalgo",
+    "name": "",
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "_mmr": 1364
   },
   {
     "nickname": "CajoNasTeupas",
-    "mmr": 1353,
+    "mmr": 1355,
     "id": "76561198036351861",
     "team": "H2H Esports",
     "role": "",
@@ -2531,7 +2531,21 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1370
+    "_mmr": 1353
+  },
+  {
+    "nickname": "Anthony",
+    "mmr": 1355,
+    "id": "76561198170275659",
+    "team": "Lightning Unicorns",
+    "role": "",
+    "twitter": "Anthony_RL1",
+    "ps": false,
+    "twitch": "Anthony_RL1",
+    "name": "",
+    "province": "",
+    "region": "Madrid",
+    "_mmr": 1270
   },
   {
     "nickname": "soyzegio",
@@ -2563,7 +2577,7 @@
   },
   {
     "nickname": "xX_amaadoor_Xx",
-    "mmr": 1346,
+    "mmr": 1351,
     "id": "xX_amaadoor_Xx",
     "team": "bLarsUnited",
     "role": "",
@@ -2573,7 +2587,7 @@
     "name": "",
     "province": "Madrid",
     "region": "Madrid",
-    "_mmr": 1352
+    "_mmr": 1346
   },
   {
     "nickname": "diegostarmo",
@@ -2604,32 +2618,18 @@
     "_mmr": 1343
   },
   {
-    "nickname": "Misteral",
-    "mmr": 1343,
-    "id": 76561198081397600,
+    "nickname": "Axel7Black",
+    "mmr": 1342,
+    "id": "76561198396491363",
     "team": "",
     "role": "",
-    "twitter": "MisteralRL",
+    "twitter": "",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1279
-  },
-  {
-    "nickname": "Demkey",
-    "mmr": 1340,
-    "id": "76561198868378396",
-    "team": "",
-    "role": "",
-    "twitter": "demkey_rl",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "Barcelona",
-    "region": "Cataluña",
-    "_mmr": 1339
+    "_mmr": 1315
   },
   {
     "nickname": "SrFox3999",
@@ -2644,6 +2644,20 @@
     "province": "Barcelona",
     "region": "Cataluña",
     "_mmr": 1339
+  },
+  {
+    "nickname": "Anyelo LFT",
+    "mmr": 1337,
+    "id": "76561198405871360",
+    "team": "",
+    "role": "",
+    "twitter": "",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1394
   },
   {
     "nickname": "Rubemdb11",
@@ -2674,18 +2688,18 @@
     "_mmr": 1333
   },
   {
-    "nickname": "taryM",
-    "mmr": 1329,
-    "id": "76561198238075134",
+    "nickname": "Harlem:]",
+    "mmr": 1327,
+    "id": "Harlemshake_96",
     "team": "",
     "role": "",
-    "twitter": "tarymx",
-    "ps": false,
-    "twitch": "",
+    "twitter": "HarlemshakeRL",
+    "ps": true,
+    "twitch": "Harlemshakerl",
     "name": "",
-    "province": "",
-    "region": "Castilla la Mancha",
-    "_mmr": 1323
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "_mmr": 1276
   },
   {
     "nickname": "Uri",
@@ -2702,18 +2716,32 @@
     "_mmr": 1326
   },
   {
-    "nickname": "Shinkiro",
-    "mmr": 1324,
-    "id": "76561198211615309",
-    "team": "Hunters eSports",
+    "nickname": "XxsergiiooxX_103",
+    "mmr": 1326,
+    "id": "XxsergiiooxX_103",
+    "team": "Snowed Wolves",
     "role": "",
-    "twitter": "nando080597",
-    "ps": false,
+    "twitter": "ytnaca",
+    "ps": true,
     "twitch": "",
     "name": "",
-    "province": "",
-    "region": "Castilla y León",
-    "_mmr": 1327
+    "province": "Madrid",
+    "region": "Madrid",
+    "_mmr": 1309
+  },
+  {
+    "nickname": "Baena0a135",
+    "mmr": 1324,
+    "id": "76561198256140032",
+    "team": "",
+    "role": "",
+    "twitter": "alejandrojbaena",
+    "ps": false,
+    "twitch": "baena0a_95",
+    "name": "",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "_mmr": 1269
   },
   {
     "nickname": "Moowette",
@@ -2728,6 +2756,20 @@
     "province": "",
     "region": "",
     "_mmr": 1323
+  },
+  {
+    "nickname": "Juanlu",
+    "mmr": 1323,
+    "id": "76561198322585010",
+    "team": "",
+    "role": "",
+    "twitter": "Juanlu_RL",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "Málaga",
+    "region": "Andalucía",
+    "_mmr": 1316
   },
   {
     "nickname": "SirLonchaZz",
@@ -2758,32 +2800,32 @@
     "_mmr": 1321
   },
   {
-    "nickname": "Juanlu",
-    "mmr": 1316,
-    "id": "76561198322585010",
-    "team": "",
-    "role": "",
-    "twitter": "Juanlu_RL",
+    "nickname": "K-Sweet0",
+    "mmr": 1320,
+    "id": "76561198215794351",
+    "team": "Crazy Crew",
+    "role": "Coach",
+    "twitter": "Sweet0RL",
     "ps": false,
-    "twitch": "",
+    "twitch": "Sweet0",
     "name": "",
-    "province": "Málaga",
-    "region": "Andalucía",
-    "_mmr": 1316
+    "province": "Madrid",
+    "region": "Madrid",
+    "_mmr": 1357
   },
   {
-    "nickname": "Axel7Black",
-    "mmr": 1315,
-    "id": "76561198396491363",
+    "nickname": "Demkey",
+    "mmr": 1319,
+    "id": "76561198868378396",
     "team": "",
     "role": "",
-    "twitter": "",
+    "twitter": "demkey_rl",
     "ps": false,
     "twitch": "",
     "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1299
+    "province": "Barcelona",
+    "region": "Cataluña",
+    "_mmr": 1340
   },
   {
     "nickname": "Propeye",
@@ -2797,21 +2839,7 @@
     "name": "",
     "province": "Madrid",
     "region": "Madrid",
-    "_mmr": 1293
-  },
-  {
-    "nickname": "XxsergiiooxX_103",
-    "mmr": 1309,
-    "id": "XxsergiiooxX_103",
-    "team": "Snowed Wolves",
-    "role": "",
-    "twitter": "ytnaca",
-    "ps": true,
-    "twitch": "",
-    "name": "",
-    "province": "Madrid",
-    "region": "Madrid",
-    "_mmr": 1349
+    "_mmr": 1313
   },
   {
     "nickname": "Ymkl",
@@ -2842,8 +2870,22 @@
     "_mmr": 1304
   },
   {
+    "nickname": "Shinkiro",
+    "mmr": 1296,
+    "id": "76561198211615309",
+    "team": "Hunters eSports",
+    "role": "",
+    "twitter": "nando080597",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "Castilla y León",
+    "_mmr": 1324
+  },
+  {
     "nickname": "LeonFlame",
-    "mmr": 1295,
+    "mmr": 1289,
     "id": "76561198169772083",
     "team": "Hunters Esports",
     "role": "",
@@ -2884,20 +2926,6 @@
     "_mmr": 1288
   },
   {
-    "nickname": "Sr Pato",
-    "mmr": 1286,
-    "id": "76561198084746897",
-    "team": "",
-    "role": "",
-    "twitter": "",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1286
-  },
-  {
     "nickname": "Sinister",
     "mmr": 1284,
     "id": "76561198217711915",
@@ -2909,21 +2937,7 @@
     "name": "",
     "province": "",
     "region": "Galicia",
-    "_mmr": 1290
-  },
-  {
-    "nickname": "MrMochu",
-    "mmr": 1281,
-    "id": "76561198124489167",
-    "team": "",
-    "role": "",
-    "twitter": "MrMochu_Twitch",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1281
+    "_mmr": 1284
   },
   {
     "nickname": "Dextrak",
@@ -2951,21 +2965,7 @@
     "name": "",
     "province": "",
     "region": "Comunidad Valenciana",
-    "_mmr": 1326
-  },
-  {
-    "nickname": "Harlem:]",
-    "mmr": 1276,
-    "id": "Harlemshake_96",
-    "team": "",
-    "role": "",
-    "twitter": "HarlemshakeRL",
-    "ps": true,
-    "twitch": "Harlemshakerl",
-    "name": "",
-    "province": "Barcelona",
-    "region": "Cataluña",
-    "_mmr": 1276
+    "_mmr": 1279
   },
   {
     "nickname": "DarkSlime",
@@ -3010,32 +3010,18 @@
     "_mmr": 1273
   },
   {
-    "nickname": "Anthony",
-    "mmr": 1270,
-    "id": "76561198170275659",
-    "team": "Lightning Unicorns",
-    "role": "",
-    "twitter": "Anthony_RL1",
-    "ps": false,
-    "twitch": "Anthony_RL1",
-    "name": "",
-    "province": "",
-    "region": "Madrid",
-    "_mmr": 1331
-  },
-  {
-    "nickname": "Baena0a135",
+    "nickname": "MrMochu",
     "mmr": 1269,
-    "id": "76561198256140032",
+    "id": "76561198124489167",
     "team": "",
     "role": "",
-    "twitter": "alejandrojbaena",
+    "twitter": "MrMochu_Twitch",
     "ps": false,
-    "twitch": "baena0a_95",
+    "twitch": "",
     "name": "",
-    "province": "Málaga",
-    "region": "Andalucía",
-    "_mmr": 1272
+    "province": "",
+    "region": "",
+    "_mmr": 1281
   },
   {
     "nickname": "Geribt",
@@ -3052,18 +3038,18 @@
     "_mmr": 1263
   },
   {
-    "nickname": "Minesmas",
-    "mmr": 1260,
-    "id": "76561198263441237",
+    "nickname": "Sr Pato",
+    "mmr": 1257,
+    "id": "76561198084746897",
     "team": "",
     "role": "",
-    "twitter": "MinesmasYT",
+    "twitter": "",
     "ps": false,
-    "twitch": "minesmas",
+    "twitch": "",
     "name": "",
     "province": "",
-    "region": "Galicia",
-    "_mmr": 1260
+    "region": "",
+    "_mmr": 1286
   },
   {
     "nickname": "Phenoz",
@@ -3077,7 +3063,21 @@
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1189
+    "_mmr": 1254
+  },
+  {
+    "nickname": "Melkör",
+    "mmr": 1239,
+    "id": "76561198139191732",
+    "team": "Hunters eSports",
+    "role": "",
+    "twitter": "MelkorRl",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1238
   },
   {
     "nickname": "Aitorsora",
@@ -3094,34 +3094,6 @@
     "_mmr": 1238
   },
   {
-    "nickname": "Melkör",
-    "mmr": 1238,
-    "id": "76561198139191732",
-    "team": "Hunters eSports",
-    "role": "",
-    "twitter": "MelkorRl",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1232
-  },
-  {
-    "nickname": "Eddyy",
-    "mmr": 1234,
-    "id": "76561198066889629",
-    "team": "",
-    "role": "",
-    "twitter": "EddyyRL",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "",
-    "_mmr": 1284
-  },
-  {
     "nickname": "FR5DDY",
     "mmr": 1229,
     "id": "76561198193494919",
@@ -3133,7 +3105,7 @@
     "name": "",
     "province": "",
     "region": "Cataluña",
-    "_mmr": 1291
+    "_mmr": 1229
   },
   {
     "nickname": "Bati_two PC",
@@ -3147,21 +3119,35 @@
     "name": "",
     "province": "Madrid",
     "region": "Madrid",
-    "_mmr": 1266
+    "_mmr": 1229
   },
   {
-    "nickname": "Machakasaurio",
-    "mmr": 1227,
-    "id": "76561198219979159",
-    "team": "Crewnity",
+    "nickname": "Eddyy",
+    "mmr": 1225,
+    "id": "76561198066889629",
+    "team": "",
     "role": "",
-    "twitter": "pintocarlo97",
+    "twitter": "EddyyRL",
     "ps": false,
     "twitch": "",
     "name": "",
     "province": "",
-    "region": "Extremadura",
-    "_mmr": 1198
+    "region": "",
+    "_mmr": 1234
+  },
+  {
+    "nickname": "Minesmas",
+    "mmr": 1221,
+    "id": "76561198263441237",
+    "team": "",
+    "role": "",
+    "twitter": "MinesmasYT",
+    "ps": false,
+    "twitch": "minesmas",
+    "name": "",
+    "province": "",
+    "region": "Galicia",
+    "_mmr": 1260
   },
   {
     "nickname": "Chuky",
@@ -3192,20 +3178,6 @@
     "_mmr": 1213
   },
   {
-    "nickname": "FariusZX",
-    "mmr": 1212,
-    "id": "76561198081415528",
-    "team": "",
-    "role": "",
-    "twitter": "FariusZX",
-    "ps": false,
-    "twitch": "",
-    "name": "",
-    "province": "",
-    "region": "Cataluña",
-    "_mmr": 1212
-  },
-  {
     "nickname": "c0d1c3",
     "mmr": 1210,
     "id": "76561198359896145",
@@ -3231,7 +3203,21 @@
     "name": "",
     "province": "",
     "region": "Castilla y León",
-    "_mmr": 1191
+    "_mmr": 1198
+  },
+  {
+    "nickname": "FariusZX",
+    "mmr": 1194,
+    "id": "76561198081415528",
+    "team": "",
+    "role": "",
+    "twitter": "FariusZX",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "Cataluña",
+    "_mmr": 1212
   },
   {
     "nickname": "VR",
@@ -3246,6 +3232,20 @@
     "province": "",
     "region": "Islas Baleares",
     "_mmr": 1189
+  },
+  {
+    "nickname": "Machakasaurio",
+    "mmr": 1186,
+    "id": "76561198219979159",
+    "team": "Crewnity",
+    "role": "",
+    "twitter": "pintocarlo97",
+    "ps": false,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "Extremadura",
+    "_mmr": 1227
   },
   {
     "nickname": "Duvy",
@@ -3291,7 +3291,7 @@
   },
   {
     "nickname": "Seru",
-    "mmr": 1151,
+    "mmr": 1150,
     "id": "76561198153840889",
     "team": "",
     "role": "",
@@ -3301,7 +3301,21 @@
     "name": "",
     "province": "",
     "region": "Andalucía",
-    "_mmr": 1143
+    "_mmr": 1151
+  },
+  {
+    "nickname": "Leo",
+    "mmr": 1127,
+    "id": "76561197995187625",
+    "team": "Herd Warriors",
+    "role": "",
+    "twitter": "leo1983_",
+    "ps": false,
+    "twitch": "LeoSMC",
+    "name": "",
+    "province": "Valencia",
+    "region": "Valencia",
+    "_mmr": 1107
   },
   {
     "nickname": "solounturnomas",
@@ -3316,20 +3330,6 @@
     "province": "",
     "region": "",
     "_mmr": 1116
-  },
-  {
-    "nickname": "Leo",
-    "mmr": 1107,
-    "id": "76561197995187625",
-    "team": "Herd Warriors",
-    "role": "",
-    "twitter": "leo1983_",
-    "ps": false,
-    "twitch": "LeoSMC",
-    "name": "",
-    "province": "Valencia",
-    "region": "Valencia",
-    "_mmr": 1135
   },
   {
     "nickname": "Byjesuxesp",
