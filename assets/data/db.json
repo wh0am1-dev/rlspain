@@ -14,6 +14,20 @@
     "_mmr": 1899
   },
   {
+    "nickname": "ivanero",
+    "mmr": 1420,
+    "id": "76561198884539758",
+    "team": "Daraya eSports",
+    "role": "",
+    "twitter": "Ivanero2003",
+    "ps": false,
+    "twitch": "Ivanero2003",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1420
+  },
+  {
     "nickname": "Kontrol",
     "mmr": 1846,
     "id": "76561198142129360",
@@ -126,12 +140,12 @@
     "_mmr": 1780
   },
   {
-    "nickname": "xXManuuXx",
+    "nickname": "Stormz",
     "mmr": 1754,
     "id": "76561198141184773",
     "team": "SD Eibar",
     "role": "",
-    "twitter": "xXManuRLXx",
+    "twitter": "Stormz_RL",
     "ps": false,
     "twitch": "",
     "name": "",
@@ -2212,18 +2226,18 @@
     "_mmr": 1364
   },
   {
-    "nickname": "Anyelo LFT",
-    "mmr": 1413,
-    "id": "76561198405871360",
-    "team": "",
+    "nickname": "Sphooky",
+    "mmr": 1353,
+    "id": "TheAnYeLo",
+    "team": "Team SynTex",
     "role": "",
-    "twitter": "",
-    "ps": false,
+    "twitter": "SphookyRL",
+    "ps": true,
     "twitch": "",
     "name": "",
     "province": "",
     "region": "",
-    "_mmr": 1429
+    "_mmr": 1353
   },
   {
     "nickname": "Seeco",
@@ -2369,7 +2383,7 @@
     "nickname": "adrisfera",
     "mmr": 1397,
     "id": "76561198871443522",
-    "team": "Europe Saviors",
+    "team": "SnowFlocks",
     "role": "",
     "twitter": "Adrisfera",
     "ps": false,
