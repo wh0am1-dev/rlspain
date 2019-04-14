@@ -3,6 +3,9 @@ language: node_js
 node_js:
   - 10.15.3
 
+before_install:
+  - openssl aes-256-cbc -K $encrypted_36ffc1369fbc_key -iv $encrypted_36ffc1369fbc_iv -in travis_rsa.enc -out travis_rsa.enc -d
+
 install:
   - npm install
 
@@ -13,12 +16,9 @@ script:
 
 after_success:
   - eval "$(ssh-agent -s)"
-  - chmod 600 .travis/travis_rsa
-  - ssh-add .travis/travis_rsa
+  - chmod 600 travis_rsa
+  - ssh-add travis_rsa
   - git add testing.travis
   - git commit -m "travis automated commit"
   - git remote add deploy git@github.com:Neko250/rlscrapper.git
   - git push deploy
-
-before_install:
-  - openssl aes-256-cbc -K $encrypted_36ffc1369fbc_key -iv $encrypted_36ffc1369fbc_iv -in .travis/travis_rsa.enc -out .travis/travis_rsa.enc -d
