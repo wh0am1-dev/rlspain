@@ -35,7 +35,7 @@
     "a": "Nuestro plan es añadir estas colas en un futuro"
   }],
   "scripts": {
-    "install": "yarn",
+    "install": "npm install",
     "start": "bankai start index.js",
     "gen": "choo g",
     "clean": "rm -r dist/",
