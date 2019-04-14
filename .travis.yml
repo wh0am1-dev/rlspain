@@ -1,0 +1,21 @@
+language: node_js
+install: yarn
+script:
+  - npm test
+  - npm build
+# after_success:
+#   - eval "$(ssh-agent -s)"
+#   - chmod 600 .travis/deploy_key.pem
+#   - ssh-add .travis/deploy_key.pem
+#   - git remote add deploy git@github.com:Neko250/rlscrapper.git
+#   - git push deploy
+# deploy:
+#   provider: pages
+#   skip_cleanup: true
+#   github_token: $GITHUB_TOKEN
+#   keep_history: true
+#   local_dir: dist/
+#   fqdn: rlspain.cf
+#   target_branch: gh-pages
+#   on:
+#     branch: master
