@@ -14,6 +14,20 @@
     "_mmr": 1899
   },
   {
+    "nickname": "Enri",
+    "mmr": 1320,
+    "id": "EnriTheCrackHD",
+    "team": "DSG Gaming",
+    "role": "CEO",
+    "twitter": "Enri_TC",
+    "ps": true,
+    "twitch": "",
+    "name": "",
+    "province": "",
+    "region": "",
+    "_mmr": 1320
+  },
+  {
     "nickname": "DmentZa",
     "mmr": 1848,
     "id": "76561198274964984",
@@ -283,7 +297,7 @@
     "nickname": "xSito",
     "mmr": 1710,
     "id": "76561198142310510",
-    "team": "GGAming",
+    "team": "",
     "role": "",
     "twitter": "sito_skt",
     "ps": false,
