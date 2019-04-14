@@ -1,36 +1,60 @@
 // db store
 
 module.exports = (state, emitter) => {
-  state.db = []
-  state.details = null
+  // events
+  state.events.DB_FETCH = 'db:fetch'
+  state.events.DB_FILTER = 'db:filter'
 
-  emitter.on('DOMContentLoaded', () => {
+  // state
+  state.db = {
+    data: [],
+    filter: '',
+    filteredData: []
+  }
+
+  // listeners
+  let timeout = null
+
+  emitter.on(state.events.DB_FETCH, () => {
     window.fetch('/assets/data/db.json')
       .then(res => res.json())
       .then(data => {
-        state.db = data
-        if (state.route === 'player/:id') getDetails()
-        emitter.emit('render')
+        state.db.filter = ''
+        state.db.data = data
+        state.db.filteredData = data.filter(p => p.vs3.mmr >= 1000)
+        emitter.emit(state.events.RENDER)
       })
-      .catch(err => emitter.emit('debug:log', err))
+      .catch(err => emitter.emit(state.events.DEBUG_LOG, err))
   })
 
-  emitter.on('navigate', () => {
-    if (state.route !== 'player/:id')
-      state.details = null
+  emitter.on(state.events.DB_FILTER, query => {
+    state.db.filter = query
+    clearTimeout(timeout)
+
+    timeout = setTimeout(() => {
+      state.components.list.page = 0
+      state.db.filteredData = state.db.data.filter(player => {
+        if (player.vs3.mmr < 1000) return false
+
+        let ans = false
+
+        state.db.filter.trim().toLowerCase().split(/(?:,| )+/).forEach(keyword => {
+          ans = ans || player.nickname.toLowerCase().indexOf(keyword) > -1
+        })
+
+        return ans
+      })
+
+      emitter.emit(state.events.RENDER)
+    }, 250)
   })
 
-  emitter.on('db:setDetails', idx => {
-    state.details = idx
+  emitter.on(state.events.NAVIGATE, () => {
+    if (state.route === '/')
+      state.components.list.page = 0
   })
 
-  function getDetails () {
-    for (var i = 0; i < state.db.length; i++) {
-      if (state.db[i].id === state.params.id) {
-        let _title = `rlspain.cf · ${state.db[i].nickname}`
-        if (state.title !== _title) emitter.emit('DOMTitleChange', _title)
-        state.details = i
-      }
-    }
-  }
+  emitter.on(state.events.DOMCONTENTLOADED, () => {
+    emitter.emit(state.events.DB_FETCH)
+  })
 }

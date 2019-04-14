@@ -4,6 +4,36 @@
   "description": "rocket league spanish database pwa",
   "main": "index.js",
   "private": true,
+  "author": "neko250",
+  "license": "MIT",
+  "keywords": [
+    "rocket",
+    "league",
+    "mmr",
+    "ranking",
+    "website",
+    "salve"
+  ],
+  "maintenance": false,
+  "faq": [{
+    "q": "Soy español y no estoy en la lista, ¿cómo puedo acceder?",
+    "a": "Haz click en el botón \"Peticiones\" y rellena el formulario."
+  }, {
+    "q": "¿Cuáles son los requisitos para poder entrar en la lista?",
+    "a": "Residir en España, tener más de 1000 de rating o ser una personalidad de la comunidad"
+  }, {
+    "q": "¿Cada cuánto se actualiza la lista?",
+    "a": "La lista se actualiza diaria y automáticamente de madrugada"
+  }, {
+    "q": "Hay información asociada a mí que es errónea.",
+    "a": "Haz click en el botón \"Peticiones\" y rellena el formulario"
+  }, {
+    "q": "¿Qué son los números en verde o rojo debajo del rating?",
+    "a": "Es la diferencia de puntos entre el día anterior y el actual"
+  }, {
+    "q": "¿Pensáis añadir las colas de 1v1 y 2v2?",
+    "a": "Nuestro plan es añadir estas colas en un futuro"
+  }],
   "scripts": {
     "install": "yarn",
     "start": "bankai start index.js",
@@ -19,16 +49,6 @@
     "commit_db": "git pull && git add assets/data/db.json && git commit -m \"chore: data sync\" && git push origin master",
     "sync": "npm run commit_db && npm run build && npm run deploy"
   },
-  "keywords": [
-    "rocket",
-    "league",
-    "mmr",
-    "ranking",
-    "website",
-    "salve"
-  ],
-  "author": "neko250",
-  "license": "MIT",
   "dependencies": {
     "choo": "^6.13.1",
     "choo-service-worker": "^2.4.0",

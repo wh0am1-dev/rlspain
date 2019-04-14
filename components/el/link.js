@@ -7,7 +7,7 @@ module.exports = (text, href, external = false) => {
   let rel = external ? 'noopener noreferrer' : ''
 
   return html`
-    <a class="link yellow bg-animate hover-bg-yellow hover-near-black br2 pa1" href=${href} target=${target} rel=${rel}>
+    <a href=${href} target=${target} rel=${rel} class="link yellow hover-near-black hover-bg-yellow bg-animate pa1 br2">
       ${text}
     </a>
   `

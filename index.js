@@ -23,15 +23,21 @@ if (typeof window !== 'undefined' && window.history.scrollRestoration) {
 
 // ==== stores ====
 app.use(require('./stores/db'))
-app.use(require('./stores/filter'))
-app.use(require('./stores/maintenance'))
+app.use(require('./stores/app'))
+app.use(require('./stores/scroll'))
+
+// ==== views ====
+const home = require('./views/home')
+const player = require('./views/player')
+const faq = require('./views/faq')
+const notFound = require('./views/404')
 
 // ==== routes ====
-app.route('/', require('./views/home'))
-app.route('/player/:id', require('./views/player'))
-app.route('/faq', require('./views/faq'))
-app.route('/404', require('./views/404'))
-app.route('/*', require('./views/404'))
+app.route('/', home)
+app.route('/player/:id', player)
+app.route('/faq', faq)
+app.route('/404', notFound)
+app.route('/*', notFound)
 
 // ==== app ====
 module.exports = app.mount('body')

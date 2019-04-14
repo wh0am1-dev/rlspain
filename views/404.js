@@ -3,7 +3,7 @@
 const html = require('choo/html')
 const title = 'rlspain.cf · 404'
 
-const button = require('../components/button')
+const button = require('../components/el/button')
 
 module.exports = (state, emit) => {
   if (state.title !== title) emit('DOMTitleChange', title)
@@ -11,9 +11,11 @@ module.exports = (state, emit) => {
   return html`
     <body class="code lh-copy bg-near-black near-white" style="cursor: default; user-select: none; scroll-behavior: smooth;">
       <main class="ph4 cf center">
-        <div class="tc w-100 dt">
+        <section class="tc w-100 dt">
           <div class="dtc v-mid">
-            <h2 class="f3 f1-ns mt5"><span class="bg-yellow near-black ph3 pv2 shadow-5 br2">404</span></h2>
+            <h2 class="f3 f1-ns mt5">
+              <span class="bg-yellow near-black ph3 pv2 shadow-5 br2">404</span>
+            </h2>
 
             <div class="mv5">
               <h2>(╯°□°)╯︵ ┻━┻</h2>
@@ -22,7 +24,7 @@ module.exports = (state, emit) => {
 
             ${button('Inicio', () => emit('pushState', '/'))}
           </div>
-        </div>
+        </section>
       </main>
     </body>
   `
