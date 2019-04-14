@@ -16,12 +16,14 @@ module.exports = (state, emitter) => {
   })
 
   emitter.on(state.events.DOMCONTENTLOADED, () => {
-    if (state.maintenance)
+    if (state.maintenance) {
       emitter.emit(state.events.REPLACESTATE, '/')
+    }
   })
 
   emitter.on(state.events.NAVIGATE, () => {
-    if (state.maintenance)
+    if (state.maintenance) {
       emitter.emit(state.events.REPLACESTATE, '/')
+    }
   })
 }

@@ -50,8 +50,9 @@ module.exports = (state, emitter) => {
   })
 
   emitter.on(state.events.NAVIGATE, () => {
-    if (state.route === '/')
+    if (state.route === '/') {
       state.components.list.page = 0
+    }
   })
 
   emitter.on(state.events.DOMCONTENTLOADED, () => {

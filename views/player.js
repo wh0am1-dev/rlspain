@@ -55,8 +55,4 @@ module.exports = (state, emit) => {
       </footer>
     </body>
   `
-
-  function twitter () {
-    window.open(`https://twitter.com/${player.twitter}`, '_blank')
-  }
 }

@@ -3,7 +3,6 @@
 const html = require('choo/html')
 const title = 'rlspain.cf · faq'
 
-const container = require('../components/blck/container')
 const button = require('../components/el/button')
 
 module.exports = (state, emit) => {
