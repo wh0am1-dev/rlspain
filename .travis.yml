@@ -11,14 +11,26 @@ install:
 
 script:
   - npm test
-  - npm run build
 
-after_success:
+before_deploy:
   - eval "$(ssh-agent -s)"
   - chmod 600 .travis/travis_rsa
   - ssh-add .travis/travis_rsa
   - git checkout master
-  - ls dist/
-  # - git commit -m "travis automated commit"
-  # - git remote add deploy git@github.com:Neko250/rlscrapper.git
-  # - git push deploy master
+  - npm run crawl
+  - npm run build
+  - git add assets/data/db.json
+  - git commit -m "travis db update"
+  - git remote add deploy git@github.com:Neko250/rlscrapper.git
+  - git push deploy master
+
+deploy:
+  provider: pages
+  skip_cleanup: true
+  github_token: $GITHUB_TOKEN
+  target_branch: gh-pages
+  keep_history: false
+  local_dir: dist/
+  fqdn: rlspain.cf
+  on:
+    branch: master
