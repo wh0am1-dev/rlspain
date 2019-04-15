@@ -18,8 +18,7 @@ after_success:
   - chmod 600 .travis/travis_rsa
   - ssh-add .travis/travis_rsa
   - git checkout master
-  - touch testing.travis
-  - git add testing.travis
-  - git commit -m "travis automated commit"
-  - git remote add deploy git@github.com:Neko250/rlscrapper.git
-  - git push deploy master
+  - ls dist/
+  # - git commit -m "travis automated commit"
+  # - git remote add deploy git@github.com:Neko250/rlscrapper.git
+  # - git push deploy master
