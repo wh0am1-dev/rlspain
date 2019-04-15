@@ -11,13 +11,14 @@ install:
 
 script:
   - npm test
-  - touch testing.travis
   - npm run build
 
 after_success:
   - eval "$(ssh-agent -s)"
   - chmod 600 .travis/travis_rsa
   - ssh-add .travis/travis_rsa
+  - git checkout master
+  - touch testing.travis
   - git add testing.travis
   - git commit -m "travis automated commit"
   - git remote add deploy git@github.com:Neko250/rlscrapper.git
