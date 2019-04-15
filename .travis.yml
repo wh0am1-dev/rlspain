@@ -4,7 +4,7 @@ node_js:
   - 10.15.3
 
 before_install:
-  - openssl aes-256-cbc -K $encrypted_36ffc1369fbc_key -iv $encrypted_36ffc1369fbc_iv -in travis_rsa.enc -out travis_rsa.enc -d
+  - openssl aes-256-cbc -K $encrypted_f73abf23e737_key -iv $encrypted_f73abf23e737_iv -in .travis/travis_rsa.enc -out .travis/travis_rsa -d
 
 install:
   - npm install
