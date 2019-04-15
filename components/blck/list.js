@@ -52,7 +52,7 @@ module.exports = (state, emit) => {
       <li class="flex items-center lh-copy pa3 bb b--dark-gray shadow-hover grow"
         onclick="${() => window.open(`https://twitter.com/${player.twitter}`, '_blank')}">
 
-        <span class="f3 f2-l yellow">
+        <span class="flex items-center f3 f2-l yellow">
           ${delta(player.vs3.deltaPos)}
           ${player.vs3.pos}
         </span>
