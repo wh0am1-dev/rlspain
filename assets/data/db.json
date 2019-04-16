@@ -1,5 +1,313 @@
 [
   {
+    "nickname": "Cletuh26",
+    "id": "76561198289034949",
+    "team": "Fake Clan",
+    "role": "",
+    "twitter": "ChicoAndroidYT",
+    "twitch": "chicoandroid_yt",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1206,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Carlos_T",
+    "id": "76561198290269843",
+    "team": "",
+    "role": "",
+    "twitter": "C4rlos_t",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1125,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "juanbl98765",
+    "id": "juanbl98765",
+    "team": "",
+    "role": "",
+    "twitter": "juanbl982",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1101,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "KawaiiKoala898",
+    "id": "76561198281650539",
+    "team": "",
+    "role": "",
+    "twitter": "koala898",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1154,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Tidus",
+    "id": "76561198870923564",
+    "team": "Hawks Gaming",
+    "role": "",
+    "twitter": "TidusRL",
+    "twitch": "Tidus_RL",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1458,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "strixZombis",
+    "id": "strixZombis",
+    "team": "",
+    "role": "",
+    "twitter": "strixZombis",
+    "twitch": "strixZombis",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1227,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Gabriel8901808",
+    "id": "Gabriel8901808",
+    "team": "Green Dragons ",
+    "role": "CEO",
+    "twitter": "Gabriel89011",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1197,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Jandranza12",
+    "id": "Jandranza12",
+    "team": "",
+    "role": "",
+    "twitter": "JandroCaro",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1271,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Reinox",
+    "id": "76561198882561555",
+    "team": "Hawks Gaming",
+    "role": "",
+    "twitter": "xReinox",
+    "twitch": "zReinox",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1529,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Tomato",
+    "id": "76561198800410278",
+    "team": "T3AM SALAD",
+    "role": "",
+    "twitter": "DviserRL",
+    "twitch": "Dviser",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1394,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Edu.",
+    "id": "76561198849818063",
+    "team": "",
+    "role": "",
+    "twitter": "EDU09881",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1466,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
     "nickname": "GCR710",
     "id": "76561198063473656",
     "team": "ARG",
@@ -1346,7 +1654,7 @@
   {
     "nickname": "Juanma_lokko",
     "id": "76561198359283859",
-    "team": "",
+    "team": "Team Fenix",
     "role": "",
     "twitter": "Juanma_lokko",
     "twitch": "",
@@ -3446,7 +3754,7 @@
   {
     "nickname": "Timo",
     "id": "76561198211281451",
-    "team": "",
+    "team": "Hawks Gaming",
     "role": "",
     "twitter": "TimoRL_",
     "twitch": "",
@@ -3950,7 +4258,7 @@
   {
     "nickname": "Loriti",
     "id": "76561198072061959",
-    "team": "Vanguard",
+    "team": "",
     "role": "",
     "twitter": "JustLoriti",
     "twitch": "loriti",
@@ -6580,9 +6888,9 @@
     }
   },
   {
-    "nickname": "Shinkiro",
+    "nickname": "Uteki",
     "id": "76561198211615309",
-    "team": "Hunters eSports",
+    "team": "Rainbow Legends",
     "role": "",
     "twitter": "nando080597",
     "twitch": "",
@@ -7590,7 +7898,7 @@
   {
     "nickname": "Jocelyte",
     "id": "Jocelyte",
-    "team": "",
+    "team": "Hawks Gaming",
     "role": "",
     "twitter": "",
     "twitch": "",
