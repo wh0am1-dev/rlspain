@@ -1,5 +1,33 @@
 [
   {
+    "nickname": "Incel Teleron",
+    "id": "76561198051323404",
+    "team": "",
+    "role": "",
+    "twitter": "Asderel992",
+    "twitch": "",
+    "name": "Pablo Sabín",
+    "platform": "steam",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1237,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
     "nickname": "Cletuh26",
     "id": "76561198289034949",
     "team": "Fake Clan",
