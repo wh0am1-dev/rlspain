@@ -1,5 +1,33 @@
 [
   {
+    "nickname": "Espumita",
+    "id": "76561198202845030",
+    "team": "Villarreal CF",
+    "role": "",
+    "twitter": "EspumitaRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 1,
+      "deltaPos": -1,
+      "mmr": 1900,
+      "deltaMmr": 22
+    },
+    "vs2": {
+      "pos": 19,
+      "deltaPos": -1,
+      "mmr": 1745,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 190,
+      "deltaPos": -69,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
     "nickname": "GCR710",
     "id": "76561198063473656",
     "team": "ARG",
@@ -9,8 +37,8 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 1,
-      "deltaPos": -1,
+      "pos": 2,
+      "deltaPos": 1,
       "mmr": 1896,
       "deltaMmr": 0
     },
@@ -21,37 +49,9 @@
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 16,
-      "deltaPos": 0,
+      "pos": 15,
+      "deltaPos": -1,
       "mmr": 1265,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Espumita",
-    "id": "76561198202845030",
-    "team": "Villarreal CF",
-    "role": "",
-    "twitter": "EspumitaRL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 2,
-      "deltaPos": 1,
-      "mmr": 1878,
-      "deltaMmr": -24
-    },
-    "vs2": {
-      "pos": 20,
-      "deltaPos": 7,
-      "mmr": 1745,
-      "deltaMmr": -22
-    },
-    "vs1": {
-      "pos": 259,
-      "deltaPos": 6,
-      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -66,19 +66,19 @@
     "platform": "steam",
     "vs3": {
       "pos": 3,
-      "deltaPos": -6,
+      "deltaPos": 0,
       "mmr": 1859,
-      "deltaMmr": 64
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 18,
-      "deltaPos": 0,
+      "pos": 17,
+      "deltaPos": -1,
       "mmr": 1752,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 34,
-      "deltaPos": 1,
+      "pos": 33,
+      "deltaPos": -1,
       "mmr": 1186,
       "deltaMmr": 0
     }
@@ -94,15 +94,15 @@
     "platform": "steam",
     "vs3": {
       "pos": 4,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1840,
-      "deltaMmr": 10
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 10,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1818,
-      "deltaMmr": 1
+      "deltaMmr": 0
     },
     "vs1": {
       "pos": 6,
@@ -122,19 +122,19 @@
     "platform": "steam",
     "vs3": {
       "pos": 5,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1837,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 24,
-      "deltaPos": -2,
+      "pos": 26,
+      "deltaPos": 2,
       "mmr": 1726,
-      "deltaMmr": 6
+      "deltaMmr": 0
     },
     "vs1": {
       "pos": 50,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1152,
       "deltaMmr": 0
     }
@@ -150,19 +150,19 @@
     "platform": "steam",
     "vs3": {
       "pos": 6,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1828,
-      "deltaMmr": -41
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 4,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1899,
-      "deltaMmr": 52
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 222,
-      "deltaPos": 25,
+      "pos": 236,
+      "deltaPos": 14,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -178,19 +178,19 @@
     "platform": "steam",
     "vs3": {
       "pos": 7,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1827,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 21,
-      "deltaPos": 1,
+      "pos": 20,
+      "deltaPos": -1,
       "mmr": 1742,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 17,
-      "deltaPos": 0,
+      "pos": 18,
+      "deltaPos": 1,
       "mmr": 1262,
       "deltaMmr": 0
     }
@@ -206,48 +206,76 @@
     "platform": "steam",
     "vs3": {
       "pos": 8,
-      "deltaPos": -7,
-      "mmr": 1813,
-      "deltaMmr": 57
+      "deltaPos": 0,
+      "mmr": 1823,
+      "deltaMmr": 10
     },
     "vs2": {
-      "pos": 16,
-      "deltaPos": -1,
-      "mmr": 1761,
-      "deltaMmr": 8
+      "pos": 14,
+      "deltaPos": -2,
+      "mmr": 1757,
+      "deltaMmr": -4
     },
     "vs1": {
-      "pos": 36,
-      "deltaPos": 0,
+      "pos": 37,
+      "deltaPos": 1,
       "mmr": 1176,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "imtrbl",
-    "id": "76561198417118771",
-    "team": "",
+    "nickname": "Hadry",
+    "id": "76561198195843577",
+    "team": "SD Eibar",
     "role": "",
-    "twitter": "trblrl",
+    "twitter": "RocketHadrianus",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
       "pos": 9,
-      "deltaPos": -3,
-      "mmr": 1807,
-      "deltaMmr": 20
+      "deltaPos": -5,
+      "mmr": 1819,
+      "deltaMmr": 34
     },
     "vs2": {
-      "pos": 66,
-      "deltaPos": 2,
-      "mmr": 1590,
+      "pos": 16,
+      "deltaPos": -1,
+      "mmr": 1753,
+      "deltaMmr": -8
+    },
+    "vs1": {
+      "pos": 245,
+      "deltaPos": 31,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Luxxor",
+    "id": "76561198334924562",
+    "team": "Beşiktaş JK",
+    "role": "",
+    "twitter": "LuXxoR_RL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 10,
+      "deltaPos": -1,
+      "mmr": 1808,
+      "deltaMmr": 13
+    },
+    "vs2": {
+      "pos": 12,
+      "deltaPos": 1,
+      "mmr": 1813,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 237,
-      "deltaPos": -4,
-      "mmr": 0,
+      "pos": 20,
+      "deltaPos": 0,
+      "mmr": 1247,
       "deltaMmr": 0
     }
   },
@@ -261,49 +289,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 10,
-      "deltaPos": 2,
+      "pos": 11,
+      "deltaPos": 1,
       "mmr": 1807,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 13,
-      "deltaPos": 1,
-      "mmr": 1784,
-      "deltaMmr": 0
+      "pos": 11,
+      "deltaPos": -2,
+      "mmr": 1817,
+      "deltaMmr": 33
     },
     "vs1": {
       "pos": 8,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1288,
-      "deltaMmr": 10
+      "deltaMmr": 0
     }
   },
   {
-    "nickname": "Luxxor",
-    "id": "76561198334924562",
-    "team": "Beşiktaş JK",
+    "nickname": "imtrbl",
+    "id": "76561198417118771",
+    "team": "",
     "role": "",
-    "twitter": "LuXxoR_RL",
+    "twitter": "trblrl",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 11,
-      "deltaPos": 4,
-      "mmr": 1795,
-      "deltaMmr": -30
-    },
-    "vs2": {
-      "pos": 11,
-      "deltaPos": 2,
-      "mmr": 1813,
+      "pos": 12,
+      "deltaPos": 3,
+      "mmr": 1807,
       "deltaMmr": 0
     },
+    "vs2": {
+      "pos": 49,
+      "deltaPos": -17,
+      "mmr": 1622,
+      "deltaMmr": 32
+    },
     "vs1": {
-      "pos": 20,
-      "deltaPos": 0,
-      "mmr": 1247,
+      "pos": 262,
+      "deltaPos": 25,
+      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -317,8 +345,8 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 12,
-      "deltaPos": 2,
+      "pos": 13,
+      "deltaPos": 1,
       "mmr": 1789,
       "deltaMmr": 0
     },
@@ -345,14 +373,14 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 13,
-      "deltaPos": 2,
+      "pos": 14,
+      "deltaPos": 1,
       "mmr": 1788,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 9,
-      "deltaPos": 2,
+      "pos": 8,
+      "deltaPos": -1,
       "mmr": 1829,
       "deltaMmr": 0
     },
@@ -364,30 +392,30 @@
     }
   },
   {
-    "nickname": "Hadry",
-    "id": "76561198195843577",
-    "team": "SD Eibar",
+    "nickname": "Ragner",
+    "id": "76561198023544143",
+    "team": "",
     "role": "",
-    "twitter": "RocketHadrianus",
+    "twitter": "Ragner_RL",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 14,
-      "deltaPos": 0,
-      "mmr": 1785,
-      "deltaMmr": 16
+      "pos": 15,
+      "deltaPos": -3,
+      "mmr": 1783,
+      "deltaMmr": 28
     },
     "vs2": {
-      "pos": 17,
-      "deltaPos": -5,
-      "mmr": 1761,
-      "deltaMmr": 30
+      "pos": 145,
+      "deltaPos": 1,
+      "mmr": 1462,
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 214,
-      "deltaPos": -47,
-      "mmr": 0,
+      "pos": 106,
+      "deltaPos": 1,
+      "mmr": 1064,
       "deltaMmr": 0
     }
   },
@@ -401,16 +429,16 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 15,
-      "deltaPos": 2,
+      "pos": 16,
+      "deltaPos": 1,
       "mmr": 1782,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 33,
-      "deltaPos": -1,
+      "pos": 34,
+      "deltaPos": 1,
       "mmr": 1681,
-      "deltaMmr": 9
+      "deltaMmr": 0
     },
     "vs1": {
       "pos": 10,
@@ -429,22 +457,50 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 16,
-      "deltaPos": -2,
-      "mmr": 1758,
-      "deltaMmr": 13
+      "pos": 17,
+      "deltaPos": 1,
+      "mmr": 1769,
+      "deltaMmr": 11
     },
     "vs2": {
-      "pos": 28,
+      "pos": 31,
       "deltaPos": 3,
-      "mmr": 1710,
-      "deltaMmr": -13
+      "mmr": 1701,
+      "deltaMmr": -9
     },
     "vs1": {
-      "pos": 37,
-      "deltaPos": 2,
-      "mmr": 1172,
-      "deltaMmr": -9
+      "pos": 31,
+      "deltaPos": -6,
+      "mmr": 1188,
+      "deltaMmr": 16
+    }
+  },
+  {
+    "nickname": "Killero",
+    "id": "76561198201592418",
+    "team": "",
+    "role": "",
+    "twitter": "KilleroRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 18,
+      "deltaPos": -2,
+      "mmr": 1767,
+      "deltaMmr": 17
+    },
+    "vs2": {
+      "pos": 42,
+      "deltaPos": 3,
+      "mmr": 1647,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 46,
+      "deltaPos": -1,
+      "mmr": 1154,
+      "deltaMmr": 0
     }
   },
   {
@@ -457,49 +513,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 17,
-      "deltaPos": -7,
+      "pos": 19,
+      "deltaPos": 2,
       "mmr": 1756,
-      "deltaMmr": 39
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 87,
-      "deltaPos": 6,
-      "mmr": 1553,
-      "deltaMmr": -3
+      "pos": 83,
+      "deltaPos": -4,
+      "mmr": 1557,
+      "deltaMmr": 4
     },
     "vs1": {
       "pos": 58,
-      "deltaPos": 2,
-      "mmr": 1142,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Ragner",
-    "id": "76561198023544143",
-    "team": "",
-    "role": "",
-    "twitter": "Ragner_RL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 18,
-      "deltaPos": -15,
-      "mmr": 1755,
-      "deltaMmr": 75
-    },
-    "vs2": {
-      "pos": 144,
-      "deltaPos": 1,
-      "mmr": 1462,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 105,
       "deltaPos": 0,
-      "mmr": 1064,
+      "mmr": 1142,
       "deltaMmr": 0
     }
   },
@@ -513,49 +541,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 19,
-      "deltaPos": -3,
+      "pos": 20,
+      "deltaPos": 1,
       "mmr": 1752,
-      "deltaMmr": 26
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 14,
-      "deltaPos": -2,
-      "mmr": 1771,
-      "deltaMmr": 13
+      "pos": 22,
+      "deltaPos": 8,
+      "mmr": 1739,
+      "deltaMmr": -32
     },
     "vs1": {
       "pos": 9,
-      "deltaPos": 1,
-      "mmr": 1286,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Killero",
-    "id": "76561198201592418",
-    "team": "",
-    "role": "",
-    "twitter": "KilleroRL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 20,
-      "deltaPos": -7,
-      "mmr": 1750,
-      "deltaMmr": 41
-    },
-    "vs2": {
-      "pos": 39,
       "deltaPos": 0,
-      "mmr": 1647,
-      "deltaMmr": 8
-    },
-    "vs1": {
-      "pos": 47,
-      "deltaPos": 2,
-      "mmr": 1154,
+      "mmr": 1286,
       "deltaMmr": 0
     }
   },
@@ -570,21 +570,21 @@
     "platform": "steam",
     "vs3": {
       "pos": 21,
-      "deltaPos": 4,
-      "mmr": 1746,
-      "deltaMmr": 0
+      "deltaPos": 0,
+      "mmr": 1745,
+      "deltaMmr": -1
     },
     "vs2": {
-      "pos": 57,
-      "deltaPos": -1,
-      "mmr": 1608,
-      "deltaMmr": 0
+      "pos": 61,
+      "deltaPos": 4,
+      "mmr": 1602,
+      "deltaMmr": -6
     },
     "vs1": {
-      "pos": 40,
-      "deltaPos": 3,
-      "mmr": 1167,
-      "deltaMmr": -9
+      "pos": 39,
+      "deltaPos": -1,
+      "mmr": 1171,
+      "deltaMmr": 4
     }
   },
   {
@@ -598,48 +598,20 @@
     "platform": "steam",
     "vs3": {
       "pos": 22,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1741,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 135,
-      "deltaPos": 2,
+      "pos": 134,
+      "deltaPos": -1,
       "mmr": 1486,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 111,
-      "deltaPos": -2,
+      "pos": 113,
+      "deltaPos": 2,
       "mmr": 1048,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "ErAle",
-    "id": "76561198122631127",
-    "team": "",
-    "role": "",
-    "twitter": "AleJimne5",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 23,
-      "deltaPos": -33,
-      "mmr": 1741,
-      "deltaMmr": 117
-    },
-    "vs2": {
-      "pos": 15,
-      "deltaPos": -4,
-      "mmr": 1765,
-      "deltaMmr": 16
-    },
-    "vs1": {
-      "pos": 12,
-      "deltaPos": 0,
-      "mmr": 1276,
       "deltaMmr": 0
     }
   },
@@ -653,49 +625,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 24,
-      "deltaPos": 8,
+      "pos": 23,
+      "deltaPos": -1,
       "mmr": 1738,
-      "deltaMmr": -13
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 7,
-      "deltaPos": -7,
+      "deltaPos": 0,
       "mmr": 1836,
-      "deltaMmr": 78
+      "deltaMmr": 0
     },
     "vs1": {
       "pos": 22,
-      "deltaPos": -6,
-      "mmr": 1244,
-      "deltaMmr": 36
-    }
-  },
-  {
-    "nickname": "Jiiyee",
-    "id": "76561198046809450",
-    "team": "",
-    "role": "",
-    "twitter": "JiiYee",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 25,
-      "deltaPos": 2,
-      "mmr": 1724,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 62,
       "deltaPos": 0,
-      "mmr": 1601,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 31,
-      "deltaPos": 1,
-      "mmr": 1195,
+      "mmr": 1244,
       "deltaMmr": 0
     }
   },
@@ -709,245 +653,77 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 26,
-      "deltaPos": -18,
-      "mmr": 1722,
-      "deltaMmr": 71
+      "pos": 24,
+      "deltaPos": -2,
+      "mmr": 1727,
+      "deltaMmr": 5
     },
     "vs2": {
-      "pos": 83,
-      "deltaPos": -1,
+      "pos": 84,
+      "deltaPos": 1,
       "mmr": 1556,
-      "deltaMmr": 1
+      "deltaMmr": 0
     },
     "vs1": {
       "pos": 7,
       "deltaPos": 0,
       "mmr": 1293,
-      "deltaMmr": 6
+      "deltaMmr": 0
     }
   },
   {
-    "nickname": "LuiisP",
-    "id": "LuiisP_03",
-    "team": "EC4 Gaming",
+    "nickname": "ErAle",
+    "id": "76561198122631127",
+    "team": "",
     "role": "",
-    "twitter": "LuiisP_03",
+    "twitter": "AleJimne5",
     "twitch": "",
     "name": "",
-    "platform": "ps",
+    "platform": "steam",
     "vs3": {
-      "pos": 27,
-      "deltaPos": 1,
-      "mmr": 1716,
-      "deltaMmr": 5
+      "pos": 25,
+      "deltaPos": 2,
+      "mmr": 1725,
+      "deltaMmr": -16
     },
     "vs2": {
-      "pos": 12,
-      "deltaPos": 2,
-      "mmr": 1807,
-      "deltaMmr": 0
+      "pos": 15,
+      "deltaPos": 0,
+      "mmr": 1756,
+      "deltaMmr": -9
     },
     "vs1": {
       "pos": 11,
-      "deltaPos": 2,
-      "mmr": 1282,
-      "deltaMmr": -3
+      "deltaPos": -1,
+      "mmr": 1276,
+      "deltaMmr": 0
     }
   },
   {
-    "nickname": "Electrik",
-    "id": "76561198325294984",
+    "nickname": "Jiiyee",
+    "id": "76561198046809450",
     "team": "",
     "role": "",
-    "twitter": "ElectrikRL",
+    "twitter": "JiiYee",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 28,
-      "deltaPos": -7,
-      "mmr": 1706,
-      "deltaMmr": 29
+      "pos": 26,
+      "deltaPos": 1,
+      "mmr": 1724,
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 116,
-      "deltaPos": 2,
-      "mmr": 1516,
+      "pos": 62,
+      "deltaPos": 0,
+      "mmr": 1601,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 72,
-      "deltaPos": 2,
-      "mmr": 1119,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Handriu",
-    "id": "76561198210103819",
-    "team": "",
-    "role": "",
-    "twitter": "HANDRIU_RL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 29,
-      "deltaPos": -10,
-      "mmr": 1702,
-      "deltaMmr": 39
-    },
-    "vs2": {
-      "pos": 120,
-      "deltaPos": 2,
-      "mmr": 1510,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 48,
-      "deltaPos": 2,
-      "mmr": 1153,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "kiermonster",
-    "id": "76561198339384251",
-    "team": "Crazy Crew",
-    "role": "",
-    "twitter": "KierMonsteR_",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
       "pos": 30,
-      "deltaPos": 10,
-      "mmr": 1702,
-      "deltaMmr": -26
-    },
-    "vs2": {
-      "pos": 6,
-      "deltaPos": 1,
-      "mmr": 1854,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 18,
-      "deltaPos": -5,
-      "mmr": 1261,
-      "deltaMmr": 20
-    }
-  },
-  {
-    "nickname": "Samuel",
-    "id": "76561198202624036",
-    "team": "Knocked Out",
-    "role": "",
-    "twitter": "samucortes2000",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 31,
-      "deltaPos": 2,
-      "mmr": 1700,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 19,
-      "deltaPos": 4,
-      "mmr": 1750,
-      "deltaMmr": -8
-    },
-    "vs1": {
-      "pos": 2,
-      "deltaPos": 0,
-      "mmr": 1359,
-      "deltaMmr": 24
-    }
-  },
-  {
-    "nickname": "B00m_Qu!ck13",
-    "id": "76561198283164522",
-    "team": "FekyX",
-    "role": "",
-    "twitter": "y_b00mquick13",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 32,
-      "deltaPos": 4,
-      "mmr": 1699,
-      "deltaMmr": -8
-    },
-    "vs2": {
-      "pos": 22,
-      "deltaPos": 1,
-      "mmr": 1739,
-      "deltaMmr": 4
-    },
-    "vs1": {
-      "pos": 255,
-      "deltaPos": 9,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "MV.",
-    "id": "76561198319809944",
-    "team": "",
-    "role": "",
-    "twitter": "CRISTIAN_MV_18",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 33,
-      "deltaPos": -4,
-      "mmr": 1698,
-      "deltaMmr": 32
-    },
-    "vs2": {
-      "pos": 70,
-      "deltaPos": -2,
-      "mmr": 1577,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 272,
-      "deltaPos": 54,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Gaiade",
-    "id": "76561198851094214",
-    "team": "",
-    "role": "",
-    "twitter": "GaiadeRL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 34,
-      "deltaPos": 3,
-      "mmr": 1687,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 23,
-      "deltaPos": 0,
-      "mmr": 1729,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 25,
-      "deltaPos": 0,
-      "mmr": 1238,
+      "deltaPos": -1,
+      "mmr": 1195,
       "deltaMmr": 0
     }
   },
@@ -961,22 +737,302 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 35,
-      "deltaPos": 3,
-      "mmr": 1685,
-      "deltaMmr": 2
+      "pos": 27,
+      "deltaPos": -8,
+      "mmr": 1720,
+      "deltaMmr": 35
     },
     "vs2": {
-      "pos": 8,
-      "deltaPos": -3,
-      "mmr": 1831,
-      "deltaMmr": 39
+      "pos": 9,
+      "deltaPos": 1,
+      "mmr": 1822,
+      "deltaMmr": -9
     },
     "vs1": {
-      "pos": 15,
-      "deltaPos": 0,
+      "pos": 14,
+      "deltaPos": -1,
       "mmr": 1267,
       "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "LTK_AtomiK",
+    "id": "76561198879295437",
+    "team": "",
+    "role": "",
+    "twitter": "rlatomik",
+    "twitch": "ltk_atomik1",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 28,
+      "deltaPos": -16,
+      "mmr": 1713,
+      "deltaMmr": 55
+    },
+    "vs2": {
+      "pos": 27,
+      "deltaPos": 1,
+      "mmr": 1726,
+      "deltaMmr": 8
+    },
+    "vs1": {
+      "pos": 12,
+      "deltaPos": -1,
+      "mmr": 1275,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Electrik",
+    "id": "76561198325294984",
+    "team": "",
+    "role": "",
+    "twitter": "ElectrikRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 29,
+      "deltaPos": 1,
+      "mmr": 1712,
+      "deltaMmr": 6
+    },
+    "vs2": {
+      "pos": 120,
+      "deltaPos": 4,
+      "mmr": 1516,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 71,
+      "deltaPos": -1,
+      "mmr": 1119,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "LuiisP",
+    "id": "LuiisP_03",
+    "team": "EC4 Gaming",
+    "role": "",
+    "twitter": "LuiisP_03",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 30,
+      "deltaPos": 3,
+      "mmr": 1711,
+      "deltaMmr": -5
+    },
+    "vs2": {
+      "pos": 13,
+      "deltaPos": 1,
+      "mmr": 1807,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 17,
+      "deltaPos": 6,
+      "mmr": 1264,
+      "deltaMmr": -18
+    }
+  },
+  {
+    "nickname": "kiermonster",
+    "id": "76561198339384251",
+    "team": "Crazy Crew",
+    "role": "",
+    "twitter": "KierMonsteR_",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 31,
+      "deltaPos": 1,
+      "mmr": 1702,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 6,
+      "deltaPos": 0,
+      "mmr": 1854,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 19,
+      "deltaPos": 1,
+      "mmr": 1261,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Samuel",
+    "id": "76561198202624036",
+    "team": "Knocked Out",
+    "role": "",
+    "twitter": "samucortes2000",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 32,
+      "deltaPos": 1,
+      "mmr": 1700,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 18,
+      "deltaPos": -1,
+      "mmr": 1750,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 2,
+      "deltaPos": 0,
+      "mmr": 1359,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "B00m_Qu!ck13",
+    "id": "76561198283164522",
+    "team": "FekyX",
+    "role": "",
+    "twitter": "y_b00mquick13",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 33,
+      "deltaPos": 1,
+      "mmr": 1699,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 23,
+      "deltaPos": 1,
+      "mmr": 1739,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 223,
+      "deltaPos": -32,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "ILuZziOn.",
+    "id": "76561198168060263",
+    "team": "",
+    "role": "",
+    "twitter": "ILuZziOnYT",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 34,
+      "deltaPos": -15,
+      "mmr": 1693,
+      "deltaMmr": 47
+    },
+    "vs2": {
+      "pos": 100,
+      "deltaPos": 3,
+      "mmr": 1537,
+      "deltaMmr": -4
+    },
+    "vs1": {
+      "pos": 85,
+      "deltaPos": 0,
+      "mmr": 1097,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Gaiade",
+    "id": "76561198851094214",
+    "team": "",
+    "role": "",
+    "twitter": "GaiadeRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 35,
+      "deltaPos": 1,
+      "mmr": 1687,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 24,
+      "deltaPos": 1,
+      "mmr": 1729,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 26,
+      "deltaPos": 1,
+      "mmr": 1238,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Handriu",
+    "id": "76561198210103819",
+    "team": "",
+    "role": "",
+    "twitter": "HANDRIU_RL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 36,
+      "deltaPos": 7,
+      "mmr": 1686,
+      "deltaMmr": -16
+    },
+    "vs2": {
+      "pos": 114,
+      "deltaPos": -6,
+      "mmr": 1520,
+      "deltaMmr": 10
+    },
+    "vs1": {
+      "pos": 47,
+      "deltaPos": -1,
+      "mmr": 1153,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Clayx",
+    "id": "76561198247922306",
+    "team": "ARG",
+    "role": "",
+    "twitter": "ClayX_Rl",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 37,
+      "deltaPos": -2,
+      "mmr": 1682,
+      "deltaMmr": 3
+    },
+    "vs2": {
+      "pos": 2,
+      "deltaPos": 0,
+      "mmr": 1963,
+      "deltaMmr": 10
+    },
+    "vs1": {
+      "pos": 1,
+      "deltaPos": 0,
+      "mmr": 1404,
+      "deltaMmr": -1
     }
   },
   {
@@ -989,22 +1045,22 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 36,
-      "deltaPos": -5,
-      "mmr": 1684,
-      "deltaMmr": 24
+      "pos": 38,
+      "deltaPos": 2,
+      "mmr": 1681,
+      "deltaMmr": -3
     },
     "vs2": {
-      "pos": 27,
-      "deltaPos": -3,
+      "pos": 30,
+      "deltaPos": 3,
       "mmr": 1714,
-      "deltaMmr": 23
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 32,
-      "deltaPos": 3,
-      "mmr": 1195,
-      "deltaMmr": 0
+      "pos": 34,
+      "deltaPos": 2,
+      "mmr": 1184,
+      "deltaMmr": -11
     }
   },
   {
@@ -1017,19 +1073,19 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 37,
-      "deltaPos": 1,
+      "pos": 39,
+      "deltaPos": 2,
       "mmr": 1681,
-      "deltaMmr": 13
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 47,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1626,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 44,
+      "pos": 45,
       "deltaPos": 1,
       "mmr": 1158,
       "deltaMmr": 0
@@ -1045,50 +1101,22 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 38,
-      "deltaPos": -2,
+      "pos": 40,
+      "deltaPos": 2,
       "mmr": 1680,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 43,
+      "deltaPos": -6,
+      "mmr": 1641,
       "deltaMmr": 18
     },
-    "vs2": {
-      "pos": 49,
-      "deltaPos": 1,
-      "mmr": 1623,
-      "deltaMmr": 0
-    },
     "vs1": {
-      "pos": 39,
-      "deltaPos": 0,
+      "pos": 40,
+      "deltaPos": 1,
       "mmr": 1169,
       "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Clayx",
-    "id": "76561198247922306",
-    "team": "ARG",
-    "role": "",
-    "twitter": "ClayX_Rl",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 39,
-      "deltaPos": -8,
-      "mmr": 1679,
-      "deltaMmr": 35
-    },
-    "vs2": {
-      "pos": 2,
-      "deltaPos": 0,
-      "mmr": 1953,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 1,
-      "deltaPos": 0,
-      "mmr": 1405,
-      "deltaMmr": 9
     }
   },
   {
@@ -1101,76 +1129,76 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 40,
-      "deltaPos": 6,
+      "pos": 41,
+      "deltaPos": 1,
       "mmr": 1678,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 43,
-      "deltaPos": 1,
-      "mmr": 1629,
-      "deltaMmr": 0
+      "pos": 65,
+      "deltaPos": 22,
+      "mmr": 1598,
+      "deltaMmr": -31
     },
     "vs1": {
       "pos": 80,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1110,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Kratos",
-    "id": "76561198399536154",
-    "team": "Team Genetic",
+    "nickname": "lete7",
+    "id": "76561198803139952",
+    "team": "",
     "role": "",
-    "twitter": "kratosRL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 41,
-      "deltaPos": 16,
-      "mmr": 1677,
-      "deltaMmr": -38
-    },
-    "vs2": {
-      "pos": 88,
-      "deltaPos": 2,
-      "mmr": 1550,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 226,
-      "deltaPos": -14,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Syston",
-    "id": "76561198117182114",
-    "team": "SD Eibar",
-    "role": "",
-    "twitter": "Syston_rl",
+    "twitter": "Lete7RL",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
       "pos": 42,
-      "deltaPos": 21,
-      "mmr": 1672,
-      "deltaMmr": -55
+      "deltaPos": -5,
+      "mmr": 1675,
+      "deltaMmr": 22
     },
     "vs2": {
-      "pos": 94,
+      "pos": 75,
+      "deltaPos": 6,
+      "mmr": 1569,
+      "deltaMmr": -17
+    },
+    "vs1": {
+      "pos": 24,
       "deltaPos": 1,
-      "mmr": 1543,
+      "mmr": 1244,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "MV.",
+    "id": "76561198319809944",
+    "team": "",
+    "role": "",
+    "twitter": "CRISTIAN_MV_18",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 43,
+      "deltaPos": 10,
+      "mmr": 1667,
+      "deltaMmr": -31
+    },
+    "vs2": {
+      "pos": 71,
+      "deltaPos": 1,
+      "mmr": 1577,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 253,
-      "deltaPos": 39,
+      "pos": 243,
+      "deltaPos": -29,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -1185,50 +1213,78 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 43,
-      "deltaPos": 5,
+      "pos": 44,
+      "deltaPos": 1,
       "mmr": 1663,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 51,
+      "pos": 50,
       "deltaPos": -1,
       "mmr": 1621,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 203,
-      "deltaPos": -32,
+      "pos": 264,
+      "deltaPos": 61,
       "mmr": 0,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "LTK_AtomiK",
-    "id": "76561198879295437",
-    "team": "",
+    "nickname": "Syston",
+    "id": "76561198117182114",
+    "team": "SD Eibar",
     "role": "",
-    "twitter": "rlatomik",
-    "twitch": "ltk_atomik1",
+    "twitter": "Syston_rl",
+    "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 44,
-      "deltaPos": -2,
-      "mmr": 1658,
-      "deltaMmr": 12
+      "pos": 45,
+      "deltaPos": 3,
+      "mmr": 1660,
+      "deltaMmr": -12
     },
     "vs2": {
-      "pos": 26,
-      "deltaPos": -5,
-      "mmr": 1718,
-      "deltaMmr": 28
+      "pos": 88,
+      "deltaPos": -6,
+      "mmr": 1553,
+      "deltaMmr": 10
     },
     "vs1": {
-      "pos": 13,
-      "deltaPos": 0,
-      "mmr": 1275,
-      "deltaMmr": 0
+      "pos": 65,
+      "deltaPos": -188,
+      "mmr": 1135,
+      "deltaMmr": 1135
+    }
+  },
+  {
+    "nickname": "Cristian (Boss)",
+    "id": "76561198845948731",
+    "team": "",
+    "role": "",
+    "twitter": "BossxXxcristian",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 46,
+      "deltaPos": -18,
+      "mmr": 1659,
+      "deltaMmr": 61
+    },
+    "vs2": {
+      "pos": 101,
+      "deltaPos": 10,
+      "mmr": 1537,
+      "deltaMmr": -10
+    },
+    "vs1": {
+      "pos": 56,
+      "deltaPos": 11,
+      "mmr": 1147,
+      "deltaMmr": -10
     }
   },
   {
@@ -1241,20 +1297,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 45,
-      "deltaPos": 3,
+      "pos": 47,
+      "deltaPos": 2,
       "mmr": 1656,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 5,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1855,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 14,
-      "deltaPos": 0,
+      "pos": 13,
+      "deltaPos": -1,
       "mmr": 1273,
       "deltaMmr": 0
     }
@@ -1269,49 +1325,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 46,
-      "deltaPos": 3,
+      "pos": 48,
+      "deltaPos": 2,
       "mmr": 1656,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 71,
-      "deltaPos": 0,
-      "mmr": 1577,
-      "deltaMmr": 0
+      "pos": 28,
+      "deltaPos": -43,
+      "mmr": 1720,
+      "deltaMmr": 143
     },
     "vs1": {
-      "pos": 244,
-      "deltaPos": 8,
+      "pos": 206,
+      "deltaPos": -38,
       "mmr": 0,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "lete7",
-    "id": "76561198803139952",
-    "team": "",
+    "nickname": "Kratos",
+    "id": "76561198399536154",
+    "team": "Team Genetic",
     "role": "",
-    "twitter": "Lete7RL",
+    "twitter": "kratosRL",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 47,
-      "deltaPos": -6,
-      "mmr": 1653,
-      "deltaMmr": 25
+      "pos": 49,
+      "deltaPos": 8,
+      "mmr": 1655,
+      "deltaMmr": -22
     },
     "vs2": {
-      "pos": 69,
-      "deltaPos": 8,
-      "mmr": 1586,
-      "deltaMmr": -17
+      "pos": 89,
+      "deltaPos": 1,
+      "mmr": 1550,
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 23,
-      "deltaPos": 1,
-      "mmr": 1244,
+      "pos": 237,
+      "deltaPos": 11,
+      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -1325,49 +1381,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 48,
-      "deltaPos": 3,
+      "pos": 50,
+      "deltaPos": 2,
       "mmr": 1650,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 31,
-      "deltaPos": 2,
+      "pos": 32,
+      "deltaPos": 1,
       "mmr": 1695,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 27,
-      "deltaPos": 0,
+      "pos": 28,
+      "deltaPos": 1,
       "mmr": 1234,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "ILuZziOn.",
-    "id": "76561198168060263",
-    "team": "",
+    "nickname": "Evilwolf",
+    "id": "76561198121463093",
+    "team": "Beşiktaş JK",
     "role": "",
-    "twitter": "ILuZziOnYT",
+    "twitter": "EvilWolf_RL",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 49,
+      "pos": 51,
       "deltaPos": -2,
-      "mmr": 1646,
-      "deltaMmr": 15
+      "mmr": 1649,
+      "deltaMmr": 24
     },
     "vs2": {
-      "pos": 97,
-      "deltaPos": 8,
-      "mmr": 1541,
-      "deltaMmr": -5
+      "pos": 70,
+      "deltaPos": 22,
+      "mmr": 1578,
+      "deltaMmr": -45
     },
     "vs1": {
-      "pos": 85,
-      "deltaPos": 2,
-      "mmr": 1097,
+      "pos": 72,
+      "deltaPos": -1,
+      "mmr": 1117,
       "deltaMmr": 0
     }
   },
@@ -1381,14 +1437,14 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 50,
+      "pos": 52,
       "deltaPos": 2,
       "mmr": 1644,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 25,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1726,
       "deltaMmr": 0
     },
@@ -1409,22 +1465,22 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 51,
-      "deltaPos": -3,
+      "pos": 53,
+      "deltaPos": 2,
       "mmr": 1641,
-      "deltaMmr": 16
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 61,
-      "deltaPos": -18,
-      "mmr": 1602,
-      "deltaMmr": 43
+      "pos": 69,
+      "deltaPos": 8,
+      "mmr": 1580,
+      "deltaMmr": -22
     },
     "vs1": {
-      "pos": 91,
-      "deltaPos": -16,
-      "mmr": 1088,
-      "deltaMmr": 26
+      "pos": 101,
+      "deltaPos": 10,
+      "mmr": 1071,
+      "deltaMmr": -17
     }
   },
   {
@@ -1437,49 +1493,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 52,
+      "pos": 54,
       "deltaPos": 2,
       "mmr": 1631,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 32,
-      "deltaPos": -6,
-      "mmr": 1682,
-      "deltaMmr": 34
+      "pos": 21,
+      "deltaPos": -11,
+      "mmr": 1741,
+      "deltaMmr": 59
     },
     "vs1": {
       "pos": 35,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1184,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Evilwolf",
-    "id": "76561198121463093",
-    "team": "Beşiktaş JK",
-    "role": "",
-    "twitter": "EvilWolf_RL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 53,
-      "deltaPos": 23,
-      "mmr": 1625,
-      "deltaMmr": -74
-    },
-    "vs2": {
-      "pos": 48,
-      "deltaPos": 7,
-      "mmr": 1623,
-      "deltaMmr": -11
-    },
-    "vs1": {
-      "pos": 73,
-      "deltaPos": 2,
-      "mmr": 1117,
       "deltaMmr": 0
     }
   },
@@ -1493,20 +1521,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 54,
-      "deltaPos": -1,
+      "pos": 55,
+      "deltaPos": 1,
       "mmr": 1624,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 118,
-      "deltaPos": 3,
+      "pos": 119,
+      "deltaPos": 1,
       "mmr": 1516,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 67,
-      "deltaPos": 0,
+      "pos": 68,
+      "deltaPos": 1,
       "mmr": 1124,
       "deltaMmr": 0
     }
@@ -1521,21 +1549,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 55,
-      "deltaPos": -11,
-      "mmr": 1615,
-      "deltaMmr": 16
+      "pos": 56,
+      "deltaPos": 1,
+      "mmr": 1620,
+      "deltaMmr": 5
     },
     "vs2": {
-      "pos": 34,
-      "deltaPos": 1,
+      "pos": 36,
+      "deltaPos": 2,
       "mmr": 1672,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 68,
-      "deltaPos": 0,
-      "mmr": 1123,
+      "pos": 81,
+      "deltaPos": 13,
+      "mmr": 1110,
+      "deltaMmr": -13
+    }
+  },
+  {
+    "nickname": "YOLID.",
+    "id": "76561198854576643",
+    "team": "Mav3ricks eSports",
+    "role": "",
+    "twitter": "YoLiD_GG",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 57,
+      "deltaPos": -4,
+      "mmr": 1619,
+      "deltaMmr": 18
+    },
+    "vs2": {
+      "pos": 72,
+      "deltaPos": 7,
+      "mmr": 1574,
+      "deltaMmr": -24
+    },
+    "vs1": {
+      "pos": 44,
+      "deltaPos": 1,
+      "mmr": 1159,
       "deltaMmr": 0
     }
   },
@@ -1549,22 +1605,22 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 56,
-      "deltaPos": -4,
-      "mmr": 1609,
-      "deltaMmr": 0
+      "pos": 58,
+      "deltaPos": 2,
+      "mmr": 1618,
+      "deltaMmr": 9
     },
     "vs2": {
-      "pos": 42,
-      "deltaPos": -9,
-      "mmr": 1633,
-      "deltaMmr": 12
+      "pos": 38,
+      "deltaPos": -4,
+      "mmr": 1656,
+      "deltaMmr": 23
     },
     "vs1": {
-      "pos": 29,
-      "deltaPos": -2,
-      "mmr": 1220,
-      "deltaMmr": 29
+      "pos": 16,
+      "deltaPos": -13,
+      "mmr": 1264,
+      "deltaMmr": 44
     }
   },
   {
@@ -1577,21 +1633,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 57,
-      "deltaPos": -16,
-      "mmr": 1609,
-      "deltaMmr": 44
+      "pos": 59,
+      "deltaPos": 2,
+      "mmr": 1613,
+      "deltaMmr": 4
     },
     "vs2": {
-      "pos": 102,
+      "pos": 103,
       "deltaPos": 1,
       "mmr": 1535,
       "deltaMmr": 0
     },
     "vs1": {
       "pos": 79,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1111,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Sete2pro",
+    "id": "76561198141919398",
+    "team": "",
+    "role": "",
+    "twitter": "",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 60,
+      "deltaPos": -7,
+      "mmr": 1608,
+      "deltaMmr": 16
+    },
+    "vs2": {
+      "pos": 118,
+      "deltaPos": 9,
+      "mmr": 1517,
+      "deltaMmr": -6
+    },
+    "vs1": {
+      "pos": 69,
+      "deltaPos": 0,
+      "mmr": 1121,
       "deltaMmr": 0
     }
   },
@@ -1605,49 +1689,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 58,
-      "deltaPos": -1,
+      "pos": 61,
+      "deltaPos": 3,
       "mmr": 1606,
-      "deltaMmr": -4
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 58,
-      "deltaPos": 8,
-      "mmr": 1607,
-      "deltaMmr": -14
+      "pos": 57,
+      "deltaPos": -1,
+      "mmr": 1609,
+      "deltaMmr": 2
     },
     "vs1": {
-      "pos": 56,
-      "deltaPos": 2,
+      "pos": 55,
+      "deltaPos": -1,
       "mmr": 1149,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Borex",
-    "id": "76561198843064179",
-    "team": "Baobab Gaming",
-    "role": "",
-    "twitter": "BorexRL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 59,
-      "deltaPos": 10,
-      "mmr": 1603,
-      "deltaMmr": -32
-    },
-    "vs2": {
-      "pos": 44,
-      "deltaPos": 1,
-      "mmr": 1628,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 41,
-      "deltaPos": 1,
-      "mmr": 1165,
       "deltaMmr": 0
     }
   },
@@ -1661,77 +1717,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 60,
-      "deltaPos": -2,
+      "pos": 62,
+      "deltaPos": 2,
       "mmr": 1602,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 79,
-      "deltaPos": 12,
+      "pos": 80,
+      "deltaPos": 1,
       "mmr": 1562,
-      "deltaMmr": -20
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 110,
-      "deltaPos": -1,
+      "pos": 111,
+      "deltaPos": 1,
       "mmr": 1049,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "YOLID.",
-    "id": "76561198854576643",
-    "team": "Mav3ricks eSports",
-    "role": "",
-    "twitter": "YoLiD_GG",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 61,
-      "deltaPos": -2,
-      "mmr": 1601,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 65,
-      "deltaPos": -1,
-      "mmr": 1598,
-      "deltaMmr": 11
-    },
-    "vs1": {
-      "pos": 43,
-      "deltaPos": 1,
-      "mmr": 1159,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Jairo",
-    "id": "76561198827636313",
-    "team": "",
-    "role": "",
-    "twitter": "JairoFernandez_",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 62,
-      "deltaPos": -2,
-      "mmr": 1599,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 50,
-      "deltaPos": 1,
-      "mmr": 1622,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 249,
-      "deltaPos": -13,
-      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -1746,48 +1746,76 @@
     "platform": "steam",
     "vs3": {
       "pos": 63,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1599,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 46,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1626,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 33,
-      "deltaPos": 1,
+      "pos": 32,
+      "deltaPos": -1,
       "mmr": 1187,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Cristian (Boss)",
-    "id": "76561198845948731",
-    "team": "",
+    "nickname": "Adriantors",
+    "id": "76561198107754473",
+    "team": "x6tence Black",
     "role": "",
-    "twitter": "BossxXxcristian",
-    "twitch": "",
+    "twitter": "AdriantorsRL",
+    "twitch": "Adriantors",
     "name": "",
     "platform": "steam",
     "vs3": {
       "pos": 64,
-      "deltaPos": 12,
-      "mmr": 1598,
-      "deltaMmr": -31
+      "deltaPos": -15,
+      "mmr": 1599,
+      "deltaMmr": 43
     },
     "vs2": {
-      "pos": 91,
-      "deltaPos": -26,
-      "mmr": 1547,
-      "deltaMmr": 35
+      "pos": 90,
+      "deltaPos": 1,
+      "mmr": 1549,
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 45,
+      "pos": 137,
       "deltaPos": 1,
-      "mmr": 1157,
+      "mmr": 966,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Jairo",
+    "id": "76561198827636313",
+    "team": "",
+    "role": "",
+    "twitter": "JairoFernandez_",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 65,
+      "deltaPos": 3,
+      "mmr": 1599,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 48,
+      "deltaPos": -2,
+      "mmr": 1622,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 242,
+      "deltaPos": -7,
+      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -1801,77 +1829,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 65,
-      "deltaPos": -9,
+      "pos": 66,
+      "deltaPos": 1,
       "mmr": 1595,
-      "deltaMmr": 30
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 56,
-      "deltaPos": -1,
+      "pos": 58,
+      "deltaPos": 2,
       "mmr": 1609,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 62,
-      "deltaPos": 2,
+      "pos": 61,
+      "deltaPos": -1,
       "mmr": 1138,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Juanma_lokko",
-    "id": "76561198359283859",
-    "team": "Team Fenix",
-    "role": "",
-    "twitter": "Juanma_lokko",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 66,
-      "deltaPos": 8,
-      "mmr": 1594,
-      "deltaMmr": -25
-    },
-    "vs2": {
-      "pos": 67,
-      "deltaPos": -2,
-      "mmr": 1589,
-      "deltaMmr": 8
-    },
-    "vs1": {
-      "pos": 49,
-      "deltaPos": 0,
-      "mmr": 1152,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Sete2pro",
-    "id": "76561198141919398",
+    "nickname": "iBoNaKo",
+    "id": "76561198325662988",
     "team": "",
-    "role": "",
-    "twitter": "",
+    "role": "Retirado",
+    "twitter": "IBONAKORL",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
       "pos": 67,
-      "deltaPos": 0,
+      "deltaPos": -13,
       "mmr": 1592,
-      "deltaMmr": 0
+      "deltaMmr": 39
     },
     "vs2": {
-      "pos": 109,
-      "deltaPos": 11,
-      "mmr": 1523,
-      "deltaMmr": -16
+      "pos": 68,
+      "deltaPos": 0,
+      "mmr": 1588,
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 69,
-      "deltaPos": 0,
-      "mmr": 1121,
+      "pos": 83,
+      "deltaPos": 1,
+      "mmr": 1106,
       "deltaMmr": 0
     }
   },
@@ -1891,13 +1891,13 @@
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 36,
-      "deltaPos": 1,
-      "mmr": 1666,
-      "deltaMmr": 8
+      "pos": 39,
+      "deltaPos": 3,
+      "mmr": 1656,
+      "deltaMmr": -10
     },
     "vs1": {
-      "pos": 63,
+      "pos": 64,
       "deltaPos": 1,
       "mmr": 1135,
       "deltaMmr": 0
@@ -1919,14 +1919,14 @@
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 41,
-      "deltaPos": 1,
+      "pos": 44,
+      "deltaPos": 3,
       "mmr": 1635,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 26,
-      "deltaPos": 0,
+      "pos": 27,
+      "deltaPos": 1,
       "mmr": 1237,
       "deltaMmr": 0
     }
@@ -1947,8 +1947,8 @@
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 134,
-      "deltaPos": 2,
+      "pos": 137,
+      "deltaPos": 3,
       "mmr": 1486,
       "deltaMmr": 0
     },
@@ -1956,6 +1956,34 @@
       "pos": 95,
       "deltaPos": 0,
       "mmr": 1080,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Gerkee",
+    "id": "76561198217174573",
+    "team": "",
+    "role": "",
+    "twitter": "Gerkee_",
+    "twitch": "gerkee_",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 71,
+      "deltaPos": -1,
+      "mmr": 1575,
+      "deltaMmr": 11
+    },
+    "vs2": {
+      "pos": 132,
+      "deltaPos": -1,
+      "mmr": 1487,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 100,
+      "deltaPos": 1,
+      "mmr": 1073,
       "deltaMmr": 0
     }
   },
@@ -1969,50 +1997,22 @@
     "name": "",
     "platform": "ps",
     "vs3": {
-      "pos": 71,
-      "deltaPos": 14,
-      "mmr": 1578,
-      "deltaMmr": -42
+      "pos": 72,
+      "deltaPos": 1,
+      "mmr": 1566,
+      "deltaMmr": -12
     },
     "vs2": {
       "pos": 29,
-      "deltaPos": 1,
-      "mmr": 1702,
-      "deltaMmr": 6
+      "deltaPos": 0,
+      "mmr": 1714,
+      "deltaMmr": 12
     },
     "vs1": {
-      "pos": 24,
-      "deltaPos": 5,
-      "mmr": 1239,
-      "deltaMmr": -8
-    }
-  },
-  {
-    "nickname": "Gerkee",
-    "id": "76561198217174573",
-    "team": "",
-    "role": "",
-    "twitter": "Gerkee_",
-    "twitch": "gerkee_",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 72,
-      "deltaPos": -3,
-      "mmr": 1564,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 133,
-      "deltaPos": 3,
-      "mmr": 1487,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 99,
-      "deltaPos": 1,
-      "mmr": 1073,
-      "deltaMmr": 0
+      "pos": 23,
+      "deltaPos": -1,
+      "mmr": 1244,
+      "deltaMmr": 5
     }
   },
   {
@@ -2026,19 +2026,19 @@
     "platform": "steam",
     "vs3": {
       "pos": 73,
-      "deltaPos": -3,
-      "mmr": 1563,
-      "deltaMmr": 0
+      "deltaPos": 0,
+      "mmr": 1565,
+      "deltaMmr": 2
     },
     "vs2": {
-      "pos": 193,
-      "deltaPos": -2,
+      "pos": 195,
+      "deltaPos": 2,
       "mmr": 1380,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 246,
-      "deltaPos": -5,
+      "pos": 202,
+      "deltaPos": -44,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -2054,49 +2054,21 @@
     "platform": "steam",
     "vs3": {
       "pos": 74,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1562,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 279,
-      "deltaPos": 0,
+      "pos": 284,
+      "deltaPos": 5,
       "mmr": 0,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 247,
-      "deltaPos": -5,
+      "pos": 204,
+      "deltaPos": -43,
       "mmr": 0,
       "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "EnergY",
-    "id": "76561198050755884",
-    "team": "Team Fenix",
-    "role": "",
-    "twitter": "EnergY1881",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 75,
-      "deltaPos": 14,
-      "mmr": 1561,
-      "deltaMmr": -48
-    },
-    "vs2": {
-      "pos": 77,
-      "deltaPos": -1,
-      "mmr": 1569,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 104,
-      "deltaPos": 0,
-      "mmr": 1067,
-      "deltaMmr": 2
     }
   },
   {
@@ -2109,48 +2081,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 76,
-      "deltaPos": -4,
+      "pos": 75,
+      "deltaPos": -1,
       "mmr": 1560,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 277,
-      "deltaPos": -7,
+      "pos": 279,
+      "deltaPos": 2,
       "mmr": 0,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 251,
-      "deltaPos": 60,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Nolichu",
-    "id": "76561198142550862",
-    "team": "H2H Esports",
-    "role": "",
-    "twitter": "nolichu13",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 77,
-      "deltaPos": 6,
-      "mmr": 1558,
-      "deltaMmr": -17
-    },
-    "vs2": {
-      "pos": 122,
-      "deltaPos": -15,
-      "mmr": 1508,
-      "deltaMmr": 31
-    },
-    "vs1": {
-      "pos": 218,
-      "deltaPos": -29,
+      "pos": 217,
+      "deltaPos": -34,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -2165,77 +2109,77 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 78,
-      "deltaPos": -3,
+      "pos": 76,
+      "deltaPos": -2,
       "mmr": 1558,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 110,
-      "deltaPos": 1,
-      "mmr": 1522,
-      "deltaMmr": 0
+      "pos": 98,
+      "deltaPos": -12,
+      "mmr": 1540,
+      "deltaMmr": 18
     },
     "vs1": {
-      "pos": 94,
-      "deltaPos": 2,
+      "pos": 92,
+      "deltaPos": -2,
       "mmr": 1084,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Adriantors",
-    "id": "76561198107754473",
-    "team": "x6tence Black",
+    "nickname": "Nolichu",
+    "id": "76561198142550862",
+    "team": "H2H Esports",
     "role": "",
-    "twitter": "AdriantorsRL",
-    "twitch": "Adriantors",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 79,
-      "deltaPos": -3,
-      "mmr": 1556,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 89,
-      "deltaPos": 2,
-      "mmr": 1549,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 136,
-      "deltaPos": -1,
-      "mmr": 966,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "iBoNaKo",
-    "id": "76561198325662988",
-    "team": "",
-    "role": "Retirado",
-    "twitter": "IBONAKORL",
+    "twitter": "nolichu13",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 80,
-      "deltaPos": -6,
-      "mmr": 1553,
+      "pos": 77,
+      "deltaPos": 0,
+      "mmr": 1558,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 68,
-      "deltaPos": 3,
-      "mmr": 1588,
+      "pos": 124,
+      "deltaPos": 2,
+      "mmr": 1508,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 82,
-      "deltaPos": 1,
-      "mmr": 1106,
+      "pos": 218,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Malag53",
+    "id": "76561198426648640",
+    "team": "",
+    "role": "",
+    "twitter": "malag53",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 78,
+      "deltaPos": -14,
+      "mmr": 1557,
+      "deltaMmr": 23
+    },
+    "vs2": {
+      "pos": 110,
+      "deltaPos": -14,
+      "mmr": 1525,
+      "deltaMmr": 21
+    },
+    "vs1": {
+      "pos": 209,
+      "deltaPos": -45,
+      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -2249,49 +2193,77 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 81,
-      "deltaPos": -4,
+      "pos": 79,
+      "deltaPos": -2,
       "mmr": 1553,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 72,
-      "deltaPos": -1,
-      "mmr": 1575,
-      "deltaMmr": 0
+      "pos": 67,
+      "deltaPos": -5,
+      "mmr": 1593,
+      "deltaMmr": 18
     },
     "vs1": {
-      "pos": 196,
-      "deltaPos": -67,
+      "pos": 241,
+      "deltaPos": 45,
       "mmr": 0,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Fizno",
-    "id": "76561198357142889",
-    "team": "",
+    "nickname": "Borex",
+    "id": "76561198843064179",
+    "team": "Baobab Gaming",
     "role": "",
-    "twitter": "Fiizno",
+    "twitter": "BorexRL",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 82,
-      "deltaPos": -39,
-      "mmr": 1552,
-      "deltaMmr": 42
+      "pos": 80,
+      "deltaPos": 21,
+      "mmr": 1551,
+      "deltaMmr": -52
     },
     "vs2": {
-      "pos": 96,
-      "deltaPos": 1,
-      "mmr": 1541,
-      "deltaMmr": 0
+      "pos": 55,
+      "deltaPos": 11,
+      "mmr": 1612,
+      "deltaMmr": -16
     },
     "vs1": {
-      "pos": 96,
-      "deltaPos": 2,
-      "mmr": 1080,
+      "pos": 36,
+      "deltaPos": -5,
+      "mmr": 1183,
+      "deltaMmr": 18
+    }
+  },
+  {
+    "nickname": "VorteX",
+    "id": "76561198314571998",
+    "team": "eGrillos",
+    "role": "Coach",
+    "twitter": "xVorteX_RL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 81,
+      "deltaPos": -3,
+      "mmr": 1551,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 140,
+      "deltaPos": -8,
+      "mmr": 1476,
+      "deltaMmr": 23
+    },
+    "vs1": {
+      "pos": 247,
+      "deltaPos": -21,
+      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -2305,77 +2277,49 @@
     "name": "",
     "platform": "ps",
     "vs3": {
-      "pos": 83,
+      "pos": 82,
       "deltaPos": -1,
-      "mmr": 1551,
-      "deltaMmr": -3
+      "mmr": 1550,
+      "deltaMmr": -1
     },
     "vs2": {
-      "pos": 117,
-      "deltaPos": 13,
-      "mmr": 1516,
-      "deltaMmr": -15
+      "pos": 116,
+      "deltaPos": -1,
+      "mmr": 1518,
+      "deltaMmr": 2
     },
     "vs1": {
       "pos": 97,
-      "deltaPos": 6,
+      "deltaPos": 0,
       "mmr": 1076,
-      "deltaMmr": -8
+      "deltaMmr": 0
     }
   },
   {
-    "nickname": "VorteX",
-    "id": "76561198314571998",
-    "team": "eGrillos",
-    "role": "Coach",
-    "twitter": "xVorteX_RL",
+    "nickname": "Juanma_lokko",
+    "id": "76561198359283859",
+    "team": "Team Fenix",
+    "role": "",
+    "twitter": "Juanma_lokko",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 84,
-      "deltaPos": -20,
-      "mmr": 1551,
-      "deltaMmr": 32
-    },
-    "vs2": {
-      "pos": 148,
+      "pos": 83,
       "deltaPos": 17,
-      "mmr": 1453,
-      "deltaMmr": -34
-    },
-    "vs1": {
-      "pos": 268,
-      "deltaPos": 68,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Reinox",
-    "id": "76561198882561555",
-    "team": "Hawks Gaming",
-    "role": "",
-    "twitter": "xReinox",
-    "twitch": "zReinox",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 85,
-      "deltaPos": 7,
-      "mmr": 1548,
-      "deltaMmr": -14
+      "mmr": 1550,
+      "deltaMmr": -44
     },
     "vs2": {
-      "pos": 30,
-      "deltaPos": 3,
-      "mmr": 1701,
-      "deltaMmr": 0
+      "pos": 74,
+      "deltaPos": 7,
+      "mmr": 1570,
+      "deltaMmr": -19
     },
     "vs1": {
-      "pos": 248,
+      "pos": 49,
       "deltaPos": 0,
-      "mmr": 0,
+      "mmr": 1152,
       "deltaMmr": 0
     }
   },
@@ -2389,20 +2333,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 86,
+      "pos": 84,
       "deltaPos": -2,
       "mmr": 1546,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 76,
-      "deltaPos": 8,
-      "mmr": 1573,
-      "deltaMmr": -9
+      "pos": 79,
+      "deltaPos": 3,
+      "mmr": 1562,
+      "deltaMmr": -11
     },
     "vs1": {
-      "pos": 216,
-      "deltaPos": 6,
+      "pos": 252,
+      "deltaPos": 36,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -2417,10 +2361,10 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 87,
-      "deltaPos": 15,
+      "pos": 85,
+      "deltaPos": -2,
       "mmr": 1545,
-      "deltaMmr": -23
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 60,
@@ -2429,8 +2373,8 @@
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 61,
-      "deltaPos": 2,
+      "pos": 60,
+      "deltaPos": -1,
       "mmr": 1138,
       "deltaMmr": 0
     }
@@ -2445,133 +2389,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 88,
+      "pos": 86,
       "deltaPos": -2,
       "mmr": 1542,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 93,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1544,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 133,
-      "deltaPos": -1,
+      "pos": 134,
+      "deltaPos": 1,
       "mmr": 977,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "kucilla",
-    "id": "76561198209617892",
-    "team": "",
-    "role": "",
-    "twitter": "kucilla11",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 89,
-      "deltaPos": -2,
-      "mmr": 1538,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 130,
-      "deltaPos": 3,
-      "mmr": 1490,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 103,
-      "deltaPos": 1,
-      "mmr": 1067,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Marches",
-    "id": "76561198194595110",
-    "team": "",
-    "role": "",
-    "twitter": "",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 90,
-      "deltaPos": 1,
-      "mmr": 1537,
-      "deltaMmr": -6
-    },
-    "vs2": {
-      "pos": 149,
-      "deltaPos": -2,
-      "mmr": 1449,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 142,
-      "deltaPos": 0,
-      "mmr": 947,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "DRM2311",
-    "id": "76561198403547305",
-    "team": "A&E",
-    "role": "",
-    "twitter": "d_avi_d_2311",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 91,
-      "deltaPos": -2,
-      "mmr": 1536,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 132,
-      "deltaPos": 3,
-      "mmr": 1487,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 53,
-      "deltaPos": 3,
-      "mmr": 1151,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Malag53",
-    "id": "76561198426648640",
-    "team": "",
-    "role": "",
-    "twitter": "malag53",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 92,
-      "deltaPos": -41,
-      "mmr": 1534,
-      "deltaMmr": 49
-    },
-    "vs2": {
-      "pos": 124,
-      "deltaPos": 4,
-      "mmr": 1504,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 254,
-      "deltaPos": 11,
-      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -2585,21 +2417,189 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 93,
-      "deltaPos": 14,
-      "mmr": 1533,
-      "deltaMmr": -27
+      "pos": 87,
+      "deltaPos": -6,
+      "mmr": 1542,
+      "deltaMmr": 9
     },
     "vs2": {
-      "pos": 40,
-      "deltaPos": 3,
-      "mmr": 1644,
-      "deltaMmr": -4
+      "pos": 51,
+      "deltaPos": 11,
+      "mmr": 1615,
+      "deltaMmr": -29
     },
     "vs1": {
-      "pos": 75,
-      "deltaPos": 2,
+      "pos": 73,
+      "deltaPos": -2,
       "mmr": 1115,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "JayQ",
+    "id": "76561198087354045",
+    "team": "Lightning Unicorns",
+    "role": "Coach",
+    "twitter": "javitownzz",
+    "twitch": "ItsJayQ",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 88,
+      "deltaPos": -21,
+      "mmr": 1537,
+      "deltaMmr": 19
+    },
+    "vs2": {
+      "pos": 182,
+      "deltaPos": -9,
+      "mmr": 1402,
+      "deltaMmr": 15
+    },
+    "vs1": {
+      "pos": 263,
+      "deltaPos": 63,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "DRM2311",
+    "id": "76561198403547305",
+    "team": "A&E",
+    "role": "",
+    "twitter": "d_avi_d_2311",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 89,
+      "deltaPos": -2,
+      "mmr": 1536,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 133,
+      "deltaPos": 1,
+      "mmr": 1487,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 51,
+      "deltaPos": -2,
+      "mmr": 1151,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "byivan15",
+    "id": "76561198095786913",
+    "team": "ECORP",
+    "role": "",
+    "twitter": "Byivan15",
+    "twitch": "byivaan15",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 90,
+      "deltaPos": -37,
+      "mmr": 1536,
+      "deltaMmr": 40
+    },
+    "vs2": {
+      "pos": 193,
+      "deltaPos": 25,
+      "mmr": 1385,
+      "deltaMmr": -36
+    },
+    "vs1": {
+      "pos": 157,
+      "deltaPos": 1,
+      "mmr": 905,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "CosmiKz",
+    "id": "ItsCosmiiKz",
+    "team": "Espectro eSports",
+    "role": "",
+    "twitter": "CosmiiKzRL",
+    "twitch": "CosmiiKzrl",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 91,
+      "deltaPos": -41,
+      "mmr": 1534,
+      "deltaMmr": 45
+    },
+    "vs2": {
+      "pos": 141,
+      "deltaPos": 3,
+      "mmr": 1469,
+      "deltaMmr": -9
+    },
+    "vs1": {
+      "pos": 76,
+      "deltaPos": 5,
+      "mmr": 1114,
+      "deltaMmr": -6
+    }
+  },
+  {
+    "nickname": "Reinox",
+    "id": "76561198882561555",
+    "team": "Hawks Gaming",
+    "role": "",
+    "twitter": "xReinox",
+    "twitch": "zReinox",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 92,
+      "deltaPos": 7,
+      "mmr": 1534,
+      "deltaMmr": -14
+    },
+    "vs2": {
+      "pos": 33,
+      "deltaPos": 3,
+      "mmr": 1684,
+      "deltaMmr": -17
+    },
+    "vs1": {
+      "pos": 250,
+      "deltaPos": 2,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Roxas",
+    "id": "76561198057950383",
+    "team": "",
+    "role": "",
+    "twitter": "Roxas__RL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 93,
+      "deltaPos": -41,
+      "mmr": 1532,
+      "deltaMmr": 47
+    },
+    "vs2": {
+      "pos": 87,
+      "deltaPos": 1,
+      "mmr": 1553,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 62,
+      "deltaPos": 2,
+      "mmr": 1138,
       "deltaMmr": 0
     }
   },
@@ -2619,14 +2619,14 @@
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 121,
+      "pos": 123,
       "deltaPos": 2,
       "mmr": 1509,
       "deltaMmr": 0
     },
     "vs1": {
       "pos": 109,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1052,
       "deltaMmr": 0
     }
@@ -2642,20 +2642,132 @@
     "platform": "steam",
     "vs3": {
       "pos": 95,
-      "deltaPos": -25,
+      "deltaPos": 0,
       "mmr": 1531,
-      "deltaMmr": 21
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 177,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1406,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 228,
-      "deltaPos": -26,
+      "pos": 222,
+      "deltaPos": -6,
       "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "EnergY",
+    "id": "76561198050755884",
+    "team": "Team Fenix",
+    "role": "",
+    "twitter": "EnergY1881",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 96,
+      "deltaPos": 21,
+      "mmr": 1531,
+      "deltaMmr": -30
+    },
+    "vs2": {
+      "pos": 76,
+      "deltaPos": -1,
+      "mmr": 1569,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 105,
+      "deltaPos": 1,
+      "mmr": 1067,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Nowa",
+    "id": "SoyNowa",
+    "team": "",
+    "role": "",
+    "twitter": "SoyNowa",
+    "twitch": "SoyNowa",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 97,
+      "deltaPos": -2,
+      "mmr": 1530,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 138,
+      "deltaPos": 1,
+      "mmr": 1481,
+      "deltaMmr": -3
+    },
+    "vs1": {
+      "pos": 63,
+      "deltaPos": -2,
+      "mmr": 1136,
+      "deltaMmr": 7
+    }
+  },
+  {
+    "nickname": "kucilla",
+    "id": "76561198209617892",
+    "team": "",
+    "role": "",
+    "twitter": "kucilla11",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 98,
+      "deltaPos": 9,
+      "mmr": 1530,
+      "deltaMmr": -8
+    },
+    "vs2": {
+      "pos": 130,
+      "deltaPos": 0,
+      "mmr": 1490,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 104,
+      "deltaPos": 1,
+      "mmr": 1067,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "PlayerZ",
+    "id": "76561198354950222",
+    "team": "",
+    "role": "",
+    "twitter": "Playerz551",
+    "twitch": "Playerz55",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 99,
+      "deltaPos": 1,
+      "mmr": 1530,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 181,
+      "deltaPos": 2,
+      "mmr": 1403,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 102,
+      "deltaPos": 1,
+      "mmr": 1070,
       "deltaMmr": 0
     }
   },
@@ -2669,20 +2781,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 96,
-      "deltaPos": -19,
+      "pos": 100,
+      "deltaPos": 4,
       "mmr": 1530,
-      "deltaMmr": 17
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 35,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1672,
       "deltaMmr": 0
     },
     "vs1": {
       "pos": 59,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1140,
       "deltaMmr": 0
     }
@@ -2697,77 +2809,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 97,
-      "deltaPos": 5,
+      "pos": 101,
+      "deltaPos": 4,
       "mmr": 1530,
-      "deltaMmr": -6
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 147,
+      "pos": 150,
       "deltaPos": 3,
       "mmr": 1453,
-      "deltaMmr": -8
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 124,
-      "deltaPos": -1,
+      "pos": 125,
+      "deltaPos": 1,
       "mmr": 1008,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "PlayerZ",
-    "id": "76561198354950222",
-    "team": "",
-    "role": "",
-    "twitter": "Playerz551",
-    "twitch": "Playerz55",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 98,
-      "deltaPos": 15,
-      "mmr": 1530,
-      "deltaMmr": -25
-    },
-    "vs2": {
-      "pos": 179,
-      "deltaPos": -5,
-      "mmr": 1403,
-      "deltaMmr": 9
-    },
-    "vs1": {
-      "pos": 101,
-      "deltaPos": 2,
-      "mmr": 1070,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Nowa",
-    "id": "SoyNowa",
-    "team": "",
-    "role": "",
-    "twitter": "SoyNowa",
-    "twitch": "SoyNowa",
-    "name": "",
-    "platform": "ps",
-    "vs3": {
-      "pos": 99,
-      "deltaPos": 2,
-      "mmr": 1530,
-      "deltaMmr": 1
-    },
-    "vs2": {
-      "pos": 137,
-      "deltaPos": -26,
-      "mmr": 1484,
-      "deltaMmr": 59
-    },
-    "vs1": {
-      "pos": 65,
-      "deltaPos": 0,
-      "mmr": 1129,
       "deltaMmr": 0
     }
   },
@@ -2781,50 +2837,22 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 100,
-      "deltaPos": 4,
+      "pos": 102,
+      "deltaPos": 2,
       "mmr": 1529,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 55,
-      "deltaPos": -1,
+      "pos": 56,
+      "deltaPos": 1,
       "mmr": 1611,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 54,
-      "deltaPos": 2,
+      "pos": 52,
+      "deltaPos": -2,
       "mmr": 1151,
       "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Alvarillo_2000",
-    "id": "76561198243788392",
-    "team": "",
-    "role": "",
-    "twitter": "alvaro_vigo",
-    "twitch": "Alvarillo_2000",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 101,
-      "deltaPos": 1,
-      "mmr": 1525,
-      "deltaMmr": 2
-    },
-    "vs2": {
-      "pos": 114,
-      "deltaPos": -24,
-      "mmr": 1519,
-      "deltaMmr": 44
-    },
-    "vs1": {
-      "pos": 116,
-      "deltaPos": 7,
-      "mmr": 1039,
-      "deltaMmr": -14
     }
   },
   {
@@ -2837,20 +2865,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 102,
-      "deltaPos": 4,
+      "pos": 103,
+      "deltaPos": 1,
       "mmr": 1525,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 126,
-      "deltaPos": 4,
+      "pos": 127,
+      "deltaPos": 1,
       "mmr": 1496,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 120,
-      "deltaPos": -1,
+      "pos": 121,
+      "deltaPos": 1,
       "mmr": 1024,
       "deltaMmr": 0
     }
@@ -2865,22 +2893,50 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 103,
-      "deltaPos": 4,
+      "pos": 104,
+      "deltaPos": 1,
       "mmr": 1524,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 115,
+      "pos": 117,
       "deltaPos": 2,
       "mmr": 1518,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 114,
-      "deltaPos": -1,
+      "pos": 115,
+      "deltaPos": 1,
       "mmr": 1043,
       "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Alvarillo_2000",
+    "id": "76561198243788392",
+    "team": "",
+    "role": "",
+    "twitter": "alvaro_vigo",
+    "twitch": "Alvarillo_2000",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 105,
+      "deltaPos": 4,
+      "mmr": 1523,
+      "deltaMmr": -2
+    },
+    "vs2": {
+      "pos": 115,
+      "deltaPos": 1,
+      "mmr": 1519,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 110,
+      "deltaPos": -6,
+      "mmr": 1052,
+      "deltaMmr": 13
     }
   },
   {
@@ -2893,22 +2949,22 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 104,
-      "deltaPos": 3,
+      "pos": 106,
+      "deltaPos": 2,
       "mmr": 1522,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 119,
+      "pos": 122,
       "deltaPos": 3,
       "mmr": 1513,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 121,
-      "deltaPos": 2,
+      "pos": 122,
+      "deltaPos": 1,
       "mmr": 1016,
-      "deltaMmr": -11
+      "deltaMmr": 0
     }
   },
   {
@@ -2921,20 +2977,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 105,
-      "deltaPos": -1,
+      "pos": 107,
+      "deltaPos": 2,
       "mmr": 1519,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 136,
-      "deltaPos": 2,
+      "pos": 135,
+      "deltaPos": -1,
       "mmr": 1486,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 189,
-      "deltaPos": -90,
+      "pos": 253,
+      "deltaPos": 64,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -2949,20 +3005,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 106,
-      "deltaPos": 3,
+      "pos": 108,
+      "deltaPos": 2,
       "mmr": 1519,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 80,
-      "deltaPos": 10,
-      "mmr": 1562,
-      "deltaMmr": -16
+      "pos": 37,
+      "deltaPos": -43,
+      "mmr": 1659,
+      "deltaMmr": 97
     },
     "vs1": {
-      "pos": 265,
-      "deltaPos": 72,
+      "pos": 256,
+      "deltaPos": -9,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -2977,20 +3033,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 107,
-      "deltaPos": -1,
+      "pos": 109,
+      "deltaPos": 2,
       "mmr": 1518,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 254,
-      "deltaPos": -1,
-      "mmr": 1193,
-      "deltaMmr": 0
+      "pos": 245,
+      "deltaPos": -9,
+      "mmr": 1242,
+      "deltaMmr": 49
     },
     "vs1": {
-      "pos": 197,
-      "deltaPos": -4,
+      "pos": 257,
+      "deltaPos": 60,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -3005,49 +3061,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 108,
-      "deltaPos": 1,
+      "pos": 110,
+      "deltaPos": 2,
       "mmr": 1518,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 53,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1613,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 42,
+      "pos": 43,
       "deltaPos": 1,
       "mmr": 1160,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "JayQ",
-    "id": "76561198087354045",
-    "team": "Lightning Unicorns",
-    "role": "Coach",
-    "twitter": "javitownzz",
-    "twitch": "ItsJayQ",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 109,
-      "deltaPos": 0,
-      "mmr": 1518,
-      "deltaMmr": 1
-    },
-    "vs2": {
-      "pos": 191,
-      "deltaPos": 1,
-      "mmr": 1387,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 200,
-      "deltaPos": -28,
-      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -3061,20 +3089,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 110,
-      "deltaPos": 0,
+      "pos": 111,
+      "deltaPos": 1,
       "mmr": 1516,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 73,
-      "deltaPos": -1,
-      "mmr": 1575,
-      "deltaMmr": 0
+      "pos": 66,
+      "deltaPos": -7,
+      "mmr": 1594,
+      "deltaMmr": 19
     },
     "vs1": {
-      "pos": 113,
-      "deltaPos": -1,
+      "pos": 114,
+      "deltaPos": 1,
       "mmr": 1047,
       "deltaMmr": 0
     }
@@ -3089,8 +3117,8 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 111,
-      "deltaPos": -1,
+      "pos": 112,
+      "deltaPos": 1,
       "mmr": 1516,
       "deltaMmr": 0
     },
@@ -3101,8 +3129,8 @@
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 212,
-      "deltaPos": 9,
+      "pos": 191,
+      "deltaPos": -21,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -3117,49 +3145,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 112,
-      "deltaPos": -1,
+      "pos": 113,
+      "deltaPos": 1,
       "mmr": 1515,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 165,
-      "deltaPos": 3,
+      "pos": 164,
+      "deltaPos": -1,
       "mmr": 1425,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 213,
-      "deltaPos": 0,
+      "pos": 196,
+      "deltaPos": -17,
       "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Mikito",
-    "id": "76561198077873784",
-    "team": "",
-    "role": "",
-    "twitter": "iMikito",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 113,
-      "deltaPos": -1,
-      "mmr": 1515,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 105,
-      "deltaPos": 0,
-      "mmr": 1530,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 163,
-      "deltaPos": 0,
-      "mmr": 885,
       "deltaMmr": 0
     }
   },
@@ -3174,19 +3174,19 @@
     "platform": "steam",
     "vs3": {
       "pos": 114,
-      "deltaPos": 19,
+      "deltaPos": 0,
       "mmr": 1513,
-      "deltaMmr": -17
-    },
-    "vs2": {
-      "pos": 215,
-      "deltaPos": 2,
-      "mmr": 1333,
       "deltaMmr": 0
     },
+    "vs2": {
+      "pos": 216,
+      "deltaPos": 1,
+      "mmr": 1326,
+      "deltaMmr": -7
+    },
     "vs1": {
-      "pos": 128,
-      "deltaPos": -1,
+      "pos": 130,
+      "deltaPos": 2,
       "mmr": 998,
       "deltaMmr": 0
     }
@@ -3202,49 +3202,21 @@
     "platform": "steam",
     "vs3": {
       "pos": 115,
-      "deltaPos": -12,
+      "deltaPos": 0,
       "mmr": 1513,
-      "deltaMmr": 9
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 84,
-      "deltaPos": 2,
+      "pos": 85,
+      "deltaPos": 1,
       "mmr": 1556,
       "deltaMmr": 0
     },
     "vs1": {
       "pos": 87,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1093,
       "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Aleformula",
-    "id": "76561198879125672",
-    "team": "Team Fenix",
-    "role": "",
-    "twitter": "AleformulaRL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 116,
-      "deltaPos": 11,
-      "mmr": 1513,
-      "deltaMmr": -6
-    },
-    "vs2": {
-      "pos": 74,
-      "deltaPos": -2,
-      "mmr": 1574,
-      "deltaMmr": 4
-    },
-    "vs1": {
-      "pos": 84,
-      "deltaPos": -9,
-      "mmr": 1098,
-      "deltaMmr": 15
     }
   },
   {
@@ -3257,77 +3229,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 117,
+      "pos": 116,
       "deltaPos": -1,
       "mmr": 1511,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 37,
-      "deltaPos": 1,
+      "pos": 40,
+      "deltaPos": 3,
       "mmr": 1652,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 223,
-      "deltaPos": -49,
+      "pos": 214,
+      "deltaPos": -9,
       "mmr": 0,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Idrk",
-    "id": "76561198352822740",
-    "team": "Team Genetic",
-    "role": "Retirado",
-    "twitter": "iDrkRL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 118,
-      "deltaPos": -1,
-      "mmr": 1511,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 178,
-      "deltaPos": 1,
-      "mmr": 1405,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 107,
-      "deltaPos": -1,
-      "mmr": 1059,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "AdriKilka",
-    "id": "76561198258212817",
-    "team": "Vanguard",
+    "nickname": "Fizno",
+    "id": "76561198357142889",
+    "team": "",
     "role": "",
-    "twitter": "AdriRK_",
+    "twitter": "Fiizno",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 119,
-      "deltaPos": 2,
-      "mmr": 1511,
-      "deltaMmr": 0
+      "pos": 117,
+      "deltaPos": 35,
+      "mmr": 1509,
+      "deltaMmr": -43
     },
     "vs2": {
-      "pos": 175,
-      "deltaPos": 1,
-      "mmr": 1410,
+      "pos": 95,
+      "deltaPos": -1,
+      "mmr": 1541,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 151,
+      "pos": 96,
       "deltaPos": 0,
-      "mmr": 916,
+      "mmr": 1080,
       "deltaMmr": 0
     }
   },
@@ -3341,20 +3285,132 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 120,
+      "pos": 118,
       "deltaPos": -2,
       "mmr": 1509,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 201,
+      "pos": 203,
       "deltaPos": 2,
       "mmr": 1369,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 239,
+      "pos": 221,
+      "deltaPos": -18,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "iXeToXx",
+    "id": "76561198145894588",
+    "team": "",
+    "role": "",
+    "twitter": "iXeToXx",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 119,
+      "deltaPos": -27,
+      "mmr": 1508,
+      "deltaMmr": 43
+    },
+    "vs2": {
+      "pos": 121,
+      "deltaPos": 13,
+      "mmr": 1514,
+      "deltaMmr": -10
+    },
+    "vs1": {
+      "pos": 53,
+      "deltaPos": 1,
+      "mmr": 1151,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "AdriKilka",
+    "id": "76561198258212817",
+    "team": "Vanguard",
+    "role": "",
+    "twitter": "AdriRK_",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 120,
+      "deltaPos": 1,
+      "mmr": 1508,
+      "deltaMmr": -3
+    },
+    "vs2": {
+      "pos": 173,
+      "deltaPos": -2,
+      "mmr": 1410,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 152,
+      "deltaPos": 1,
+      "mmr": 916,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "eypupi",
+    "id": "76561198432903688",
+    "team": "",
+    "role": "",
+    "twitter": "PuPiTsu",
+    "twitch": "eypupi",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 121,
+      "deltaPos": -19,
+      "mmr": 1507,
+      "deltaMmr": 36
+    },
+    "vs2": {
+      "pos": 149,
       "deltaPos": 7,
+      "mmr": 1453,
+      "deltaMmr": -14
+    },
+    "vs1": {
+      "pos": 128,
+      "deltaPos": 1,
+      "mmr": 1001,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Elprote",
+    "id": "76561198259435749",
+    "team": "",
+    "role": "",
+    "twitter": "aristides_mt",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 122,
+      "deltaPos": -16,
+      "mmr": 1507,
+      "deltaMmr": 29
+    },
+    "vs2": {
+      "pos": 97,
+      "deltaPos": -1,
+      "mmr": 1540,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 260,
+      "deltaPos": 20,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -3369,49 +3425,245 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 121,
-      "deltaPos": -5,
+      "pos": 123,
+      "deltaPos": 2,
       "mmr": 1505,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 113,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1520,
       "deltaMmr": 0
     },
     "vs1": {
       "pos": 78,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1112,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Dazeh",
-    "id": "76561198096268599",
+    "nickname": "Marches",
+    "id": "76561198194595110",
     "team": "",
     "role": "",
-    "twitter": "dvzeh",
-    "twitch": "iamdazeh",
+    "twitter": "",
+    "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 122,
-      "deltaPos": -37,
-      "mmr": 1505,
-      "deltaMmr": 63
+      "pos": 124,
+      "deltaPos": 34,
+      "mmr": 1498,
+      "deltaMmr": -39
     },
     "vs2": {
-      "pos": 166,
-      "deltaPos": -7,
-      "mmr": 1423,
-      "deltaMmr": 13
+      "pos": 151,
+      "deltaPos": 2,
+      "mmr": 1448,
+      "deltaMmr": -1
     },
     "vs1": {
-      "pos": 147,
-      "deltaPos": -2,
-      "mmr": 931,
+      "pos": 146,
+      "deltaPos": 4,
+      "mmr": 935,
+      "deltaMmr": -12
+    }
+  },
+  {
+    "nickname": "Aleformula",
+    "id": "76561198879125672",
+    "team": "Team Fenix",
+    "role": "",
+    "twitter": "AleformulaRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 125,
+      "deltaPos": 9,
+      "mmr": 1497,
+      "deltaMmr": -16
+    },
+    "vs2": {
+      "pos": 102,
+      "deltaPos": 28,
+      "mmr": 1536,
+      "deltaMmr": -38
+    },
+    "vs1": {
+      "pos": 93,
+      "deltaPos": 9,
+      "mmr": 1081,
+      "deltaMmr": -17
+    }
+  },
+  {
+    "nickname": "KAISER",
+    "id": "76561198206492220",
+    "team": "",
+    "role": "",
+    "twitter": "KAISER_ESP_",
+    "twitch": "KAISER_ESP_",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 126,
+      "deltaPos": -4,
+      "mmr": 1495,
+      "deltaMmr": 2
+    },
+    "vs2": {
+      "pos": 111,
+      "deltaPos": 21,
+      "mmr": 1521,
+      "deltaMmr": -26
+    },
+    "vs1": {
+      "pos": 89,
+      "deltaPos": -1,
+      "mmr": 1088,
+      "deltaMmr": -1
+    }
+  },
+  {
+    "nickname": "Allan",
+    "id": "76561198443515688",
+    "team": "",
+    "role": "",
+    "twitter": "Allaann17",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 127,
+      "deltaPos": -1,
+      "mmr": 1495,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 139,
+      "deltaPos": 0,
+      "mmr": 1477,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 54,
+      "deltaPos": -1,
+      "mmr": 1150,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Binarydem0n",
+    "id": "76561198131751119",
+    "team": "Baobab Gaming",
+    "role": "",
+    "twitter": "B1naryDem0nRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 128,
+      "deltaPos": -9,
+      "mmr": 1494,
+      "deltaMmr": 14
+    },
+    "vs2": {
+      "pos": 54,
+      "deltaPos": 0,
+      "mmr": 1613,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 70,
+      "deltaPos": 0,
+      "mmr": 1120,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Edu.",
+    "id": "76561198849818063",
+    "team": "",
+    "role": "",
+    "twitter": "EDU09881",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 129,
+      "deltaPos": -26,
+      "mmr": 1493,
+      "deltaMmr": 41
+    },
+    "vs2": {
+      "pos": 41,
+      "deltaPos": 3,
+      "mmr": 1650,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 41,
+      "deltaPos": -5,
+      "mmr": 1165,
+      "deltaMmr": 9
+    }
+  },
+  {
+    "nickname": "antoniopn08",
+    "id": "antoniopn08",
+    "team": "",
+    "role": "",
+    "twitter": "PIOF12",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 130,
+      "deltaPos": -3,
+      "mmr": 1489,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 45,
+      "deltaPos": 0,
+      "mmr": 1627,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 251,
+      "deltaPos": 10,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Idrk",
+    "id": "76561198352822740",
+    "team": "Team Genetic",
+    "role": "Retirado",
+    "twitter": "iDrkRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 131,
+      "deltaPos": 13,
+      "mmr": 1488,
+      "deltaMmr": -23
+    },
+    "vs2": {
+      "pos": 178,
+      "deltaPos": 0,
+      "mmr": 1405,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 108,
+      "deltaPos": 1,
+      "mmr": 1059,
       "deltaMmr": 0
     }
   },
@@ -3425,20 +3677,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 123,
-      "deltaPos": 12,
-      "mmr": 1504,
-      "deltaMmr": -12
+      "pos": 132,
+      "deltaPos": 9,
+      "mmr": 1488,
+      "deltaMmr": -16
     },
     "vs2": {
-      "pos": 202,
-      "deltaPos": 2,
-      "mmr": 1368,
-      "deltaMmr": 0
+      "pos": 196,
+      "deltaPos": -6,
+      "mmr": 1379,
+      "deltaMmr": 11
     },
     "vs1": {
-      "pos": 211,
-      "deltaPos": -1,
+      "pos": 224,
+      "deltaPos": 13,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -3453,301 +3705,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 124,
-      "deltaPos": 22,
-      "mmr": 1504,
-      "deltaMmr": -16
+      "pos": 133,
+      "deltaPos": 9,
+      "mmr": 1487,
+      "deltaMmr": -17
     },
     "vs2": {
       "pos": 63,
-      "deltaPos": -14,
+      "deltaPos": 0,
       "mmr": 1601,
-      "deltaMmr": 32
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 262,
-      "deltaPos": 39,
+      "pos": 225,
+      "deltaPos": -37,
       "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "King",
-    "id": "76561198074488100",
-    "team": "",
-    "role": "",
-    "twitter": "",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 125,
-      "deltaPos": -27,
-      "mmr": 1497,
-      "deltaMmr": 42
-    },
-    "vs2": {
-      "pos": 140,
-      "deltaPos": 1,
-      "mmr": 1473,
-      "deltaMmr": -1
-    },
-    "vs1": {
-      "pos": 100,
-      "deltaPos": 0,
-      "mmr": 1070,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Vila",
-    "id": "76561198133680785",
-    "team": "",
-    "role": "",
-    "twitter": "Vila_RL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 126,
-      "deltaPos": 10,
-      "mmr": 1497,
-      "deltaMmr": -14
-    },
-    "vs2": {
-      "pos": 81,
-      "deltaPos": -21,
-      "mmr": 1561,
-      "deltaMmr": 27
-    },
-    "vs1": {
-      "pos": 92,
-      "deltaPos": 3,
-      "mmr": 1087,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "byivan15",
-    "id": "76561198095786913",
-    "team": "ECORP",
-    "role": "",
-    "twitter": "Byivan15",
-    "twitch": "byivaan15",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 127,
-      "deltaPos": -1,
-      "mmr": 1496,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 168,
-      "deltaPos": 2,
-      "mmr": 1421,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 156,
-      "deltaPos": 0,
-      "mmr": 905,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Allan",
-    "id": "76561198443515688",
-    "team": "",
-    "role": "",
-    "twitter": "Allaann17",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 128,
-      "deltaPos": -1,
-      "mmr": 1495,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 139,
-      "deltaPos": 3,
-      "mmr": 1477,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 55,
-      "deltaPos": 2,
-      "mmr": 1150,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Jofosu",
-    "id": "76561198155851847",
-    "team": "QBits",
-    "role": "",
-    "twitter": "jofosu1",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 129,
-      "deltaPos": 4,
-      "mmr": 1495,
-      "deltaMmr": -11
-    },
-    "vs2": {
-      "pos": 159,
-      "deltaPos": 2,
-      "mmr": 1432,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 125,
-      "deltaPos": -1,
-      "mmr": 1007,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "KAISER",
-    "id": "76561198206492220",
-    "team": "",
-    "role": "",
-    "twitter": "KAISER_ESP_",
-    "twitch": "KAISER_ESP_",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 130,
-      "deltaPos": -15,
-      "mmr": 1493,
-      "deltaMmr": 28
-    },
-    "vs2": {
-      "pos": 90,
-      "deltaPos": -21,
-      "mmr": 1547,
-      "deltaMmr": 27
-    },
-    "vs1": {
-      "pos": 90,
-      "deltaPos": 2,
-      "mmr": 1089,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Darkryx",
-    "id": "76561198001767664",
-    "team": "x6tence Academy",
-    "role": "Coach",
-    "twitter": "DarkryxGm",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 131,
-      "deltaPos": 0,
-      "mmr": 1489,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 131,
-      "deltaPos": 3,
-      "mmr": 1488,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 252,
-      "deltaPos": -5,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "CosmiKz",
-    "id": "ItsCosmiiKz",
-    "team": "Espectro eSports",
-    "role": "",
-    "twitter": "CosmiiKzRL",
-    "twitch": "CosmiiKzrl",
-    "name": "",
-    "platform": "ps",
-    "vs3": {
-      "pos": 132,
-      "deltaPos": 45,
-      "mmr": 1489,
-      "deltaMmr": -63
-    },
-    "vs2": {
-      "pos": 138,
-      "deltaPos": 15,
-      "mmr": 1478,
-      "deltaMmr": -17
-    },
-    "vs1": {
-      "pos": 71,
-      "deltaPos": -25,
-      "mmr": 1120,
-      "deltaMmr": 40
-    }
-  },
-  {
-    "nickname": "antoniopn08",
-    "id": "antoniopn08",
-    "team": "",
-    "role": "",
-    "twitter": "PIOF12",
-    "twitch": "",
-    "name": "",
-    "platform": "ps",
-    "vs3": {
-      "pos": 133,
-      "deltaPos": 9,
-      "mmr": 1489,
-      "deltaMmr": -18
-    },
-    "vs2": {
-      "pos": 45,
-      "deltaPos": 1,
-      "mmr": 1627,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 241,
-      "deltaPos": 8,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Roxas",
-    "id": "76561198057950383",
-    "team": "",
-    "role": "",
-    "twitter": "Roxas__RL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 134,
-      "deltaPos": 0,
-      "mmr": 1485,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 86,
-      "deltaPos": 1,
-      "mmr": 1553,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 60,
-      "deltaPos": 2,
-      "mmr": 1138,
       "deltaMmr": 0
     }
   },
@@ -3761,21 +3733,105 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 135,
+      "pos": 134,
       "deltaPos": -1,
       "mmr": 1485,
-      "deltaMmr": 10
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 111,
-      "deltaPos": -39,
+      "pos": 112,
+      "deltaPos": 1,
       "mmr": 1521,
-      "deltaMmr": 68
+      "deltaMmr": 0
     },
     "vs1": {
+      "pos": 132,
+      "deltaPos": 1,
+      "mmr": 997,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Darkryx",
+    "id": "76561198001767664",
+    "team": "x6tence Academy",
+    "role": "Coach",
+    "twitter": "DarkryxGm",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 135,
+      "deltaPos": 4,
+      "mmr": 1485,
+      "deltaMmr": -4
+    },
+    "vs2": {
       "pos": 131,
       "deltaPos": 0,
-      "mmr": 997,
+      "mmr": 1488,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 248,
+      "deltaPos": -4,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Vila",
+    "id": "76561198133680785",
+    "team": "",
+    "role": "",
+    "twitter": "Vila_RL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 136,
+      "deltaPos": 10,
+      "mmr": 1485,
+      "deltaMmr": -12
+    },
+    "vs2": {
+      "pos": 77,
+      "deltaPos": -4,
+      "mmr": 1569,
+      "deltaMmr": 8
+    },
+    "vs1": {
+      "pos": 90,
+      "deltaPos": -2,
+      "mmr": 1087,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Timo",
+    "id": "76561198211281451",
+    "team": "Hawks Gaming",
+    "role": "",
+    "twitter": "TimoRL_",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 137,
+      "deltaPos": -19,
+      "mmr": 1483,
+      "deltaMmr": 32
+    },
+    "vs2": {
+      "pos": 154,
+      "deltaPos": 2,
+      "mmr": 1443,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 120,
+      "deltaPos": 1,
+      "mmr": 1027,
       "deltaMmr": 0
     }
   },
@@ -3789,77 +3845,105 @@
     "name": "",
     "platform": "ps",
     "vs3": {
-      "pos": 136,
-      "deltaPos": 1,
+      "pos": 138,
+      "deltaPos": 2,
       "mmr": 1481,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 112,
-      "deltaPos": 18,
-      "mmr": 1521,
-      "deltaMmr": -22
+      "pos": 109,
+      "deltaPos": -3,
+      "mmr": 1526,
+      "deltaMmr": 5
     },
     "vs1": {
-      "pos": 93,
-      "deltaPos": 3,
+      "pos": 91,
+      "deltaPos": -2,
       "mmr": 1085,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Binarydem0n",
-    "id": "76561198131751119",
-    "team": "Baobab Gaming",
+    "nickname": "King",
+    "id": "76561198074488100",
+    "team": "",
     "role": "",
-    "twitter": "B1naryDem0nRL",
+    "twitter": "",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 137,
-      "deltaPos": 5,
-      "mmr": 1480,
-      "deltaMmr": -7
+      "pos": 139,
+      "deltaPos": 14,
+      "mmr": 1473,
+      "deltaMmr": -24
     },
     "vs2": {
-      "pos": 54,
-      "deltaPos": 0,
-      "mmr": 1613,
-      "deltaMmr": 0
+      "pos": 81,
+      "deltaPos": -59,
+      "mmr": 1561,
+      "deltaMmr": 88
     },
     "vs1": {
-      "pos": 70,
-      "deltaPos": -8,
-      "mmr": 1120,
-      "deltaMmr": 10
+      "pos": 117,
+      "deltaPos": 17,
+      "mmr": 1039,
+      "deltaMmr": -31
     }
   },
   {
-    "nickname": "Elprote",
-    "id": "76561198259435749",
+    "nickname": "Markinyo",
+    "id": "76561198288306820",
     "team": "",
     "role": "",
-    "twitter": "aristides_mt",
+    "twitter": "AimMarkinyo",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 138,
-      "deltaPos": 15,
-      "mmr": 1478,
-      "deltaMmr": -31
+      "pos": 140,
+      "deltaPos": -33,
+      "mmr": 1473,
+      "deltaMmr": 52
     },
     "vs2": {
-      "pos": 98,
-      "deltaPos": -12,
-      "mmr": 1540,
-      "deltaMmr": 18
+      "pos": 92,
+      "deltaPos": -8,
+      "mmr": 1545,
+      "deltaMmr": 8
     },
     "vs1": {
-      "pos": 240,
-      "deltaPos": 10,
-      "mmr": 0,
+      "pos": 147,
+      "deltaPos": 1,
+      "mmr": 934,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Mikito",
+    "id": "76561198077873784",
+    "team": "",
+    "role": "",
+    "twitter": "iMikito",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 141,
+      "deltaPos": 28,
+      "mmr": 1472,
+      "deltaMmr": -43
+    },
+    "vs2": {
+      "pos": 106,
+      "deltaPos": 1,
+      "mmr": 1530,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 164,
+      "deltaPos": 1,
+      "mmr": 885,
       "deltaMmr": 0
     }
   },
@@ -3873,78 +3957,22 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 139,
-      "deltaPos": 2,
+      "pos": 142,
+      "deltaPos": 3,
       "mmr": 1471,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 171,
-      "deltaPos": 2,
+      "pos": 169,
+      "deltaPos": -2,
       "mmr": 1415,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 263,
-      "deltaPos": 4,
+      "pos": 261,
+      "deltaPos": -2,
       "mmr": 0,
       "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "eypupi",
-    "id": "76561198432903688",
-    "team": "",
-    "role": "",
-    "twitter": "PuPiTsu",
-    "twitch": "eypupi",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 140,
-      "deltaPos": 1,
-      "mmr": 1471,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 142,
-      "deltaPos": 2,
-      "mmr": 1467,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 127,
-      "deltaPos": -1,
-      "mmr": 1001,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Sebitas",
-    "id": "76561198309413746",
-    "team": "",
-    "role": "",
-    "twitter": "_sebitas15",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 141,
-      "deltaPos": 1,
-      "mmr": 1470,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 141,
-      "deltaPos": -5,
-      "mmr": 1471,
-      "deltaMmr": 13
-    },
-    "vs1": {
-      "pos": 108,
-      "deltaPos": 5,
-      "mmr": 1056,
-      "deltaMmr": -9
     }
   },
   {
@@ -3957,20 +3985,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 142,
+      "pos": 143,
       "deltaPos": 1,
       "mmr": 1470,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 192,
-      "deltaPos": 0,
+      "pos": 194,
+      "deltaPos": 2,
       "mmr": 1383,
       "deltaMmr": 0
     },
     "vs1": {
       "pos": 57,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1145,
       "deltaMmr": 0
     }
@@ -3985,20 +4013,48 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 143,
+      "pos": 144,
       "deltaPos": 1,
       "mmr": 1470,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 129,
-      "deltaPos": 4,
+      "pos": 128,
+      "deltaPos": -1,
       "mmr": 1493,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 190,
-      "deltaPos": -75,
+      "pos": 268,
+      "deltaPos": 78,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Seeco",
+    "id": "76561198104494616",
+    "team": "",
+    "role": "Retirado",
+    "twitter": "SecDesigns2k17",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 145,
+      "deltaPos": -27,
+      "mmr": 1470,
+      "deltaMmr": 48
+    },
+    "vs2": {
+      "pos": 105,
+      "deltaPos": 1,
+      "mmr": 1532,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 246,
+      "deltaPos": -10,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -4013,14 +4069,14 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 144,
-      "deltaPos": 1,
+      "pos": 146,
+      "deltaPos": 2,
       "mmr": 1468,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 64,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1599,
       "deltaMmr": 0
     },
@@ -4041,49 +4097,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 145,
-      "deltaPos": 1,
+      "pos": 147,
+      "deltaPos": 2,
       "mmr": 1467,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 127,
-      "deltaPos": -8,
-      "mmr": 1496,
-      "deltaMmr": 13
+      "pos": 136,
+      "deltaPos": 9,
+      "mmr": 1486,
+      "deltaMmr": -10
     },
     "vs1": {
-      "pos": 66,
-      "deltaPos": 0,
-      "mmr": 1125,
-      "deltaMmr": -3
-    }
-  },
-  {
-    "nickname": "iXeToXx",
-    "id": "76561198145894588",
-    "team": "",
-    "role": "",
-    "twitter": "iXeToXx",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 146,
-      "deltaPos": 0,
-      "mmr": 1465,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 108,
-      "deltaPos": 0,
-      "mmr": 1524,
-      "deltaMmr": -2
-    },
-    "vs1": {
-      "pos": 52,
+      "pos": 67,
       "deltaPos": 1,
-      "mmr": 1151,
+      "mmr": 1125,
       "deltaMmr": 0
     }
   },
@@ -4097,21 +4125,77 @@
     "name": "",
     "platform": "ps",
     "vs3": {
-      "pos": 147,
-      "deltaPos": 0,
+      "pos": 148,
+      "deltaPos": 1,
       "mmr": 1464,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 208,
-      "deltaPos": 2,
+      "pos": 205,
+      "deltaPos": -3,
       "mmr": 1360,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 209,
-      "deltaPos": 15,
+      "pos": 199,
+      "deltaPos": -10,
       "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Sebitas",
+    "id": "76561198309413746",
+    "team": "",
+    "role": "",
+    "twitter": "_sebitas15",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 149,
+      "deltaPos": 8,
+      "mmr": 1462,
+      "deltaMmr": -8
+    },
+    "vs2": {
+      "pos": 144,
+      "deltaPos": 3,
+      "mmr": 1463,
+      "deltaMmr": -8
+    },
+    "vs1": {
+      "pos": 99,
+      "deltaPos": -9,
+      "mmr": 1073,
+      "deltaMmr": 17
+    }
+  },
+  {
+    "nickname": "Dazeh",
+    "id": "76561198096268599",
+    "team": "",
+    "role": "",
+    "twitter": "dvzeh",
+    "twitch": "iamdazeh",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 150,
+      "deltaPos": 28,
+      "mmr": 1461,
+      "deltaMmr": -44
+    },
+    "vs2": {
+      "pos": 170,
+      "deltaPos": 4,
+      "mmr": 1414,
+      "deltaMmr": -9
+    },
+    "vs1": {
+      "pos": 148,
+      "deltaPos": 1,
+      "mmr": 931,
       "deltaMmr": 0
     }
   },
@@ -4125,14 +4209,14 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 148,
-      "deltaPos": 0,
+      "pos": 151,
+      "deltaPos": 3,
       "mmr": 1459,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 107,
-      "deltaPos": 0,
+      "pos": 108,
+      "deltaPos": 1,
       "mmr": 1526,
       "deltaMmr": 0
     },
@@ -4140,34 +4224,6 @@
       "pos": 38,
       "deltaPos": 0,
       "mmr": 1172,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Torcal",
-    "id": "xTorcalYT",
-    "team": "",
-    "role": "",
-    "twitter": "TorcalRL",
-    "twitch": "Torcal",
-    "name": "",
-    "platform": "ps",
-    "vs3": {
-      "pos": 149,
-      "deltaPos": -1,
-      "mmr": 1458,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 128,
-      "deltaPos": 4,
-      "mmr": 1493,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 98,
-      "deltaPos": 1,
-      "mmr": 1075,
       "deltaMmr": 0
     }
   },
@@ -4181,21 +4237,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 150,
-      "deltaPos": 1,
+      "pos": 152,
+      "deltaPos": 2,
       "mmr": 1458,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 151,
-      "deltaPos": -2,
+      "pos": 153,
+      "deltaPos": 2,
       "mmr": 1445,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 88,
-      "deltaPos": 2,
-      "mmr": 1091,
+      "pos": 94,
+      "deltaPos": 6,
+      "mmr": 1080,
+      "deltaMmr": -11
+    }
+  },
+  {
+    "nickname": "Torcal",
+    "id": "xTorcalYT",
+    "team": "",
+    "role": "",
+    "twitter": "TorcalRL",
+    "twitch": "Torcal",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 153,
+      "deltaPos": 4,
+      "mmr": 1458,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 129,
+      "deltaPos": 1,
+      "mmr": 1493,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 98,
+      "deltaPos": 0,
+      "mmr": 1075,
       "deltaMmr": 0
     }
   },
@@ -4209,19 +4293,19 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 151,
-      "deltaPos": -2,
+      "pos": 154,
+      "deltaPos": 3,
       "mmr": 1457,
-      "deltaMmr": 3
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 169,
-      "deltaPos": 2,
+      "pos": 167,
+      "deltaPos": -2,
       "mmr": 1420,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 83,
+      "pos": 84,
       "deltaPos": 1,
       "mmr": 1101,
       "deltaMmr": 0
@@ -4237,16 +4321,16 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 152,
-      "deltaPos": 1,
+      "pos": 155,
+      "deltaPos": 3,
       "mmr": 1456,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 182,
-      "deltaPos": -4,
+      "pos": 183,
+      "deltaPos": 1,
       "mmr": 1400,
-      "deltaMmr": 9
+      "deltaMmr": 0
     },
     "vs1": {
       "pos": 112,
@@ -4265,20 +4349,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 153,
-      "deltaPos": 15,
+      "pos": 156,
+      "deltaPos": 3,
       "mmr": 1454,
-      "deltaMmr": -17
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 239,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1257,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 140,
-      "deltaPos": 0,
+      "pos": 141,
+      "deltaPos": 1,
       "mmr": 957,
       "deltaMmr": 0
     }
@@ -4293,189 +4377,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 154,
-      "deltaPos": 0,
+      "pos": 157,
+      "deltaPos": 3,
       "mmr": 1452,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 184,
-      "deltaPos": 2,
+      "pos": 185,
+      "deltaPos": 1,
       "mmr": 1399,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 155,
-      "deltaPos": 2,
-      "mmr": 908,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Edu.",
-    "id": "76561198849818063",
-    "team": "",
-    "role": "",
-    "twitter": "EDU09881",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 155,
-      "deltaPos": -10,
-      "mmr": 1452,
-      "deltaMmr": 18
-    },
-    "vs2": {
-      "pos": 38,
-      "deltaPos": -9,
-      "mmr": 1650,
-      "deltaMmr": 25
-    },
-    "vs1": {
-      "pos": 46,
-      "deltaPos": -17,
-      "mmr": 1156,
-      "deltaMmr": 21
-    }
-  },
-  {
-    "nickname": "Timo",
-    "id": "76561198211281451",
-    "team": "Hawks Gaming",
-    "role": "",
-    "twitter": "TimoRL_",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 156,
-      "deltaPos": 26,
-      "mmr": 1451,
-      "deltaMmr": -40
-    },
-    "vs2": {
-      "pos": 152,
-      "deltaPos": -2,
-      "mmr": 1443,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 119,
-      "deltaPos": -1,
-      "mmr": 1027,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Cierbot",
-    "id": "76561198020872599",
-    "team": "",
-    "role": "",
-    "twitter": "Cierbot",
-    "twitch": "cierbot",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 157,
-      "deltaPos": -9,
-      "mmr": 1451,
-      "deltaMmr": 19
-    },
-    "vs2": {
-      "pos": 187,
-      "deltaPos": 16,
-      "mmr": 1392,
-      "deltaMmr": -19
-    },
-    "vs1": {
-      "pos": 141,
-      "deltaPos": 0,
-      "mmr": 953,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Irving",
-    "id": "76561198244865642",
-    "team": "",
-    "role": "",
-    "twitter": "Irving_ASF",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 158,
-      "deltaPos": 3,
-      "mmr": 1445,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 78,
-      "deltaPos": -19,
-      "mmr": 1566,
-      "deltaMmr": 27
-    },
-    "vs1": {
-      "pos": 86,
-      "deltaPos": 2,
-      "mmr": 1094,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Loriti",
-    "id": "76561198072061959",
-    "team": "",
-    "role": "",
-    "twitter": "JustLoriti",
-    "twitch": "loriti",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 159,
-      "deltaPos": 1,
-      "mmr": 1443,
-      "deltaMmr": 0
-    },
-    "vs2": {
       "pos": 154,
       "deltaPos": -1,
-      "mmr": 1440,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 126,
-      "deltaPos": -1,
-      "mmr": 1003,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Zoren",
-    "id": "76561198323557418",
-    "team": "",
-    "role": "",
-    "twitter": "Zorenv5",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 160,
-      "deltaPos": 3,
-      "mmr": 1443,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 173,
-      "deltaPos": 3,
-      "mmr": 1412,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 225,
-      "deltaPos": 3,
-      "mmr": 0,
+      "mmr": 908,
       "deltaMmr": 0
     }
   },
@@ -4489,20 +4405,132 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 161,
-      "deltaPos": 1,
-      "mmr": 1442,
-      "deltaMmr": 0
+      "pos": 158,
+      "deltaPos": -3,
+      "mmr": 1451,
+      "deltaMmr": 9
     },
     "vs2": {
       "pos": 82,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1557,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 229,
-      "deltaPos": 5,
+      "pos": 228,
+      "deltaPos": -1,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Jofosu",
+    "id": "76561198155851847",
+    "team": "QBits",
+    "role": "",
+    "twitter": "jofosu1",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 159,
+      "deltaPos": 30,
+      "mmr": 1449,
+      "deltaMmr": -46
+    },
+    "vs2": {
+      "pos": 158,
+      "deltaPos": -1,
+      "mmr": 1432,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 126,
+      "deltaPos": 1,
+      "mmr": 1007,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "DrCole17",
+    "id": "76561198105424316",
+    "team": "",
+    "role": "",
+    "twitter": "DrCole17",
+    "twitch": "drcole17",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 160,
+      "deltaPos": -8,
+      "mmr": 1447,
+      "deltaMmr": 20
+    },
+    "vs2": {
+      "pos": 204,
+      "deltaPos": -2,
+      "mmr": 1365,
+      "deltaMmr": 2
+    },
+    "vs1": {
+      "pos": 107,
+      "deltaPos": 1,
+      "mmr": 1063,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Irving",
+    "id": "76561198244865642",
+    "team": "",
+    "role": "",
+    "twitter": "Irving_ASF",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 161,
+      "deltaPos": 3,
+      "mmr": 1445,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 78,
+      "deltaPos": 0,
+      "mmr": 1564,
+      "deltaMmr": -2
+    },
+    "vs1": {
+      "pos": 86,
+      "deltaPos": 0,
+      "mmr": 1094,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Zoren",
+    "id": "76561198323557418",
+    "team": "",
+    "role": "",
+    "twitter": "Zorenv5",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 162,
+      "deltaPos": 2,
+      "mmr": 1443,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 171,
+      "deltaPos": -2,
+      "mmr": 1412,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 227,
+      "deltaPos": 2,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -4517,20 +4545,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 162,
-      "deltaPos": -1,
+      "pos": 163,
+      "deltaPos": 1,
       "mmr": 1440,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 92,
-      "deltaPos": 2,
+      "pos": 91,
+      "deltaPos": -1,
       "mmr": 1545,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 235,
-      "deltaPos": 10,
+      "pos": 230,
+      "deltaPos": -5,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -4545,20 +4573,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 163,
+      "pos": 164,
       "deltaPos": 1,
       "mmr": 1440,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 143,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1463,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 233,
-      "deltaPos": 7,
+      "pos": 232,
+      "deltaPos": -1,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -4573,21 +4601,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 164,
-      "deltaPos": 3,
+      "pos": 165,
+      "deltaPos": 1,
       "mmr": 1440,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 150,
-      "deltaPos": -2,
+      "pos": 152,
+      "deltaPos": 2,
       "mmr": 1447,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 230,
-      "deltaPos": 3,
+      "pos": 234,
+      "deltaPos": 4,
       "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "ItsZalgo",
+    "id": "76561198054085859",
+    "team": "Hunters Esports",
+    "role": "",
+    "twitter": "kill01241",
+    "twitch": "itszalgo",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 166,
+      "deltaPos": -14,
+      "mmr": 1436,
+      "deltaMmr": 32
+    },
+    "vs2": {
+      "pos": 142,
+      "deltaPos": -13,
+      "mmr": 1466,
+      "deltaMmr": 27
+    },
+    "vs1": {
+      "pos": 158,
+      "deltaPos": 0,
+      "mmr": 898,
       "deltaMmr": 0
     }
   },
@@ -4601,50 +4657,50 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 165,
-      "deltaPos": 9,
+      "pos": 167,
+      "deltaPos": 2,
       "mmr": 1434,
-      "deltaMmr": -9
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 156,
-      "deltaPos": 8,
+      "pos": 155,
+      "deltaPos": -1,
       "mmr": 1438,
-      "deltaMmr": -18
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 224,
-      "deltaPos": 3,
+      "pos": 287,
+      "deltaPos": 63,
       "mmr": 0,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Jafifu",
-    "id": "76561198258589901",
+    "nickname": "Cierbot",
+    "id": "76561198020872599",
     "team": "",
-    "role": "Retirado",
-    "twitter": "SrJafifu",
-    "twitch": "",
+    "role": "",
+    "twitter": "Cierbot",
+    "twitch": "cierbot",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 166,
-      "deltaPos": -1,
-      "mmr": 1431,
-      "deltaMmr": 1
+      "pos": 168,
+      "deltaPos": 11,
+      "mmr": 1433,
+      "deltaMmr": -18
     },
     "vs2": {
-      "pos": 214,
-      "deltaPos": 9,
-      "mmr": 1335,
-      "deltaMmr": -27
+      "pos": 189,
+      "deltaPos": 2,
+      "mmr": 1392,
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 129,
-      "deltaPos": 7,
-      "mmr": 998,
-      "deltaMmr": -17
+      "pos": 142,
+      "deltaPos": 1,
+      "mmr": 953,
+      "deltaMmr": 0
     }
   },
   {
@@ -4657,49 +4713,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 167,
-      "deltaPos": -1,
+      "pos": 169,
+      "deltaPos": 2,
       "mmr": 1429,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 163,
-      "deltaPos": 2,
+      "pos": 162,
+      "deltaPos": -1,
       "mmr": 1426,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 242,
-      "deltaPos": 4,
+      "pos": 239,
+      "deltaPos": -3,
       "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "DrCole17",
-    "id": "76561198105424316",
-    "team": "",
-    "role": "",
-    "twitter": "DrCole17",
-    "twitch": "drcole17",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 168,
-      "deltaPos": -1,
-      "mmr": 1427,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 206,
-      "deltaPos": 2,
-      "mmr": 1363,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 106,
-      "deltaPos": 0,
-      "mmr": 1063,
       "deltaMmr": 0
     }
   },
@@ -4713,21 +4741,77 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 169,
-      "deltaPos": -1,
+      "pos": 170,
+      "deltaPos": 1,
       "mmr": 1426,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 103,
-      "deltaPos": 0,
+      "pos": 104,
+      "deltaPos": 1,
       "mmr": 1532,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 64,
-      "deltaPos": 0,
+      "pos": 66,
+      "deltaPos": 2,
       "mmr": 1131,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Riryoku",
+    "id": "76561198210360277",
+    "team": "",
+    "role": "",
+    "twitter": "riryoku_01",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 171,
+      "deltaPos": -13,
+      "mmr": 1425,
+      "deltaMmr": 24
+    },
+    "vs2": {
+      "pos": 234,
+      "deltaPos": 0,
+      "mmr": 1274,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 129,
+      "deltaPos": -1,
+      "mmr": 998,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Jota",
+    "id": "76561198117868648",
+    "team": "Crewnity",
+    "role": "",
+    "twitter": "talavero17",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 172,
+      "deltaPos": -22,
+      "mmr": 1425,
+      "deltaMmr": 42
+    },
+    "vs2": {
+      "pos": 148,
+      "deltaPos": 2,
+      "mmr": 1455,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 194,
+      "deltaPos": 0,
+      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -4741,20 +4825,20 @@
     "name": "",
     "platform": "ps",
     "vs3": {
-      "pos": 170,
-      "deltaPos": -1,
+      "pos": 173,
+      "deltaPos": 3,
       "mmr": 1423,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 205,
-      "deltaPos": -13,
-      "mmr": 1366,
-      "deltaMmr": 54
+      "pos": 213,
+      "deltaPos": 8,
+      "mmr": 1340,
+      "deltaMmr": -26
     },
     "vs1": {
-      "pos": 139,
-      "deltaPos": 0,
+      "pos": 140,
+      "deltaPos": 1,
       "mmr": 962,
       "deltaMmr": 0
     }
@@ -4769,106 +4853,22 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 171,
-      "deltaPos": -1,
+      "pos": 174,
+      "deltaPos": 3,
       "mmr": 1422,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 52,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1615,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 19,
-      "deltaPos": 1,
-      "mmr": 1249,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Seeco",
-    "id": "76561198104494616",
-    "team": "",
-    "role": "Retirado",
-    "twitter": "SecDesigns2k17",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 172,
-      "deltaPos": -7,
-      "mmr": 1422,
-      "deltaMmr": 9
-    },
-    "vs2": {
-      "pos": 104,
-      "deltaPos": -22,
-      "mmr": 1532,
-      "deltaMmr": 40
-    },
-    "vs1": {
-      "pos": 256,
-      "deltaPos": 1,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Markinyo",
-    "id": "76561198288306820",
-    "team": "",
-    "role": "",
-    "twitter": "AimMarkinyo",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 173,
-      "deltaPos": -11,
-      "mmr": 1421,
-      "deltaMmr": 22
-    },
-    "vs2": {
-      "pos": 100,
-      "deltaPos": 1,
-      "mmr": 1537,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 146,
-      "deltaPos": -1,
-      "mmr": 934,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Anthony",
-    "id": "76561198170275659",
-    "team": "Lightning Unicorns",
-    "role": "",
-    "twitter": "Anthony_RL1",
-    "twitch": "Anthony_RL1",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 174,
-      "deltaPos": 1,
-      "mmr": 1420,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 222,
-      "deltaPos": -8,
-      "mmr": 1309,
-      "deltaMmr": 31
-    },
-    "vs1": {
-      "pos": 148,
-      "deltaPos": 4,
-      "mmr": 931,
-      "deltaMmr": -8
+      "pos": 25,
+      "deltaPos": 6,
+      "mmr": 1240,
+      "deltaMmr": -9
     }
   },
   {
@@ -4887,14 +4887,14 @@
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 99,
-      "deltaPos": 3,
+      "pos": 96,
+      "deltaPos": -3,
       "mmr": 1540,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 132,
-      "deltaPos": 0,
+      "pos": 133,
+      "deltaPos": 1,
       "mmr": 996,
       "deltaMmr": 0
     }
@@ -4910,19 +4910,19 @@
     "platform": "ps",
     "vs3": {
       "pos": 176,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1419,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 189,
-      "deltaPos": 2,
+      "pos": 192,
+      "deltaPos": 3,
       "mmr": 1390,
       "deltaMmr": 0
     },
     "vs1": {
       "pos": 145,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 935,
       "deltaMmr": 0
     }
@@ -4938,48 +4938,76 @@
     "platform": "steam",
     "vs3": {
       "pos": 177,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1418,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 160,
-      "deltaPos": 2,
+      "pos": 159,
+      "deltaPos": -1,
       "mmr": 1430,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 89,
-      "deltaPos": 2,
+      "pos": 88,
+      "deltaPos": -1,
       "mmr": 1090,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Tronsrock",
-    "id": "76561198085590247",
-    "team": "HolyFish",
+    "nickname": "Loriti",
+    "id": "76561198072061959",
+    "team": "",
     "role": "",
-    "twitter": "TronsRock_GG",
-    "twitch": "",
+    "twitter": "JustLoriti",
+    "twitch": "loriti",
     "name": "",
     "platform": "steam",
     "vs3": {
       "pos": 178,
-      "deltaPos": 1,
-      "mmr": 1417,
-      "deltaMmr": 1
+      "deltaPos": 19,
+      "mmr": 1418,
+      "deltaMmr": -25
     },
     "vs2": {
-      "pos": 231,
-      "deltaPos": 3,
-      "mmr": 1280,
-      "deltaMmr": -3
+      "pos": 175,
+      "deltaPos": 21,
+      "mmr": 1408,
+      "deltaMmr": -32
     },
     "vs1": {
-      "pos": 153,
+      "pos": 127,
+      "deltaPos": 1,
+      "mmr": 1003,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Anthony",
+    "id": "76561198170275659",
+    "team": "Lightning Unicorns",
+    "role": "",
+    "twitter": "Anthony_RL1",
+    "twitch": "Anthony_RL1",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 179,
+      "deltaPos": 5,
+      "mmr": 1415,
+      "deltaMmr": -5
+    },
+    "vs2": {
+      "pos": 221,
       "deltaPos": -1,
-      "mmr": 908,
+      "mmr": 1309,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 150,
+      "deltaPos": 2,
+      "mmr": 931,
       "deltaMmr": 0
     }
   },
@@ -4993,77 +5021,105 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 179,
-      "deltaPos": -1,
+      "pos": 180,
+      "deltaPos": 1,
       "mmr": 1413,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 287,
-      "deltaPos": 12,
+      "pos": 277,
+      "deltaPos": -10,
       "mmr": 0,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 257,
-      "deltaPos": 8,
+      "pos": 254,
+      "deltaPos": -3,
       "mmr": 0,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "ItsZalgo",
-    "id": "76561198054085859",
-    "team": "Hunters Esports",
-    "role": "",
-    "twitter": "kill01241",
-    "twitch": "itszalgo",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 180,
-      "deltaPos": -1,
-      "mmr": 1404,
-      "deltaMmr": -9
-    },
-    "vs2": {
-      "pos": 155,
-      "deltaPos": 14,
-      "mmr": 1439,
-      "deltaMmr": -27
-    },
-    "vs1": {
-      "pos": 158,
-      "deltaPos": 1,
-      "mmr": 898,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "System",
-    "id": "76561198309484135",
+    "nickname": "Jafifu",
+    "id": "76561198258589901",
     "team": "",
-    "role": "",
-    "twitter": "SystemRL",
+    "role": "Retirado",
+    "twitter": "SrJafifu",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
       "pos": 181,
-      "deltaPos": -16,
-      "mmr": 1402,
-      "deltaMmr": 23
+      "deltaPos": 15,
+      "mmr": 1413,
+      "deltaMmr": -18
     },
     "vs2": {
-      "pos": 188,
-      "deltaPos": 7,
-      "mmr": 1391,
-      "deltaMmr": -9
+      "pos": 214,
+      "deltaPos": 0,
+      "mmr": 1335,
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 74,
+      "pos": 131,
+      "deltaPos": 2,
+      "mmr": 998,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Tronsrock",
+    "id": "76561198085590247",
+    "team": "HolyFish",
+    "role": "",
+    "twitter": "TronsRock_GG",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 182,
+      "deltaPos": 4,
+      "mmr": 1412,
+      "deltaMmr": -5
+    },
+    "vs2": {
+      "pos": 227,
+      "deltaPos": -4,
+      "mmr": 1292,
+      "deltaMmr": 12
+    },
+    "vs1": {
+      "pos": 155,
+      "deltaPos": 2,
+      "mmr": 908,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "taryM",
+    "id": "76561198238075134",
+    "team": "",
+    "role": "",
+    "twitter": "tarymx",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 183,
+      "deltaPos": -2,
+      "mmr": 1408,
+      "deltaMmr": 8
+    },
+    "vs2": {
+      "pos": 197,
       "deltaPos": 0,
-      "mmr": 1115,
+      "mmr": 1376,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 143,
+      "deltaPos": 0,
+      "mmr": 942,
       "deltaMmr": 0
     }
   },
@@ -5077,20 +5133,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 182,
-      "deltaPos": 0,
+      "pos": 184,
+      "deltaPos": 2,
       "mmr": 1402,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 283,
-      "deltaPos": 0,
+      "pos": 275,
+      "deltaPos": -8,
       "mmr": 0,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 260,
-      "deltaPos": 2,
+      "pos": 259,
+      "deltaPos": -1,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -5105,77 +5161,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 183,
-      "deltaPos": 0,
+      "pos": 185,
+      "deltaPos": 2,
       "mmr": 1401,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 85,
-      "deltaPos": 2,
+      "pos": 86,
+      "deltaPos": 1,
       "mmr": 1555,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 81,
+      "pos": 82,
       "deltaPos": 1,
       "mmr": 1107,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Riryoku",
-    "id": "76561198210360277",
-    "team": "",
-    "role": "",
-    "twitter": "riryoku_01",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 184,
-      "deltaPos": 20,
-      "mmr": 1401,
-      "deltaMmr": -37
-    },
-    "vs2": {
-      "pos": 234,
-      "deltaPos": 1,
-      "mmr": 1274,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 130,
-      "deltaPos": 0,
-      "mmr": 998,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "taryM",
-    "id": "76561198238075134",
-    "team": "",
-    "role": "",
-    "twitter": "tarymx",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 185,
-      "deltaPos": -5,
-      "mmr": 1400,
-      "deltaMmr": 11
-    },
-    "vs2": {
-      "pos": 197,
-      "deltaPos": 3,
-      "mmr": 1376,
-      "deltaMmr": -4
-    },
-    "vs1": {
-      "pos": 143,
-      "deltaPos": 0,
-      "mmr": 942,
       "deltaMmr": 0
     }
   },
@@ -5190,19 +5190,19 @@
     "platform": "steam",
     "vs3": {
       "pos": 186,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1398,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 284,
-      "deltaPos": 7,
+      "pos": 278,
+      "deltaPos": -6,
       "mmr": 0,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 138,
-      "deltaPos": 0,
+      "pos": 139,
+      "deltaPos": 1,
       "mmr": 963,
       "deltaMmr": 0
     }
@@ -5218,20 +5218,48 @@
     "platform": "steam",
     "vs3": {
       "pos": 187,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1397,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 198,
-      "deltaPos": -5,
+      "deltaPos": 0,
       "mmr": 1375,
-      "deltaMmr": 11
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 123,
-      "deltaPos": -1,
+      "pos": 124,
+      "deltaPos": 1,
       "mmr": 1009,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Dezysh",
+    "id": "76561198159360874",
+    "team": "FekyX",
+    "role": "Manager",
+    "twitter": "Dezysh",
+    "twitch": "dezysh",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 188,
+      "deltaPos": -9,
+      "mmr": 1397,
+      "deltaMmr": 20
+    },
+    "vs2": {
+      "pos": 244,
+      "deltaPos": 2,
+      "mmr": 1242,
+      "deltaMmr": -9
+    },
+    "vs1": {
+      "pos": 197,
+      "deltaPos": -4,
+      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -5245,20 +5273,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 188,
+      "pos": 189,
       "deltaPos": 1,
       "mmr": 1396,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 225,
-      "deltaPos": 2,
+      "pos": 224,
+      "deltaPos": -1,
       "mmr": 1299,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 168,
-      "deltaPos": 0,
+      "pos": 169,
+      "deltaPos": 1,
       "mmr": 836,
       "deltaMmr": 0
     }
@@ -5273,20 +5301,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 189,
+      "pos": 190,
       "deltaPos": 1,
       "mmr": 1395,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 145,
-      "deltaPos": 0,
+      "pos": 146,
+      "deltaPos": 1,
       "mmr": 1461,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 279,
-      "deltaPos": 11,
+      "pos": 272,
+      "deltaPos": -7,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -5301,22 +5329,22 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 190,
-      "deltaPos": -19,
+      "pos": 191,
+      "deltaPos": 1,
       "mmr": 1392,
-      "deltaMmr": 38
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 172,
-      "deltaPos": 25,
-      "mmr": 1413,
-      "deltaMmr": -43
+      "pos": 156,
+      "deltaPos": -16,
+      "mmr": 1435,
+      "deltaMmr": 22
     },
     "vs1": {
-      "pos": 117,
-      "deltaPos": 0,
-      "mmr": 1034,
-      "deltaMmr": 0
+      "pos": 118,
+      "deltaPos": 1,
+      "mmr": 1035,
+      "deltaMmr": 1
     }
   },
   {
@@ -5329,21 +5357,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 191,
-      "deltaPos": 2,
+      "pos": 192,
+      "deltaPos": 1,
       "mmr": 1391,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 185,
-      "deltaPos": 0,
-      "mmr": 1396,
-      "deltaMmr": 5
+      "pos": 166,
+      "deltaPos": -19,
+      "mmr": 1421,
+      "deltaMmr": 25
     },
     "vs1": {
-      "pos": 122,
-      "deltaPos": -1,
+      "pos": 123,
+      "deltaPos": 1,
       "mmr": 1013,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "System",
+    "id": "76561198309484135",
+    "team": "",
+    "role": "",
+    "twitter": "SystemRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 193,
+      "deltaPos": 12,
+      "mmr": 1390,
+      "deltaMmr": -12
+    },
+    "vs2": {
+      "pos": 190,
+      "deltaPos": 2,
+      "mmr": 1391,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 74,
+      "deltaPos": 0,
+      "mmr": 1115,
       "deltaMmr": 0
     }
   },
@@ -5357,467 +5413,19 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 192,
-      "deltaPos": 1,
+      "pos": 194,
+      "deltaPos": 2,
       "mmr": 1387,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 251,
-      "deltaPos": -1,
+      "pos": 253,
+      "deltaPos": 2,
       "mmr": 1203,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 191,
-      "deltaPos": 2,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Ymkl",
-    "id": "76561198116989021",
-    "team": "S1X6EES",
-    "role": "",
-    "twitter": "Yemaikel",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 193,
-      "deltaPos": 1,
-      "mmr": 1386,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 125,
-      "deltaPos": 4,
-      "mmr": 1498,
-      "deltaMmr": 0
-    },
-    "vs1": {
       "pos": 192,
-      "deltaPos": 2,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Jota",
-    "id": "76561198117868648",
-    "team": "Crewnity",
-    "role": "",
-    "twitter": "talavero17",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 194,
-      "deltaPos": 0,
-      "mmr": 1383,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 146,
-      "deltaPos": -3,
-      "mmr": 1455,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 194,
-      "deltaPos": -2,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Alru",
-    "id": "76561198421214924",
-    "team": "",
-    "role": "",
-    "twitter": "AlruRL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 195,
-      "deltaPos": 0,
-      "mmr": 1383,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 59,
-      "deltaPos": 0,
-      "mmr": 1606,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 195,
-      "deltaPos": 3,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "xX_amaadoor_Xx",
-    "id": "xX_amaadoor_Xx",
-    "team": "bLarsUnited",
-    "role": "",
-    "twitter": "jleoro_rl",
-    "twitch": "Jleoro",
-    "name": "",
-    "platform": "ps",
-    "vs3": {
-      "pos": 196,
-      "deltaPos": 0,
-      "mmr": 1379,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 101,
-      "deltaPos": 1,
-      "mmr": 1537,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 115,
-      "deltaPos": -1,
-      "mmr": 1041,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Dezysh",
-    "id": "76561198159360874",
-    "team": "FekyX",
-    "role": "Manager",
-    "twitter": "Dezysh",
-    "twitch": "dezysh",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 197,
-      "deltaPos": -4,
-      "mmr": 1377,
-      "deltaMmr": 9
-    },
-    "vs2": {
-      "pos": 242,
-      "deltaPos": 6,
-      "mmr": 1251,
-      "deltaMmr": -15
-    },
-    "vs1": {
-      "pos": 201,
-      "deltaPos": -15,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "LeonFlame",
-    "id": "76561198169772083",
-    "team": "HolyFish",
-    "role": "",
-    "twitter": "LeonFlameRL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 198,
-      "deltaPos": 5,
-      "mmr": 1376,
-      "deltaMmr": -10
-    },
-    "vs2": {
-      "pos": 235,
-      "deltaPos": 0,
-      "mmr": 1268,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 193,
-      "deltaPos": -2,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Enri",
-    "id": "EnriTheCrackHD",
-    "team": "DSG Gaming",
-    "role": "CEO",
-    "twitter": "Enri_TC",
-    "twitch": "",
-    "name": "",
-    "platform": "ps",
-    "vs3": {
-      "pos": 199,
-      "deltaPos": -12,
-      "mmr": 1376,
-      "deltaMmr": 23
-    },
-    "vs2": {
-      "pos": 219,
-      "deltaPos": 4,
-      "mmr": 1318,
-      "deltaMmr": -4
-    },
-    "vs1": {
-      "pos": 144,
-      "deltaPos": -1,
-      "mmr": 938,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Choger",
-    "id": "76561197964735836",
-    "team": "",
-    "role": "",
-    "twitter": "ChogerRL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 200,
-      "deltaPos": 2,
-      "mmr": 1375,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 176,
-      "deltaPos": 1,
-      "mmr": 1409,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 198,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "SrFox3999",
-    "id": "76561198136966273",
-    "team": "",
-    "role": "",
-    "twitter": "srfox3999rl",
-    "twitch": "SrFox3999",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 201,
-      "deltaPos": 2,
-      "mmr": 1371,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 170,
-      "deltaPos": 2,
-      "mmr": 1416,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 199,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Kassadinha",
-    "id": "76561198799160112",
-    "team": "",
-    "role": "Retirado",
-    "twitter": "Kassaaa2",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 202,
-      "deltaPos": 2,
-      "mmr": 1369,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 95,
-      "deltaPos": 3,
-      "mmr": 1543,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 76,
-      "deltaPos": 4,
-      "mmr": 1115,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Baenary",
-    "id": "76561198422287010",
-    "team": "",
-    "role": "",
-    "twitter": "Baenaryy",
-    "twitch": "baenaryy",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 203,
-      "deltaPos": 1,
-      "mmr": 1367,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 174,
-      "deltaPos": 2,
-      "mmr": 1411,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 202,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Tomato",
-    "id": "76561198800410278",
-    "team": "T3AM SALAD",
-    "role": "",
-    "twitter": "DviserRL",
-    "twitch": "Dviser",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 204,
-      "deltaPos": 26,
-      "mmr": 1367,
-      "deltaMmr": -49
-    },
-    "vs2": {
-      "pos": 195,
-      "deltaPos": -22,
-      "mmr": 1376,
-      "deltaMmr": 57
-    },
-    "vs1": {
-      "pos": 175,
-      "deltaPos": 0,
-      "mmr": 768,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Propeye",
-    "id": "76561198113010446",
-    "team": "",
-    "role": "",
-    "twitter": "manu_088",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 205,
-      "deltaPos": 1,
-      "mmr": 1363,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 186,
-      "deltaPos": 3,
-      "mmr": 1395,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 204,
-      "deltaPos": -3,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "iiNFiNiTe",
-    "id": "76561198253301133",
-    "team": "",
-    "role": "",
-    "twitter": "_iiNFiNiTe__",
-    "twitch": "iinfinite1",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 206,
-      "deltaPos": 3,
-      "mmr": 1363,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 228,
-      "deltaPos": 2,
-      "mmr": 1293,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 161,
-      "deltaPos": 0,
-      "mmr": 891,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Feiroz",
-    "id": "76561198178447123",
-    "team": "",
-    "role": "",
-    "twitter": "FEIROZYT",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 207,
-      "deltaPos": 1,
-      "mmr": 1361,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 217,
-      "deltaPos": 1,
-      "mmr": 1321,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 206,
-      "deltaPos": 1,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Fredy",
-    "id": "76561198138902132",
-    "team": "",
-    "role": "",
-    "twitter": "RLFredy",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 208,
-      "deltaPos": 3,
-      "mmr": 1361,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 157,
-      "deltaPos": 1,
-      "mmr": 1434,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 205,
       "deltaPos": 1,
       "mmr": 0,
       "deltaMmr": 0
@@ -5833,43 +5441,295 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 209,
-      "deltaPos": -5,
-      "mmr": 1361,
-      "deltaMmr": 9
+      "pos": 195,
+      "deltaPos": -14,
+      "mmr": 1387,
+      "deltaMmr": 26
     },
     "vs2": {
-      "pos": 241,
-      "deltaPos": -1,
-      "mmr": 1254,
-      "deltaMmr": 0
+      "pos": 243,
+      "deltaPos": 2,
+      "mmr": 1245,
+      "deltaMmr": -9
     },
     "vs1": {
-      "pos": 172,
+      "pos": 173,
       "deltaPos": 1,
       "mmr": 821,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Hawk",
-    "id": "76561197960752589",
-    "team": "",
+    "nickname": "Ymkl",
+    "id": "76561198116989021",
+    "team": "S1X6EES",
     "role": "",
-    "twitter": "HawkMJ23",
+    "twitter": "Yemaikel",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 210,
+      "pos": 196,
       "deltaPos": 3,
-      "mmr": 1357,
+      "mmr": 1386,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 247,
+      "pos": 126,
+      "deltaPos": 1,
+      "mmr": 1498,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 193,
+      "deltaPos": 1,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Alru",
+    "id": "76561198421214924",
+    "team": "",
+    "role": "",
+    "twitter": "AlruRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 197,
+      "deltaPos": 2,
+      "mmr": 1383,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 59,
       "deltaPos": 0,
-      "mmr": 1227,
+      "mmr": 1606,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 195,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "xX_amaadoor_Xx",
+    "id": "xX_amaadoor_Xx",
+    "team": "bLarsUnited",
+    "role": "",
+    "twitter": "jleoro_rl",
+    "twitch": "Jleoro",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 198,
+      "deltaPos": 2,
+      "mmr": 1379,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 99,
+      "deltaPos": -2,
+      "mmr": 1537,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 116,
+      "deltaPos": 1,
+      "mmr": 1041,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Sir_DroiD",
+    "id": "76561198144214195",
+    "team": "",
+    "role": "",
+    "twitter": "Alvar_DroiD ",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 199,
+      "deltaPos": -16,
+      "mmr": 1377,
+      "deltaMmr": 33
+    },
+    "vs2": {
+      "pos": 184,
+      "deltaPos": 1,
+      "mmr": 1400,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 215,
+      "deltaPos": -4,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "LeonFlame",
+    "id": "76561198169772083",
+    "team": "HolyFish",
+    "role": "",
+    "twitter": "LeonFlameRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 200,
+      "deltaPos": 2,
+      "mmr": 1376,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 235,
+      "deltaPos": 0,
+      "mmr": 1268,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 198,
+      "deltaPos": 5,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Choger",
+    "id": "76561197964735836",
+    "team": "",
+    "role": "",
+    "twitter": "ChogerRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 201,
+      "deltaPos": 1,
+      "mmr": 1375,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 174,
+      "deltaPos": -2,
+      "mmr": 1409,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 200,
+      "deltaPos": 2,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "SrFox3999",
+    "id": "76561198136966273",
+    "team": "",
+    "role": "",
+    "twitter": "srfox3999rl",
+    "twitch": "SrFox3999",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 202,
+      "deltaPos": 1,
+      "mmr": 1371,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 168,
+      "deltaPos": -2,
+      "mmr": 1416,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 201,
+      "deltaPos": 2,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Baenary",
+    "id": "76561198422287010",
+    "team": "",
+    "role": "",
+    "twitter": "Baenaryy",
+    "twitch": "baenaryy",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 203,
+      "deltaPos": 0,
+      "mmr": 1367,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 172,
+      "deltaPos": -2,
+      "mmr": 1411,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 203,
+      "deltaPos": 1,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Propeye",
+    "id": "76561198113010446",
+    "team": "",
+    "role": "",
+    "twitter": "manu_088",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 204,
+      "deltaPos": -1,
+      "mmr": 1363,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 187,
+      "deltaPos": 1,
+      "mmr": 1395,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 205,
+      "deltaPos": 1,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Feiroz",
+    "id": "76561198178447123",
+    "team": "",
+    "role": "",
+    "twitter": "FEIROZYT",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 205,
+      "deltaPos": -2,
+      "mmr": 1361,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 217,
+      "deltaPos": 0,
+      "mmr": 1321,
       "deltaMmr": 0
     },
     "vs1": {
@@ -5880,85 +5740,29 @@
     }
   },
   {
-    "nickname": "Chøcø.",
-    "id": "76561198100586080",
+    "nickname": "Fredy",
+    "id": "76561198138902132",
     "team": "",
     "role": "",
-    "twitter": "Choco_RL",
-    "twitch": "Choco_RL",
+    "twitter": "RLFredy",
+    "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 211,
-      "deltaPos": 3,
-      "mmr": 1354,
+      "pos": 206,
+      "deltaPos": -2,
+      "mmr": 1361,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 211,
-      "deltaPos": 3,
-      "mmr": 1352,
+      "pos": 157,
+      "deltaPos": 0,
+      "mmr": 1434,
       "deltaMmr": 0
     },
     "vs1": {
       "pos": 208,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "soyzegio",
-    "id": "76561198103566661",
-    "team": "",
-    "role": "",
-    "twitter": "SW_Zegio",
-    "twitch": "soyzegio",
-    "name": "Sergio",
-    "platform": "steam",
-    "vs3": {
-      "pos": 212,
-      "deltaPos": 2,
-      "mmr": 1353,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 212,
       "deltaPos": 3,
-      "mmr": 1349,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 210,
-      "deltaPos": 1,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "aLmeLa",
-    "id": "76561198142789746",
-    "team": "",
-    "role": "",
-    "twitter": "aLmeLa_RL",
-    "twitch": "almela",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 213,
-      "deltaPos": -2,
-      "mmr": 1349,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 196,
-      "deltaPos": -1,
-      "mmr": 1376,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 215,
-      "deltaPos": 4,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -5973,49 +5777,217 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 214,
-      "deltaPos": -2,
-      "mmr": 1348,
-      "deltaMmr": 0
+      "pos": 207,
+      "deltaPos": -7,
+      "mmr": 1360,
+      "deltaMmr": 12
     },
     "vs2": {
       "pos": 210,
-      "deltaPos": -10,
-      "mmr": 1356,
-      "deltaMmr": 53
+      "deltaPos": 0,
+      "mmr": 1346,
+      "deltaMmr": -10
     },
     "vs1": {
-      "pos": 150,
-      "deltaPos": 0,
+      "pos": 151,
+      "deltaPos": 1,
       "mmr": 926,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Sir_DroiD",
-    "id": "76561198144214195",
+    "nickname": "Hawk",
+    "id": "76561197960752589",
     "team": "",
     "role": "",
-    "twitter": "Alvar_DroiD ",
+    "twitter": "HawkMJ23",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 215,
-      "deltaPos": -4,
-      "mmr": 1344,
-      "deltaMmr": 12
+      "pos": 208,
+      "deltaPos": -2,
+      "mmr": 1357,
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 183,
-      "deltaPos": 3,
-      "mmr": 1400,
+      "pos": 248,
+      "deltaPos": 1,
+      "mmr": 1227,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 219,
+      "pos": 210,
+      "deltaPos": 3,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Chøcø.",
+    "id": "76561198100586080",
+    "team": "",
+    "role": "",
+    "twitter": "Choco_RL",
+    "twitch": "Choco_RL",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 209,
+      "deltaPos": -2,
+      "mmr": 1354,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 207,
+      "deltaPos": -4,
+      "mmr": 1352,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 211,
+      "deltaPos": 3,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "soyzegio",
+    "id": "76561198103566661",
+    "team": "",
+    "role": "",
+    "twitter": "SW_Zegio",
+    "twitch": "soyzegio",
+    "name": "Sergio",
+    "platform": "steam",
+    "vs3": {
+      "pos": 210,
+      "deltaPos": -2,
+      "mmr": 1353,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 209,
+      "deltaPos": -3,
+      "mmr": 1349,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 212,
       "deltaPos": 2,
       "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Enri",
+    "id": "EnriTheCrackHD",
+    "team": "DSG Gaming",
+    "role": "CEO",
+    "twitter": "Enri_TC",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 211,
+      "deltaPos": 12,
+      "mmr": 1353,
+      "deltaMmr": -23
+    },
+    "vs2": {
+      "pos": 211,
+      "deltaPos": -8,
+      "mmr": 1345,
+      "deltaMmr": 27
+    },
+    "vs1": {
+      "pos": 144,
+      "deltaPos": 0,
+      "mmr": 938,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "aLmeLa",
+    "id": "76561198142789746",
+    "team": "",
+    "role": "",
+    "twitter": "aLmeLa_RL",
+    "twitch": "almela",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 212,
+      "deltaPos": -1,
+      "mmr": 1349,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 191,
+      "deltaPos": -5,
+      "mmr": 1391,
+      "deltaMmr": 15
+    },
+    "vs1": {
+      "pos": 213,
+      "deltaPos": -2,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Kassadinha",
+    "id": "76561198799160112",
+    "team": "",
+    "role": "Retirado",
+    "twitter": "Kassaaa2",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 213,
+      "deltaPos": 11,
+      "mmr": 1348,
+      "deltaMmr": -21
+    },
+    "vs2": {
+      "pos": 94,
+      "deltaPos": -1,
+      "mmr": 1543,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 75,
+      "deltaPos": -1,
+      "mmr": 1115,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "iiNFiNiTe",
+    "id": "76561198253301133",
+    "team": "",
+    "role": "",
+    "twitter": "_iiNFiNiTe__",
+    "twitch": "iinfinite1",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 214,
+      "deltaPos": 8,
+      "mmr": 1346,
+      "deltaMmr": -17
+    },
+    "vs2": {
+      "pos": 226,
+      "deltaPos": -2,
+      "mmr": 1293,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 163,
+      "deltaPos": 2,
+      "mmr": 891,
       "deltaMmr": 0
     }
   },
@@ -6029,20 +6001,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 216,
+      "pos": 215,
       "deltaPos": -1,
       "mmr": 1337,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 213,
-      "deltaPos": 2,
+      "pos": 212,
+      "deltaPos": -1,
       "mmr": 1341,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 217,
-      "deltaPos": 2,
+      "pos": 216,
+      "deltaPos": -1,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -6057,20 +6029,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 217,
-      "deltaPos": 4,
+      "pos": 216,
+      "deltaPos": -1,
       "mmr": 1336,
-      "deltaMmr": -16
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 199,
+      "pos": 200,
       "deltaPos": 1,
       "mmr": 1373,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 152,
-      "deltaPos": 0,
+      "pos": 153,
+      "deltaPos": 1,
       "mmr": 913,
       "deltaMmr": 0
     }
@@ -6085,49 +6057,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 218,
-      "deltaPos": 0,
+      "pos": 217,
+      "deltaPos": -1,
       "mmr": 1334,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 216,
+      "pos": 218,
       "deltaPos": 2,
-      "mmr": 1326,
-      "deltaMmr": 0
+      "mmr": 1318,
+      "deltaMmr": -8
     },
     "vs1": {
-      "pos": 170,
-      "deltaPos": 0,
-      "mmr": 832,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Shados",
-    "id": "76561198159556686",
-    "team": "",
-    "role": "",
-    "twitter": "",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 219,
-      "deltaPos": -1,
-      "mmr": 1332,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 240,
-      "deltaPos": -1,
-      "mmr": 1255,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 220,
+      "pos": 171,
       "deltaPos": 1,
-      "mmr": 0,
+      "mmr": 832,
       "deltaMmr": 0
     }
   },
@@ -6141,20 +6085,188 @@
     "name": "Airon Arroyo",
     "platform": "steam",
     "vs3": {
-      "pos": 220,
-      "deltaPos": -1,
+      "pos": 218,
+      "deltaPos": -2,
       "mmr": 1327,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 204,
+      "pos": 199,
+      "deltaPos": -5,
+      "mmr": 1374,
+      "deltaMmr": 8
+    },
+    "vs1": {
+      "pos": 220,
+      "deltaPos": -1,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Gabriel8901808",
+    "id": "Gabriel8901808",
+    "team": "Green Dragons ",
+    "role": "CEO",
+    "twitter": "Gabriel89011",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 219,
+      "deltaPos": -4,
+      "mmr": 1326,
+      "deltaMmr": 8
+    },
+    "vs2": {
+      "pos": 254,
       "deltaPos": 2,
-      "mmr": 1366,
+      "mmr": 1191,
+      "deltaMmr": -7
+    },
+    "vs1": {
+      "pos": 175,
+      "deltaPos": 1,
+      "mmr": 769,
+      "deltaMmr": -12
+    }
+  },
+  {
+    "nickname": "RUBENCHUKI",
+    "id": "76561198241255900",
+    "team": "eGrillos",
+    "role": "Manager",
+    "twitter": "rubenchuki_6",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 220,
+      "deltaPos": -2,
+      "mmr": 1325,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 238,
+      "deltaPos": 0,
+      "mmr": 1260,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 221,
+      "pos": 168,
       "deltaPos": 1,
+      "mmr": 855,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Tomato",
+    "id": "76561198800410278",
+    "team": "T3AM SALAD",
+    "role": "",
+    "twitter": "DviserRL",
+    "twitch": "Dviser",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 221,
+      "deltaPos": 17,
+      "mmr": 1322,
+      "deltaMmr": -45
+    },
+    "vs2": {
+      "pos": 188,
+      "deltaPos": -7,
+      "mmr": 1394,
+      "deltaMmr": 18
+    },
+    "vs1": {
+      "pos": 176,
+      "deltaPos": 1,
+      "mmr": 768,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "bryyck",
+    "id": "76561198128446766",
+    "team": "",
+    "role": "",
+    "twitter": "",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 222,
+      "deltaPos": -5,
+      "mmr": 1318,
+      "deltaMmr": 14
+    },
+    "vs2": {
+      "pos": 180,
+      "deltaPos": 0,
+      "mmr": 1403,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 156,
+      "deltaPos": 2,
+      "mmr": 908,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Uri",
+    "id": "Urii_15",
+    "team": "FekyX",
+    "role": "Manager",
+    "twitter": "",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 223,
+      "deltaPos": -1,
+      "mmr": 1317,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 163,
+      "deltaPos": -1,
+      "mmr": 1425,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 166,
+      "deltaPos": 1,
+      "mmr": 877,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Shados",
+    "id": "76561198159556686",
+    "team": "",
+    "role": "",
+    "twitter": "",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 224,
+      "deltaPos": 5,
+      "mmr": 1309,
+      "deltaMmr": -23
+    },
+    "vs2": {
+      "pos": 240,
+      "deltaPos": 0,
+      "mmr": 1256,
+      "deltaMmr": 1
+    },
+    "vs1": {
+      "pos": 219,
+      "deltaPos": -1,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -6169,133 +6281,21 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 221,
-      "deltaPos": 9,
-      "mmr": 1326,
-      "deltaMmr": -27
-    },
-    "vs2": {
-      "pos": 123,
-      "deltaPos": 35,
-      "mmr": 1508,
-      "deltaMmr": -40
-    },
-    "vs1": {
-      "pos": 28,
-      "deltaPos": 4,
-      "mmr": 1227,
-      "deltaMmr": -12
-    }
-  },
-  {
-    "nickname": "RUBENCHUKI",
-    "id": "76561198241255900",
-    "team": "eGrillos",
-    "role": "Manager",
-    "twitter": "rubenchuki_6",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 222,
-      "deltaPos": 0,
-      "mmr": 1325,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 238,
-      "deltaPos": -1,
-      "mmr": 1260,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 167,
-      "deltaPos": 1,
-      "mmr": 855,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Gabriel8901808",
-    "id": "Gabriel8901808",
-    "team": "Green Dragons ",
-    "role": "CEO",
-    "twitter": "Gabriel89011",
-    "twitch": "",
-    "name": "",
-    "platform": "ps",
-    "vs3": {
-      "pos": 223,
-      "deltaPos": 0,
-      "mmr": 1318,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 252,
-      "deltaPos": 4,
-      "mmr": 1198,
-      "deltaMmr": -28
-    },
-    "vs1": {
-      "pos": 174,
-      "deltaPos": 0,
-      "mmr": 781,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Uri",
-    "id": "Urii_15",
-    "team": "FekyX",
-    "role": "Manager",
-    "twitter": "",
-    "twitch": "",
-    "name": "",
-    "platform": "ps",
-    "vs3": {
-      "pos": 224,
-      "deltaPos": 0,
-      "mmr": 1317,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 164,
-      "deltaPos": 0,
-      "mmr": 1425,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 165,
-      "deltaPos": 0,
-      "mmr": 877,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "diegostarmo",
-    "id": "76561198141421009",
-    "team": "",
-    "role": "Manager",
-    "twitter": "DiegostarmoRL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
       "pos": 225,
-      "deltaPos": 0,
-      "mmr": 1305,
-      "deltaMmr": 0
+      "deltaPos": 4,
+      "mmr": 1309,
+      "deltaMmr": -17
     },
     "vs2": {
-      "pos": 226,
-      "deltaPos": 1,
-      "mmr": 1295,
-      "deltaMmr": 0
+      "pos": 125,
+      "deltaPos": 2,
+      "mmr": 1499,
+      "deltaMmr": -9
     },
     "vs1": {
-      "pos": 149,
+      "pos": 29,
       "deltaPos": 1,
-      "mmr": 931,
+      "mmr": 1227,
       "deltaMmr": 0
     }
   },
@@ -6310,48 +6310,48 @@
     "platform": "ps",
     "vs3": {
       "pos": 226,
-      "deltaPos": -19,
+      "deltaPos": 0,
       "mmr": 1305,
-      "deltaMmr": 57
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 200,
-      "deltaPos": 9,
+      "pos": 202,
+      "deltaPos": 2,
       "mmr": 1370,
-      "deltaMmr": -14
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 245,
-      "deltaPos": 0,
+      "pos": 226,
+      "deltaPos": -19,
       "mmr": 0,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "bryyck",
-    "id": "76561198128446766",
+    "nickname": "diegostarmo",
+    "id": "76561198141421009",
     "team": "",
-    "role": "",
-    "twitter": "",
+    "role": "Manager",
+    "twitter": "DiegostarmoRL",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
       "pos": 227,
-      "deltaPos": 1,
-      "mmr": 1304,
+      "deltaPos": 2,
+      "mmr": 1305,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 180,
-      "deltaPos": 1,
-      "mmr": 1403,
+      "pos": 225,
+      "deltaPos": -1,
+      "mmr": 1295,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 154,
-      "deltaPos": -1,
-      "mmr": 908,
+      "pos": 149,
+      "deltaPos": 0,
+      "mmr": 931,
       "deltaMmr": 0
     }
   },
@@ -6366,19 +6366,19 @@
     "platform": "steam",
     "vs3": {
       "pos": 228,
-      "deltaPos": -2,
-      "mmr": 1303,
-      "deltaMmr": 14
+      "deltaPos": 0,
+      "mmr": 1304,
+      "deltaMmr": 1
     },
     "vs2": {
       "pos": 249,
-      "deltaPos": -1,
-      "mmr": 1211,
-      "deltaMmr": 0
+      "deltaPos": 0,
+      "mmr": 1222,
+      "deltaMmr": 11
     },
     "vs1": {
-      "pos": 177,
-      "deltaPos": 0,
+      "pos": 178,
+      "deltaPos": 1,
       "mmr": 763,
       "deltaMmr": 0
     }
@@ -6394,7 +6394,7 @@
     "platform": "steam",
     "vs3": {
       "pos": 229,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1298,
       "deltaMmr": 0
     },
@@ -6405,8 +6405,8 @@
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 227,
-      "deltaPos": -2,
+      "pos": 229,
+      "deltaPos": 2,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -6422,7 +6422,7 @@
     "platform": "steam",
     "vs3": {
       "pos": 230,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1297,
       "deltaMmr": 0
     },
@@ -6433,8 +6433,8 @@
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 181,
-      "deltaPos": -1,
+      "pos": 182,
+      "deltaPos": 1,
       "mmr": 652,
       "deltaMmr": 0
     }
@@ -6455,43 +6455,15 @@
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 153,
-      "deltaPos": -35,
-      "mmr": 1442,
-      "deltaMmr": 53
+      "pos": 176,
+      "deltaPos": 23,
+      "mmr": 1408,
+      "deltaMmr": -34
     },
     "vs1": {
       "pos": 231,
       "deltaPos": 0,
       "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Kedron",
-    "id": "76561198404161965",
-    "team": "",
-    "role": "Manager",
-    "twitter": "Kxdron",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 232,
-      "deltaPos": 3,
-      "mmr": 1288,
-      "deltaMmr": -8
-    },
-    "vs2": {
-      "pos": 203,
-      "deltaPos": 2,
-      "mmr": 1367,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 77,
-      "deltaPos": 2,
-      "mmr": 1113,
       "deltaMmr": 0
     }
   },
@@ -6505,8 +6477,8 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 233,
-      "deltaPos": 1,
+      "pos": 232,
+      "deltaPos": -1,
       "mmr": 1285,
       "deltaMmr": 0
     },
@@ -6517,8 +6489,8 @@
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 232,
-      "deltaPos": -10,
+      "pos": 233,
+      "deltaPos": 1,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -6533,22 +6505,22 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 234,
-      "deltaPos": 1,
+      "pos": 233,
+      "deltaPos": -1,
       "mmr": 1284,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 223,
-      "deltaPos": -6,
-      "mmr": 1308,
-      "deltaMmr": 25
+      "deltaPos": 0,
+      "mmr": 1304,
+      "deltaMmr": -4
     },
     "vs1": {
-      "pos": 180,
-      "deltaPos": -1,
+      "pos": 181,
+      "deltaPos": 1,
       "mmr": 665,
-      "deltaMmr": 12
+      "deltaMmr": 0
     }
   },
   {
@@ -6561,20 +6533,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 235,
-      "deltaPos": 1,
+      "pos": 234,
+      "deltaPos": -1,
       "mmr": 1283,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 268,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1063,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 234,
-      "deltaPos": 0,
+      "pos": 235,
+      "deltaPos": 1,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -6589,22 +6561,50 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 236,
-      "deltaPos": 1,
+      "pos": 235,
+      "deltaPos": -1,
       "mmr": 1281,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 218,
-      "deltaPos": 8,
-      "mmr": 1320,
-      "deltaMmr": -22
+      "pos": 222,
+      "deltaPos": 4,
+      "mmr": 1305,
+      "deltaMmr": -15
     },
     "vs1": {
-      "pos": 137,
-      "deltaPos": 4,
+      "pos": 138,
+      "deltaPos": 1,
       "mmr": 963,
-      "deltaMmr": -16
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Kedron",
+    "id": "76561198404161965",
+    "team": "",
+    "role": "Manager",
+    "twitter": "Kxdron",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 236,
+      "deltaPos": 4,
+      "mmr": 1280,
+      "deltaMmr": -8
+    },
+    "vs2": {
+      "pos": 201,
+      "deltaPos": -2,
+      "mmr": 1370,
+      "deltaMmr": 3
+    },
+    "vs1": {
+      "pos": 77,
+      "deltaPos": 0,
+      "mmr": 1113,
+      "deltaMmr": 0
     }
   },
   {
@@ -6620,17 +6620,17 @@
       "pos": 237,
       "deltaPos": 0,
       "mmr": 1277,
-      "deltaMmr": 3
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 221,
-      "deltaPos": -3,
+      "pos": 220,
+      "deltaPos": -1,
       "mmr": 1310,
-      "deltaMmr": 13
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 51,
-      "deltaPos": 3,
+      "pos": 48,
+      "deltaPos": -3,
       "mmr": 1152,
       "deltaMmr": 0
     }
@@ -6646,48 +6646,20 @@
     "platform": "ps",
     "vs3": {
       "pos": 238,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1275,
       "deltaMmr": 0
     },
     "vs2": {
       "pos": 237,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1264,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 236,
-      "deltaPos": -3,
+      "pos": 238,
+      "deltaPos": 2,
       "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Kael",
-    "id": "76561198094015498",
-    "team": "",
-    "role": "Retirado",
-    "twitter": "KaelThx",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 239,
-      "deltaPos": -1,
-      "mmr": 1273,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 181,
-      "deltaPos": 3,
-      "mmr": 1403,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 118,
-      "deltaPos": 0,
-      "mmr": 1033,
       "deltaMmr": 0
     }
   },
@@ -6701,20 +6673,20 @@
     "name": "",
     "platform": "ps",
     "vs3": {
-      "pos": 240,
-      "deltaPos": 2,
+      "pos": 239,
+      "deltaPos": -1,
       "mmr": 1273,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 161,
-      "deltaPos": 2,
+      "pos": 160,
+      "deltaPos": -1,
       "mmr": 1428,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 238,
-      "deltaPos": 1,
+      "pos": 240,
+      "deltaPos": 2,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -6729,21 +6701,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
+      "pos": 240,
+      "deltaPos": -1,
+      "mmr": 1273,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 161,
+      "deltaPos": -1,
+      "mmr": 1427,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 135,
+      "deltaPos": 1,
+      "mmr": 974,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Kael",
+    "id": "76561198094015498",
+    "team": "",
+    "role": "Retirado",
+    "twitter": "KaelThx",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
       "pos": 241,
       "deltaPos": 2,
       "mmr": 1273,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 162,
-      "deltaPos": 2,
-      "mmr": 1427,
+      "pos": 179,
+      "deltaPos": -2,
+      "mmr": 1403,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 134,
-      "deltaPos": -2,
-      "mmr": 974,
+      "pos": 119,
+      "deltaPos": 1,
+      "mmr": 1033,
       "deltaMmr": 0
     }
   },
@@ -6758,19 +6758,19 @@
     "platform": "steam",
     "vs3": {
       "pos": 242,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1270,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 243,
-      "deltaPos": 0,
+      "pos": 241,
+      "deltaPos": -2,
       "mmr": 1248,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 160,
-      "deltaPos": 0,
+      "pos": 162,
+      "deltaPos": 2,
       "mmr": 892,
       "deltaMmr": 0
     }
@@ -6786,20 +6786,48 @@
     "platform": "ps",
     "vs3": {
       "pos": 243,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1264,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 233,
-      "deltaPos": 2,
+      "pos": 232,
+      "deltaPos": -1,
       "mmr": 1277,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 164,
-      "deltaPos": 0,
+      "pos": 165,
+      "deltaPos": 1,
       "mmr": 878,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Baena0a135",
+    "id": "76561198256140032",
+    "team": "",
+    "role": "",
+    "twitter": "alejandrojbaena",
+    "twitch": "baena0a_95",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 244,
+      "deltaPos": -15,
+      "mmr": 1261,
+      "deltaMmr": 51
+    },
+    "vs2": {
+      "pos": 255,
+      "deltaPos": -3,
+      "mmr": 1189,
+      "deltaMmr": 10
+    },
+    "vs1": {
+      "pos": 183,
+      "deltaPos": 1,
+      "mmr": 647,
       "deltaMmr": 0
     }
   },
@@ -6813,7 +6841,7 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 244,
+      "pos": 245,
       "deltaPos": 1,
       "mmr": 1253,
       "deltaMmr": 0
@@ -6825,8 +6853,8 @@
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 243,
-      "deltaPos": -1,
+      "pos": 244,
+      "deltaPos": 1,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -6841,49 +6869,105 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 245,
+      "pos": 246,
       "deltaPos": 1,
       "mmr": 1253,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 158,
-      "deltaPos": -35,
-      "mmr": 1432,
-      "deltaMmr": 51
+      "pos": 147,
+      "deltaPos": -11,
+      "mmr": 1459,
+      "deltaMmr": 27
     },
     "vs1": {
-      "pos": 102,
+      "pos": 103,
       "deltaPos": 1,
       "mmr": 1068,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "FR5DDY",
-    "id": "76561198193494919",
-    "team": "",
-    "role": "",
-    "twitter": "FR5DDY",
-    "twitch": "fr5ddy",
+    "nickname": "Bati_two PC",
+    "id": "76561198430568701",
+    "team": "NightSkills eSports",
+    "role": "CEO",
+    "twitter": "La_Baticao",
+    "twitch": "La_Baticao",
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 246,
-      "deltaPos": 0,
-      "mmr": 1246,
+      "pos": 247,
+      "deltaPos": -10,
+      "mmr": 1251,
+      "deltaMmr": 38
+    },
+    "vs2": {
+      "pos": 252,
+      "deltaPos": 2,
+      "mmr": 1204,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 160,
+      "deltaPos": 1,
+      "mmr": 896,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Uteki",
+    "id": "76561198211615309",
+    "team": "Rainbow Legends",
+    "role": "",
+    "twitter": "nando080597",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 248,
+      "deltaPos": -14,
+      "mmr": 1247,
+      "deltaMmr": 51
+    },
+    "vs2": {
+      "pos": 215,
+      "deltaPos": 21,
+      "mmr": 1328,
+      "deltaMmr": -49
+    },
+    "vs1": {
+      "pos": 161,
+      "deltaPos": -1,
+      "mmr": 893,
+      "deltaMmr": 5
+    }
+  },
+  {
+    "nickname": "Minesmas",
+    "id": "76561198263441237",
+    "team": "",
+    "role": "",
+    "twitter": "MinesmasYT",
+    "twitch": "minesmas",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 249,
+      "deltaPos": 1,
+      "mmr": 1240,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 224,
-      "deltaPos": 3,
-      "mmr": 1303,
-      "deltaMmr": 3
+      "pos": 236,
+      "deltaPos": 0,
+      "mmr": 1265,
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 173,
-      "deltaPos": 0,
-      "mmr": 788,
+      "pos": 184,
+      "deltaPos": 1,
+      "mmr": 629,
       "deltaMmr": 0
     }
   },
@@ -6897,78 +6981,22 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 247,
-      "deltaPos": -1,
-      "mmr": 1240,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 190,
-      "deltaPos": 1,
-      "mmr": 1389,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 171,
-      "deltaPos": -1,
-      "mmr": 831,
-      "deltaMmr": 24
-    }
-  },
-  {
-    "nickname": "Minesmas",
-    "id": "76561198263441237",
-    "team": "",
-    "role": "",
-    "twitter": "MinesmasYT",
-    "twitch": "minesmas",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 248,
-      "deltaPos": -1,
-      "mmr": 1240,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 236,
-      "deltaPos": -1,
-      "mmr": 1265,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 183,
-      "deltaPos": 3,
-      "mmr": 629,
-      "deltaMmr": -72
-    }
-  },
-  {
-    "nickname": "Aitorsora",
-    "id": "76561198196074815",
-    "team": "",
-    "role": "",
-    "twitter": "",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 249,
-      "deltaPos": -1,
-      "mmr": 1238,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 259,
-      "deltaPos": 1,
-      "mmr": 1151,
-      "deltaMmr": 0
-    },
-    "vs1": {
       "pos": 250,
-      "deltaPos": 0,
-      "mmr": 0,
+      "deltaPos": 3,
+      "mmr": 1240,
       "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 186,
+      "deltaPos": -4,
+      "mmr": 1396,
+      "deltaMmr": 7
+    },
+    "vs1": {
+      "pos": 172,
+      "deltaPos": 1,
+      "mmr": 832,
+      "deltaMmr": 1
     }
   },
   {
@@ -6981,21 +7009,49 @@
     "name": "Pablo Sabín",
     "platform": "steam",
     "vs3": {
+      "pos": 251,
+      "deltaPos": 1,
+      "mmr": 1239,
+      "deltaMmr": 2
+    },
+    "vs2": {
       "pos": 250,
-      "deltaPos": -1,
-      "mmr": 1237,
+      "deltaPos": 2,
+      "mmr": 1219,
+      "deltaMmr": 7
+    },
+    "vs1": {
+      "pos": 170,
+      "deltaPos": 1,
+      "mmr": 834,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Aitorsora",
+    "id": "76561198196074815",
+    "team": "",
+    "role": "",
+    "twitter": "",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 252,
+      "deltaPos": 3,
+      "mmr": 1238,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 248,
-      "deltaPos": -1,
-      "mmr": 1212,
-      "deltaMmr": -12
+      "pos": 259,
+      "deltaPos": 0,
+      "mmr": 1151,
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 169,
-      "deltaPos": 0,
-      "mmr": 834,
+      "pos": 249,
+      "deltaPos": -1,
+      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -7009,8 +7065,8 @@
     "name": "",
     "platform": "ps",
     "vs3": {
-      "pos": 251,
-      "deltaPos": -1,
+      "pos": 253,
+      "deltaPos": 2,
       "mmr": 1236,
       "deltaMmr": 0
     },
@@ -7021,8 +7077,8 @@
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 157,
-      "deltaPos": -1,
+      "pos": 159,
+      "deltaPos": 2,
       "mmr": 898,
       "deltaMmr": 0
     }
@@ -7037,22 +7093,22 @@
     "name": "",
     "platform": "ps",
     "vs3": {
-      "pos": 252,
-      "deltaPos": -2,
-      "mmr": 1232,
-      "deltaMmr": 2
+      "pos": 254,
+      "deltaPos": 2,
+      "mmr": 1230,
+      "deltaMmr": -2
     },
     "vs2": {
-      "pos": 209,
-      "deltaPos": -3,
-      "mmr": 1357,
-      "deltaMmr": 20
+      "pos": 208,
+      "deltaPos": -1,
+      "mmr": 1351,
+      "deltaMmr": -6
     },
     "vs1": {
-      "pos": 135,
-      "deltaPos": 0,
+      "pos": 136,
+      "deltaPos": 1,
       "mmr": 970,
-      "deltaMmr": -5
+      "deltaMmr": 0
     }
   },
   {
@@ -7065,21 +7121,49 @@
     "name": "",
     "platform": "ps",
     "vs3": {
-      "pos": 253,
-      "deltaPos": 0,
+      "pos": 255,
+      "deltaPos": 2,
       "mmr": 1230,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 257,
-      "deltaPos": -7,
-      "mmr": 1181,
-      "deltaMmr": 88
+      "pos": 258,
+      "deltaPos": 1,
+      "mmr": 1159,
+      "deltaMmr": -22
     },
     "vs1": {
-      "pos": 179,
-      "deltaPos": 0,
-      "mmr": 704,
+      "pos": 180,
+      "deltaPos": 1,
+      "mmr": 694,
+      "deltaMmr": -10
+    }
+  },
+  {
+    "nickname": "FR5DDY",
+    "id": "76561198193494919",
+    "team": "",
+    "role": "",
+    "twitter": "FR5DDY",
+    "twitch": "fr5ddy",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 256,
+      "deltaPos": 10,
+      "mmr": 1229,
+      "deltaMmr": -17
+    },
+    "vs2": {
+      "pos": 228,
+      "deltaPos": 4,
+      "mmr": 1291,
+      "deltaMmr": -12
+    },
+    "vs1": {
+      "pos": 174,
+      "deltaPos": 1,
+      "mmr": 788,
       "deltaMmr": 0
     }
   },
@@ -7093,20 +7177,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 254,
-      "deltaPos": 7,
+      "pos": 257,
+      "deltaPos": 3,
       "mmr": 1228,
-      "deltaMmr": -15
-    },
-    "vs2": {
-      "pos": 274,
-      "deltaPos": 0,
-      "mmr": 876,
       "deltaMmr": 0
     },
+    "vs2": {
+      "pos": 273,
+      "deltaPos": -1,
+      "mmr": 885,
+      "deltaMmr": 9
+    },
     "vs1": {
-      "pos": 187,
-      "deltaPos": 0,
+      "pos": 188,
+      "deltaPos": 1,
       "mmr": 559,
       "deltaMmr": 0
     }
@@ -7121,20 +7205,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 255,
-      "deltaPos": -3,
+      "pos": 258,
+      "deltaPos": 3,
       "mmr": 1223,
-      "deltaMmr": 3
+      "deltaMmr": 0
     },
     "vs2": {
-      "pos": 227,
-      "deltaPos": 5,
-      "mmr": 1295,
-      "deltaMmr": -5
+      "pos": 233,
+      "deltaPos": 6,
+      "mmr": 1275,
+      "deltaMmr": -20
     },
     "vs1": {
-      "pos": 258,
-      "deltaPos": 2,
+      "pos": 255,
+      "deltaPos": -3,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -7149,8 +7233,8 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 256,
-      "deltaPos": 0,
+      "pos": 259,
+      "deltaPos": 3,
       "mmr": 1221,
       "deltaMmr": 0
     },
@@ -7161,177 +7245,9 @@
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 184,
-      "deltaPos": 0,
+      "pos": 185,
+      "deltaPos": 1,
       "mmr": 621,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Bati_two PC",
-    "id": "76561198430568701",
-    "team": "NightSkills eSports",
-    "role": "CEO",
-    "twitter": "La_Baticao",
-    "twitch": "La_Baticao",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 257,
-      "deltaPos": -3,
-      "mmr": 1213,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 250,
-      "deltaPos": -1,
-      "mmr": 1204,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 159,
-      "deltaPos": 0,
-      "mmr": 896,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "KawaiiKoala898",
-    "id": "76561198281650539",
-    "team": "",
-    "role": "",
-    "twitter": "koala898",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 258,
-      "deltaPos": -3,
-      "mmr": 1213,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 230,
-      "deltaPos": -4,
-      "mmr": 1281,
-      "deltaMmr": 9
-    },
-    "vs1": {
-      "pos": 261,
-      "deltaPos": 1,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Baena0a135",
-    "id": "76561198256140032",
-    "team": "",
-    "role": "",
-    "twitter": "alejandrojbaena",
-    "twitch": "baena0a_95",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 259,
-      "deltaPos": 0,
-      "mmr": 1210,
-      "deltaMmr": -9
-    },
-    "vs2": {
-      "pos": 258,
-      "deltaPos": 1,
-      "mmr": 1179,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 182,
-      "deltaPos": -1,
-      "mmr": 647,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Duvy",
-    "id": "76561198282105083",
-    "team": "Koalis Gaming",
-    "role": "",
-    "twitter": "Super_Duvy",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 260,
-      "deltaPos": 3,
-      "mmr": 1206,
-      "deltaMmr": -15
-    },
-    "vs2": {
-      "pos": 255,
-      "deltaPos": 2,
-      "mmr": 1193,
-      "deltaMmr": -8
-    },
-    "vs1": {
-      "pos": 188,
-      "deltaPos": 0,
-      "mmr": 517,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Navarrito4",
-    "id": "76561198303613746",
-    "team": "Koalis Gaming",
-    "role": "",
-    "twitter": "Navarrito4RL",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 261,
-      "deltaPos": -1,
-      "mmr": 1204,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 246,
-      "deltaPos": 0,
-      "mmr": 1230,
-      "deltaMmr": 1
-    },
-    "vs1": {
-      "pos": 166,
-      "deltaPos": -1,
-      "mmr": 864,
-      "deltaMmr": 13
-    }
-  },
-  {
-    "nickname": "Uteki",
-    "id": "76561198211615309",
-    "team": "Rainbow Legends",
-    "role": "",
-    "twitter": "nando080597",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 262,
-      "deltaPos": -1,
-      "mmr": 1196,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 194,
-      "deltaPos": -2,
-      "mmr": 1377,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 162,
-      "deltaPos": 0,
-      "mmr": 888,
       "deltaMmr": 0
     }
   },
@@ -7345,21 +7261,77 @@
     "name": "",
     "platform": "ps",
     "vs3": {
-      "pos": 263,
-      "deltaPos": 8,
-      "mmr": 1186,
-      "deltaMmr": -36
+      "pos": 260,
+      "deltaPos": -3,
+      "mmr": 1218,
+      "deltaMmr": 32
     },
     "vs2": {
       "pos": 264,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1087,
-      "deltaMmr": -16
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 176,
-      "deltaPos": 0,
+      "pos": 177,
+      "deltaPos": 1,
       "mmr": 767,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "KawaiiKoala898",
+    "id": "76561198281650539",
+    "team": "",
+    "role": "",
+    "twitter": "koala898",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 261,
+      "deltaPos": 3,
+      "mmr": 1213,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 230,
+      "deltaPos": 0,
+      "mmr": 1281,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 258,
+      "deltaPos": -3,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Duvy",
+    "id": "76561198282105083",
+    "team": "Koalis Gaming",
+    "role": "",
+    "twitter": "Super_Duvy",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 262,
+      "deltaPos": 2,
+      "mmr": 1206,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 257,
+      "deltaPos": 2,
+      "mmr": 1178,
+      "deltaMmr": -15
+    },
+    "vs1": {
+      "pos": 189,
+      "deltaPos": 1,
+      "mmr": 517,
       "deltaMmr": 0
     }
   },
@@ -7373,21 +7345,49 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 264,
+      "pos": 263,
       "deltaPos": -1,
       "mmr": 1182,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 244,
-      "deltaPos": 0,
+      "pos": 242,
+      "deltaPos": -2,
       "mmr": 1245,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 185,
-      "deltaPos": 0,
+      "pos": 186,
+      "deltaPos": 1,
       "mmr": 617,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Navarrito4",
+    "id": "76561198303613746",
+    "team": "Koalis Gaming",
+    "role": "",
+    "twitter": "Navarrito4RL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 264,
+      "deltaPos": 3,
+      "mmr": 1181,
+      "deltaMmr": -23
+    },
+    "vs2": {
+      "pos": 247,
+      "deltaPos": 1,
+      "mmr": 1229,
+      "deltaMmr": -1
+    },
+    "vs1": {
+      "pos": 167,
+      "deltaPos": 1,
+      "mmr": 864,
       "deltaMmr": 0
     }
   },
@@ -7402,18 +7402,18 @@
     "platform": "steam",
     "vs3": {
       "pos": 265,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1174,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 253,
-      "deltaPos": -1,
-      "mmr": 1195,
-      "deltaMmr": 0
+      "pos": 251,
+      "deltaPos": -2,
+      "mmr": 1205,
+      "deltaMmr": 10
     },
     "vs1": {
-      "pos": 266,
+      "pos": 265,
       "deltaPos": -1,
       "mmr": 0,
       "deltaMmr": 0
@@ -7430,19 +7430,19 @@
     "platform": "steam",
     "vs3": {
       "pos": 266,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1173,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 245,
-      "deltaPos": 0,
+      "pos": 246,
+      "deltaPos": 1,
       "mmr": 1231,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 267,
-      "deltaPos": 1,
+      "pos": 266,
+      "deltaPos": -1,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -7458,18 +7458,46 @@
     "platform": "steam",
     "vs3": {
       "pos": 267,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1167,
-      "deltaMmr": -28
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 263,
-      "deltaPos": -5,
+      "deltaPos": 0,
       "mmr": 1134,
-      "deltaMmr": 74
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 264,
+      "pos": 267,
+      "deltaPos": 3,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Carlos_T",
+    "id": "76561198290269843",
+    "team": "",
+    "role": "",
+    "twitter": "C4rlos_t",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 268,
+      "deltaPos": -2,
+      "mmr": 1157,
+      "deltaMmr": 39
+    },
+    "vs2": {
+      "pos": 274,
+      "deltaPos": 1,
+      "mmr": 870,
+      "deltaMmr": -34
+    },
+    "vs1": {
+      "pos": 270,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
@@ -7485,20 +7513,20 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 268,
-      "deltaPos": 0,
+      "pos": 269,
+      "deltaPos": 1,
       "mmr": 1152,
-      "deltaMmr": 10
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 266,
-      "deltaPos": 6,
+      "deltaPos": 0,
       "mmr": 1078,
-      "deltaMmr": -65
+      "deltaMmr": 0
     },
     "vs1": {
-      "pos": 178,
-      "deltaPos": 0,
+      "pos": 179,
+      "deltaPos": 1,
       "mmr": 726,
       "deltaMmr": 0
     }
@@ -7513,10 +7541,10 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 269,
-      "deltaPos": 0,
+      "pos": 270,
+      "deltaPos": 1,
       "mmr": 1128,
-      "deltaMmr": -11
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 262,
@@ -7526,34 +7554,6 @@
     },
     "vs1": {
       "pos": 269,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Carlos_T",
-    "id": "76561198290269843",
-    "team": "",
-    "role": "",
-    "twitter": "C4rlos_t",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 270,
-      "deltaPos": 0,
-      "mmr": 1118,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 273,
-      "deltaPos": 0,
-      "mmr": 904,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 270,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
@@ -7576,7 +7576,7 @@
     },
     "vs2": {
       "pos": 267,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1073,
       "deltaMmr": 0
     },
@@ -7600,18 +7600,46 @@
       "pos": 272,
       "deltaPos": 0,
       "mmr": 1043,
-      "deltaMmr": -10
+      "deltaMmr": 0
     },
     "vs2": {
       "pos": 260,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1145,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 186,
-      "deltaPos": 0,
+      "pos": 187,
+      "deltaPos": 1,
       "mmr": 601,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Zoor",
+    "id": "76561198046349883",
+    "team": "",
+    "role": "Retirado",
+    "twitter": "ZoorRL",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 273,
+      "deltaPos": -7,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 280,
+      "deltaPos": 5,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 280,
+      "deltaPos": 0,
+      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -7625,47 +7653,19 @@
     "name": "",
     "platform": "steam",
     "vs3": {
-      "pos": 273,
-      "deltaPos": 0,
+      "pos": 274,
+      "deltaPos": 1,
       "mmr": 0,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 280,
-      "deltaPos": -7,
+      "pos": 283,
+      "deltaPos": 3,
       "mmr": 0,
       "deltaMmr": 0
     },
     "vs1": {
       "pos": 273,
-      "deltaPos": -14,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Dreyar",
-    "id": "76561198847201088",
-    "team": "Mavericks Esports",
-    "role": "",
-    "twitter": "MarioGarciaCore",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 274,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 75,
-      "deltaPos": 0,
-      "mmr": 1574,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 274,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
@@ -7688,7 +7688,7 @@
     },
     "vs2": {
       "pos": 229,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1290,
       "deltaMmr": 0
     },
@@ -7743,8 +7743,8 @@
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 207,
-      "deltaPos": 0,
+      "pos": 206,
+      "deltaPos": -1,
       "mmr": 1360,
       "deltaMmr": 0
     },
@@ -7771,8 +7771,8 @@
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 278,
-      "deltaPos": 0,
+      "pos": 287,
+      "deltaPos": 9,
       "mmr": 0,
       "deltaMmr": 0
     },
@@ -7794,46 +7794,46 @@
     "platform": "steam",
     "vs3": {
       "pos": 279,
-      "deltaPos": -8,
+      "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 232,
-      "deltaPos": 0,
+      "pos": 231,
+      "deltaPos": -1,
       "mmr": 1277,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 287,
-      "deltaPos": 14,
+      "pos": 279,
+      "deltaPos": -8,
       "mmr": 0,
       "deltaMmr": 0
     }
   },
   {
-    "nickname": "Zoor",
-    "id": "76561198046349883",
-    "team": "",
-    "role": "Retirado",
-    "twitter": "ZoorRL",
+    "nickname": "Dreyar",
+    "id": "76561198847201088",
+    "team": "Mavericks Esports",
+    "role": "",
+    "twitter": "MarioGarciaCore",
     "twitch": "",
     "name": "",
     "platform": "steam",
     "vs3": {
       "pos": 280,
-      "deltaPos": 0,
+      "deltaPos": 6,
       "mmr": 0,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 275,
-      "deltaPos": -5,
-      "mmr": 0,
+      "pos": 73,
+      "deltaPos": -2,
+      "mmr": 1574,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 280,
+      "pos": 274,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
@@ -7911,8 +7911,8 @@
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 220,
-      "deltaPos": 1,
+      "pos": 219,
+      "deltaPos": -1,
       "mmr": 1310,
       "deltaMmr": 0
     },
@@ -7939,8 +7939,8 @@
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 167,
-      "deltaPos": 2,
+      "pos": 165,
+      "deltaPos": -2,
       "mmr": 1422,
       "deltaMmr": 0
     },
@@ -8018,21 +8018,21 @@
     "platform": "steam",
     "vs3": {
       "pos": 287,
-      "deltaPos": 8,
+      "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
     "vs2": {
-      "pos": 106,
-      "deltaPos": 0,
+      "pos": 107,
+      "deltaPos": 1,
       "mmr": 1528,
       "deltaMmr": 0
     },
     "vs1": {
-      "pos": 30,
-      "deltaPos": -31,
-      "mmr": 1201,
-      "deltaMmr": 64
+      "pos": 42,
+      "deltaPos": 12,
+      "mmr": 1164,
+      "deltaMmr": -37
     }
   }
 ]
