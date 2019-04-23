@@ -28,6 +28,34 @@
     }
   },
   {
+    "nickname": "Truedust",
+    "id": "76561198358670051",
+    "team": "ALEMUAK",
+    "role": "",
+    "twitter": "Alemz_RL",
+    "twitch": "truedustrl",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1546,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
     "nickname": "LewisLechowski",
     "id": "76561198184671933",
     "team": "",
