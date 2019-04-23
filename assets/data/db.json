@@ -28,6 +28,90 @@
     }
   },
   {
+    "nickname": "Ciskymaru",
+    "id": "Ciskymaru",
+    "team": "",
+    "role": "",
+    "twitter": "Cisco6944",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1126,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Sonicxito",
+    "id": "Sonicxito",
+    "team": "DSG",
+    "role": "",
+    "twitter": "sonicxito1",
+    "twitch": "soniclitzer",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1583,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Hp_cyrexx",
+    "id": "Hp_cyrexx",
+    "team": "Hp esports",
+    "role": "",
+    "twitter": "",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1272,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
     "nickname": "GCR710",
     "id": "76561198063473656",
     "team": "ARG",
@@ -450,7 +534,7 @@
   {
     "nickname": "Mister Ube",
     "id": "76561198269120189",
-    "team": "Knocked Out",
+    "team": "RCD Espanyol",
     "role": "",
     "twitter": "MiSTeR_uBe_",
     "twitch": "",
@@ -786,7 +870,7 @@
   {
     "nickname": "Samuel",
     "id": "76561198202624036",
-    "team": "Knocked Out",
+    "team": "RCD Espanyol",
     "role": "",
     "twitter": "samucortes2000",
     "twitch": "",
@@ -1262,7 +1346,7 @@
   {
     "nickname": "Stake",
     "id": "76561198242455752",
-    "team": "Knocked Out",
+    "team": "RCD Espanyol",
     "role": "",
     "twitter": "StakeYT",
     "twitch": "",
@@ -2382,7 +2466,7 @@
   {
     "nickname": "Wolf.",
     "id": "76561198283230023",
-    "team": "",
+    "team": "RCD Espanyol",
     "role": "",
     "twitter": "WolfRL_",
     "twitch": "",
@@ -2466,10 +2550,10 @@
   {
     "nickname": "XxsergiiooxX_103",
     "id": "XxsergiiooxX_103",
-    "team": "Snowed Wolves",
+    "team": "Blars united",
     "role": "",
     "twitter": "ytnaca",
-    "twitch": "",
+    "twitch": "elnacayt",
     "name": "",
     "platform": "ps",
     "vs3": {
@@ -2802,8 +2886,8 @@
   {
     "nickname": "JayQ",
     "id": "76561198087354045",
-    "team": "Lightning Unicorns",
-    "role": "Coach",
+    "team": "",
+    "role": "",
     "twitter": "javitownzz",
     "twitch": "ItsJayQ",
     "name": "",
@@ -4062,7 +4146,7 @@
   {
     "nickname": "Vila",
     "id": "76561198133680785",
-    "team": "",
+    "team": "Mort Subite eSports",
     "role": "",
     "twitter": "Vila_RL",
     "twitch": "",
@@ -4986,7 +5070,7 @@
   {
     "nickname": "Ash",
     "id": "Ash_Daystar",
-    "team": "Daraya eSports",
+    "team": "",
     "role": "",
     "twitter": "ashdaystar",
     "twitch": "",
@@ -7029,7 +7113,7 @@
   },
   {
     "nickname": "Andresmarcote",
-    "id": "Andresmarcote",
+    "id": "MarcoteRL",
     "team": "",
     "role": "",
     "twitter": "ByMarcote",
