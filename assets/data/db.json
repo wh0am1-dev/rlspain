@@ -28,6 +28,34 @@
     }
   },
   {
+    "nickname": "LewisLechowski",
+    "id": "76561198184671933",
+    "team": "",
+    "role": "",
+    "twitter": "luis_05_96",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 1202,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
     "nickname": "XxnarutoxX_15",
     "id": "76561198297657382",
     "team": "The failers esp",
