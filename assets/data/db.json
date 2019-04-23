@@ -28,174 +28,6 @@
     }
   },
   {
-    "nickname": "Truedust",
-    "id": "76561198358670051",
-    "team": "ALEMUAK",
-    "role": "",
-    "twitter": "Alemz_RL",
-    "twitch": "truedustrl",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 1546,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "LewisLechowski",
-    "id": "76561198184671933",
-    "team": "",
-    "role": "",
-    "twitter": "luis_05_96",
-    "twitch": "",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 1202,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "XxnarutoxX_15",
-    "id": "76561198297657382",
-    "team": "The failers esp",
-    "role": "",
-    "twitter": "tonipb_15",
-    "twitch": "xxnarutoxx15",
-    "name": "",
-    "platform": "steam",
-    "vs3": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 1135,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Ciskymaru",
-    "id": "Ciskymaru",
-    "team": "",
-    "role": "",
-    "twitter": "Cisco6944",
-    "twitch": "",
-    "name": "",
-    "platform": "ps",
-    "vs3": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 1126,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Sonicxito",
-    "id": "Sonicxito",
-    "team": "DSG",
-    "role": "",
-    "twitter": "sonicxito1",
-    "twitch": "soniclitzer",
-    "name": "",
-    "platform": "ps",
-    "vs3": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 1583,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
-    "nickname": "Hp_cyrexx",
-    "id": "Hp_cyrexx",
-    "team": "Hp esports",
-    "role": "",
-    "twitter": "",
-    "twitch": "",
-    "name": "",
-    "platform": "ps",
-    "vs3": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 1272,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    }
-  },
-  {
     "nickname": "GCR710",
     "id": "76561198063473656",
     "team": "ARG",
@@ -8148,18 +7980,18 @@
     }
   },
   {
-    "nickname": "ByFeZz",
-    "id": "ByFeZz",
+    "nickname": "vSnity",
+    "id": "76561198386967806",
     "team": "",
     "role": "",
-    "twitter": "ByFeZz",
+    "twitter": "vSnityRL",
     "twitch": "",
     "name": "",
-    "platform": "ps",
+    "platform": "steam",
     "vs3": {
       "pos": 286,
       "deltaPos": 0,
-      "mmr": 0,
+      "mmr": 1689,
       "deltaMmr": 0
     },
     "vs2": {
@@ -8198,6 +8030,173 @@
     },
     "vs1": {
       "pos": 279,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+   {
+    "nickname": "Truedust",
+    "id": "76561198358670051",
+    "team": "ALEMUAK",
+    "role": "",
+    "twitter": "Alemz_RL",
+    "twitch": "truedustrl",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 288,
+      "deltaPos": 0,
+      "mmr": 1546,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "LewisLechowski",
+    "id": "76561198184671933",
+    "team": "",
+    "role": "",
+    "twitter": "luis_05_96",
+    "twitch": "",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 289,
+      "deltaPos": 0,
+      "mmr": 1202,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "XxnarutoxX_15",
+    "id": "76561198297657382",
+    "team": "The failers esp",
+    "role": "",
+    "twitter": "tonipb_15",
+    "twitch": "xxnarutoxx15",
+    "name": "",
+    "platform": "steam",
+    "vs3": {
+      "pos": 290,
+      "deltaPos": 0,
+      "mmr": 1135,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Ciskymaru",
+    "id": "Ciskymaru",
+    "team": "",
+    "role": "",
+    "twitter": "Cisco6944",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 291,
+      "deltaPos": 0,
+      "mmr": 1126,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Sonicxito",
+    "id": "Sonicxito",
+    "team": "DSG",
+    "role": "",
+    "twitter": "sonicxito1",
+    "twitch": "soniclitzer",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 292,
+      "deltaPos": 0,
+      "mmr": 1583,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    }
+  },
+  {
+    "nickname": "Hp_cyrexx",
+    "id": "Hp_cyrexx",
+    "team": "Hp esports",
+    "role": "",
+    "twitter": "",
+    "twitch": "",
+    "name": "",
+    "platform": "ps",
+    "vs3": {
+      "pos": 293,
+      "deltaPos": 0,
+      "mmr": 1272,
+      "deltaMmr": 0
+    },
+    "vs2": {
+      "pos": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "vs1": {
+      "pos": 0,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
