@@ -10,35 +10,11 @@ rocket league spanish database pwa
 
 ## :floppy_disk: pre-requisites
 
-[node](https://nodejs.org) & [yarn](https://yarnpkg.com)
+[node](https://nodejs.org)
 
 <br>
 
 ## :computer: how-to
-
-<br>
-
-###### :: setup ::
-
-:balloon: __`git clone https://github.com/neko250/rlscrapper`__<br>
-clone the repository
-
-:rainbow: __`yarn`__<br>
-install dependencies
-
-<br>
-
-###### :: data mining ::
-
-:spider: __`npm run crawl`__<br>
-update database from sources
-
-:recycle: __`npm run sync`__<br>
-update remote database
-
-<br>
-
-###### :: web development ::
 
 :hammer: __`npm start`__<br>
 local development server

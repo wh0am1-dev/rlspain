@@ -13,14 +13,12 @@ script:
   - npm test
 
 after_success:
-  - wget https://raw.githubusercontent.com/DiscordHooks/travis-ci-discord-webhook/master/send.sh
-  - chmod +x send.sh
-  - ./send.sh success $WEBHOOK_URL
+  - chmod +x .bin/discord.sh
+  - ./.bin/discord.sh success $WEBHOOK_URL
 
 after_failure:
-  - wget https://raw.githubusercontent.com/DiscordHooks/travis-ci-discord-webhook/master/send.sh
-  - chmod +x send.sh
-  - ./send.sh failure $WEBHOOK_URL
+  - chmod +x .bin/discord.sh
+  - ./.bin/discord.sh failure $WEBHOOK_URL
 
 before_deploy:
   - eval "$(ssh-agent -s)"
@@ -31,8 +29,8 @@ before_deploy:
   - npm run build
   - git add assets/data/db.json
   - git commit -m "travis db update"
-  - git remote add deploy git@github.com:Neko250/rlscrapper.git
-  - git push deploy master
+  - git remote add github git@github.com:Neko250/rlscrapper.git
+  - git push github master
 
 deploy:
   provider: pages
