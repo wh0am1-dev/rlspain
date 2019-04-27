@@ -28,8 +28,8 @@ module.exports = (state, emitter) => {
         state.db.filter = ''
         state.db.data = data
 
-        if (state.route === state.routes.RANK
-          && ['1v1', '2v2', '3v3'].indexOf(state.params.category) > -1) {
+        if (state.route === state.routes.RANK &&
+          ['1v1', '2v2', '3v3'].indexOf(state.params.category) > -1) {
           let category = state.params.category.slice(1)
           state.db.data.sort((a, b) => {
             return Math.sign(a[category].pos - b[category].pos)
@@ -49,12 +49,12 @@ module.exports = (state, emitter) => {
       if (state.components.list) state.components.list.page = 0
 
       state.db.filteredData = state.db.data.filter(player => {
-        if (state.params.category === '1v1'
-          && player.v1.mmr < state.db.cutoffs.v1) return false
-        if (state.params.category === '2v2'
-          && player.v2.mmr < state.db.cutoffs.v2) return false
-        if (state.params.category === '3v3'
-          && player.v3.mmr < state.db.cutoffs.v3) return false
+        if (state.params.category === '1v1' &&
+          player.v1.mmr < state.db.cutoffs.v1) return false
+        if (state.params.category === '2v2' &&
+          player.v2.mmr < state.db.cutoffs.v2) return false
+        if (state.params.category === '3v3' &&
+          player.v3.mmr < state.db.cutoffs.v3) return false
 
         let ans = false
 

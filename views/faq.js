@@ -6,7 +6,6 @@ const title = 'rlspain.cf · faq'
 const nav = require('../components/blck/nav')
 const footer = require('../components/blck/footer')
 const header = require('../components/el/header')
-const button = require('../components/el/button')
 
 module.exports = (state, emit) => {
   if (state.title !== title) {

@@ -5,7 +5,6 @@ const title = 'rlspain.cf'
 
 const nav = require('../components/blck/nav')
 const footer = require('../components/blck/footer')
-const maintenance = require('../components/blck/maintenance')
 
 module.exports = (state, emit) => {
   if (state.title !== title) emit(state.events.DOMTITLECHANGE, title)
