@@ -1,6 +1,6 @@
 {
   "name": "rlscrapper",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "rocket league spanish database pwa",
   "main": "index.js",
   "private": true,
