@@ -25,20 +25,20 @@ let c = new Crawler({
     let id = uriParts[uriParts.length - 1]
     let i = db.findIndex(p => p.id === id)
 
-    let _mmr = db[i].vs1.mmr
+    let _mmr = db[i].v1.mmr
     let gamesPlayed = +$('.stats[data-id="10"] > div:nth-child(1) > span').text()
-    db[i].vs1.mmr = gamesPlayed ? +$('.card-list-item[data-id="10"] > .badge').text() : 0
-    db[i].vs1.deltaMmr = db[i].vs1.mmr - _mmr
+    db[i].v1.mmr = gamesPlayed ? +$('.card-list-item[data-id="10"] > .badge').text() : 0
+    db[i].v1.deltaMmr = db[i].v1.mmr - _mmr
 
-    _mmr = db[i].vs2.mmr
+    _mmr = db[i].v2.mmr
     gamesPlayed = +$('.stats[data-id="11"] > div:nth-child(1) > span').text()
-    db[i].vs2.mmr = gamesPlayed ? +$('.card-list-item[data-id="11"] > .badge').text() : 0
-    db[i].vs2.deltaMmr = db[i].vs2.mmr - _mmr
+    db[i].v2.mmr = gamesPlayed ? +$('.card-list-item[data-id="11"] > .badge').text() : 0
+    db[i].v2.deltaMmr = db[i].v2.mmr - _mmr
 
-    _mmr = db[i].vs3.mmr
+    _mmr = db[i].v3.mmr
     gamesPlayed = +$('.stats[data-id="13"] > div:nth-child(1) > span').text()
-    db[i].vs3.mmr = gamesPlayed ? +$('.card-list-item[data-id="13"] > .badge').text() : 0
-    db[i].vs3.deltaMmr = db[i].vs3.mmr - _mmr
+    db[i].v3.mmr = gamesPlayed ? +$('.card-list-item[data-id="13"] > .badge').text() : 0
+    db[i].v3.deltaMmr = db[i].v3.mmr - _mmr
 
     done()
   }
@@ -46,23 +46,23 @@ let c = new Crawler({
 
 c.on('drain', () => {
   // calculate player positioning
-  let db1 = db.slice().sort((a, b) => a.vs1.mmr < b.vs1.mmr ? 1 : (a.vs1.mmr > b.vs1.mmr ? -1 : 0))
-  let db2 = db.slice().sort((a, b) => a.vs2.mmr < b.vs2.mmr ? 1 : (a.vs2.mmr > b.vs2.mmr ? -1 : 0))
-  let db3 = db.slice().sort((a, b) => a.vs3.mmr < b.vs3.mmr ? 1 : (a.vs3.mmr > b.vs3.mmr ? -1 : 0))
+  let db1 = db.slice().sort((a, b) => Math.sign(a.v1.mmr - b.v1.mmr))
+  let db2 = db.slice().sort((a, b) => Math.sign(a.v2.mmr - b.v2.mmr))
+  let db3 = db.slice().sort((a, b) => Math.sign(a.v3.mmr - b.v3.mmr))
 
   db = db3.slice().map((p, i) => {
     let pos = db1.findIndex(_p => _p.id === p.id) + 1
-    p.vs1.deltaPos = pos - p.vs1.pos
-    p.vs1.pos = pos
+    p.v1.deltaPos = pos - p.v1.pos
+    p.v1.pos = pos
 
     pos = db2.findIndex(_p => _p.id === p.id) + 1
-    p.vs2.deltaPos = pos - p.vs2.pos
-    p.vs2.pos = pos
+    p.v2.deltaPos = pos - p.v2.pos
+    p.v2.pos = pos
 
     // TODO: reimplement when adding 2v2 & 1v1
     pos = i + 1
-    p.vs3.deltaPos = pos - p.vs3.pos
-    p.vs3.pos = pos
+    p.v3.deltaPos = pos - p.v3.pos
+    p.v3.pos = pos
 
     return p
   })
