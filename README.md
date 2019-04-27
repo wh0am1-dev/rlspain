@@ -8,12 +8,6 @@ rocket league spanish database pwa
 
 <br>
 
-## :floppy_disk: pre-requisites
-
-[node](https://nodejs.org)
-
-<br>
-
 ## :computer: how-to
 
 :hammer: __`npm start`__<br>
