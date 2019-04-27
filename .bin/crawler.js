@@ -50,7 +50,7 @@ c.on('drain', () => {
   let db2 = db.slice().sort((a, b) => Math.sign(b.v2.mmr - a.v2.mmr))
   let db3 = db.slice().sort((a, b) => Math.sign(b.v3.mmr - a.v3.mmr))
 
-  db = db3.slice().map((p, i) => {
+  db = db.sort((a, b) => a.localeCompare(b)).map((p, i) => {
     let pos = db1.findIndex(_p => _p.id === p.id) + 1
     p.v1.deltaPos = pos - p.v1.pos
     p.v1.pos = pos
@@ -59,7 +59,6 @@ c.on('drain', () => {
     p.v2.deltaPos = pos - p.v2.pos
     p.v2.pos = pos
 
-    // TODO: reimplement when adding 2v2 & 1v1
     pos = i + 1
     p.v3.deltaPos = pos - p.v3.pos
     p.v3.pos = pos
