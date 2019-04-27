@@ -15,7 +15,9 @@ module.exports = (state, emit) => {
   }
 
   let _title = title + player.nickname
-  if (state.title !== _title) emit('DOMTitleChange', _title)
+  if (state.title !== _title) {
+    emit(state.events.DOMTITLECHANGE, _title)
+  }
 
   let team = player.team !== '' ? html`<span class="f6 db silver">${player.team}</span>` : ''
   let role = player.role !== '' ? html`<span class="f6 light-purple">[${player.role}]</span>` : ''

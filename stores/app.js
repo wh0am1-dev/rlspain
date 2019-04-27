@@ -9,6 +9,13 @@ module.exports = (state, emitter) => {
   // state
   state.faq = pkg.faq
   state.maintenance = pkg.maintenance
+  state.routes = {
+    HOME: '/',
+    RANK: 'rank/:category',
+    PLAYER: 'player/:id',
+    FAQ: 'faq',
+    NOT_FOUND: '404'
+  }
 
   // listeners
   emitter.on(state.events.APP_NOT_FOUND, () => {

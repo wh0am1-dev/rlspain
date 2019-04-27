@@ -3,30 +3,24 @@
 const html = require('choo/html')
 const title = 'rlspain.cf · faq'
 
+const nav = require('../components/blck/nav')
+const footer = require('../components/blck/footer')
+const header = require('../components/el/header')
 const button = require('../components/el/button')
 
 module.exports = (state, emit) => {
-  if (state.title !== title) emit('DOMTitleChange', title)
+  if (state.title !== title) {
+    emit(state.events.DOMTITLECHANGE, title)
+  }
 
   return html`
-    <body class="code lh-copy bg-near-black near-white" style="cursor: default; user-select: none; scroll-behavior: smooth;">
-      <header class="tc w-100 dt">
-        <section class="dtc v-mid">
-          <h2 class="f3 f1-ns mv5">
-            <span class="bg-yellow near-black ph3 pv2 shadow-5 br2">FAQ</span>
-          </h2>
-        </section>
-      </header>
-
+    <body class="code lh-copy bg-near-black near-white ${state.debug}" style="cursor: default; user-select: none; scroll-behavior: smooth;">
+      ${nav(state, emit)}
+      ${header('FAQ', 'pt6')}
       <main class="ph4 cf center w-100 w-90-m w-80-l">
         ${state.faq.map(section)}
       </main>
-
-      <footer class="tc w-100 dt mv5">
-        <section class="dtc v-mid">
-          ${button('Inicio', () => emit(state.events.PUSHSTATE, '/'))}
-        </section>
-      </footer>
+      ${footer(state, emit)}
     </body>
   `
 

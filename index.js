@@ -28,12 +28,14 @@ app.use(require('./stores/scroll'))
 
 // ==== views ====
 const home = require('./views/home')
+const rank = require('./views/rank')
 const player = require('./views/player')
 const faq = require('./views/faq')
 const notFound = require('./views/404')
 
 // ==== routes ====
 app.route('/', home)
+app.route('/rank/:category', rank)
 app.route('/player/:id', player)
 app.route('/faq', faq)
 app.route('/404', notFound)
