@@ -46,9 +46,9 @@ let c = new Crawler({
 
 c.on('drain', () => {
   // calculate player positioning
-  let db1 = db.slice().sort((a, b) => Math.sign(a.v1.mmr - b.v1.mmr))
-  let db2 = db.slice().sort((a, b) => Math.sign(a.v2.mmr - b.v2.mmr))
-  let db3 = db.slice().sort((a, b) => Math.sign(a.v3.mmr - b.v3.mmr))
+  let db1 = db.slice().sort((a, b) => Math.sign(b.v1.mmr - a.v1.mmr))
+  let db2 = db.slice().sort((a, b) => Math.sign(b.v2.mmr - a.v2.mmr))
+  let db3 = db.slice().sort((a, b) => Math.sign(b.v3.mmr - a.v3.mmr))
 
   db = db3.slice().map((p, i) => {
     let pos = db1.findIndex(_p => _p.id === p.id) + 1
