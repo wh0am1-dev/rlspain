@@ -8,22 +8,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 1,
+    "v1": {
+      "pos": 19,
       "deltaPos": 0,
-      "mmr": 1896,
+      "mmr": 1253,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 2,
       "deltaPos": -1,
       "mmr": 1900,
       "deltaMmr": 14
     },
-    "vs1": {
-      "pos": 19,
+    "v3": {
+      "pos": 1,
       "deltaPos": 0,
-      "mmr": 1253,
+      "mmr": 1896,
       "deltaMmr": 0
     }
   },
@@ -36,23 +36,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 2,
-      "deltaPos": 0,
-      "mmr": 1896,
-      "deltaMmr": 15
+    "v1": {
+      "pos": 30,
+      "deltaPos": 1,
+      "mmr": 1219,
+      "deltaMmr": -12
     },
-    "vs2": {
+    "v2": {
       "pos": 33,
       "deltaPos": -9,
       "mmr": 1682,
       "deltaMmr": 29
     },
-    "vs1": {
-      "pos": 30,
-      "deltaPos": 1,
-      "mmr": 1219,
-      "deltaMmr": -12
+    "v3": {
+      "pos": 2,
+      "deltaPos": 0,
+      "mmr": 1896,
+      "deltaMmr": 15
     }
   },
   {
@@ -64,22 +64,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 3,
+    "v1": {
+      "pos": 40,
       "deltaPos": 0,
-      "mmr": 1878,
+      "mmr": 1176,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 21,
       "deltaPos": -1,
       "mmr": 1738,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 40,
+    "v3": {
+      "pos": 3,
       "deltaPos": 0,
-      "mmr": 1176,
+      "mmr": 1878,
       "deltaMmr": 0
     }
   },
@@ -92,23 +92,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 4,
-      "deltaPos": 0,
-      "mmr": 1872,
-      "deltaMmr": -3
+    "v1": {
+      "pos": 5,
+      "deltaPos": -3,
+      "mmr": 1301,
+      "deltaMmr": 6
     },
-    "vs2": {
+    "v2": {
       "pos": 16,
       "deltaPos": 7,
       "mmr": 1780,
       "deltaMmr": -28
     },
-    "vs1": {
-      "pos": 5,
-      "deltaPos": -3,
-      "mmr": 1301,
-      "deltaMmr": 6
+    "v3": {
+      "pos": 4,
+      "deltaPos": 0,
+      "mmr": 1872,
+      "deltaMmr": -3
     }
   },
   {
@@ -120,22 +120,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 5,
-      "deltaPos": 0,
-      "mmr": 1848,
+    "v1": {
+      "pos": 7,
+      "deltaPos": 1,
+      "mmr": 1296,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 7,
       "deltaPos": 0,
       "mmr": 1831,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 7,
-      "deltaPos": 1,
-      "mmr": 1296,
+    "v3": {
+      "pos": 5,
+      "deltaPos": 0,
+      "mmr": 1848,
       "deltaMmr": 0
     }
   },
@@ -148,23 +148,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 6,
-      "deltaPos": -1,
-      "mmr": 1847,
-      "deltaMmr": 10
+    "v1": {
+      "pos": 54,
+      "deltaPos": 3,
+      "mmr": 1152,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 19,
       "deltaPos": 5,
       "mmr": 1752,
       "deltaMmr": -30
     },
-    "vs1": {
-      "pos": 54,
-      "deltaPos": 3,
-      "mmr": 1152,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 6,
+      "deltaPos": -1,
+      "mmr": 1847,
+      "deltaMmr": 10
     }
   },
   {
@@ -176,23 +176,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 7,
-      "deltaPos": -5,
-      "mmr": 1846,
-      "deltaMmr": 42
+    "v1": {
+      "pos": 36,
+      "deltaPos": -1,
+      "mmr": 1186,
+      "deltaMmr": 6
     },
-    "vs2": {
+    "v2": {
       "pos": 45,
       "deltaPos": -1,
       "mmr": 1645,
       "deltaMmr": 2
     },
-    "vs1": {
-      "pos": 36,
-      "deltaPos": -1,
-      "mmr": 1186,
-      "deltaMmr": 6
+    "v3": {
+      "pos": 7,
+      "deltaPos": -5,
+      "mmr": 1846,
+      "deltaMmr": 42
     }
   },
   {
@@ -204,23 +204,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 8,
+    "v1": {
+      "pos": 41,
       "deltaPos": 2,
-      "mmr": 1837,
-      "deltaMmr": -6
+      "mmr": 1176,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 13,
       "deltaPos": -12,
       "mmr": 1786,
       "deltaMmr": 58
     },
-    "vs1": {
-      "pos": 41,
+    "v3": {
+      "pos": 8,
       "deltaPos": 2,
-      "mmr": 1176,
-      "deltaMmr": 0
+      "mmr": 1837,
+      "deltaMmr": -6
     }
   },
   {
@@ -232,22 +232,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 9,
-      "deltaPos": 1,
-      "mmr": 1827,
+    "v1": {
+      "pos": 16,
+      "deltaPos": 0,
+      "mmr": 1262,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 18,
       "deltaPos": 0,
       "mmr": 1763,
       "deltaMmr": 5
     },
-    "vs1": {
-      "pos": 16,
-      "deltaPos": 0,
-      "mmr": 1262,
+    "v3": {
+      "pos": 9,
+      "deltaPos": 1,
+      "mmr": 1827,
       "deltaMmr": 0
     }
   },
@@ -260,22 +260,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 10,
-      "deltaPos": 1,
-      "mmr": 1821,
+    "v1": {
+      "pos": 29,
+      "deltaPos": -1,
+      "mmr": 1226,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 23,
       "deltaPos": -1,
       "mmr": 1731,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 29,
-      "deltaPos": -1,
-      "mmr": 1226,
+    "v3": {
+      "pos": 10,
+      "deltaPos": 1,
+      "mmr": 1821,
       "deltaMmr": 0
     }
   },
@@ -288,22 +288,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 11,
-      "deltaPos": -2,
-      "mmr": 1804,
+    "v1": {
+      "pos": 225,
+      "deltaPos": -67,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 59,
       "deltaPos": -3,
       "mmr": 1610,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 225,
-      "deltaPos": -67,
-      "mmr": 0,
+    "v3": {
+      "pos": 11,
+      "deltaPos": -2,
+      "mmr": 1804,
       "deltaMmr": 0
     }
   },
@@ -316,23 +316,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 12,
-      "deltaPos": 2,
-      "mmr": 1804,
-      "deltaMmr": -2
+    "v1": {
+      "pos": 22,
+      "deltaPos": 1,
+      "mmr": 1247,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 15,
       "deltaPos": -1,
       "mmr": 1781,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 22,
-      "deltaPos": 1,
-      "mmr": 1247,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 12,
+      "deltaPos": 2,
+      "mmr": 1804,
+      "deltaMmr": -2
     }
   },
   {
@@ -344,23 +344,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 13,
-      "deltaPos": -2,
-      "mmr": 1798,
-      "deltaMmr": 11
+    "v1": {
+      "pos": 3,
+      "deltaPos": 0,
+      "mmr": 1316,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 4,
       "deltaPos": 0,
       "mmr": 1885,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 3,
-      "deltaPos": 0,
-      "mmr": 1316,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 13,
+      "deltaPos": -2,
+      "mmr": 1798,
+      "deltaMmr": 11
     }
   },
   {
@@ -372,23 +372,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 14,
-      "deltaPos": -4,
-      "mmr": 1797,
-      "deltaMmr": 21
+    "v1": {
+      "pos": 26,
+      "deltaPos": 0,
+      "mmr": 1238,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 61,
       "deltaPos": -3,
       "mmr": 1607,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 26,
-      "deltaPos": 0,
-      "mmr": 1238,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 14,
+      "deltaPos": -4,
+      "mmr": 1797,
+      "deltaMmr": 21
     }
   },
   {
@@ -400,23 +400,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 15,
+    "v1": {
+      "pos": 34,
       "deltaPos": 1,
-      "mmr": 1790,
-      "deltaMmr": -6
+      "mmr": 1188,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 17,
       "deltaPos": -9,
       "mmr": 1777,
       "deltaMmr": 55
     },
-    "vs1": {
-      "pos": 34,
+    "v3": {
+      "pos": 15,
       "deltaPos": 1,
-      "mmr": 1188,
-      "deltaMmr": 0
+      "mmr": 1790,
+      "deltaMmr": -6
     }
   },
   {
@@ -428,23 +428,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 16,
-      "deltaPos": 5,
-      "mmr": 1787,
-      "deltaMmr": -17
+    "v1": {
+      "pos": 292,
+      "deltaPos": 65,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 3,
       "deltaPos": 1,
       "mmr": 1899,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 292,
-      "deltaPos": 65,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 16,
+      "deltaPos": 5,
+      "mmr": 1787,
+      "deltaMmr": -17
     }
   },
   {
@@ -456,23 +456,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 17,
-      "deltaPos": 1,
-      "mmr": 1785,
-      "deltaMmr": 0
+    "v1": {
+      "pos": 6,
+      "deltaPos": -1,
+      "mmr": 1300,
+      "deltaMmr": 4
     },
-    "vs2": {
+    "v2": {
       "pos": 11,
       "deltaPos": -1,
       "mmr": 1792,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 6,
-      "deltaPos": -1,
-      "mmr": 1300,
-      "deltaMmr": 4
+    "v3": {
+      "pos": 17,
+      "deltaPos": 1,
+      "mmr": 1785,
+      "deltaMmr": 0
     }
   },
   {
@@ -484,23 +484,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 18,
-      "deltaPos": -1,
-      "mmr": 1779,
-      "deltaMmr": 16
+    "v1": {
+      "pos": 64,
+      "deltaPos": 2,
+      "mmr": 1142,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 78,
       "deltaPos": 4,
       "mmr": 1568,
       "deltaMmr": -18
     },
-    "vs1": {
-      "pos": 64,
-      "deltaPos": 2,
-      "mmr": 1142,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 18,
+      "deltaPos": -1,
+      "mmr": 1779,
+      "deltaMmr": 16
     }
   },
   {
@@ -512,23 +512,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 19,
-      "deltaPos": 2,
-      "mmr": 1764,
-      "deltaMmr": -18
+    "v1": {
+      "pos": 214,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 20,
       "deltaPos": 1,
       "mmr": 1742,
       "deltaMmr": -9
     },
-    "vs1": {
-      "pos": 214,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 19,
+      "deltaPos": 2,
+      "mmr": 1764,
+      "deltaMmr": -18
     }
   },
   {
@@ -540,23 +540,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 20,
-      "deltaPos": -39,
-      "mmr": 1764,
-      "deltaMmr": 138
+    "v1": {
+      "pos": 38,
+      "deltaPos": 2,
+      "mmr": 1184,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 26,
       "deltaPos": -2,
       "mmr": 1723,
       "deltaMmr": 9
     },
-    "vs1": {
-      "pos": 38,
-      "deltaPos": 2,
-      "mmr": 1184,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 20,
+      "deltaPos": -39,
+      "mmr": 1764,
+      "deltaMmr": 138
     }
   },
   {
@@ -568,22 +568,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 21,
-      "deltaPos": 1,
-      "mmr": 1763,
+    "v1": {
+      "pos": 33,
+      "deltaPos": -1,
+      "mmr": 1188,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 57,
       "deltaPos": -8,
       "mmr": 1615,
       "deltaMmr": 9
     },
-    "vs1": {
-      "pos": 33,
-      "deltaPos": -1,
-      "mmr": 1188,
+    "v3": {
+      "pos": 21,
+      "deltaPos": 1,
+      "mmr": 1763,
       "deltaMmr": 0
     }
   },
@@ -596,23 +596,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 22,
-      "deltaPos": -32,
-      "mmr": 1760,
-      "deltaMmr": 113
+    "v1": {
+      "pos": 32,
+      "deltaPos": 1,
+      "mmr": 1208,
+      "deltaMmr": -15
     },
-    "vs2": {
+    "v2": {
       "pos": 53,
       "deltaPos": 14,
       "mmr": 1624,
       "deltaMmr": -32
     },
-    "vs1": {
-      "pos": 32,
-      "deltaPos": 1,
-      "mmr": 1208,
-      "deltaMmr": -15
+    "v3": {
+      "pos": 22,
+      "deltaPos": -32,
+      "mmr": 1760,
+      "deltaMmr": 113
     }
   },
   {
@@ -624,22 +624,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 23,
-      "deltaPos": 2,
-      "mmr": 1756,
+    "v1": {
+      "pos": 15,
+      "deltaPos": 0,
+      "mmr": 1267,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 12,
       "deltaPos": -1,
       "mmr": 1790,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 15,
-      "deltaPos": 0,
-      "mmr": 1267,
+    "v3": {
+      "pos": 23,
+      "deltaPos": 2,
+      "mmr": 1756,
       "deltaMmr": 0
     }
   },
@@ -652,23 +652,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 24,
-      "deltaPos": 2,
-      "mmr": 1752,
-      "deltaMmr": 2
+    "v1": {
+      "pos": 9,
+      "deltaPos": -1,
+      "mmr": 1286,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 25,
       "deltaPos": 5,
       "mmr": 1726,
       "deltaMmr": -15
     },
-    "vs1": {
-      "pos": 9,
-      "deltaPos": -1,
-      "mmr": 1286,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 24,
+      "deltaPos": 2,
+      "mmr": 1752,
+      "deltaMmr": 2
     }
   },
   {
@@ -680,23 +680,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 25,
-      "deltaPos": -9,
-      "mmr": 1746,
-      "deltaMmr": 47
+    "v1": {
+      "pos": 259,
+      "deltaPos": 33,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 47,
       "deltaPos": -3,
       "mmr": 1639,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 259,
-      "deltaPos": 33,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 25,
+      "deltaPos": -9,
+      "mmr": 1746,
+      "deltaMmr": 47
     }
   },
   {
@@ -708,22 +708,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 26,
-      "deltaPos": 3,
-      "mmr": 1738,
+    "v1": {
+      "pos": 23,
+      "deltaPos": 1,
+      "mmr": 1244,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 6,
       "deltaPos": 0,
       "mmr": 1836,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 23,
-      "deltaPos": 1,
-      "mmr": 1244,
+    "v3": {
+      "pos": 26,
+      "deltaPos": 3,
+      "mmr": 1738,
       "deltaMmr": 0
     }
   },
@@ -736,22 +736,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 27,
-      "deltaPos": 3,
-      "mmr": 1732,
+    "v1": {
+      "pos": 220,
+      "deltaPos": -24,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 27,
       "deltaPos": 10,
       "mmr": 1714,
       "deltaMmr": -47
     },
-    "vs1": {
-      "pos": 220,
-      "deltaPos": -24,
-      "mmr": 0,
+    "v3": {
+      "pos": 27,
+      "deltaPos": 3,
+      "mmr": 1732,
       "deltaMmr": 0
     }
   },
@@ -764,23 +764,23 @@
     "twitch": "ltk_atomik1",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 28,
-      "deltaPos": -10,
-      "mmr": 1724,
-      "deltaMmr": 30
+    "v1": {
+      "pos": 12,
+      "deltaPos": 0,
+      "mmr": 1275,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 24,
       "deltaPos": 3,
       "mmr": 1729,
       "deltaMmr": -10
     },
-    "vs1": {
-      "pos": 12,
-      "deltaPos": 0,
-      "mmr": 1275,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 28,
+      "deltaPos": -10,
+      "mmr": 1724,
+      "deltaMmr": 30
     }
   },
   {
@@ -792,23 +792,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 29,
-      "deltaPos": 1,
-      "mmr": 1724,
-      "deltaMmr": 7
+    "v1": {
+      "pos": 110,
+      "deltaPos": 0,
+      "mmr": 1064,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 146,
       "deltaPos": -1,
       "mmr": 1465,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 110,
-      "deltaPos": 0,
-      "mmr": 1064,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 29,
+      "deltaPos": 1,
+      "mmr": 1724,
+      "deltaMmr": 7
     }
   },
   {
@@ -820,22 +820,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 30,
-      "deltaPos": 3,
-      "mmr": 1718,
+    "v1": {
+      "pos": 2,
+      "deltaPos": 0,
+      "mmr": 1367,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 14,
       "deltaPos": -1,
       "mmr": 1781,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 2,
-      "deltaPos": 0,
-      "mmr": 1367,
+    "v3": {
+      "pos": 30,
+      "deltaPos": 3,
+      "mmr": 1718,
       "deltaMmr": 0
     }
   },
@@ -848,22 +848,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 31,
-      "deltaPos": 5,
-      "mmr": 1718,
+    "v1": {
+      "pos": 8,
+      "deltaPos": -1,
+      "mmr": 1287,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 93,
       "deltaPos": -3,
       "mmr": 1543,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 8,
-      "deltaPos": -1,
-      "mmr": 1287,
+    "v3": {
+      "pos": 31,
+      "deltaPos": 5,
+      "mmr": 1718,
       "deltaMmr": 0
     }
   },
@@ -876,23 +876,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 32,
-      "deltaPos": -13,
-      "mmr": 1715,
-      "deltaMmr": 51
+    "v1": {
+      "pos": 14,
+      "deltaPos": 0,
+      "mmr": 1272,
+      "deltaMmr": 3
     },
-    "vs2": {
+    "v2": {
       "pos": 31,
       "deltaPos": -4,
       "mmr": 1701,
       "deltaMmr": 24
     },
-    "vs1": {
-      "pos": 14,
-      "deltaPos": 0,
-      "mmr": 1272,
-      "deltaMmr": 3
+    "v3": {
+      "pos": 32,
+      "deltaPos": -13,
+      "mmr": 1715,
+      "deltaMmr": 51
     }
   },
   {
@@ -904,23 +904,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 33,
-      "deltaPos": 8,
-      "mmr": 1712,
-      "deltaMmr": -19
+    "v1": {
+      "pos": 17,
+      "deltaPos": 0,
+      "mmr": 1261,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 8,
       "deltaPos": 0,
       "mmr": 1815,
       "deltaMmr": -12
     },
-    "vs1": {
-      "pos": 17,
-      "deltaPos": 0,
-      "mmr": 1261,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 33,
+      "deltaPos": 8,
+      "mmr": 1712,
+      "deltaMmr": -19
     }
   },
   {
@@ -932,23 +932,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 34,
-      "deltaPos": 1,
-      "mmr": 1710,
-      "deltaMmr": 9
+    "v1": {
+      "pos": 21,
+      "deltaPos": -3,
+      "mmr": 1251,
+      "deltaMmr": 8
     },
-    "vs2": {
+    "v2": {
       "pos": 32,
       "deltaPos": 0,
       "mmr": 1700,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 21,
-      "deltaPos": -3,
-      "mmr": 1251,
-      "deltaMmr": 8
+    "v3": {
+      "pos": 34,
+      "deltaPos": 1,
+      "mmr": 1710,
+      "deltaMmr": 9
     }
   },
   {
@@ -960,22 +960,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 35,
-      "deltaPos": 6,
-      "mmr": 1709,
+    "v1": {
+      "pos": 117,
+      "deltaPos": 2,
+      "mmr": 1048,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 150,
       "deltaPos": -2,
       "mmr": 1461,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 117,
-      "deltaPos": 2,
-      "mmr": 1048,
+    "v3": {
+      "pos": 35,
+      "deltaPos": 6,
+      "mmr": 1709,
       "deltaMmr": 0
     }
   },
@@ -988,22 +988,22 @@
     "twitch": "PuzoRL",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 36,
-      "deltaPos": 6,
-      "mmr": 1706,
+    "v1": {
+      "pos": 84,
+      "deltaPos": 0,
+      "mmr": 1110,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 35,
       "deltaPos": 2,
       "mmr": 1679,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 84,
-      "deltaPos": 0,
-      "mmr": 1110,
+    "v3": {
+      "pos": 36,
+      "deltaPos": 6,
+      "mmr": 1706,
       "deltaMmr": 0
     }
   },
@@ -1016,22 +1016,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 37,
-      "deltaPos": 6,
-      "mmr": 1705,
+    "v1": {
+      "pos": 90,
+      "deltaPos": -2,
+      "mmr": 1093,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 68,
       "deltaPos": -3,
       "mmr": 1594,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 90,
-      "deltaPos": -2,
-      "mmr": 1093,
+    "v3": {
+      "pos": 37,
+      "deltaPos": 6,
+      "mmr": 1705,
       "deltaMmr": 0
     }
   },
@@ -1044,23 +1044,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 38,
-      "deltaPos": -2,
-      "mmr": 1704,
-      "deltaMmr": 19
+    "v1": {
+      "pos": 10,
+      "deltaPos": 5,
+      "mmr": 1281,
+      "deltaMmr": -18
     },
-    "vs2": {
+    "v2": {
       "pos": 28,
       "deltaPos": -1,
       "mmr": 1710,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 10,
-      "deltaPos": 5,
-      "mmr": 1281,
-      "deltaMmr": -18
+    "v3": {
+      "pos": 38,
+      "deltaPos": -2,
+      "mmr": 1704,
+      "deltaMmr": 19
     }
   },
   {
@@ -1072,22 +1072,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 39,
-      "deltaPos": 4,
-      "mmr": 1699,
+    "v1": {
+      "pos": 11,
+      "deltaPos": 0,
+      "mmr": 1276,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 30,
       "deltaPos": -1,
       "mmr": 1703,
       "deltaMmr": 2
     },
-    "vs1": {
-      "pos": 11,
-      "deltaPos": 0,
-      "mmr": 1276,
+    "v3": {
+      "pos": 39,
+      "deltaPos": 4,
+      "mmr": 1699,
       "deltaMmr": 0
     }
   },
@@ -1100,23 +1100,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 40,
-      "deltaPos": 4,
-      "mmr": 1694,
-      "deltaMmr": -3
+    "v1": {
+      "pos": 42,
+      "deltaPos": 1,
+      "mmr": 1175,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 74,
       "deltaPos": -2,
       "mmr": 1577,
       "deltaMmr": 4
     },
-    "vs1": {
-      "pos": 42,
-      "deltaPos": 1,
-      "mmr": 1175,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 40,
+      "deltaPos": 4,
+      "mmr": 1694,
+      "deltaMmr": -3
     }
   },
   {
@@ -1128,22 +1128,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 41,
-      "deltaPos": 2,
-      "mmr": 1693,
+    "v1": {
+      "pos": 87,
+      "deltaPos": 0,
+      "mmr": 1097,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 120,
       "deltaPos": -15,
       "mmr": 1509,
       "deltaMmr": 20
     },
-    "vs1": {
-      "pos": 87,
-      "deltaPos": 0,
-      "mmr": 1097,
+    "v3": {
+      "pos": 41,
+      "deltaPos": 2,
+      "mmr": 1693,
       "deltaMmr": 0
     }
   },
@@ -1156,22 +1156,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 42,
-      "deltaPos": 1,
-      "mmr": 1682,
+    "v1": {
+      "pos": 1,
+      "deltaPos": 0,
+      "mmr": 1392,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 1,
       "deltaPos": 0,
       "mmr": 1954,
       "deltaMmr": 9
     },
-    "vs1": {
-      "pos": 1,
-      "deltaPos": 0,
-      "mmr": 1392,
+    "v3": {
+      "pos": 42,
+      "deltaPos": 1,
+      "mmr": 1682,
       "deltaMmr": 0
     }
   },
@@ -1184,22 +1184,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 43,
       "deltaPos": 1,
-      "mmr": 1681,
+      "mmr": 1174,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 50,
       "deltaPos": -2,
       "mmr": 1626,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 43,
       "deltaPos": 1,
-      "mmr": 1174,
+      "mmr": 1681,
       "deltaMmr": 0
     }
   },
@@ -1212,23 +1212,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 44,
-      "deltaPos": 7,
-      "mmr": 1673,
-      "deltaMmr": -21
+    "v1": {
+      "pos": 39,
+      "deltaPos": 1,
+      "mmr": 1177,
+      "deltaMmr": -2
     },
-    "vs2": {
+    "v2": {
       "pos": 48,
       "deltaPos": 8,
       "mmr": 1634,
       "deltaMmr": -20
     },
-    "vs1": {
-      "pos": 39,
-      "deltaPos": 1,
-      "mmr": 1177,
-      "deltaMmr": -2
+    "v3": {
+      "pos": 44,
+      "deltaPos": 7,
+      "mmr": 1673,
+      "deltaMmr": -21
     }
   },
   {
@@ -1240,22 +1240,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 45,
-      "deltaPos": 2,
-      "mmr": 1673,
+    "v1": {
+      "pos": 60,
+      "deltaPos": 3,
+      "mmr": 1149,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 100,
       "deltaPos": -1,
       "mmr": 1537,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 60,
-      "deltaPos": 3,
-      "mmr": 1149,
+    "v3": {
+      "pos": 45,
+      "deltaPos": 2,
+      "mmr": 1673,
       "deltaMmr": 0
     }
   },
@@ -1268,23 +1268,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 46,
-      "deltaPos": -3,
-      "mmr": 1664,
-      "deltaMmr": 6
+    "v1": {
+      "pos": 83,
+      "deltaPos": 0,
+      "mmr": 1111,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 97,
       "deltaPos": -15,
       "mmr": 1540,
       "deltaMmr": 16
     },
-    "vs1": {
-      "pos": 83,
-      "deltaPos": 0,
-      "mmr": 1111,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 46,
+      "deltaPos": -3,
+      "mmr": 1664,
+      "deltaMmr": 6
     }
   },
   {
@@ -1296,22 +1296,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 47,
-      "deltaPos": 0,
-      "mmr": 1663,
+    "v1": {
+      "pos": 201,
+      "deltaPos": 1,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 54,
       "deltaPos": 0,
       "mmr": 1621,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 201,
-      "deltaPos": 1,
-      "mmr": 0,
+    "v3": {
+      "pos": 47,
+      "deltaPos": 0,
+      "mmr": 1663,
       "deltaMmr": 0
     }
   },
@@ -1324,22 +1324,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 48,
-      "deltaPos": 2,
-      "mmr": 1663,
+    "v1": {
+      "pos": 53,
+      "deltaPos": 3,
+      "mmr": 1152,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 46,
       "deltaPos": -2,
       "mmr": 1641,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 53,
-      "deltaPos": 3,
-      "mmr": 1152,
+    "v3": {
+      "pos": 48,
+      "deltaPos": 2,
+      "mmr": 1663,
       "deltaMmr": 0
     }
   },
@@ -1352,23 +1352,23 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 49,
-      "deltaPos": 17,
-      "mmr": 1662,
-      "deltaMmr": -42
+    "v1": {
+      "pos": 4,
+      "deltaPos": 0,
+      "mmr": 1303,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 9,
       "deltaPos": -1,
       "mmr": 1814,
       "deltaMmr": 7
     },
-    "vs1": {
-      "pos": 4,
-      "deltaPos": 0,
-      "mmr": 1303,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 49,
+      "deltaPos": 17,
+      "mmr": 1662,
+      "deltaMmr": -42
     }
   },
   {
@@ -1380,22 +1380,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 50,
-      "deltaPos": 2,
-      "mmr": 1662,
+    "v1": {
+      "pos": 45,
+      "deltaPos": 1,
+      "mmr": 1170,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 10,
       "deltaPos": -1,
       "mmr": 1800,
       "deltaMmr": 2
     },
-    "vs1": {
-      "pos": 45,
-      "deltaPos": 1,
-      "mmr": 1170,
+    "v3": {
+      "pos": 50,
+      "deltaPos": 2,
+      "mmr": 1662,
       "deltaMmr": 0
     }
   },
@@ -1408,22 +1408,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 51,
-      "deltaPos": 1,
-      "mmr": 1656,
+    "v1": {
+      "pos": 215,
+      "deltaPos": -31,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 29,
       "deltaPos": -1,
       "mmr": 1703,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 215,
-      "deltaPos": -31,
-      "mmr": 0,
+    "v3": {
+      "pos": 51,
+      "deltaPos": 1,
+      "mmr": 1656,
       "deltaMmr": 0
     }
   },
@@ -1436,23 +1436,23 @@
     "twitch": "gerkee_",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 52,
-      "deltaPos": 0,
-      "mmr": 1655,
-      "deltaMmr": 2
+    "v1": {
+      "pos": 104,
+      "deltaPos": 15,
+      "mmr": 1076,
+      "deltaMmr": -17
     },
-    "vs2": {
+    "v2": {
       "pos": 126,
       "deltaPos": -17,
       "mmr": 1503,
       "deltaMmr": 29
     },
-    "vs1": {
-      "pos": 104,
-      "deltaPos": 15,
-      "mmr": 1076,
-      "deltaMmr": -17
+    "v3": {
+      "pos": 52,
+      "deltaPos": 0,
+      "mmr": 1655,
+      "deltaMmr": 2
     }
   },
   {
@@ -1464,22 +1464,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 53,
-      "deltaPos": 2,
-      "mmr": 1653,
+    "v1": {
+      "pos": 13,
+      "deltaPos": 0,
+      "mmr": 1273,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 5,
       "deltaPos": 0,
       "mmr": 1842,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 13,
-      "deltaPos": 0,
-      "mmr": 1273,
+    "v3": {
+      "pos": 53,
+      "deltaPos": 2,
+      "mmr": 1653,
       "deltaMmr": 0
     }
   },
@@ -1492,23 +1492,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 54,
-      "deltaPos": -1,
-      "mmr": 1645,
-      "deltaMmr": 1
+    "v1": {
+      "pos": 78,
+      "deltaPos": 0,
+      "mmr": 1117,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 115,
       "deltaPos": 22,
       "mmr": 1521,
       "deltaMmr": -24
     },
-    "vs1": {
-      "pos": 78,
-      "deltaPos": 0,
-      "mmr": 1117,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 54,
+      "deltaPos": -1,
+      "mmr": 1645,
+      "deltaMmr": 1
     }
   },
   {
@@ -1520,23 +1520,23 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 55,
-      "deltaPos": -27,
-      "mmr": 1636,
-      "deltaMmr": 70
+    "v1": {
+      "pos": 18,
+      "deltaPos": 0,
+      "mmr": 1258,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 22,
       "deltaPos": -1,
       "mmr": 1731,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 18,
-      "deltaPos": 0,
-      "mmr": 1258,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 55,
+      "deltaPos": -27,
+      "mmr": 1636,
+      "deltaMmr": 70
     }
   },
   {
@@ -1548,23 +1548,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 56,
-      "deltaPos": -4,
-      "mmr": 1635,
-      "deltaMmr": 23
+    "v1": {
+      "pos": 69,
+      "deltaPos": -1,
+      "mmr": 1135,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 87,
       "deltaPos": -1,
       "mmr": 1553,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 69,
-      "deltaPos": -1,
-      "mmr": 1135,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 56,
+      "deltaPos": -4,
+      "mmr": 1635,
+      "deltaMmr": 23
     }
   },
   {
@@ -1576,22 +1576,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 57,
-      "deltaPos": 1,
-      "mmr": 1631,
+    "v1": {
+      "pos": 28,
+      "deltaPos": 0,
+      "mmr": 1234,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 34,
       "deltaPos": 0,
       "mmr": 1679,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 28,
-      "deltaPos": 0,
-      "mmr": 1234,
+    "v3": {
+      "pos": 57,
+      "deltaPos": 1,
+      "mmr": 1631,
       "deltaMmr": 0
     }
   },
@@ -1604,23 +1604,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 58,
-      "deltaPos": 1,
-      "mmr": 1622,
-      "deltaMmr": -8
+    "v1": {
+      "pos": 98,
+      "deltaPos": 0,
+      "mmr": 1084,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 94,
       "deltaPos": 10,
       "mmr": 1543,
       "deltaMmr": -14
     },
-    "vs1": {
-      "pos": 98,
-      "deltaPos": 0,
-      "mmr": 1084,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 58,
+      "deltaPos": 1,
+      "mmr": 1622,
+      "deltaMmr": -8
     }
   },
   {
@@ -1632,23 +1632,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 59,
-      "deltaPos": -3,
-      "mmr": 1622,
-      "deltaMmr": 15
+    "v1": {
+      "pos": 35,
+      "deltaPos": 0,
+      "mmr": 1187,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 39,
       "deltaPos": -10,
       "mmr": 1661,
       "deltaMmr": 22
     },
-    "vs1": {
-      "pos": 35,
-      "deltaPos": 0,
-      "mmr": 1187,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 59,
+      "deltaPos": -3,
+      "mmr": 1622,
+      "deltaMmr": 15
     }
   },
   {
@@ -1660,23 +1660,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 60,
-      "deltaPos": 16,
-      "mmr": 1621,
-      "deltaMmr": -45
+    "v1": {
+      "pos": 24,
+      "deltaPos": 1,
+      "mmr": 1244,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 77,
       "deltaPos": -2,
       "mmr": 1568,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 24,
-      "deltaPos": 1,
-      "mmr": 1244,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 60,
+      "deltaPos": 16,
+      "mmr": 1621,
+      "deltaMmr": -45
     }
   },
   {
@@ -1688,23 +1688,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 61,
-      "deltaPos": -3,
-      "mmr": 1619,
-      "deltaMmr": 13
+    "v1": {
+      "pos": 77,
+      "deltaPos": 1,
+      "mmr": 1118,
+      "deltaMmr": -6
     },
-    "vs2": {
+    "v2": {
       "pos": 111,
       "deltaPos": -9,
       "mmr": 1524,
       "deltaMmr": 8
     },
-    "vs1": {
-      "pos": 77,
-      "deltaPos": 1,
-      "mmr": 1118,
-      "deltaMmr": -6
+    "v3": {
+      "pos": 61,
+      "deltaPos": -3,
+      "mmr": 1619,
+      "deltaMmr": 13
     }
   },
   {
@@ -1716,23 +1716,23 @@
     "twitch": "elnacayt",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 62,
-      "deltaPos": -18,
-      "mmr": 1615,
-      "deltaMmr": 48
+    "v1": {
+      "pos": 94,
+      "deltaPos": -15,
+      "mmr": 1085,
+      "deltaMmr": 19
     },
-    "vs2": {
+    "v2": {
       "pos": 103,
       "deltaPos": -7,
       "mmr": 1534,
       "deltaMmr": 9
     },
-    "vs1": {
-      "pos": 94,
-      "deltaPos": -15,
-      "mmr": 1085,
-      "deltaMmr": 19
+    "v3": {
+      "pos": 62,
+      "deltaPos": -18,
+      "mmr": 1615,
+      "deltaMmr": 48
     }
   },
   {
@@ -1744,23 +1744,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 63,
-      "deltaPos": -4,
-      "mmr": 1615,
-      "deltaMmr": 15
+    "v1": {
+      "pos": 260,
+      "deltaPos": 12,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 88,
       "deltaPos": -1,
       "mmr": 1550,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 260,
-      "deltaPos": 12,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 63,
+      "deltaPos": -4,
+      "mmr": 1615,
+      "deltaMmr": 15
     }
   },
   {
@@ -1772,23 +1772,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 64,
+    "v1": {
+      "pos": 47,
       "deltaPos": 1,
-      "mmr": 1609,
-      "deltaMmr": 3
+      "mmr": 1161,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 52,
       "deltaPos": -7,
       "mmr": 1624,
       "deltaMmr": 11
     },
-    "vs1": {
-      "pos": 47,
+    "v3": {
+      "pos": 64,
       "deltaPos": 1,
-      "mmr": 1161,
-      "deltaMmr": 0
+      "mmr": 1609,
+      "deltaMmr": 3
     }
   },
   {
@@ -1800,22 +1800,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 65,
-      "deltaPos": 4,
-      "mmr": 1608,
+    "v1": {
+      "pos": 75,
+      "deltaPos": -2,
+      "mmr": 1121,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 76,
       "deltaPos": 4,
       "mmr": 1570,
       "deltaMmr": -22
     },
-    "vs1": {
-      "pos": 75,
-      "deltaPos": -2,
-      "mmr": 1121,
+    "v3": {
+      "pos": 65,
+      "deltaPos": 4,
+      "mmr": 1608,
       "deltaMmr": 0
     }
   },
@@ -1828,22 +1828,22 @@
     "twitch": "iamdazeh",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 66,
+    "v1": {
+      "pos": 154,
       "deltaPos": 1,
-      "mmr": 1602,
+      "mmr": 931,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 149,
       "deltaPos": -1,
       "mmr": 1462,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 154,
+    "v3": {
+      "pos": 66,
       "deltaPos": 1,
-      "mmr": 931,
+      "mmr": 1602,
       "deltaMmr": 0
     }
   },
@@ -1856,22 +1856,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 67,
-      "deltaPos": 1,
-      "mmr": 1601,
+    "v1": {
+      "pos": 96,
+      "deltaPos": -1,
+      "mmr": 1084,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 55,
       "deltaPos": 2,
       "mmr": 1621,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 96,
-      "deltaPos": -1,
-      "mmr": 1084,
+    "v3": {
+      "pos": 67,
+      "deltaPos": 1,
+      "mmr": 1601,
       "deltaMmr": 0
     }
   },
@@ -1884,23 +1884,23 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 68,
-      "deltaPos": -7,
-      "mmr": 1599,
-      "deltaMmr": 16
+    "v1": {
+      "pos": 27,
+      "deltaPos": 0,
+      "mmr": 1237,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 36,
       "deltaPos": 0,
       "mmr": 1673,
       "deltaMmr": 9
     },
-    "vs1": {
-      "pos": 27,
-      "deltaPos": 0,
-      "mmr": 1237,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 68,
+      "deltaPos": -7,
+      "mmr": 1599,
+      "deltaMmr": 16
     }
   },
   {
@@ -1912,22 +1912,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 69,
-      "deltaPos": 0,
-      "mmr": 1595,
+    "v1": {
+      "pos": 66,
+      "deltaPos": -1,
+      "mmr": 1138,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 60,
       "deltaPos": -3,
       "mmr": 1609,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 66,
-      "deltaPos": -1,
-      "mmr": 1138,
+    "v3": {
+      "pos": 69,
+      "deltaPos": 0,
+      "mmr": 1595,
       "deltaMmr": 0
     }
   },
@@ -1940,23 +1940,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 70,
-      "deltaPos": 0,
-      "mmr": 1594,
-      "deltaMmr": 0
+    "v1": {
+      "pos": 51,
+      "deltaPos": -9,
+      "mmr": 1153,
+      "deltaMmr": 8
     },
-    "vs2": {
+    "v2": {
       "pos": 37,
       "deltaPos": 10,
       "mmr": 1667,
       "deltaMmr": -50
     },
-    "vs1": {
-      "pos": 51,
-      "deltaPos": -9,
-      "mmr": 1153,
-      "deltaMmr": 8
+    "v3": {
+      "pos": 70,
+      "deltaPos": 0,
+      "mmr": 1594,
+      "deltaMmr": 0
     }
   },
   {
@@ -1968,22 +1968,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 71,
-      "deltaPos": 0,
-      "mmr": 1591,
+    "v1": {
+      "pos": 268,
+      "deltaPos": 31,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 38,
       "deltaPos": 1,
       "mmr": 1663,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 268,
-      "deltaPos": 31,
-      "mmr": 0,
+    "v3": {
+      "pos": 71,
+      "deltaPos": 0,
+      "mmr": 1591,
       "deltaMmr": 0
     }
   },
@@ -1996,22 +1996,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 72,
+    "v1": {
+      "pos": 114,
       "deltaPos": 0,
-      "mmr": 1589,
+      "mmr": 1049,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 80,
       "deltaPos": 0,
       "mmr": 1566,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 114,
+    "v3": {
+      "pos": 72,
       "deltaPos": 0,
-      "mmr": 1049,
+      "mmr": 1589,
       "deltaMmr": 0
     }
   },
@@ -2024,22 +2024,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 73,
-      "deltaPos": 0,
-      "mmr": 1584,
+    "v1": {
+      "pos": 70,
+      "deltaPos": 1,
+      "mmr": 1135,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 44,
       "deltaPos": -1,
       "mmr": 1646,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 70,
-      "deltaPos": 1,
-      "mmr": 1135,
+    "v3": {
+      "pos": 73,
+      "deltaPos": 0,
+      "mmr": 1584,
       "deltaMmr": 0
     }
   },
@@ -2052,22 +2052,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 74,
+    "v1": {
+      "pos": 170,
       "deltaPos": 0,
-      "mmr": 1584,
+      "mmr": 885,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 112,
       "deltaPos": -1,
       "mmr": 1523,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 170,
+    "v3": {
+      "pos": 74,
       "deltaPos": 0,
-      "mmr": 885,
+      "mmr": 1584,
       "deltaMmr": 0
     }
   },
@@ -2080,23 +2080,23 @@
     "twitch": "Adriantors",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 75,
-      "deltaPos": 7,
-      "mmr": 1584,
-      "deltaMmr": -15
+    "v1": {
+      "pos": 144,
+      "deltaPos": 1,
+      "mmr": 966,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 89,
       "deltaPos": -2,
       "mmr": 1549,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 144,
-      "deltaPos": 1,
-      "mmr": 966,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 75,
+      "deltaPos": 7,
+      "mmr": 1584,
+      "deltaMmr": -15
     }
   },
   {
@@ -2108,22 +2108,22 @@
     "twitch": "soniclitzer",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 76,
-      "deltaPos": 0,
-      "mmr": 1583,
+    "v1": {
+      "pos": 63,
+      "deltaPos": 2,
+      "mmr": 1143,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 49,
       "deltaPos": 2,
       "mmr": 1633,
       "deltaMmr": -8
     },
-    "vs1": {
-      "pos": 63,
-      "deltaPos": 2,
-      "mmr": 1143,
+    "v3": {
+      "pos": 76,
+      "deltaPos": 0,
+      "mmr": 1583,
       "deltaMmr": 0
     }
   },
@@ -2136,23 +2136,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 77,
-      "deltaPos": 19,
-      "mmr": 1582,
-      "deltaMmr": -47
+    "v1": {
+      "pos": 244,
+      "deltaPos": 33,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 75,
       "deltaPos": -3,
       "mmr": 1573,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 244,
-      "deltaPos": 33,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 77,
+      "deltaPos": 19,
+      "mmr": 1582,
+      "deltaMmr": -47
     }
   },
   {
@@ -2164,23 +2164,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 78,
-      "deltaPos": -3,
-      "mmr": 1574,
-      "deltaMmr": 7
+    "v1": {
+      "pos": 101,
+      "deltaPos": -1,
+      "mmr": 1080,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 135,
       "deltaPos": -3,
       "mmr": 1486,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 101,
-      "deltaPos": -1,
-      "mmr": 1080,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 78,
+      "deltaPos": -3,
+      "mmr": 1574,
+      "deltaMmr": 7
     }
   },
   {
@@ -2192,22 +2192,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 79,
-      "deltaPos": 1,
-      "mmr": 1570,
+    "v1": {
+      "pos": 269,
+      "deltaPos": 49,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 132,
       "deltaPos": -1,
       "mmr": 1493,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 269,
-      "deltaPos": 49,
-      "mmr": 0,
+    "v3": {
+      "pos": 79,
+      "deltaPos": 1,
+      "mmr": 1570,
       "deltaMmr": 0
     }
   },
@@ -2220,23 +2220,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 80,
-      "deltaPos": -48,
-      "mmr": 1569,
-      "deltaMmr": 70
+    "v1": {
+      "pos": 208,
+      "deltaPos": -8,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 73,
       "deltaPos": -2,
       "mmr": 1580,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 208,
-      "deltaPos": -8,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 80,
+      "deltaPos": -48,
+      "mmr": 1569,
+      "deltaMmr": 70
     }
   },
   {
@@ -2248,23 +2248,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 81,
-      "deltaPos": 2,
-      "mmr": 1563,
-      "deltaMmr": -5
+    "v1": {
+      "pos": 68,
+      "deltaPos": 3,
+      "mmr": 1138,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 99,
       "deltaPos": 12,
       "mmr": 1538,
       "deltaMmr": -15
     },
-    "vs1": {
-      "pos": 68,
-      "deltaPos": 3,
-      "mmr": 1138,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 81,
+      "deltaPos": 2,
+      "mmr": 1563,
+      "deltaMmr": -5
     }
   },
   {
@@ -2276,22 +2276,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 82,
-      "deltaPos": -1,
-      "mmr": 1558,
+    "v1": {
+      "pos": 97,
+      "deltaPos": -2,
+      "mmr": 1084,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 96,
       "deltaPos": -4,
       "mmr": 1540,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 97,
-      "deltaPos": -2,
-      "mmr": 1084,
+    "v3": {
+      "pos": 82,
+      "deltaPos": -1,
+      "mmr": 1558,
       "deltaMmr": 0
     }
   },
@@ -2304,22 +2304,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 83,
-      "deltaPos": -3,
-      "mmr": 1551,
+    "v1": {
+      "pos": 254,
+      "deltaPos": -14,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 145,
       "deltaPos": -1,
       "mmr": 1467,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 254,
-      "deltaPos": -14,
-      "mmr": 0,
+    "v3": {
+      "pos": 83,
+      "deltaPos": -3,
+      "mmr": 1551,
       "deltaMmr": 0
     }
   },
@@ -2332,23 +2332,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 84,
-      "deltaPos": -1,
-      "mmr": 1551,
-      "deltaMmr": 0
+    "v1": {
+      "pos": 37,
+      "deltaPos": -8,
+      "mmr": 1185,
+      "deltaMmr": 18
     },
-    "vs2": {
+    "v2": {
       "pos": 62,
       "deltaPos": 5,
       "mmr": 1605,
       "deltaMmr": -10
     },
-    "vs1": {
-      "pos": 37,
-      "deltaPos": -8,
-      "mmr": 1185,
-      "deltaMmr": 18
+    "v3": {
+      "pos": 84,
+      "deltaPos": -1,
+      "mmr": 1551,
+      "deltaMmr": 0
     }
   },
   {
@@ -2360,22 +2360,22 @@
     "twitch": "byivaan15",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 85,
-      "deltaPos": -2,
-      "mmr": 1550,
+    "v1": {
+      "pos": 163,
+      "deltaPos": 0,
+      "mmr": 905,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 154,
       "deltaPos": -1,
       "mmr": 1453,
       "deltaMmr": 3
     },
-    "vs1": {
-      "pos": 163,
-      "deltaPos": 0,
-      "mmr": 905,
+    "v3": {
+      "pos": 85,
+      "deltaPos": -2,
+      "mmr": 1550,
       "deltaMmr": 0
     }
   },
@@ -2388,22 +2388,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 86,
-      "deltaPos": -2,
-      "mmr": 1546,
+    "v1": {
+      "pos": 251,
+      "deltaPos": 4,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 90,
       "deltaPos": -2,
       "mmr": 1548,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 251,
-      "deltaPos": 4,
-      "mmr": 0,
+    "v3": {
+      "pos": 86,
+      "deltaPos": -2,
+      "mmr": 1546,
       "deltaMmr": 0
     }
   },
@@ -2416,23 +2416,23 @@
     "twitch": "truedustrl",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 87,
-      "deltaPos": -2,
-      "mmr": 1546,
-      "deltaMmr": 0
+    "v1": {
+      "pos": 76,
+      "deltaPos": 3,
+      "mmr": 1119,
+      "deltaMmr": -10
     },
-    "vs2": {
+    "v2": {
       "pos": 143,
       "deltaPos": 18,
       "mmr": 1472,
       "deltaMmr": -33
     },
-    "vs1": {
-      "pos": 76,
-      "deltaPos": 3,
-      "mmr": 1119,
-      "deltaMmr": -10
+    "v3": {
+      "pos": 87,
+      "deltaPos": -2,
+      "mmr": 1546,
+      "deltaMmr": 0
     }
   },
   {
@@ -2444,23 +2444,23 @@
     "twitch": "SoyNowa",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 88,
-      "deltaPos": 4,
-      "mmr": 1546,
-      "deltaMmr": -9
+    "v1": {
+      "pos": 49,
+      "deltaPos": -14,
+      "mmr": 1159,
+      "deltaMmr": 18
     },
-    "vs2": {
+    "v2": {
       "pos": 127,
       "deltaPos": 37,
       "mmr": 1503,
       "deltaMmr": -47
     },
-    "vs1": {
-      "pos": 49,
-      "deltaPos": -14,
-      "mmr": 1159,
-      "deltaMmr": 18
+    "v3": {
+      "pos": 88,
+      "deltaPos": 4,
+      "mmr": 1546,
+      "deltaMmr": -9
     }
   },
   {
@@ -2472,23 +2472,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 89,
-      "deltaPos": 12,
-      "mmr": 1545,
-      "deltaMmr": -32
+    "v1": {
+      "pos": 140,
+      "deltaPos": 1,
+      "mmr": 977,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 158,
       "deltaPos": -8,
       "mmr": 1446,
       "deltaMmr": 15
     },
-    "vs1": {
-      "pos": 140,
-      "deltaPos": 1,
-      "mmr": 977,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 89,
+      "deltaPos": 12,
+      "mmr": 1545,
+      "deltaMmr": -32
     }
   },
   {
@@ -2500,22 +2500,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 90,
-      "deltaPos": 0,
-      "mmr": 1545,
+    "v1": {
+      "pos": 67,
+      "deltaPos": 1,
+      "mmr": 1138,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 63,
       "deltaPos": -3,
       "mmr": 1605,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 67,
-      "deltaPos": 1,
-      "mmr": 1138,
+    "v3": {
+      "pos": 90,
+      "deltaPos": 0,
+      "mmr": 1545,
       "deltaMmr": 0
     }
   },
@@ -2528,23 +2528,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 91,
-      "deltaPos": -33,
-      "mmr": 1545,
-      "deltaMmr": 38
+    "v1": {
+      "pos": 113,
+      "deltaPos": 0,
+      "mmr": 1049,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 82,
       "deltaPos": 0,
       "mmr": 1563,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 113,
-      "deltaPos": 0,
-      "mmr": 1049,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 91,
+      "deltaPos": -33,
+      "mmr": 1545,
+      "deltaMmr": 38
     }
   },
   {
@@ -2556,22 +2556,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 92,
-      "deltaPos": 0,
-      "mmr": 1542,
+    "v1": {
+      "pos": 139,
+      "deltaPos": 1,
+      "mmr": 977,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 92,
       "deltaPos": -3,
       "mmr": 1544,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 139,
-      "deltaPos": 1,
-      "mmr": 977,
+    "v3": {
+      "pos": 92,
+      "deltaPos": 0,
+      "mmr": 1542,
       "deltaMmr": 0
     }
   },
@@ -2584,23 +2584,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 93,
-      "deltaPos": 40,
-      "mmr": 1541,
-      "deltaMmr": -107
+    "v1": {
+      "pos": 61,
+      "deltaPos": 3,
+      "mmr": 1145,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 118,
       "deltaPos": -3,
       "mmr": 1516,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 61,
-      "deltaPos": 3,
-      "mmr": 1145,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 93,
+      "deltaPos": 40,
+      "mmr": 1541,
+      "deltaMmr": -107
     }
   },
   {
@@ -2612,23 +2612,23 @@
     "twitch": "zReinox",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 94,
-      "deltaPos": -11,
-      "mmr": 1539,
-      "deltaMmr": 14
+    "v1": {
+      "pos": 243,
+      "deltaPos": 42,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 56,
       "deltaPos": 5,
       "mmr": 1618,
       "deltaMmr": -19
     },
-    "vs1": {
-      "pos": 243,
-      "deltaPos": 42,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 94,
+      "deltaPos": -11,
+      "mmr": 1539,
+      "deltaMmr": 14
     }
   },
   {
@@ -2640,22 +2640,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 95,
+    "v1": {
+      "pos": 123,
       "deltaPos": 0,
-      "mmr": 1536,
+      "mmr": 1037,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 187,
       "deltaPos": 0,
       "mmr": 1402,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 123,
+    "v3": {
+      "pos": 95,
       "deltaPos": 0,
-      "mmr": 1037,
+      "mmr": 1536,
       "deltaMmr": 0
     }
   },
@@ -2668,22 +2668,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 96,
-      "deltaPos": 0,
-      "mmr": 1536,
+    "v1": {
+      "pos": 57,
+      "deltaPos": 4,
+      "mmr": 1151,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 140,
       "deltaPos": -2,
       "mmr": 1479,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 57,
-      "deltaPos": 4,
-      "mmr": 1151,
+    "v3": {
+      "pos": 96,
+      "deltaPos": 0,
+      "mmr": 1536,
       "deltaMmr": 0
     }
   },
@@ -2696,22 +2696,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 97,
-      "deltaPos": 0,
-      "mmr": 1535,
+    "v1": {
+      "pos": 65,
+      "deltaPos": 1,
+      "mmr": 1140,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 43,
       "deltaPos": -1,
       "mmr": 1646,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 65,
-      "deltaPos": 1,
-      "mmr": 1140,
+    "v3": {
+      "pos": 97,
+      "deltaPos": 0,
+      "mmr": 1535,
       "deltaMmr": 0
     }
   },
@@ -2724,22 +2724,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 98,
+    "v1": {
+      "pos": 129,
       "deltaPos": 0,
-      "mmr": 1534,
+      "mmr": 1016,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 156,
       "deltaPos": 29,
       "mmr": 1449,
       "deltaMmr": -55
     },
-    "vs1": {
-      "pos": 129,
+    "v3": {
+      "pos": 98,
       "deltaPos": 0,
-      "mmr": 1016,
+      "mmr": 1534,
       "deltaMmr": 0
     }
   },
@@ -2752,22 +2752,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 99,
-      "deltaPos": 0,
-      "mmr": 1532,
+    "v1": {
+      "pos": 246,
+      "deltaPos": 24,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 125,
       "deltaPos": -1,
       "mmr": 1504,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 246,
-      "deltaPos": 24,
-      "mmr": 0,
+    "v3": {
+      "pos": 99,
+      "deltaPos": 0,
+      "mmr": 1532,
       "deltaMmr": 0
     }
   },
@@ -2780,22 +2780,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 100,
+    "v1": {
+      "pos": 112,
       "deltaPos": 0,
-      "mmr": 1532,
+      "mmr": 1052,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 121,
       "deltaPos": -3,
       "mmr": 1509,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 112,
+    "v3": {
+      "pos": 100,
       "deltaPos": 0,
-      "mmr": 1052,
+      "mmr": 1532,
       "deltaMmr": 0
     }
   },
@@ -2808,22 +2808,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 101,
-      "deltaPos": 0,
-      "mmr": 1531,
+    "v1": {
+      "pos": 245,
+      "deltaPos": -13,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 136,
       "deltaPos": -3,
       "mmr": 1485,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 245,
-      "deltaPos": -13,
-      "mmr": 0,
+    "v3": {
+      "pos": 101,
+      "deltaPos": 0,
+      "mmr": 1531,
       "deltaMmr": 0
     }
   },
@@ -2836,23 +2836,23 @@
     "twitch": "Alvarillo_2000",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 102,
-      "deltaPos": -17,
-      "mmr": 1529,
-      "deltaMmr": 15
+    "v1": {
+      "pos": 105,
+      "deltaPos": -1,
+      "mmr": 1076,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 108,
       "deltaPos": -10,
       "mmr": 1531,
       "deltaMmr": 11
     },
-    "vs1": {
-      "pos": 105,
-      "deltaPos": -1,
-      "mmr": 1076,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 102,
+      "deltaPos": -17,
+      "mmr": 1529,
+      "deltaMmr": 15
     }
   },
   {
@@ -2864,22 +2864,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 103,
-      "deltaPos": 1,
-      "mmr": 1529,
+    "v1": {
+      "pos": 58,
+      "deltaPos": 3,
+      "mmr": 1151,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 79,
       "deltaPos": 18,
       "mmr": 1566,
       "deltaMmr": -45
     },
-    "vs1": {
-      "pos": 58,
-      "deltaPos": 3,
-      "mmr": 1151,
+    "v3": {
+      "pos": 103,
+      "deltaPos": 1,
+      "mmr": 1529,
       "deltaMmr": 0
     }
   },
@@ -2892,22 +2892,22 @@
     "twitch": "Playerz55",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 104,
-      "deltaPos": 1,
-      "mmr": 1528,
+    "v1": {
+      "pos": 107,
+      "deltaPos": -1,
+      "mmr": 1070,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 139,
       "deltaPos": -10,
       "mmr": 1481,
       "deltaMmr": 19
     },
-    "vs1": {
-      "pos": 107,
-      "deltaPos": -1,
-      "mmr": 1070,
+    "v3": {
+      "pos": 104,
+      "deltaPos": 1,
+      "mmr": 1528,
       "deltaMmr": 0
     }
   },
@@ -2920,23 +2920,23 @@
     "twitch": "KAISER_ESP_",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 105,
-      "deltaPos": 14,
-      "mmr": 1526,
-      "deltaMmr": -18
+    "v1": {
+      "pos": 92,
+      "deltaPos": -2,
+      "mmr": 1088,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 117,
       "deltaPos": -2,
       "mmr": 1517,
       "deltaMmr": 1
     },
-    "vs1": {
-      "pos": 92,
-      "deltaPos": -2,
-      "mmr": 1088,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 105,
+      "deltaPos": 14,
+      "mmr": 1526,
+      "deltaMmr": -18
     }
   },
   {
@@ -2948,22 +2948,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 106,
-      "deltaPos": 2,
-      "mmr": 1525,
+    "v1": {
+      "pos": 127,
+      "deltaPos": 0,
+      "mmr": 1024,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 130,
       "deltaPos": -1,
       "mmr": 1496,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 127,
-      "deltaPos": 0,
-      "mmr": 1024,
+    "v3": {
+      "pos": 106,
+      "deltaPos": 2,
+      "mmr": 1525,
       "deltaMmr": 0
     }
   },
@@ -2976,22 +2976,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 107,
-      "deltaPos": 1,
-      "mmr": 1523,
+    "v1": {
+      "pos": 128,
+      "deltaPos": 0,
+      "mmr": 1018,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 151,
       "deltaPos": -7,
       "mmr": 1457,
       "deltaMmr": 9
     },
-    "vs1": {
-      "pos": 128,
-      "deltaPos": 0,
-      "mmr": 1018,
+    "v3": {
+      "pos": 107,
+      "deltaPos": 1,
+      "mmr": 1523,
       "deltaMmr": 0
     }
   },
@@ -3004,22 +3004,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 108,
-      "deltaPos": 1,
-      "mmr": 1522,
+    "v1": {
+      "pos": 111,
+      "deltaPos": 0,
+      "mmr": 1059,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 153,
       "deltaPos": -1,
       "mmr": 1454,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 111,
-      "deltaPos": 0,
-      "mmr": 1059,
+    "v3": {
+      "pos": 108,
+      "deltaPos": 1,
+      "mmr": 1522,
       "deltaMmr": 0
     }
   },
@@ -3032,22 +3032,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 109,
-      "deltaPos": 1,
-      "mmr": 1521,
+    "v1": {
+      "pos": 239,
+      "deltaPos": -10,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 206,
       "deltaPos": 0,
       "mmr": 1369,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 239,
-      "deltaPos": -10,
-      "mmr": 0,
+    "v3": {
+      "pos": 109,
+      "deltaPos": 1,
+      "mmr": 1521,
       "deltaMmr": 0
     }
   },
@@ -3060,23 +3060,23 @@
     "twitch": "eypupi",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 110,
-      "deltaPos": -19,
-      "mmr": 1521,
-      "deltaMmr": 22
+    "v1": {
+      "pos": 132,
+      "deltaPos": 0,
+      "mmr": 1001,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 172,
       "deltaPos": -1,
       "mmr": 1425,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 132,
-      "deltaPos": 0,
-      "mmr": 1001,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 110,
+      "deltaPos": -19,
+      "mmr": 1521,
+      "deltaMmr": 22
     }
   },
   {
@@ -3088,22 +3088,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 111,
-      "deltaPos": 2,
-      "mmr": 1519,
+    "v1": {
+      "pos": 232,
+      "deltaPos": 8,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 40,
       "deltaPos": 2,
       "mmr": 1659,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 232,
-      "deltaPos": 8,
-      "mmr": 0,
+    "v3": {
+      "pos": 111,
+      "deltaPos": 2,
+      "mmr": 1519,
       "deltaMmr": 0
     }
   },
@@ -3116,22 +3116,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 112,
-      "deltaPos": 1,
-      "mmr": 1518,
+    "v1": {
+      "pos": 230,
+      "deltaPos": -13,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 244,
       "deltaPos": -2,
       "mmr": 1249,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 230,
-      "deltaPos": -13,
-      "mmr": 0,
+    "v3": {
+      "pos": 112,
+      "deltaPos": 1,
+      "mmr": 1518,
       "deltaMmr": 0
     }
   },
@@ -3144,23 +3144,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 113,
-      "deltaPos": -85,
-      "mmr": 1518,
-      "deltaMmr": 135
+    "v1": {
+      "pos": 279,
+      "deltaPos": 3,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 69,
       "deltaPos": -4,
       "mmr": 1590,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 279,
-      "deltaPos": 3,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 113,
+      "deltaPos": -85,
+      "mmr": 1518,
+      "deltaMmr": 135
     }
   },
   {
@@ -3172,23 +3172,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 114,
-      "deltaPos": 20,
-      "mmr": 1518,
-      "deltaMmr": -19
+    "v1": {
+      "pos": 247,
+      "deltaPos": 43,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 218,
       "deltaPos": 1,
       "mmr": 1339,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 247,
-      "deltaPos": 43,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 114,
+      "deltaPos": 20,
+      "mmr": 1518,
+      "deltaMmr": -19
     }
   },
   {
@@ -3200,23 +3200,23 @@
     "twitch": "ItsJayQ",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 115,
-      "deltaPos": 3,
-      "mmr": 1517,
-      "deltaMmr": 0
+    "v1": {
+      "pos": 103,
+      "deltaPos": -1,
+      "mmr": 1080,
+      "deltaMmr": 2
     },
-    "vs2": {
+    "v2": {
       "pos": 113,
       "deltaPos": -3,
       "mmr": 1521,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 103,
-      "deltaPos": -1,
-      "mmr": 1080,
-      "deltaMmr": 2
+    "v3": {
+      "pos": 115,
+      "deltaPos": 3,
+      "mmr": 1517,
+      "deltaMmr": 0
     }
   },
   {
@@ -3228,23 +3228,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 116,
-      "deltaPos": -6,
-      "mmr": 1517,
-      "deltaMmr": 7
+    "v1": {
+      "pos": 46,
+      "deltaPos": -22,
+      "mmr": 1164,
+      "deltaMmr": 27
     },
-    "vs2": {
+    "v2": {
       "pos": 65,
       "deltaPos": -3,
       "mmr": 1604,
       "deltaMmr": 6
     },
-    "vs1": {
-      "pos": 46,
-      "deltaPos": -22,
-      "mmr": 1164,
-      "deltaMmr": 27
+    "v3": {
+      "pos": 116,
+      "deltaPos": -6,
+      "mmr": 1517,
+      "deltaMmr": 7
     }
   },
   {
@@ -3256,22 +3256,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 117,
-      "deltaPos": 3,
-      "mmr": 1516,
+    "v1": {
+      "pos": 223,
+      "deltaPos": -27,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 274,
       "deltaPos": 0,
       "mmr": 1057,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 223,
-      "deltaPos": -27,
-      "mmr": 0,
+    "v3": {
+      "pos": 117,
+      "deltaPos": 3,
+      "mmr": 1516,
       "deltaMmr": 0
     }
   },
@@ -3284,22 +3284,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 118,
-      "deltaPos": 5,
-      "mmr": 1516,
+      "deltaPos": 0,
+      "mmr": 1047,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 67,
       "deltaPos": -3,
       "mmr": 1594,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 118,
-      "deltaPos": 0,
-      "mmr": 1047,
+      "deltaPos": 5,
+      "mmr": 1516,
       "deltaMmr": 0
     }
   },
@@ -3312,23 +3312,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 119,
-      "deltaPos": -1,
-      "mmr": 1515,
-      "deltaMmr": 4
+    "v1": {
+      "pos": 216,
+      "deltaPos": -53,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 42,
       "deltaPos": -1,
       "mmr": 1652,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 216,
-      "deltaPos": -53,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 119,
+      "deltaPos": -1,
+      "mmr": 1515,
+      "deltaMmr": 4
     }
   },
   {
@@ -3340,22 +3340,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 120,
-      "deltaPos": 3,
-      "mmr": 1515,
+      "deltaPos": 0,
+      "mmr": 1043,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 109,
       "deltaPos": 1,
       "mmr": 1527,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 120,
-      "deltaPos": 0,
-      "mmr": 1043,
+      "deltaPos": 3,
+      "mmr": 1515,
       "deltaMmr": 0
     }
   },
@@ -3368,22 +3368,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 121,
-      "deltaPos": 5,
-      "mmr": 1515,
+    "v1": {
+      "pos": 218,
+      "deltaPos": -43,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 173,
       "deltaPos": 1,
       "mmr": 1425,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 218,
-      "deltaPos": -43,
-      "mmr": 0,
+    "v3": {
+      "pos": 121,
+      "deltaPos": 5,
+      "mmr": 1515,
       "deltaMmr": 0
     }
   },
@@ -3396,23 +3396,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 122,
-      "deltaPos": -15,
-      "mmr": 1514,
-      "deltaMmr": 27
+    "v1": {
+      "pos": 280,
+      "deltaPos": 16,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 287,
       "deltaPos": -5,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 280,
-      "deltaPos": 16,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 122,
+      "deltaPos": -15,
+      "mmr": 1514,
+      "deltaMmr": 27
     }
   },
   {
@@ -3424,23 +3424,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 123,
-      "deltaPos": -10,
-      "mmr": 1514,
-      "deltaMmr": 20
+    "v1": {
+      "pos": 72,
+      "deltaPos": 0,
+      "mmr": 1130,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 72,
       "deltaPos": 14,
       "mmr": 1585,
       "deltaMmr": -28
     },
-    "vs1": {
-      "pos": 72,
-      "deltaPos": 0,
-      "mmr": 1130,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 123,
+      "deltaPos": -10,
+      "mmr": 1514,
+      "deltaMmr": 20
     }
   },
   {
@@ -3452,22 +3452,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 124,
-      "deltaPos": 6,
-      "mmr": 1514,
+    "v1": {
+      "pos": 88,
+      "deltaPos": -3,
+      "mmr": 1093,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 84,
       "deltaPos": -1,
       "mmr": 1556,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 88,
-      "deltaPos": -3,
-      "mmr": 1093,
+    "v3": {
+      "pos": 124,
+      "deltaPos": 6,
+      "mmr": 1514,
       "deltaMmr": 0
     }
   },
@@ -3480,23 +3480,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 125,
-      "deltaPos": -9,
-      "mmr": 1514,
-      "deltaMmr": 22
+    "v1": {
+      "pos": 102,
+      "deltaPos": -1,
+      "mmr": 1080,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 95,
       "deltaPos": -2,
       "mmr": 1541,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 102,
-      "deltaPos": -1,
-      "mmr": 1080,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 125,
+      "deltaPos": -9,
+      "mmr": 1514,
+      "deltaMmr": 22
     }
   },
   {
@@ -3508,22 +3508,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 126,
-      "deltaPos": 5,
-      "mmr": 1510,
+    "v1": {
+      "pos": 52,
+      "deltaPos": 0,
+      "mmr": 1152,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 81,
       "deltaPos": 0,
       "mmr": 1564,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 52,
-      "deltaPos": 0,
-      "mmr": 1152,
+    "v3": {
+      "pos": 126,
+      "deltaPos": 5,
+      "mmr": 1510,
       "deltaMmr": 0
     }
   },
@@ -3536,22 +3536,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 127,
-      "deltaPos": 4,
-      "mmr": 1508,
+    "v1": {
+      "pos": 56,
+      "deltaPos": 2,
+      "mmr": 1151,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 119,
       "deltaPos": -3,
       "mmr": 1514,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 56,
-      "deltaPos": 2,
-      "mmr": 1151,
+    "v3": {
+      "pos": 127,
+      "deltaPos": 4,
+      "mmr": 1508,
       "deltaMmr": 0
     }
   },
@@ -3564,23 +3564,23 @@
     "twitch": "CosmiiKzrl",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 128,
-      "deltaPos": 18,
-      "mmr": 1508,
-      "deltaMmr": -11
+    "v1": {
+      "pos": 73,
+      "deltaPos": -1,
+      "mmr": 1125,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 142,
       "deltaPos": -2,
       "mmr": 1473,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 73,
-      "deltaPos": -1,
-      "mmr": 1125,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 128,
+      "deltaPos": 18,
+      "mmr": 1508,
+      "deltaMmr": -11
     }
   },
   {
@@ -3592,22 +3592,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 129,
-      "deltaPos": 4,
-      "mmr": 1505,
+    "v1": {
+      "pos": 82,
+      "deltaPos": 0,
+      "mmr": 1112,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 116,
       "deltaPos": -1,
       "mmr": 1520,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 82,
-      "deltaPos": 0,
-      "mmr": 1112,
+    "v3": {
+      "pos": 129,
+      "deltaPos": 4,
+      "mmr": 1505,
       "deltaMmr": 0
     }
   },
@@ -3620,23 +3620,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 130,
-      "deltaPos": 37,
-      "mmr": 1505,
-      "deltaMmr": -35
+    "v1": {
+      "pos": 249,
+      "deltaPos": -22,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 285,
       "deltaPos": -5,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 249,
-      "deltaPos": -22,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 130,
+      "deltaPos": 37,
+      "mmr": 1505,
+      "deltaMmr": -35
     }
   },
   {
@@ -3648,22 +3648,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 131,
-      "deltaPos": 4,
-      "mmr": 1504,
+    "v1": {
+      "pos": 213,
+      "deltaPos": -25,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 66,
       "deltaPos": -3,
       "mmr": 1596,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 213,
-      "deltaPos": -25,
-      "mmr": 0,
+    "v3": {
+      "pos": 131,
+      "deltaPos": 4,
+      "mmr": 1504,
       "deltaMmr": 0
     }
   },
@@ -3676,23 +3676,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 132,
-      "deltaPos": 1,
-      "mmr": 1501,
-      "deltaMmr": 4
+    "v1": {
+      "pos": 100,
+      "deltaPos": -1,
+      "mmr": 1081,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 102,
       "deltaPos": -1,
       "mmr": 1535,
       "deltaMmr": -1
     },
-    "vs1": {
-      "pos": 100,
-      "deltaPos": -1,
-      "mmr": 1081,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 132,
+      "deltaPos": 1,
+      "mmr": 1501,
+      "deltaMmr": 4
     }
   },
   {
@@ -3704,23 +3704,23 @@
     "twitch": "drcole17",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 133,
-      "deltaPos": 7,
-      "mmr": 1498,
-      "deltaMmr": -6
+    "v1": {
+      "pos": 115,
+      "deltaPos": -1,
+      "mmr": 1048,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 152,
       "deltaPos": -11,
       "mmr": 1454,
       "deltaMmr": 17
     },
-    "vs1": {
-      "pos": 115,
-      "deltaPos": -1,
-      "mmr": 1048,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 133,
+      "deltaPos": 7,
+      "mmr": 1498,
+      "deltaMmr": -6
     }
   },
   {
@@ -3732,22 +3732,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 134,
-      "deltaPos": 4,
-      "mmr": 1497,
+    "v1": {
+      "pos": 147,
+      "deltaPos": 0,
+      "mmr": 957,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 242,
       "deltaPos": 0,
       "mmr": 1257,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 147,
-      "deltaPos": 0,
-      "mmr": 957,
+    "v3": {
+      "pos": 134,
+      "deltaPos": 4,
+      "mmr": 1497,
       "deltaMmr": 0
     }
   },
@@ -3760,22 +3760,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 135,
+    "v1": {
+      "pos": 59,
       "deltaPos": 3,
-      "mmr": 1495,
+      "mmr": 1150,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 107,
       "deltaPos": 0,
       "mmr": 1532,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 59,
+    "v3": {
+      "pos": 135,
       "deltaPos": 3,
-      "mmr": 1150,
+      "mmr": 1495,
       "deltaMmr": 0
     }
   },
@@ -3788,23 +3788,23 @@
     "twitch": "cierbot",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 136,
-      "deltaPos": -23,
-      "mmr": 1493,
-      "deltaMmr": 37
+    "v1": {
+      "pos": 143,
+      "deltaPos": 1,
+      "mmr": 968,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 192,
       "deltaPos": 1,
       "mmr": 1398,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 143,
-      "deltaPos": 1,
-      "mmr": 968,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 136,
+      "deltaPos": -23,
+      "mmr": 1493,
+      "deltaMmr": 37
     }
   },
   {
@@ -3816,22 +3816,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 137,
-      "deltaPos": 2,
-      "mmr": 1491,
+    "v1": {
+      "pos": 125,
+      "deltaPos": 0,
+      "mmr": 1027,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 165,
       "deltaPos": 4,
       "mmr": 1438,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 125,
-      "deltaPos": 0,
-      "mmr": 1027,
+    "v3": {
+      "pos": 137,
+      "deltaPos": 2,
+      "mmr": 1491,
       "deltaMmr": 0
     }
   },
@@ -3844,23 +3844,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 138,
-      "deltaPos": -3,
-      "mmr": 1490,
-      "deltaMmr": 10
+    "v1": {
+      "pos": 266,
+      "deltaPos": 12,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 202,
       "deltaPos": 0,
       "mmr": 1379,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 266,
-      "deltaPos": 12,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 138,
+      "deltaPos": -3,
+      "mmr": 1490,
+      "deltaMmr": 10
     }
   },
   {
@@ -3872,23 +3872,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 139,
-      "deltaPos": 24,
-      "mmr": 1490,
-      "deltaMmr": -25
+    "v1": {
+      "pos": 48,
+      "deltaPos": 1,
+      "mmr": 1160,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 58,
       "deltaPos": -2,
       "mmr": 1610,
       "deltaMmr": -3
     },
-    "vs1": {
-      "pos": 48,
-      "deltaPos": 1,
-      "mmr": 1160,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 139,
+      "deltaPos": 24,
+      "mmr": 1490,
+      "deltaMmr": -25
     }
   },
   {
@@ -3900,22 +3900,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 140,
-      "deltaPos": 1,
-      "mmr": 1484,
+    "v1": {
+      "pos": 271,
+      "deltaPos": 42,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 91,
       "deltaPos": -3,
       "mmr": 1545,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 271,
-      "deltaPos": 42,
-      "mmr": 0,
+    "v3": {
+      "pos": 140,
+      "deltaPos": 1,
+      "mmr": 1484,
       "deltaMmr": 0
     }
   },
@@ -3928,22 +3928,22 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 141,
-      "deltaPos": 1,
-      "mmr": 1481,
+    "v1": {
+      "pos": 95,
+      "deltaPos": -1,
+      "mmr": 1085,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 114,
       "deltaPos": -15,
       "mmr": 1521,
       "deltaMmr": 19
     },
-    "vs1": {
-      "pos": 95,
-      "deltaPos": -1,
-      "mmr": 1085,
+    "v3": {
+      "pos": 141,
+      "deltaPos": 1,
+      "mmr": 1481,
       "deltaMmr": 0
     }
   },
@@ -3956,23 +3956,23 @@
     "twitch": "Tidus_RL",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 142,
-      "deltaPos": 4,
-      "mmr": 1478,
-      "deltaMmr": -7
+    "v1": {
+      "pos": 137,
+      "deltaPos": 1,
+      "mmr": 997,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 124,
       "deltaPos": 9,
       "mmr": 1505,
       "deltaMmr": -16
     },
-    "vs1": {
-      "pos": 137,
-      "deltaPos": 1,
-      "mmr": 997,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 142,
+      "deltaPos": 4,
+      "mmr": 1478,
+      "deltaMmr": -7
     }
   },
   {
@@ -3984,22 +3984,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 143,
-      "deltaPos": 1,
-      "mmr": 1475,
+    "v1": {
+      "pos": 265,
+      "deltaPos": 5,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 179,
       "deltaPos": 1,
       "mmr": 1410,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 265,
-      "deltaPos": 5,
-      "mmr": 0,
+    "v3": {
+      "pos": 143,
+      "deltaPos": 1,
+      "mmr": 1475,
       "deltaMmr": 0
     }
   },
@@ -4012,23 +4012,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 144,
-      "deltaPos": 8,
-      "mmr": 1474,
-      "deltaMmr": -14
+    "v1": {
+      "pos": 200,
+      "deltaPos": -59,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 197,
       "deltaPos": 2,
       "mmr": 1391,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 200,
-      "deltaPos": -59,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 144,
+      "deltaPos": 8,
+      "mmr": 1474,
+      "deltaMmr": -14
     }
   },
   {
@@ -4040,22 +4040,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 145,
-      "deltaPos": 2,
-      "mmr": 1473,
+    "v1": {
+      "pos": 122,
+      "deltaPos": 0,
+      "mmr": 1039,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 147,
       "deltaPos": 10,
       "mmr": 1463,
       "deltaMmr": -23
     },
-    "vs1": {
-      "pos": 122,
-      "deltaPos": 0,
-      "mmr": 1039,
+    "v3": {
+      "pos": 145,
+      "deltaPos": 2,
+      "mmr": 1473,
       "deltaMmr": 0
     }
   },
@@ -4068,22 +4068,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 146,
-      "deltaPos": 1,
-      "mmr": 1471,
+    "v1": {
+      "pos": 261,
+      "deltaPos": 27,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 174,
       "deltaPos": 3,
       "mmr": 1425,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 261,
-      "deltaPos": 27,
-      "mmr": 0,
+    "v3": {
+      "pos": 146,
+      "deltaPos": 1,
+      "mmr": 1471,
       "deltaMmr": 0
     }
   },
@@ -4096,22 +4096,22 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 147,
-      "deltaPos": 3,
-      "mmr": 1471,
+    "v1": {
+      "pos": 262,
+      "deltaPos": 0,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 41,
       "deltaPos": 0,
       "mmr": 1653,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 262,
-      "deltaPos": 0,
-      "mmr": 0,
+    "v3": {
+      "pos": 147,
+      "deltaPos": 3,
+      "mmr": 1471,
       "deltaMmr": 0
     }
   },
@@ -4124,22 +4124,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 148,
-      "deltaPos": 2,
-      "mmr": 1468,
+    "v1": {
+      "pos": 20,
+      "deltaPos": 0,
+      "mmr": 1251,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 51,
       "deltaPos": -4,
       "mmr": 1625,
       "deltaMmr": 8
     },
-    "vs1": {
-      "pos": 20,
-      "deltaPos": 0,
-      "mmr": 1251,
+    "v3": {
+      "pos": 148,
+      "deltaPos": 2,
+      "mmr": 1468,
       "deltaMmr": 0
     }
   },
@@ -4152,22 +4152,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 149,
-      "deltaPos": 2,
-      "mmr": 1467,
+    "v1": {
+      "pos": 74,
+      "deltaPos": -1,
+      "mmr": 1125,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 141,
       "deltaPos": 0,
       "mmr": 1479,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 74,
-      "deltaPos": -1,
-      "mmr": 1125,
+    "v3": {
+      "pos": 149,
+      "deltaPos": 2,
+      "mmr": 1467,
       "deltaMmr": 0
     }
   },
@@ -4180,22 +4180,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 150,
-      "deltaPos": 1,
-      "mmr": 1466,
+    "v1": {
+      "pos": 116,
+      "deltaPos": -1,
+      "mmr": 1048,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 190,
       "deltaPos": 1,
       "mmr": 1400,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 116,
-      "deltaPos": -1,
-      "mmr": 1048,
+    "v3": {
+      "pos": 150,
+      "deltaPos": 1,
+      "mmr": 1466,
       "deltaMmr": 0
     }
   },
@@ -4208,23 +4208,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 151,
-      "deltaPos": -36,
-      "mmr": 1465,
-      "deltaMmr": 67
+    "v1": {
+      "pos": 145,
+      "deltaPos": 0,
+      "mmr": 963,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 284,
       "deltaPos": -3,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 145,
-      "deltaPos": 0,
-      "mmr": 963,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 151,
+      "deltaPos": -36,
+      "mmr": 1465,
+      "deltaMmr": 67
     }
   },
   {
@@ -4236,22 +4236,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 152,
-      "deltaPos": 1,
-      "mmr": 1465,
+    "v1": {
+      "pos": 99,
+      "deltaPos": -1,
+      "mmr": 1083,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 70,
       "deltaPos": -7,
       "mmr": 1589,
       "deltaMmr": 16
     },
-    "vs1": {
-      "pos": 99,
-      "deltaPos": -1,
-      "mmr": 1083,
+    "v3": {
+      "pos": 152,
+      "deltaPos": 1,
+      "mmr": 1465,
       "deltaMmr": 0
     }
   },
@@ -4264,22 +4264,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 153,
-      "deltaPos": 3,
-      "mmr": 1465,
+    "v1": {
+      "pos": 134,
+      "deltaPos": 0,
+      "mmr": 998,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 183,
       "deltaPos": 0,
       "mmr": 1406,
       "deltaMmr": 2
     },
-    "vs1": {
-      "pos": 134,
-      "deltaPos": 0,
-      "mmr": 998,
+    "v3": {
+      "pos": 153,
+      "deltaPos": 3,
+      "mmr": 1465,
       "deltaMmr": 0
     }
   },
@@ -4292,22 +4292,22 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 154,
-      "deltaPos": 2,
-      "mmr": 1464,
+    "v1": {
+      "pos": 250,
+      "deltaPos": -28,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 208,
       "deltaPos": -1,
       "mmr": 1360,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 250,
-      "deltaPos": -28,
-      "mmr": 0,
+    "v3": {
+      "pos": 154,
+      "deltaPos": 2,
+      "mmr": 1464,
       "deltaMmr": 0
     }
   },
@@ -4320,22 +4320,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 155,
-      "deltaPos": 2,
-      "mmr": 1462,
+    "v1": {
+      "pos": 93,
+      "deltaPos": -2,
+      "mmr": 1087,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 155,
       "deltaPos": -1,
       "mmr": 1449,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 93,
-      "deltaPos": -2,
-      "mmr": 1087,
+    "v3": {
+      "pos": 155,
+      "deltaPos": 2,
+      "mmr": 1462,
       "deltaMmr": 0
     }
   },
@@ -4348,22 +4348,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 156,
-      "deltaPos": 1,
-      "mmr": 1459,
+    "v1": {
+      "pos": 240,
+      "deltaPos": -2,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 182,
       "deltaPos": 1,
       "mmr": 1406,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 240,
-      "deltaPos": -2,
-      "mmr": 0,
+    "v3": {
+      "pos": 156,
+      "deltaPos": 1,
+      "mmr": 1459,
       "deltaMmr": 0
     }
   },
@@ -4376,22 +4376,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 157,
+    "v1": {
+      "pos": 44,
       "deltaPos": 1,
-      "mmr": 1459,
+      "mmr": 1172,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 110,
       "deltaPos": 1,
       "mmr": 1526,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 44,
+    "v3": {
+      "pos": 157,
       "deltaPos": 1,
-      "mmr": 1172,
+      "mmr": 1459,
       "deltaMmr": 0
     }
   },
@@ -4404,22 +4404,22 @@
     "twitch": "Torcal",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 158,
-      "deltaPos": 1,
-      "mmr": 1458,
+    "v1": {
+      "pos": 106,
+      "deltaPos": -1,
+      "mmr": 1075,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 131,
       "deltaPos": -1,
       "mmr": 1493,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 106,
-      "deltaPos": -1,
-      "mmr": 1075,
+    "v3": {
+      "pos": 158,
+      "deltaPos": 1,
+      "mmr": 1458,
       "deltaMmr": 0
     }
   },
@@ -4432,22 +4432,22 @@
     "twitch": "Ivanero2003",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 159,
-      "deltaPos": 1,
-      "mmr": 1457,
+    "v1": {
+      "pos": 86,
+      "deltaPos": 0,
+      "mmr": 1101,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 178,
       "deltaPos": 1,
       "mmr": 1420,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 86,
-      "deltaPos": 0,
-      "mmr": 1101,
+    "v3": {
+      "pos": 159,
+      "deltaPos": 1,
+      "mmr": 1457,
       "deltaMmr": 0
     }
   },
@@ -4460,22 +4460,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 160,
-      "deltaPos": -1,
-      "mmr": 1455,
+    "v1": {
+      "pos": 234,
+      "deltaPos": 13,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 288,
       "deltaPos": 3,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 234,
-      "deltaPos": 13,
-      "mmr": 0,
+    "v3": {
+      "pos": 160,
+      "deltaPos": -1,
+      "mmr": 1455,
       "deltaMmr": 0
     }
   },
@@ -4488,22 +4488,22 @@
     "twitch": "diegaso10",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 161,
-      "deltaPos": -1,
-      "mmr": 1454,
+    "v1": {
+      "pos": 162,
+      "deltaPos": 1,
+      "mmr": 908,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 193,
       "deltaPos": 1,
       "mmr": 1397,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 162,
-      "deltaPos": 1,
-      "mmr": 908,
+    "v3": {
+      "pos": 161,
+      "deltaPos": -1,
+      "mmr": 1454,
       "deltaMmr": 0
     }
   },
@@ -4516,23 +4516,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 162,
-      "deltaPos": 14,
-      "mmr": 1452,
-      "deltaMmr": -15
+    "v1": {
+      "pos": 256,
+      "deltaPos": 4,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 123,
       "deltaPos": 9,
       "mmr": 1507,
       "deltaMmr": -15
     },
-    "vs1": {
-      "pos": 256,
-      "deltaPos": 4,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 162,
+      "deltaPos": 14,
+      "mmr": 1452,
+      "deltaMmr": -15
     }
   },
   {
@@ -4544,22 +4544,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 163,
+    "v1": {
+      "pos": 151,
       "deltaPos": -1,
-      "mmr": 1448,
+      "mmr": 935,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 144,
       "deltaPos": -1,
       "mmr": 1467,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 151,
+    "v3": {
+      "pos": 163,
       "deltaPos": -1,
-      "mmr": 935,
+      "mmr": 1448,
       "deltaMmr": 0
     }
   },
@@ -4572,23 +4572,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 164,
-      "deltaPos": -13,
-      "mmr": 1446,
-      "deltaMmr": 24
+    "v1": {
+      "pos": 25,
+      "deltaPos": 0,
+      "mmr": 1240,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 64,
       "deltaPos": 8,
       "mmr": 1604,
       "deltaMmr": -11
     },
-    "vs1": {
-      "pos": 25,
-      "deltaPos": 0,
-      "mmr": 1240,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 164,
+      "deltaPos": -13,
+      "mmr": 1446,
+      "deltaMmr": 24
     }
   },
   {
@@ -4600,23 +4600,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 165,
-      "deltaPos": 11,
-      "mmr": 1446,
-      "deltaMmr": -15
+    "v1": {
+      "pos": 159,
+      "deltaPos": 1,
+      "mmr": 913,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 160,
       "deltaPos": -30,
       "mmr": 1441,
       "deltaMmr": 42
     },
-    "vs1": {
-      "pos": 159,
-      "deltaPos": 1,
-      "mmr": 913,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 165,
+      "deltaPos": 11,
+      "mmr": 1446,
+      "deltaMmr": -15
     }
   },
   {
@@ -4628,22 +4628,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 166,
-      "deltaPos": 1,
-      "mmr": 1445,
+    "v1": {
+      "pos": 62,
+      "deltaPos": 3,
+      "mmr": 1145,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 188,
       "deltaPos": 0,
       "mmr": 1401,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 62,
-      "deltaPos": 3,
-      "mmr": 1145,
+    "v3": {
+      "pos": 166,
+      "deltaPos": 1,
+      "mmr": 1445,
       "deltaMmr": 0
     }
   },
@@ -4656,23 +4656,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 167,
-      "deltaPos": 7,
-      "mmr": 1443,
-      "deltaMmr": -12
+    "v1": {
+      "pos": 236,
+      "deltaPos": 24,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 134,
       "deltaPos": -2,
       "mmr": 1488,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 236,
-      "deltaPos": 24,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 167,
+      "deltaPos": 7,
+      "mmr": 1443,
+      "deltaMmr": -12
     }
   },
   {
@@ -4684,22 +4684,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 168,
-      "deltaPos": 2,
-      "mmr": 1443,
+    "v1": {
+      "pos": 228,
+      "deltaPos": 3,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 222,
       "deltaPos": 15,
       "mmr": 1327,
       "deltaMmr": -41
     },
-    "vs1": {
-      "pos": 228,
-      "deltaPos": 3,
-      "mmr": 0,
+    "v3": {
+      "pos": 168,
+      "deltaPos": 2,
+      "mmr": 1443,
       "deltaMmr": 0
     }
   },
@@ -4712,22 +4712,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 169,
-      "deltaPos": 1,
-      "mmr": 1440,
+    "v1": {
+      "pos": 203,
+      "deltaPos": -25,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 171,
       "deltaPos": 9,
       "mmr": 1426,
       "deltaMmr": -11
     },
-    "vs1": {
-      "pos": 203,
-      "deltaPos": -25,
-      "mmr": 0,
+    "v3": {
+      "pos": 169,
+      "deltaPos": 1,
+      "mmr": 1440,
       "deltaMmr": 0
     }
   },
@@ -4740,22 +4740,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 170,
-      "deltaPos": 3,
-      "mmr": 1440,
+    "v1": {
+      "pos": 226,
+      "deltaPos": -5,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 148,
       "deltaPos": 0,
       "mmr": 1463,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 226,
-      "deltaPos": -5,
-      "mmr": 0,
+    "v3": {
+      "pos": 170,
+      "deltaPos": 3,
+      "mmr": 1440,
       "deltaMmr": 0
     }
   },
@@ -4768,23 +4768,23 @@
     "twitch": "Anthony_RL1",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 171,
-      "deltaPos": -4,
-      "mmr": 1438,
-      "deltaMmr": 14
+    "v1": {
+      "pos": 156,
+      "deltaPos": -8,
+      "mmr": 922,
+      "deltaMmr": 18
     },
-    "vs2": {
+    "v2": {
       "pos": 228,
       "deltaPos": -1,
       "mmr": 1302,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 156,
-      "deltaPos": -8,
-      "mmr": 922,
-      "deltaMmr": 18
+    "v3": {
+      "pos": 171,
+      "deltaPos": -4,
+      "mmr": 1438,
+      "deltaMmr": 14
     }
   },
   {
@@ -4796,22 +4796,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 172,
-      "deltaPos": 3,
-      "mmr": 1437,
+    "v1": {
+      "pos": 277,
+      "deltaPos": 54,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 105,
       "deltaPos": -1,
       "mmr": 1532,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 277,
-      "deltaPos": 54,
-      "mmr": 0,
+    "v3": {
+      "pos": 172,
+      "deltaPos": 3,
+      "mmr": 1437,
       "deltaMmr": 0
     }
   },
@@ -4824,23 +4824,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 173,
-      "deltaPos": -9,
-      "mmr": 1432,
-      "deltaMmr": 28
+    "v1": {
+      "pos": 136,
+      "deltaPos": 1,
+      "mmr": 998,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 212,
       "deltaPos": -8,
       "mmr": 1352,
       "deltaMmr": 19
     },
-    "vs1": {
-      "pos": 136,
-      "deltaPos": 1,
-      "mmr": 998,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 173,
+      "deltaPos": -9,
+      "mmr": 1432,
+      "deltaMmr": 28
     }
   },
   {
@@ -4852,22 +4852,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 174,
-      "deltaPos": 3,
-      "mmr": 1429,
+    "v1": {
+      "pos": 252,
+      "deltaPos": 20,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 83,
       "deltaPos": 0,
       "mmr": 1557,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 252,
-      "deltaPos": 20,
-      "mmr": 0,
+    "v3": {
+      "pos": 174,
+      "deltaPos": 3,
+      "mmr": 1429,
       "deltaMmr": 0
     }
   },
@@ -4880,22 +4880,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 175,
-      "deltaPos": 5,
-      "mmr": 1429,
+    "v1": {
+      "pos": 275,
+      "deltaPos": 40,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 170,
       "deltaPos": 0,
       "mmr": 1426,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 275,
-      "deltaPos": 40,
-      "mmr": 0,
+    "v3": {
+      "pos": 175,
+      "deltaPos": 5,
+      "mmr": 1429,
       "deltaMmr": 0
     }
   },
@@ -4908,23 +4908,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 176,
-      "deltaPos": 3,
-      "mmr": 1428,
-      "deltaMmr": 2
+    "v1": {
+      "pos": 233,
+      "deltaPos": -24,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 177,
       "deltaPos": 1,
       "mmr": 1421,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 233,
-      "deltaPos": -24,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 176,
+      "deltaPos": 3,
+      "mmr": 1428,
+      "deltaMmr": 2
     }
   },
   {
@@ -4936,22 +4936,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 177,
-      "deltaPos": 5,
-      "mmr": 1426,
+    "v1": {
+      "pos": 71,
+      "deltaPos": 0,
+      "mmr": 1131,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 106,
       "deltaPos": 1,
       "mmr": 1532,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 71,
-      "deltaPos": 0,
-      "mmr": 1131,
+    "v3": {
+      "pos": 177,
+      "deltaPos": 5,
+      "mmr": 1426,
       "deltaMmr": 0
     }
   },
@@ -4964,22 +4964,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 178,
-      "deltaPos": 4,
-      "mmr": 1424,
+    "v1": {
+      "pos": 119,
+      "deltaPos": 0,
+      "mmr": 1045,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 167,
       "deltaPos": 3,
       "mmr": 1434,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 119,
-      "deltaPos": 0,
-      "mmr": 1045,
+    "v3": {
+      "pos": 178,
+      "deltaPos": 4,
+      "mmr": 1424,
       "deltaMmr": 0
     }
   },
@@ -4992,22 +4992,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 179,
+    "v1": {
+      "pos": 138,
       "deltaPos": 1,
-      "mmr": 1419,
+      "mmr": 996,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 98,
       "deltaPos": 0,
       "mmr": 1540,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 138,
+    "v3": {
+      "pos": 179,
       "deltaPos": 1,
-      "mmr": 996,
+      "mmr": 1419,
       "deltaMmr": 0
     }
   },
@@ -5020,23 +5020,23 @@
     "twitch": "mrvag93",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 180,
-      "deltaPos": -23,
-      "mmr": 1419,
-      "deltaMmr": 47
+    "v1": {
+      "pos": 184,
+      "deltaPos": 0,
+      "mmr": 747,
+      "deltaMmr": -16
     },
-    "vs2": {
+    "v2": {
       "pos": 253,
       "deltaPos": 0,
       "mmr": 1216,
       "deltaMmr": -4
     },
-    "vs1": {
-      "pos": 184,
-      "deltaPos": 0,
-      "mmr": 747,
-      "deltaMmr": -16
+    "v3": {
+      "pos": 180,
+      "deltaPos": -23,
+      "mmr": 1419,
+      "deltaMmr": 47
     }
   },
   {
@@ -5048,22 +5048,22 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 181,
-      "deltaPos": 2,
-      "mmr": 1419,
+    "v1": {
+      "pos": 152,
+      "deltaPos": 1,
+      "mmr": 935,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 199,
       "deltaPos": 2,
       "mmr": 1390,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 152,
-      "deltaPos": 1,
-      "mmr": 935,
+    "v3": {
+      "pos": 181,
+      "deltaPos": 2,
+      "mmr": 1419,
       "deltaMmr": 0
     }
   },
@@ -5076,23 +5076,23 @@
     "twitch": "Sweet0",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 182,
-      "deltaPos": -6,
-      "mmr": 1418,
-      "deltaMmr": 21
+    "v1": {
+      "pos": 131,
+      "deltaPos": 0,
+      "mmr": 1009,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 164,
       "deltaPos": 41,
       "mmr": 1439,
       "deltaMmr": -72
     },
-    "vs1": {
-      "pos": 131,
-      "deltaPos": 0,
-      "mmr": 1009,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 182,
+      "deltaPos": -6,
+      "mmr": 1418,
+      "deltaMmr": 21
     }
   },
   {
@@ -5104,22 +5104,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 183,
-      "deltaPos": 3,
-      "mmr": 1418,
+    "v1": {
+      "pos": 91,
+      "deltaPos": -2,
+      "mmr": 1090,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 168,
       "deltaPos": 1,
       "mmr": 1430,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 91,
-      "deltaPos": -2,
-      "mmr": 1090,
+    "v3": {
+      "pos": 183,
+      "deltaPos": 3,
+      "mmr": 1418,
       "deltaMmr": 0
     }
   },
@@ -5132,23 +5132,23 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 184,
-      "deltaPos": 3,
-      "mmr": 1406,
-      "deltaMmr": 2
+    "v1": {
+      "pos": 146,
+      "deltaPos": 0,
+      "mmr": 962,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 196,
       "deltaPos": -26,
       "mmr": 1394,
       "deltaMmr": 67
     },
-    "vs1": {
-      "pos": 146,
-      "deltaPos": 0,
-      "mmr": 962,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 184,
+      "deltaPos": 3,
+      "mmr": 1406,
+      "deltaMmr": 2
     }
   },
   {
@@ -5160,22 +5160,22 @@
     "twitch": "BlancoLandaRL",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 185,
-      "deltaPos": 2,
-      "mmr": 1402,
+    "v1": {
+      "pos": 248,
+      "deltaPos": -7,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 292,
       "deltaPos": 9,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 248,
-      "deltaPos": -7,
-      "mmr": 0,
+    "v3": {
+      "pos": 185,
+      "deltaPos": 2,
+      "mmr": 1402,
       "deltaMmr": 0
     }
   },
@@ -5188,22 +5188,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 186,
-      "deltaPos": 2,
-      "mmr": 1401,
+    "v1": {
+      "pos": 85,
+      "deltaPos": 0,
+      "mmr": 1107,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 86,
       "deltaPos": 0,
       "mmr": 1555,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 85,
-      "deltaPos": 0,
-      "mmr": 1107,
+    "v3": {
+      "pos": 186,
+      "deltaPos": 2,
+      "mmr": 1401,
       "deltaMmr": 0
     }
   },
@@ -5216,23 +5216,23 @@
     "twitch": "loriti",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 187,
-      "deltaPos": 2,
-      "mmr": 1400,
-      "deltaMmr": 0
+    "v1": {
+      "pos": 198,
+      "deltaPos": 5,
+      "mmr": 557,
+      "deltaMmr": -79
     },
-    "vs2": {
+    "v2": {
       "pos": 181,
       "deltaPos": 1,
       "mmr": 1408,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 198,
-      "deltaPos": 5,
-      "mmr": 557,
-      "deltaMmr": -79
+    "v3": {
+      "pos": 187,
+      "deltaPos": 2,
+      "mmr": 1400,
+      "deltaMmr": 0
     }
   },
   {
@@ -5244,23 +5244,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 188,
-      "deltaPos": 12,
-      "mmr": 1400,
-      "deltaMmr": -23
+    "v1": {
+      "pos": 108,
+      "deltaPos": 3,
+      "mmr": 1067,
+      "deltaMmr": -10
     },
-    "vs2": {
+    "v2": {
       "pos": 122,
       "deltaPos": 11,
       "mmr": 1507,
       "deltaMmr": -17
     },
-    "vs1": {
-      "pos": 108,
-      "deltaPos": 3,
-      "mmr": 1067,
-      "deltaMmr": -10
+    "v3": {
+      "pos": 188,
+      "deltaPos": 12,
+      "mmr": 1400,
+      "deltaMmr": -23
     }
   },
   {
@@ -5272,23 +5272,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 189,
-      "deltaPos": 26,
-      "mmr": 1398,
-      "deltaMmr": -51
+    "v1": {
+      "pos": 149,
+      "deltaPos": 0,
+      "mmr": 942,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 186,
       "deltaPos": 0,
       "mmr": 1402,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 149,
-      "deltaPos": 0,
-      "mmr": 942,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 189,
+      "deltaPos": 26,
+      "mmr": 1398,
+      "deltaMmr": -51
     }
   },
   {
@@ -5300,22 +5300,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 190,
-      "deltaPos": 1,
-      "mmr": 1395,
+    "v1": {
+      "pos": 89,
+      "deltaPos": -1,
+      "mmr": 1093,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 161,
       "deltaPos": 1,
       "mmr": 1440,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 89,
-      "deltaPos": -1,
-      "mmr": 1093,
+    "v3": {
+      "pos": 190,
+      "deltaPos": 1,
+      "mmr": 1395,
       "deltaMmr": 0
     }
   },
@@ -5328,22 +5328,22 @@
     "twitch": "baenaryy",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 191,
-      "deltaPos": 1,
-      "mmr": 1394,
+    "v1": {
+      "pos": 263,
+      "deltaPos": -4,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 159,
       "deltaPos": 0,
       "mmr": 1445,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 263,
-      "deltaPos": -4,
-      "mmr": 0,
+    "v3": {
+      "pos": 191,
+      "deltaPos": 1,
+      "mmr": 1394,
       "deltaMmr": 0
     }
   },
@@ -5356,22 +5356,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 192,
-      "deltaPos": 1,
-      "mmr": 1391,
+    "v1": {
+      "pos": 130,
+      "deltaPos": 0,
+      "mmr": 1013,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 157,
       "deltaPos": 4,
       "mmr": 1447,
       "deltaMmr": -13
     },
-    "vs1": {
-      "pos": 130,
-      "deltaPos": 0,
-      "mmr": 1013,
+    "v3": {
+      "pos": 192,
+      "deltaPos": 1,
+      "mmr": 1391,
       "deltaMmr": 0
     }
   },
@@ -5384,22 +5384,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 193,
-      "deltaPos": 1,
-      "mmr": 1390,
+    "v1": {
+      "pos": 79,
+      "deltaPos": -1,
+      "mmr": 1115,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 198,
       "deltaPos": 2,
       "mmr": 1391,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 79,
-      "deltaPos": -1,
-      "mmr": 1115,
+    "v3": {
+      "pos": 193,
+      "deltaPos": 1,
+      "mmr": 1390,
       "deltaMmr": 0
     }
   },
@@ -5412,23 +5412,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 194,
-      "deltaPos": -27,
-      "mmr": 1390,
-      "deltaMmr": 56
+    "v1": {
+      "pos": 221,
+      "deltaPos": 6,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 210,
       "deltaPos": 11,
       "mmr": 1355,
       "deltaMmr": -27
     },
-    "vs1": {
-      "pos": 221,
-      "deltaPos": 6,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 194,
+      "deltaPos": -27,
+      "mmr": 1390,
+      "deltaMmr": 56
     }
   },
   {
@@ -5440,22 +5440,22 @@
     "twitch": "Hunay",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 195,
-      "deltaPos": 1,
-      "mmr": 1387,
+    "v1": {
+      "pos": 272,
+      "deltaPos": 0,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 256,
       "deltaPos": 1,
       "mmr": 1203,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 272,
-      "deltaPos": 0,
-      "mmr": 0,
+    "v3": {
+      "pos": 195,
+      "deltaPos": 1,
+      "mmr": 1387,
       "deltaMmr": 0
     }
   },
@@ -5468,22 +5468,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 196,
-      "deltaPos": 1,
-      "mmr": 1386,
+    "v1": {
+      "pos": 273,
+      "deltaPos": -1,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 129,
       "deltaPos": -1,
       "mmr": 1498,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 273,
-      "deltaPos": -1,
-      "mmr": 0,
+    "v3": {
+      "pos": 196,
+      "deltaPos": 1,
+      "mmr": 1386,
       "deltaMmr": 0
     }
   },
@@ -5496,22 +5496,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 197,
-      "deltaPos": 1,
-      "mmr": 1386,
+    "v1": {
+      "pos": 177,
+      "deltaPos": 0,
+      "mmr": 836,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 225,
       "deltaPos": 1,
       "mmr": 1311,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 177,
-      "deltaPos": 0,
-      "mmr": 836,
+    "v3": {
+      "pos": 197,
+      "deltaPos": 1,
+      "mmr": 1386,
       "deltaMmr": 0
     }
   },
@@ -5524,22 +5524,22 @@
     "twitch": "R1B3R_13",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 198,
-      "deltaPos": 1,
-      "mmr": 1385,
+    "v1": {
+      "pos": 180,
+      "deltaPos": 0,
+      "mmr": 826,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 255,
       "deltaPos": -4,
       "mmr": 1207,
       "deltaMmr": 22
     },
-    "vs1": {
-      "pos": 180,
-      "deltaPos": 0,
-      "mmr": 826,
+    "v3": {
+      "pos": 198,
+      "deltaPos": 1,
+      "mmr": 1385,
       "deltaMmr": 0
     }
   },
@@ -5552,23 +5552,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 199,
-      "deltaPos": -2,
-      "mmr": 1385,
-      "deltaMmr": 8
+    "v1": {
+      "pos": 126,
+      "deltaPos": 0,
+      "mmr": 1027,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 128,
       "deltaPos": 0,
       "mmr": 1502,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 126,
-      "deltaPos": 0,
-      "mmr": 1027,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 199,
+      "deltaPos": -2,
+      "mmr": 1385,
+      "deltaMmr": 8
     }
   },
   {
@@ -5580,22 +5580,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 200,
-      "deltaPos": 1,
-      "mmr": 1383,
+    "v1": {
+      "pos": 161,
+      "deltaPos": -1,
+      "mmr": 908,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 233,
       "deltaPos": 1,
       "mmr": 1292,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 161,
-      "deltaPos": -1,
-      "mmr": 908,
+    "v3": {
+      "pos": 200,
+      "deltaPos": 1,
+      "mmr": 1383,
       "deltaMmr": 0
     }
   },
@@ -5608,23 +5608,23 @@
     "twitch": "itszalgo",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 201,
-      "deltaPos": 8,
-      "mmr": 1381,
-      "deltaMmr": -8
+    "v1": {
+      "pos": 171,
+      "deltaPos": 0,
+      "mmr": 885,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 189,
       "deltaPos": 7,
       "mmr": 1401,
       "deltaMmr": -4
     },
-    "vs1": {
-      "pos": 171,
-      "deltaPos": 0,
-      "mmr": 885,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 201,
+      "deltaPos": 8,
+      "mmr": 1381,
+      "deltaMmr": -8
     }
   },
   {
@@ -5636,22 +5636,22 @@
     "twitch": "Jleoro",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 202,
-      "deltaPos": 2,
-      "mmr": 1379,
+    "v1": {
+      "pos": 121,
+      "deltaPos": 0,
+      "mmr": 1041,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 101,
       "deltaPos": -1,
       "mmr": 1537,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 121,
-      "deltaPos": 0,
-      "mmr": 1041,
+    "v3": {
+      "pos": 202,
+      "deltaPos": 2,
+      "mmr": 1379,
       "deltaMmr": 0
     }
   },
@@ -5664,22 +5664,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 203,
-      "deltaPos": 1,
-      "mmr": 1375,
+    "v1": {
+      "pos": 202,
+      "deltaPos": 0,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 180,
       "deltaPos": 1,
       "mmr": 1409,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 202,
-      "deltaPos": 0,
-      "mmr": 0,
+    "v3": {
+      "pos": 203,
+      "deltaPos": 1,
+      "mmr": 1375,
       "deltaMmr": 0
     }
   },
@@ -5692,22 +5692,22 @@
     "twitch": "SrFox3999",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 204,
-      "deltaPos": 0,
-      "mmr": 1371,
+      "deltaPos": 1,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 201,
       "deltaPos": 1,
       "mmr": 1380,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 204,
-      "deltaPos": 1,
-      "mmr": 0,
+      "deltaPos": 0,
+      "mmr": 1371,
       "deltaMmr": 0
     }
   },
@@ -5720,23 +5720,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 205,
-      "deltaPos": 19,
-      "mmr": 1371,
-      "deltaMmr": -27
+    "v1": {
+      "pos": 135,
+      "deltaPos": 2,
+      "mmr": 998,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 239,
       "deltaPos": -1,
       "mmr": 1274,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 135,
-      "deltaPos": 2,
-      "mmr": 998,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 205,
+      "deltaPos": 19,
+      "mmr": 1371,
+      "deltaMmr": -27
     }
   },
   {
@@ -5748,22 +5748,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 206,
-      "deltaPos": 1,
-      "mmr": 1361,
+    "v1": {
+      "pos": 205,
+      "deltaPos": -1,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 166,
       "deltaPos": 1,
       "mmr": 1434,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 205,
-      "deltaPos": -1,
-      "mmr": 0,
+    "v3": {
+      "pos": 206,
+      "deltaPos": 1,
+      "mmr": 1361,
       "deltaMmr": 0
     }
   },
@@ -5776,22 +5776,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 207,
-      "deltaPos": 1,
-      "mmr": 1357,
+    "v1": {
+      "pos": 206,
+      "deltaPos": -1,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 250,
       "deltaPos": -1,
       "mmr": 1227,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 206,
-      "deltaPos": -1,
-      "mmr": 0,
+    "v3": {
+      "pos": 207,
+      "deltaPos": 1,
+      "mmr": 1357,
       "deltaMmr": 0
     }
   },
@@ -5804,22 +5804,22 @@
     "twitch": "Choco_RL",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 208,
-      "deltaPos": 1,
-      "mmr": 1354,
+    "v1": {
+      "pos": 207,
+      "deltaPos": -1,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 211,
       "deltaPos": 0,
       "mmr": 1352,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 207,
-      "deltaPos": -1,
-      "mmr": 0,
+    "v3": {
+      "pos": 208,
+      "deltaPos": 1,
+      "mmr": 1354,
       "deltaMmr": 0
     }
   },
@@ -5832,22 +5832,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 209,
-      "deltaPos": -1,
-      "mmr": 1353,
+    "v1": {
+      "pos": 210,
+      "deltaPos": 0,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 220,
       "deltaPos": 2,
       "mmr": 1336,
       "deltaMmr": -3
     },
-    "vs1": {
-      "pos": 210,
-      "deltaPos": 0,
-      "mmr": 0,
+    "v3": {
+      "pos": 209,
+      "deltaPos": -1,
+      "mmr": 1353,
       "deltaMmr": 0
     }
   },
@@ -5860,22 +5860,22 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 210,
-      "deltaPos": 2,
-      "mmr": 1353,
+    "v1": {
+      "pos": 150,
+      "deltaPos": 0,
+      "mmr": 938,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 221,
       "deltaPos": 0,
       "mmr": 1330,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 150,
-      "deltaPos": 0,
-      "mmr": 938,
+    "v3": {
+      "pos": 210,
+      "deltaPos": 2,
+      "mmr": 1353,
       "deltaMmr": 0
     }
   },
@@ -5888,22 +5888,22 @@
     "twitch": "soyzegio",
     "name": "Sergio",
     "platform": "steam",
-    "vs3": {
-      "pos": 211,
-      "deltaPos": 2,
-      "mmr": 1353,
+    "v1": {
+      "pos": 209,
+      "deltaPos": 0,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 213,
       "deltaPos": 1,
       "mmr": 1349,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 209,
-      "deltaPos": 0,
-      "mmr": 0,
+    "v3": {
+      "pos": 211,
+      "deltaPos": 2,
+      "mmr": 1353,
       "deltaMmr": 0
     }
   },
@@ -5916,22 +5916,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 212,
-      "deltaPos": 0,
-      "mmr": 1352,
+      "deltaPos": 7,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 195,
       "deltaPos": 1,
       "mmr": 1395,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 212,
-      "deltaPos": 7,
-      "mmr": 0,
+      "deltaPos": 0,
+      "mmr": 1352,
       "deltaMmr": 0
     }
   },
@@ -5944,22 +5944,22 @@
     "twitch": "dezysh",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 213,
-      "deltaPos": 2,
-      "mmr": 1352,
+    "v1": {
+      "pos": 211,
+      "deltaPos": -68,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 254,
       "deltaPos": 0,
       "mmr": 1208,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 211,
-      "deltaPos": -68,
-      "mmr": 0,
+    "v3": {
+      "pos": 213,
+      "deltaPos": 2,
+      "mmr": 1352,
       "deltaMmr": 0
     }
   },
@@ -5972,23 +5972,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 214,
-      "deltaPos": -2,
-      "mmr": 1351,
-      "deltaMmr": 10
+    "v1": {
+      "pos": 164,
+      "deltaPos": 5,
+      "mmr": 897,
+      "deltaMmr": -16
     },
-    "vs2": {
+    "v2": {
       "pos": 204,
       "deltaPos": 0,
       "mmr": 1377,
       "deltaMmr": 4
     },
-    "vs1": {
-      "pos": 164,
-      "deltaPos": 5,
-      "mmr": 897,
-      "deltaMmr": -16
+    "v3": {
+      "pos": 214,
+      "deltaPos": -2,
+      "mmr": 1351,
+      "deltaMmr": 10
     }
   },
   {
@@ -6000,22 +6000,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 215,
-      "deltaPos": 2,
-      "mmr": 1348,
+    "v1": {
+      "pos": 80,
+      "deltaPos": 1,
+      "mmr": 1115,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 133,
       "deltaPos": -1,
       "mmr": 1490,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 80,
-      "deltaPos": 1,
-      "mmr": 1115,
+    "v3": {
+      "pos": 215,
+      "deltaPos": 2,
+      "mmr": 1348,
       "deltaMmr": 0
     }
   },
@@ -6028,22 +6028,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 216,
-      "deltaPos": 2,
-      "mmr": 1347,
+    "v1": {
+      "pos": 31,
+      "deltaPos": -1,
+      "mmr": 1217,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 163,
       "deltaPos": -5,
       "mmr": 1439,
       "deltaMmr": 10
     },
-    "vs1": {
-      "pos": 31,
-      "deltaPos": -1,
-      "mmr": 1217,
+    "v3": {
+      "pos": 216,
+      "deltaPos": 2,
+      "mmr": 1347,
       "deltaMmr": 0
     }
   },
@@ -6056,23 +6056,23 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 217,
-      "deltaPos": -7,
-      "mmr": 1341,
-      "deltaMmr": 12
+    "v1": {
+      "pos": 224,
+      "deltaPos": -9,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 205,
       "deltaPos": 0,
       "mmr": 1370,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 224,
-      "deltaPos": -9,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 217,
+      "deltaPos": -7,
+      "mmr": 1341,
+      "deltaMmr": 12
     }
   },
   {
@@ -6084,23 +6084,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 218,
-      "deltaPos": 3,
-      "mmr": 1338,
-      "deltaMmr": -3
+    "v1": {
+      "pos": 109,
+      "deltaPos": 21,
+      "mmr": 1067,
+      "deltaMmr": -29
     },
-    "vs2": {
+    "v2": {
       "pos": 104,
       "deltaPos": 0,
       "mmr": 1533,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 109,
-      "deltaPos": 21,
-      "mmr": 1067,
-      "deltaMmr": -29
+    "v3": {
+      "pos": 218,
+      "deltaPos": 3,
+      "mmr": 1338,
+      "deltaMmr": -3
     }
   },
   {
@@ -6112,22 +6112,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 219,
-      "deltaPos": 2,
-      "mmr": 1337,
+    "v1": {
+      "pos": 217,
+      "deltaPos": 0,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 216,
       "deltaPos": 1,
       "mmr": 1341,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 217,
-      "deltaPos": 0,
-      "mmr": 0,
+    "v3": {
+      "pos": 219,
+      "deltaPos": 2,
+      "mmr": 1337,
       "deltaMmr": 0
     }
   },
@@ -6140,23 +6140,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 220,
-      "deltaPos": -5,
-      "mmr": 1336,
-      "deltaMmr": 8
+    "v1": {
+      "pos": 55,
+      "deltaPos": 6,
+      "mmr": 1152,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 215,
       "deltaPos": 2,
       "mmr": 1342,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 55,
-      "deltaPos": 6,
-      "mmr": 1152,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 220,
+      "deltaPos": -5,
+      "mmr": 1336,
+      "deltaMmr": 8
     }
   },
   {
@@ -6168,22 +6168,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 221,
-      "deltaPos": 2,
-      "mmr": 1335,
+    "v1": {
+      "pos": 219,
+      "deltaPos": -68,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 224,
       "deltaPos": 1,
       "mmr": 1315,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 219,
-      "deltaPos": -68,
-      "mmr": 0,
+    "v3": {
+      "pos": 221,
+      "deltaPos": 2,
+      "mmr": 1335,
       "deltaMmr": 0
     }
   },
@@ -6196,22 +6196,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 222,
-      "deltaPos": 2,
-      "mmr": 1334,
+    "v1": {
+      "pos": 179,
+      "deltaPos": 0,
+      "mmr": 832,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 223,
       "deltaPos": -7,
       "mmr": 1325,
       "deltaMmr": 28
     },
-    "vs1": {
-      "pos": 179,
-      "deltaPos": 0,
-      "mmr": 832,
+    "v3": {
+      "pos": 222,
+      "deltaPos": 2,
+      "mmr": 1334,
       "deltaMmr": 0
     }
   },
@@ -6224,22 +6224,22 @@
     "twitch": "",
     "name": "Airon Arroyo",
     "platform": "steam",
-    "vs3": {
-      "pos": 223,
-      "deltaPos": 1,
-      "mmr": 1334,
+    "v1": {
+      "pos": 222,
+      "deltaPos": 3,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 227,
       "deltaPos": 1,
       "mmr": 1309,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 222,
-      "deltaPos": 3,
-      "mmr": 0,
+    "v3": {
+      "pos": 223,
+      "deltaPos": 1,
+      "mmr": 1334,
       "deltaMmr": 0
     }
   },
@@ -6252,23 +6252,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 224,
+    "v1": {
+      "pos": 227,
       "deltaPos": -3,
-      "mmr": 1333,
-      "deltaMmr": 11
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 248,
       "deltaPos": 4,
       "mmr": 1234,
       "deltaMmr": -22
     },
-    "vs1": {
-      "pos": 227,
+    "v3": {
+      "pos": 224,
       "deltaPos": -3,
-      "mmr": 0,
-      "deltaMmr": 0
+      "mmr": 1333,
+      "deltaMmr": 11
     }
   },
   {
@@ -6280,23 +6280,23 @@
     "twitch": "iinfinite1",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 225,
-      "deltaPos": 2,
-      "mmr": 1332,
-      "deltaMmr": 3
+    "v1": {
+      "pos": 168,
+      "deltaPos": 0,
+      "mmr": 891,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 236,
       "deltaPos": 1,
       "mmr": 1286,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 168,
-      "deltaPos": 0,
-      "mmr": 891,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 225,
+      "deltaPos": 2,
+      "mmr": 1332,
+      "deltaMmr": 3
     }
   },
   {
@@ -6308,22 +6308,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 226,
+    "v1": {
+      "pos": 174,
       "deltaPos": 0,
-      "mmr": 1325,
+      "mmr": 855,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 241,
       "deltaPos": 0,
       "mmr": 1260,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 174,
+    "v3": {
+      "pos": 226,
       "deltaPos": 0,
-      "mmr": 855,
+      "mmr": 1325,
       "deltaMmr": 0
     }
   },
@@ -6336,23 +6336,23 @@
     "twitch": "adrisfera",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 227,
-      "deltaPos": -3,
-      "mmr": 1322,
-      "deltaMmr": 10
+    "v1": {
+      "pos": 158,
+      "deltaPos": 1,
+      "mmr": 917,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 203,
       "deltaPos": 5,
       "mmr": 1378,
       "deltaMmr": -8
     },
-    "vs1": {
-      "pos": 158,
-      "deltaPos": 1,
-      "mmr": 917,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 227,
+      "deltaPos": -3,
+      "mmr": 1322,
+      "deltaMmr": 10
     }
   },
   {
@@ -6364,22 +6364,22 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 228,
+    "v1": {
+      "pos": 173,
       "deltaPos": 0,
-      "mmr": 1317,
+      "mmr": 877,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 138,
       "deltaPos": -13,
       "mmr": 1483,
       "deltaMmr": 22
     },
-    "vs1": {
-      "pos": 173,
+    "v3": {
+      "pos": 228,
       "deltaPos": 0,
-      "mmr": 877,
+      "mmr": 1317,
       "deltaMmr": 0
     }
   },
@@ -6392,23 +6392,23 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 229,
-      "deltaPos": -2,
-      "mmr": 1313,
-      "deltaMmr": 4
+    "v1": {
+      "pos": 231,
+      "deltaPos": 18,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 247,
       "deltaPos": -2,
       "mmr": 1242,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 231,
-      "deltaPos": 18,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 229,
+      "deltaPos": -2,
+      "mmr": 1313,
+      "deltaMmr": 4
     }
   },
   {
@@ -6420,23 +6420,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 230,
-      "deltaPos": 12,
-      "mmr": 1309,
-      "deltaMmr": -27
+    "v1": {
+      "pos": 155,
+      "deltaPos": 0,
+      "mmr": 924,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 85,
       "deltaPos": 18,
       "mmr": 1556,
       "deltaMmr": -48
     },
-    "vs1": {
-      "pos": 155,
-      "deltaPos": 0,
-      "mmr": 924,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 230,
+      "deltaPos": 12,
+      "mmr": 1309,
+      "deltaMmr": -27
     }
   },
   {
@@ -6448,22 +6448,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 231,
+    "v1": {
+      "pos": 153,
       "deltaPos": -1,
-      "mmr": 1305,
+      "mmr": 931,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 232,
       "deltaPos": 1,
       "mmr": 1295,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 153,
+    "v3": {
+      "pos": 231,
       "deltaPos": -1,
-      "mmr": 931,
+      "mmr": 1305,
       "deltaMmr": 0
     }
   },
@@ -6476,23 +6476,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 232,
-      "deltaPos": -15,
-      "mmr": 1301,
-      "deltaMmr": 34
+    "v1": {
+      "pos": 157,
+      "deltaPos": 1,
+      "mmr": 917,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 184,
       "deltaPos": -1,
       "mmr": 1403,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 157,
-      "deltaPos": 1,
-      "mmr": 917,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 232,
+      "deltaPos": -15,
+      "mmr": 1301,
+      "deltaMmr": 34
     }
   },
   {
@@ -6504,22 +6504,22 @@
     "twitch": "fr5ddy",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 233,
-      "deltaPos": -1,
-      "mmr": 1299,
+    "v1": {
+      "pos": 181,
+      "deltaPos": 0,
+      "mmr": 776,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 251,
       "deltaPos": 8,
       "mmr": 1224,
       "deltaMmr": -33
     },
-    "vs1": {
-      "pos": 181,
-      "deltaPos": 0,
-      "mmr": 776,
+    "v3": {
+      "pos": 233,
+      "deltaPos": -1,
+      "mmr": 1299,
       "deltaMmr": 0
     }
   },
@@ -6532,22 +6532,22 @@
     "twitch": "josemawia",
     "name": "José María",
     "platform": "steam",
-    "vs3": {
-      "pos": 234,
+    "v1": {
+      "pos": 235,
       "deltaPos": -1,
-      "mmr": 1298,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 265,
       "deltaPos": 1,
       "mmr": 1141,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 235,
+    "v3": {
+      "pos": 234,
       "deltaPos": -1,
-      "mmr": 0,
+      "mmr": 1298,
       "deltaMmr": 0
     }
   },
@@ -6560,23 +6560,23 @@
     "twitch": "Dviser",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 235,
-      "deltaPos": 2,
-      "mmr": 1297,
-      "deltaMmr": -4
+    "v1": {
+      "pos": 185,
+      "deltaPos": 0,
+      "mmr": 744,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 200,
       "deltaPos": -3,
       "mmr": 1388,
       "deltaMmr": 14
     },
-    "vs1": {
-      "pos": 185,
-      "deltaPos": 0,
-      "mmr": 744,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 235,
+      "deltaPos": 2,
+      "mmr": 1297,
+      "deltaMmr": -4
     }
   },
   {
@@ -6588,22 +6588,22 @@
     "twitch": "fr3h_29",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 236,
+    "v1": {
+      "pos": 191,
       "deltaPos": 0,
-      "mmr": 1297,
+      "mmr": 643,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 229,
       "deltaPos": -16,
       "mmr": 1301,
       "deltaMmr": 50
     },
-    "vs1": {
-      "pos": 191,
+    "v3": {
+      "pos": 236,
       "deltaPos": 0,
-      "mmr": 643,
+      "mmr": 1297,
       "deltaMmr": 0
     }
   },
@@ -6616,23 +6616,23 @@
     "twitch": "almela",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 237,
-      "deltaPos": 8,
-      "mmr": 1296,
-      "deltaMmr": -20
+    "v1": {
+      "pos": 229,
+      "deltaPos": 11,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 207,
       "deltaPos": -1,
       "mmr": 1366,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 229,
-      "deltaPos": 11,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 237,
+      "deltaPos": 8,
+      "mmr": 1296,
+      "deltaMmr": -20
     }
   },
   {
@@ -6644,22 +6644,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 238,
-      "deltaPos": 1,
-      "mmr": 1295,
+    "v1": {
+      "pos": 237,
+      "deltaPos": -2,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 162,
       "deltaPos": 5,
       "mmr": 1440,
       "deltaMmr": -9
     },
-    "vs1": {
-      "pos": 237,
-      "deltaPos": -2,
-      "mmr": 0,
+    "v3": {
+      "pos": 238,
+      "deltaPos": 1,
+      "mmr": 1295,
       "deltaMmr": 0
     }
   },
@@ -6672,23 +6672,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 239,
-      "deltaPos": 1,
-      "mmr": 1291,
-      "deltaMmr": 6
+    "v1": {
+      "pos": 238,
+      "deltaPos": -2,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 275,
       "deltaPos": 0,
       "mmr": 1053,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 238,
-      "deltaPos": -2,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 239,
+      "deltaPos": 1,
+      "mmr": 1291,
+      "deltaMmr": 6
     }
   },
   {
@@ -6700,23 +6700,23 @@
     "twitch": "minesmas",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 240,
-      "deltaPos": -8,
-      "mmr": 1279,
-      "deltaMmr": 12
+    "v1": {
+      "pos": 192,
+      "deltaPos": 0,
+      "mmr": 639,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 243,
       "deltaPos": 6,
       "mmr": 1256,
       "deltaMmr": -21
     },
-    "vs1": {
-      "pos": 192,
-      "deltaPos": 0,
-      "mmr": 639,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 240,
+      "deltaPos": -8,
+      "mmr": 1279,
+      "deltaMmr": 12
     }
   },
   {
@@ -6728,22 +6728,22 @@
     "twitch": "sinistr",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 241,
       "deltaPos": 0,
-      "mmr": 1275,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 273,
       "deltaPos": 0,
       "mmr": 1063,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 241,
       "deltaPos": 0,
-      "mmr": 0,
+      "mmr": 1275,
       "deltaMmr": 0
     }
   },
@@ -6756,23 +6756,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 242,
-      "deltaPos": 2,
-      "mmr": 1274,
-      "deltaMmr": -3
+    "v1": {
+      "pos": 189,
+      "deltaPos": 0,
+      "mmr": 652,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 270,
       "deltaPos": 0,
       "mmr": 1094,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 189,
-      "deltaPos": 0,
-      "mmr": 652,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 242,
+      "deltaPos": 2,
+      "mmr": 1274,
+      "deltaMmr": -3
     }
   },
   {
@@ -6784,22 +6784,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 243,
-      "deltaPos": -1,
-      "mmr": 1273,
+    "v1": {
+      "pos": 124,
+      "deltaPos": 0,
+      "mmr": 1033,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 185,
       "deltaPos": 1,
       "mmr": 1403,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 124,
-      "deltaPos": 0,
-      "mmr": 1033,
+    "v3": {
+      "pos": 243,
+      "deltaPos": -1,
+      "mmr": 1273,
       "deltaMmr": 0
     }
   },
@@ -6812,22 +6812,22 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 244,
-      "deltaPos": 2,
-      "mmr": 1273,
+    "v1": {
+      "pos": 242,
+      "deltaPos": -3,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 169,
       "deltaPos": 0,
       "mmr": 1428,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 242,
-      "deltaPos": -3,
-      "mmr": 0,
+    "v3": {
+      "pos": 244,
+      "deltaPos": 2,
+      "mmr": 1273,
       "deltaMmr": 0
     }
   },
@@ -6840,22 +6840,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 245,
-      "deltaPos": 2,
-      "mmr": 1273,
+    "v1": {
+      "pos": 141,
+      "deltaPos": 1,
+      "mmr": 974,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 175,
       "deltaPos": 1,
       "mmr": 1424,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 141,
-      "deltaPos": 1,
-      "mmr": 974,
+    "v3": {
+      "pos": 245,
+      "deltaPos": 2,
+      "mmr": 1273,
       "deltaMmr": 0
     }
   },
@@ -6868,23 +6868,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 246,
-      "deltaPos": 7,
-      "mmr": 1271,
-      "deltaMmr": -10
+    "v1": {
+      "pos": 133,
+      "deltaPos": -11,
+      "mmr": 998,
+      "deltaMmr": 34
     },
-    "vs2": {
+    "v2": {
       "pos": 191,
       "deltaPos": -10,
       "mmr": 1399,
       "deltaMmr": 20
     },
-    "vs1": {
-      "pos": 133,
-      "deltaPos": -11,
-      "mmr": 998,
-      "deltaMmr": 34
+    "v3": {
+      "pos": 246,
+      "deltaPos": 7,
+      "mmr": 1271,
+      "deltaMmr": -10
     }
   },
   {
@@ -6896,22 +6896,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 247,
-      "deltaPos": 2,
-      "mmr": 1270,
+    "v1": {
+      "pos": 167,
+      "deltaPos": 0,
+      "mmr": 892,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 245,
       "deltaPos": -2,
       "mmr": 1248,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 167,
-      "deltaPos": 0,
-      "mmr": 892,
+    "v3": {
+      "pos": 247,
+      "deltaPos": 2,
+      "mmr": 1270,
       "deltaMmr": 0
     }
   },
@@ -6924,22 +6924,22 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 248,
-      "deltaPos": 2,
-      "mmr": 1268,
+    "v1": {
+      "pos": 160,
+      "deltaPos": 0,
+      "mmr": 911,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 214,
       "deltaPos": 0,
       "mmr": 1342,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 160,
-      "deltaPos": 0,
-      "mmr": 911,
+    "v3": {
+      "pos": 248,
+      "deltaPos": 2,
+      "mmr": 1268,
       "deltaMmr": 0
     }
   },
@@ -6952,23 +6952,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 249,
-      "deltaPos": -5,
-      "mmr": 1267,
-      "deltaMmr": 20
+    "v1": {
+      "pos": 81,
+      "deltaPos": 0,
+      "mmr": 1113,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 231,
       "deltaPos": 4,
       "mmr": 1299,
       "deltaMmr": -8
     },
-    "vs1": {
-      "pos": 81,
-      "deltaPos": 0,
-      "mmr": 1113,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 249,
+      "deltaPos": -5,
+      "mmr": 1267,
+      "deltaMmr": 20
     }
   },
   {
@@ -6980,22 +6980,22 @@
     "twitch": "La_Baticao",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 250,
-      "deltaPos": 1,
-      "mmr": 1266,
+    "v1": {
+      "pos": 165,
+      "deltaPos": 0,
+      "mmr": 896,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 260,
       "deltaPos": 0,
       "mmr": 1184,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 165,
-      "deltaPos": 0,
-      "mmr": 896,
+    "v3": {
+      "pos": 250,
+      "deltaPos": 1,
+      "mmr": 1266,
       "deltaMmr": 0
     }
   },
@@ -7008,22 +7008,22 @@
     "twitch": "Harlemshakerl",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 251,
-      "deltaPos": 1,
-      "mmr": 1264,
+    "v1": {
+      "pos": 172,
+      "deltaPos": 0,
+      "mmr": 878,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 238,
       "deltaPos": 0,
       "mmr": 1277,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 172,
-      "deltaPos": 0,
-      "mmr": 878,
+    "v3": {
+      "pos": 251,
+      "deltaPos": 1,
+      "mmr": 1264,
       "deltaMmr": 0
     }
   },
@@ -7036,23 +7036,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 252,
-      "deltaPos": 1,
-      "mmr": 1264,
-      "deltaMmr": 4
+    "v1": {
+      "pos": 148,
+      "deltaPos": 0,
+      "mmr": 952,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 240,
       "deltaPos": 4,
       "mmr": 1263,
       "deltaMmr": -16
     },
-    "vs1": {
-      "pos": 148,
-      "deltaPos": 0,
-      "mmr": 952,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 252,
+      "deltaPos": 1,
+      "mmr": 1264,
+      "deltaMmr": 4
     }
   },
   {
@@ -7064,23 +7064,23 @@
     "twitch": "baena0a_95",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 253,
-      "deltaPos": -10,
-      "mmr": 1261,
-      "deltaMmr": 40
+    "v1": {
+      "pos": 190,
+      "deltaPos": 0,
+      "mmr": 647,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 263,
       "deltaPos": 1,
       "mmr": 1154,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 190,
-      "deltaPos": 0,
-      "mmr": 647,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 253,
+      "deltaPos": -10,
+      "mmr": 1261,
+      "deltaMmr": 40
     }
   },
   {
@@ -7092,22 +7092,22 @@
     "twitch": "geribt",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 254,
-      "deltaPos": 1,
-      "mmr": 1253,
+    "v1": {
+      "pos": 253,
+      "deltaPos": 2,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 278,
       "deltaPos": 0,
       "mmr": 970,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 253,
-      "deltaPos": 2,
-      "mmr": 0,
+    "v3": {
+      "pos": 254,
+      "deltaPos": 1,
+      "mmr": 1253,
       "deltaMmr": 0
     }
   },
@@ -7120,22 +7120,22 @@
     "twitch": "koalisgaming",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 255,
-      "deltaPos": 0,
-      "mmr": 1243,
+      "deltaPos": 2,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 237,
       "deltaPos": -2,
       "mmr": 1277,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 255,
-      "deltaPos": 2,
-      "mmr": 0,
+      "deltaPos": 0,
+      "mmr": 1243,
       "deltaMmr": 0
     }
   },
@@ -7148,23 +7148,23 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 256,
+    "v1": {
+      "pos": 175,
       "deltaPos": 0,
-      "mmr": 1240,
-      "deltaMmr": 0
+      "mmr": 845,
+      "deltaMmr": 1
     },
-    "vs2": {
+    "v2": {
       "pos": 194,
       "deltaPos": 1,
       "mmr": 1396,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 175,
+    "v3": {
+      "pos": 256,
       "deltaPos": 0,
-      "mmr": 845,
-      "deltaMmr": 1
+      "mmr": 1240,
+      "deltaMmr": 0
     }
   },
   {
@@ -7176,23 +7176,23 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 257,
-      "deltaPos": -9,
-      "mmr": 1238,
-      "deltaMmr": 32
+    "v1": {
+      "pos": 182,
+      "deltaPos": -1,
+      "mmr": 767,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 269,
       "deltaPos": -2,
       "mmr": 1096,
       "deltaMmr": 9
     },
-    "vs1": {
-      "pos": 182,
-      "deltaPos": -1,
-      "mmr": 767,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 257,
+      "deltaPos": -9,
+      "mmr": 1238,
+      "deltaMmr": 32
     }
   },
   {
@@ -7204,22 +7204,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 258,
-      "deltaPos": 0,
-      "mmr": 1238,
+      "deltaPos": 2,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 264,
       "deltaPos": 1,
       "mmr": 1151,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 258,
-      "deltaPos": 2,
-      "mmr": 0,
+      "deltaPos": 0,
+      "mmr": 1238,
       "deltaMmr": 0
     }
   },
@@ -7232,22 +7232,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 259,
-      "deltaPos": 0,
-      "mmr": 1228,
+    "v1": {
+      "pos": 197,
+      "deltaPos": -1,
+      "mmr": 559,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 280,
       "deltaPos": 0,
       "mmr": 885,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 197,
-      "deltaPos": -1,
-      "mmr": 559,
+    "v3": {
+      "pos": 259,
+      "deltaPos": 0,
+      "mmr": 1228,
       "deltaMmr": 0
     }
   },
@@ -7260,22 +7260,22 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 260,
-      "deltaPos": 0,
-      "mmr": 1228,
+    "v1": {
+      "pos": 142,
+      "deltaPos": 1,
+      "mmr": 970,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 217,
       "deltaPos": 1,
       "mmr": 1339,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 142,
-      "deltaPos": 1,
-      "mmr": 970,
+    "v3": {
+      "pos": 260,
+      "deltaPos": 0,
+      "mmr": 1228,
       "deltaMmr": 0
     }
   },
@@ -7288,22 +7288,22 @@
     "twitch": "",
     "name": "Pablo Sabín",
     "platform": "steam",
-    "vs3": {
-      "pos": 261,
+    "v1": {
+      "pos": 178,
       "deltaPos": 0,
-      "mmr": 1228,
+      "mmr": 834,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 258,
       "deltaPos": 1,
       "mmr": 1195,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 178,
+    "v3": {
+      "pos": 261,
       "deltaPos": 0,
-      "mmr": 834,
+      "mmr": 1228,
       "deltaMmr": 0
     }
   },
@@ -7316,23 +7316,23 @@
     "twitch": "chicoandroid_yt",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 262,
-      "deltaPos": 5,
-      "mmr": 1221,
-      "deltaMmr": -17
+    "v1": {
+      "pos": 257,
+      "deltaPos": -9,
+      "mmr": 0,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 267,
       "deltaPos": 1,
       "mmr": 1139,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 257,
-      "deltaPos": -9,
-      "mmr": 0,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 262,
+      "deltaPos": 5,
+      "mmr": 1221,
+      "deltaMmr": -17
     }
   },
   {
@@ -7344,23 +7344,23 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 263,
-      "deltaPos": 11,
-      "mmr": 1219,
-      "deltaMmr": -40
+    "v1": {
+      "pos": 183,
+      "deltaPos": 1,
+      "mmr": 767,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 230,
       "deltaPos": 2,
       "mmr": 1300,
       "deltaMmr": -3
     },
-    "vs1": {
-      "pos": 183,
-      "deltaPos": 1,
-      "mmr": 767,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 263,
+      "deltaPos": 11,
+      "mmr": 1219,
+      "deltaMmr": -40
     }
   },
   {
@@ -7372,22 +7372,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 264,
-      "deltaPos": 0,
-      "mmr": 1208,
+      "deltaPos": 1,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 235,
       "deltaPos": 1,
       "mmr": 1289,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 264,
-      "deltaPos": 1,
-      "mmr": 0,
+      "deltaPos": 0,
+      "mmr": 1208,
       "deltaMmr": 0
     }
   },
@@ -7400,22 +7400,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 265,
+    "v1": {
+      "pos": 199,
       "deltaPos": 0,
-      "mmr": 1206,
+      "mmr": 517,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 259,
       "deltaPos": 1,
       "mmr": 1190,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 199,
+    "v3": {
+      "pos": 265,
       "deltaPos": 0,
-      "mmr": 517,
+      "mmr": 1206,
       "deltaMmr": 0
     }
   },
@@ -7428,22 +7428,22 @@
     "twitch": "TellMeSac",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 266,
-      "deltaPos": -1,
-      "mmr": 1204,
+    "v1": {
+      "pos": 267,
+      "deltaPos": 2,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 262,
       "deltaPos": 6,
       "mmr": 1157,
       "deltaMmr": -38
     },
-    "vs1": {
-      "pos": 267,
-      "deltaPos": 2,
-      "mmr": 0,
+    "v3": {
+      "pos": 266,
+      "deltaPos": -1,
+      "mmr": 1204,
       "deltaMmr": 0
     }
   },
@@ -7456,23 +7456,23 @@
     "twitch": "strixZombis",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 267,
-      "deltaPos": 5,
-      "mmr": 1202,
-      "deltaMmr": -21
+    "v1": {
+      "pos": 188,
+      "deltaPos": 0,
+      "mmr": 694,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 261,
       "deltaPos": -6,
       "mmr": 1171,
       "deltaMmr": 41
     },
-    "vs1": {
-      "pos": 188,
-      "deltaPos": 0,
-      "mmr": 694,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 267,
+      "deltaPos": 5,
+      "mmr": 1202,
+      "deltaMmr": -21
     }
   },
   {
@@ -7484,22 +7484,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 268,
+    "v1": {
+      "pos": 166,
       "deltaPos": 0,
-      "mmr": 1193,
+      "mmr": 893,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 219,
       "deltaPos": 0,
       "mmr": 1337,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 166,
+    "v3": {
+      "pos": 268,
       "deltaPos": 0,
-      "mmr": 893,
+      "mmr": 1193,
       "deltaMmr": 0
     }
   },
@@ -7512,22 +7512,22 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 269,
+    "v1": {
+      "pos": 169,
       "deltaPos": 0,
-      "mmr": 1181,
+      "mmr": 888,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 257,
       "deltaPos": -4,
       "mmr": 1197,
       "deltaMmr": 42
     },
-    "vs1": {
-      "pos": 169,
+    "v3": {
+      "pos": 269,
       "deltaPos": 0,
-      "mmr": 888,
+      "mmr": 1181,
       "deltaMmr": 0
     }
   },
@@ -7540,22 +7540,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 270,
       "deltaPos": 0,
-      "mmr": 1178,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 281,
       "deltaPos": 0,
       "mmr": 870,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 270,
       "deltaPos": 0,
-      "mmr": 0,
+      "mmr": 1178,
       "deltaMmr": 0
     }
   },
@@ -7568,22 +7568,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 271,
+    "v1": {
+      "pos": 176,
       "deltaPos": 0,
-      "mmr": 1172,
+      "mmr": 841,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 252,
       "deltaPos": 0,
       "mmr": 1223,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 176,
+    "v3": {
+      "pos": 271,
       "deltaPos": 0,
-      "mmr": 841,
+      "mmr": 1172,
       "deltaMmr": 0
     }
   },
@@ -7596,22 +7596,22 @@
     "twitch": "LeoSMC",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 272,
+    "v1": {
+      "pos": 193,
       "deltaPos": -1,
-      "mmr": 1163,
+      "mmr": 621,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 279,
       "deltaPos": 0,
       "mmr": 956,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 193,
+    "v3": {
+      "pos": 272,
       "deltaPos": -1,
-      "mmr": 621,
+      "mmr": 1163,
       "deltaMmr": 0
     }
   },
@@ -7624,22 +7624,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 273,
-      "deltaPos": -1,
-      "mmr": 1161,
+    "v1": {
+      "pos": 274,
+      "deltaPos": 1,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 249,
       "deltaPos": -1,
       "mmr": 1231,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 274,
-      "deltaPos": 1,
-      "mmr": 0,
+    "v3": {
+      "pos": 273,
+      "deltaPos": -1,
+      "mmr": 1161,
       "deltaMmr": 0
     }
   },
@@ -7652,23 +7652,23 @@
     "twitch": "nocivoO",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 274,
-      "deltaPos": 2,
-      "mmr": 1155,
-      "deltaMmr": -15
+    "v1": {
+      "pos": 194,
+      "deltaPos": -1,
+      "mmr": 617,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 246,
       "deltaPos": -2,
       "mmr": 1245,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 194,
-      "deltaPos": -1,
-      "mmr": 617,
-      "deltaMmr": 0
+    "v3": {
+      "pos": 274,
+      "deltaPos": 2,
+      "mmr": 1155,
+      "deltaMmr": -15
     }
   },
   {
@@ -7680,22 +7680,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 275,
+    "v1": {
+      "pos": 187,
       "deltaPos": 0,
-      "mmr": 1151,
+      "mmr": 726,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 272,
       "deltaPos": 0,
       "mmr": 1078,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 187,
+    "v3": {
+      "pos": 275,
       "deltaPos": 0,
-      "mmr": 726,
+      "mmr": 1151,
       "deltaMmr": 0
     }
   },
@@ -7708,22 +7708,22 @@
     "twitch": "cogoRL",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 276,
-      "deltaPos": 0,
-      "mmr": 1128,
+      "deltaPos": 1,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 266,
       "deltaPos": 1,
       "mmr": 1140,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 276,
-      "deltaPos": 1,
-      "mmr": 0,
+      "deltaPos": 0,
+      "mmr": 1128,
       "deltaMmr": 0
     }
   },
@@ -7736,23 +7736,23 @@
     "twitch": "xxnarutoxx15",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 277,
+    "v1": {
+      "pos": 186,
       "deltaPos": 0,
-      "mmr": 1123,
-      "deltaMmr": -1
+      "mmr": 727,
+      "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 271,
       "deltaPos": 2,
       "mmr": 1094,
       "deltaMmr": -27
     },
-    "vs1": {
-      "pos": 186,
+    "v3": {
+      "pos": 277,
       "deltaPos": 0,
-      "mmr": 727,
-      "deltaMmr": 0
+      "mmr": 1123,
+      "deltaMmr": -1
     }
   },
   {
@@ -7764,22 +7764,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 278,
-      "deltaPos": 0,
-      "mmr": 1111,
+      "deltaPos": 1,
+      "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 277,
       "deltaPos": 0,
       "mmr": 1040,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 278,
-      "deltaPos": 1,
-      "mmr": 0,
+      "deltaPos": 0,
+      "mmr": 1111,
       "deltaMmr": 0
     }
   },
@@ -7792,22 +7792,22 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
-      "pos": 279,
-      "deltaPos": 0,
-      "mmr": 1084,
+    "v1": {
+      "pos": 196,
+      "deltaPos": -1,
+      "mmr": 598,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 276,
       "deltaPos": 0,
       "mmr": 1043,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 196,
-      "deltaPos": -1,
-      "mmr": 598,
+    "v3": {
+      "pos": 279,
+      "deltaPos": 0,
+      "mmr": 1084,
       "deltaMmr": 0
     }
   },
@@ -7820,22 +7820,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 280,
-      "deltaPos": 0,
-      "mmr": 1061,
+    "v1": {
+      "pos": 195,
+      "deltaPos": -1,
+      "mmr": 601,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 268,
       "deltaPos": 0,
       "mmr": 1129,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 195,
-      "deltaPos": -1,
-      "mmr": 601,
+    "v3": {
+      "pos": 280,
+      "deltaPos": 0,
+      "mmr": 1061,
       "deltaMmr": 0
     }
   },
@@ -7848,19 +7848,19 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 281,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 290,
       "deltaPos": 2,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 281,
       "deltaPos": 0,
       "mmr": 0,
@@ -7876,19 +7876,19 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 282,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 282,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 282,
       "deltaPos": 0,
       "mmr": 0,
@@ -7904,19 +7904,19 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 283,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 283,
       "deltaPos": -10,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 283,
       "deltaPos": 0,
       "mmr": 0,
@@ -7932,19 +7932,19 @@
     "twitch": "",
     "name": "",
     "platform": "ps",
-    "vs3": {
+    "v1": {
       "pos": 284,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 176,
       "deltaPos": 1,
       "mmr": 1422,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 284,
       "deltaPos": 0,
       "mmr": 0,
@@ -7960,21 +7960,21 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 285,
-      "deltaPos": 0,
+      "deltaPos": -8,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 293,
       "deltaPos": 9,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 285,
-      "deltaPos": -8,
+      "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -7988,21 +7988,21 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 286,
-      "deltaPos": -7,
+    "v1": {
+      "pos": 293,
+      "deltaPos": 8,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 226,
       "deltaPos": 1,
       "mmr": 1310,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 293,
-      "deltaPos": 8,
+    "v3": {
+      "pos": 286,
+      "deltaPos": -7,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -8016,21 +8016,21 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 287,
-      "deltaPos": 0,
+      "deltaPos": 7,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 71,
       "deltaPos": -28,
       "mmr": 1588,
       "deltaMmr": 48
     },
-    "vs1": {
+    "v3": {
       "pos": 287,
-      "deltaPos": 7,
+      "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     }
@@ -8044,19 +8044,19 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 288,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 234,
       "deltaPos": 1,
       "mmr": 1290,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 288,
       "deltaPos": 0,
       "mmr": 0,
@@ -8072,19 +8072,19 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 289,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 289,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 289,
       "deltaPos": 0,
       "mmr": 0,
@@ -8100,19 +8100,19 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 290,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 209,
       "deltaPos": -1,
       "mmr": 1360,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 290,
       "deltaPos": 0,
       "mmr": 0,
@@ -8128,19 +8128,19 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
       "pos": 291,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 291,
       "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     },
-    "vs1": {
+    "v3": {
       "pos": 291,
       "deltaPos": 0,
       "mmr": 0,
@@ -8156,22 +8156,22 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
-      "pos": 292,
-      "deltaPos": 0,
-      "mmr": 0,
+    "v1": {
+      "pos": 50,
+      "deltaPos": 2,
+      "mmr": 1154,
       "deltaMmr": 0
     },
-    "vs2": {
+    "v2": {
       "pos": 137,
       "deltaPos": -3,
       "mmr": 1484,
       "deltaMmr": 0
     },
-    "vs1": {
-      "pos": 50,
-      "deltaPos": 2,
-      "mmr": 1154,
+    "v3": {
+      "pos": 292,
+      "deltaPos": 0,
+      "mmr": 0,
       "deltaMmr": 0
     }
   },
@@ -8184,21 +8184,21 @@
     "twitch": "",
     "name": "",
     "platform": "steam",
-    "vs3": {
+    "v1": {
+      "pos": 286,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "v2": {
+      "pos": 286,
+      "deltaPos": 0,
+      "mmr": 0,
+      "deltaMmr": 0
+    },
+    "v3": {
       "pos": 293,
       "deltaPos": 7,
-      "mmr": 0,
-      "deltaMmr": 0
-    },
-    "vs2": {
-      "pos": 286,
-      "deltaPos": 0,
-      "mmr": 0,
-      "deltaMmr": 0
-    },
-    "vs1": {
-      "pos": 286,
-      "deltaPos": 0,
       "mmr": 0,
       "deltaMmr": 0
     }

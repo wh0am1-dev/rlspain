@@ -9,41 +9,14 @@ db = JSON.parse(db)
 // |  mapping  |
 // =============
 
-db = db.sort((a, b) => a.mmr < b.mmr ? 1 : (a.mmr > b.mmr ? -1 : 0))
-let yesterday = db.slice().sort((a, b) => a._mmr < b._mmr ? 1 : (a._mmr > b._mmr ? -1 : 0))
-
 db = db.map((p, i) => {
-  // change ps to platform
-  p.platform = p.ps ? 'ps' : 'steam'
-  delete p.ps
+  p.v1 = p.vs1
+  p.v2 = p.vs2
+  p.v3 = p.vs3
 
-  // add 3v3
-  p.vs3 = {
-    pos: i + 1,
-    deltaPos: i - yesterday.findIndex(y => y.id === p.id),
-    mmr: p.mmr,
-    deltaMmr: p.mmr - p._mmr
-  }
-
-  delete p.mmr
-  delete p._mmr
-
-  p.vs2 = {
-    pos: 0,
-    deltaPos: 0,
-    mmr: 0,
-    deltaMmr: 0
-  }
-
-  p.vs1 = {
-    pos: 0,
-    deltaPos: 0,
-    mmr: 0,
-    deltaMmr: 0
-  }
-
-  delete p.province
-  delete p.region
+  delete p.vs1
+  delete p.vs2
+  delete p.vs3
 
   return p
 })
