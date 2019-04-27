@@ -22,10 +22,11 @@ module.exports = (state, emit) => {
     let rel = external ? 'noopener noreferrer' : ''
     let inactive = 'yellow hover-near-black hover-bg-yellow'
     let active = 'near-black bg-yellow'
+    let isActive = state.href.slice(1) === href.slice(1)
 
     return html`
       <a href=${href} target=${target} rel=${rel} onclick=${blur}
-        class="link bg-animate pa1 br2 dib ${state.href === href ? active : inactive} ${classes}">
+        class="link bg-animate pa1 br2 dib ${isActive ? active : inactive} ${classes}">
         ${text}
       </a>
     `
