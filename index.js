@@ -35,11 +35,11 @@ const notFound = require('./views/404')
 
 // ==== routes ====
 app.route('/', home)
-app.route('/rank/:category', rank)
-app.route('/player/:id', player)
-app.route('/faq', faq)
-app.route('/404', notFound)
-app.route('/*', notFound)
+app.route('#rank/:category', rank)
+app.route('#player/:id', player)
+app.route('#faq', faq)
+app.route('#404', notFound)
+app.route('#*', notFound)
 
 // ==== app ====
 module.exports = app.mount('body')

@@ -1,6 +1,6 @@
 {
   "name": "rlscrapper",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "rocket league spanish database pwa",
   "main": "index.js",
   "private": true,
@@ -39,7 +39,7 @@
     "gen": "choo g",
     "clean": "rm -r dist/",
     "build": "bankai build index.js",
-    "deploy": "gh-pages -d dist -s \"**/*+(CNAME|.html|.js|.css|.json|.png|.svg)\"",
+    "deploy": "gh-pages -d dist",
     "lint": "standard --verbose | snazzy",
     "deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons",
     "test": "npm run lint && npm run deps",
