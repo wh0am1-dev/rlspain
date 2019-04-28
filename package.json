@@ -15,25 +15,32 @@
     "salve"
   ],
   "maintenance": false,
-  "faq": [{
-    "q": "Soy español y no estoy en la lista, ¿cómo puedo acceder?",
-    "a": "Haz click en el botón \"Peticiones\" y rellena el formulario."
-  }, {
-    "q": "¿Cuáles son los requisitos para poder entrar en la lista?",
-    "a": "Residir en España, tener más de 600 (1v1) o 1000 (2v2 y 3v3) de rating o ser una personalidad de la comunidad"
-  }, {
-    "q": "¿Cada cuánto se actualiza la lista?",
-    "a": "La lista se actualiza diaria y automáticamente a las 00:00"
-  }, {
-    "q": "Hay información asociada a mí que es errónea",
-    "a": "Haz click en el botón \"Peticiones\" y rellena el formulario"
-  }, {
-    "q": "¿Qué son los números en verde o rojo debajo del rating?",
-    "a": "Es la diferencia de puntos entre el día anterior y el actual"
-  }, {
-    "q": "He rellenado el formulario pero no aparezco en la lista",
-    "a": "Revisa tu correo, puede que te hayamos escrito. A veces, los cambios en la página pueden tardar más de lo previsto"
-  }],
+  "faq": [
+    {
+      "q": "Soy español y no estoy en la lista, ¿cómo puedo acceder?",
+      "a": "Haz click en el botón \"Peticiones\" y rellena el formulario."
+    },
+    {
+      "q": "¿Cuáles son los requisitos para poder entrar en la lista?",
+      "a": "Residir en España, tener más de 600 (1v1) o 1000 (2v2 y 3v3) de rating o ser una personalidad de la comunidad"
+    },
+    {
+      "q": "¿Cada cuánto se actualiza la lista?",
+      "a": "La lista se actualiza diaria y automáticamente a las 00:00"
+    },
+    {
+      "q": "Hay información asociada a mí que es errónea",
+      "a": "Haz click en el botón \"Peticiones\" y rellena el formulario"
+    },
+    {
+      "q": "¿Qué son los números en verde o rojo debajo del rating?",
+      "a": "Es la diferencia de puntos entre el día anterior y el actual"
+    },
+    {
+      "q": "He rellenado el formulario pero no aparezco en la lista",
+      "a": "Revisa tu correo, puede que te hayamos escrito. A veces, los cambios en la página pueden tardar más de lo previsto"
+    }
+  ],
   "scripts": {
     "start": "bankai start index.js",
     "gen": "choo g",
