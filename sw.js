@@ -2,11 +2,15 @@
 
 var VERSION = require('./package.json').version
 
-var URLS = process.env.STYLE_LIST
-URLS.push(...process.env.SCRIPT_LIST)
-URLS.push(...process.env.MANIFEST_LIST)
-URLS.push('index.html', './404/index.html')
-URLS.push('./assets/img/rlscrapper.png', './assets/img/rlscrapper.svg')
+var URLS = [
+  '/',
+  ...process.env.DOCUMENT_LIST,
+  ...process.env.STYLE_LIST,
+  ...process.env.SCRIPT_LIST,
+  ...process.env.MANIFEST_LIST,
+  '/assets/img/rlscrapper.png',
+  '/assets/img/rlscrapper.svg'
+]
 
 // Respond with cached resources
 self.addEventListener('fetch', function (e) {
