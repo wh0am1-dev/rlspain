@@ -8,10 +8,10 @@ module.exports = (state, emit) => {
       <img src="/assets/img/rlscrapper.svg" onclick=${home}
         class="h2 mr4 shadow-5 br-pill bl bt b--yellow pointer">
       <nav class="f6 fw6 tracked ttu tc">
-        ${link('#1v1', '#rank/1v1', false, 'mr3')}
-        ${link('#2v2', '#rank/2v2', false, 'mr3')}
-        ${link('#3v3', '#rank/3v3', false, 'mr3')}
-        ${link('#FAQ', '#faq', false, 'mr3')}
+        ${link('#1v1', '/#rank/1v1', false, 'mr3')}
+        ${link('#2v2', '/#rank/2v2', false, 'mr3')}
+        ${link('#3v3', '/#rank/3v3', false, 'mr3')}
+        ${link('#FAQ', '/#faq', false, 'mr3')}
         ${link('#Peticiones', 'https://goo.gl/forms/ue1I68eSmeDDpTvj2', true)}
       </nav>
     </header>
