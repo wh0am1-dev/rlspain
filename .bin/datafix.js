@@ -1,4 +1,5 @@
 const fs = require('fs')
+const stringify = require('json-stable-stringify')
 const path = 'assets/data/db.json'
 
 let db = fs.readFileSync(path, 'utf8')
@@ -25,5 +26,5 @@ db = db.map((p, i) => {
 // |  end mapping  |
 // =================
 
-db = JSON.stringify(db, null, 2)
+db = stringify(db, { space: 2 })
 fs.writeFileSync(path, db)

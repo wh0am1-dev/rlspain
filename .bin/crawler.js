@@ -1,5 +1,6 @@
 const fs = require('fs')
 const Crawler = require('crawler')
+const stringify = require('json-stable-stringify')
 
 const URL = 'https://rocketleague.tracker.network/profile'
 let db = JSON.parse(fs.readFileSync('assets/data/db.json', 'utf8'))
@@ -66,7 +67,7 @@ c.on('drain', () => {
     return p
   })
 
-  fs.writeFileSync('assets/data/db.json', JSON.stringify(db, null, 2))
+  fs.writeFileSync('assets/data/db.json', stringify(db, { space: 2 }))
   process.exit()
 })
 
