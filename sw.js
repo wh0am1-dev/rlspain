@@ -4,7 +4,6 @@ var VERSION = require('./package.json').version
 
 var URLS = [
   '/',
-  ...process.env.DOCUMENT_LIST,
   ...process.env.STYLE_LIST,
   ...process.env.SCRIPT_LIST,
   ...process.env.MANIFEST_LIST,
