@@ -1,5 +1,61 @@
 [
   {
+    "id": "ZACMINEITOR",
+    "name": "",
+    "nick": "ZACMINEITOR",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "ZACARIAS17",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 510,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1068,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 834,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Ratolin86",
+    "name": "",
+    "nick": "Ratolin86",
+    "platform": "ps",
+    "role": "",
+    "team": "Eagle Legends",
+    "twitch": "Checulon",
+    "twitter": "bullon_lopez",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 956,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1409,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1390,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -4144,10 +4200,10 @@
     }
   },
   {
-    "id": "Jocelyte",
+    "id": "76561198885378666",
     "name": "",
-    "nick": "Jocelyte",
-    "platform": "ps",
+    "nick": "Ich bin Joce",
+    "platform": "steam",
     "role": "",
     "team": "Hawks Gaming",
     "twitch": "",
@@ -5409,9 +5465,9 @@
     "nick": "Migol",
     "platform": "steam",
     "role": "",
-    "team": "",
-    "twitch": "",
-    "twitter": "",
+    "team": "Vandaval",
+    "twitch": "MigolRL",
+    "twitter": "MigolRL",
     "v1": {
       "deltaMmr": 0,
       "deltaPos": 12,
