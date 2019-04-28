@@ -14,7 +14,7 @@ module.exports = (state, emit) => {
     return
   }
 
-  let _title = title + player.nickname
+  let _title = title + player.nick
   if (state.title !== _title) {
     emit(state.events.DOMTITLECHANGE, _title)
   }
@@ -27,7 +27,7 @@ module.exports = (state, emit) => {
     <body class="code lh-copy bg-near-black near-white" style="cursor: default; user-select: none; scroll-behavior: smooth;">
       <header class="tc w-100 dt">
         <section class="dtc v-mid">
-          <h2 class="f3 f1-ns mt5"><span class="bg-yellow near-black ph3 pv2 shadow-5 br2">${player.nickname}</span></h2>
+          <h2 class="f3 f1-ns mt5"><span class="bg-yellow near-black ph3 pv2 shadow-5 br2">${player.nick}</span></h2>
         </section>
       </header>
 

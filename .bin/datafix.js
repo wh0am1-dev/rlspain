@@ -11,14 +11,8 @@ db = JSON.parse(db)
 // =============
 
 db = db.map((p, i) => {
-  p.v1 = p.vs1
-  p.v2 = p.vs2
-  p.v3 = p.vs3
-
-  delete p.vs1
-  delete p.vs2
-  delete p.vs3
-
+  p.nick = p.nickname
+  delete p.nickname
   return p
 })
 

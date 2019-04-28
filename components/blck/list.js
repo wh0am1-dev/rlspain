@@ -57,7 +57,7 @@ module.exports = (state, emit) => {
 
         <div class="pl3 flex-auto">
           <span class="f5 f4-m f3-l">
-            ${player.nickname}
+            ${player.nick}
             ${role}
           </span>
           ${team}

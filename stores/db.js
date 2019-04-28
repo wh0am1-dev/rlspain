@@ -59,7 +59,7 @@ module.exports = (state, emitter) => {
         let ans = false
 
         state.db.filter.trim().toLowerCase().split(/(?:,| )+/).forEach(keyword => {
-          ans = ans || player.nickname.toLowerCase().indexOf(keyword) > -1
+          ans = ans || player.nick.toLowerCase().indexOf(keyword) > -1
         })
 
         return ans
