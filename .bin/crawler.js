@@ -60,7 +60,7 @@ c.on('drain', () => {
     p.v2.deltaPos = pos - p.v2.pos
     p.v2.pos = pos
 
-    pos = i + 1
+    pos = db3.findIndex(_p => _p.id === p.id) + 1
     p.v3.deltaPos = pos - p.v3.pos
     p.v3.pos = pos
 
