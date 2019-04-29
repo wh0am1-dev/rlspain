@@ -1,6 +1,8 @@
 <div align="center">
 
 # :soccer: rlscrapper :car:
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeko250%2Frlscrapper.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeko250%2Frlscrapper?ref=badge_shield)
+
 
 [website @ rlspain.cf](https://rlspain.cf)
 
@@ -35,3 +37,7 @@ visualise the app structure
 ![](https://img.shields.io/badge/neko250-333333.svg?style=for-the-badge) [![](https://img.shields.io/badge/based_on-choof-333333.svg?style=for-the-badge)](https://github.com/neko250/choof)
 
 </div>
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FNeko250%2Frlscrapper.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FNeko250%2Frlscrapper?ref=badge_large)
