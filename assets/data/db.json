@@ -1,5 +1,172 @@
 [
   {
+    "id": "cidmar01",
+    "name": "",
+    "nick": "cidmar01",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "cidmar01",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1157,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1637,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1632,
+      "pos": 0
+    }
+  },
+  {
+    "id": "DaniZamax",
+    "name": "",
+    "nick": "DaniZamax",
+    "platform": "ps",
+    "role": "",
+    "team": "eGrillos",
+    "twitch": "DaniZamax",
+    "twitter": "DaniZamax",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 485,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 629,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1042,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198386499522",
+    "name": "",
+    "nick": "ReDgAr5",
+    "platform": "steam",
+    "role": "",
+    "team": "eGrillos",
+    "twitch": "",
+    "twitter": "ReDgAr5",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 188,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 389,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 381,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198285913867",
+    "name": "",
+    "nick": "RaSi~4",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 898,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1039,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198062337657",
+    "name": "",
+    "nick": "KeNNNNN1",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "kennnnn1",
+    "twitter": "KeNNNNN1Twitch",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 818,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1322,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1374,
+      "pos": 0
+    }
+  },{
+    "id": "76561198875284083",
+    "name": "",
+    "nick": "Darkydooda",
+    "platform": "steam",
+    "role": "",
+    "team": "Daraya e-Sports",
+    "twitch": "Darkydooda",
+    "twitter": "Darkydooda",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 968,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1577,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1454,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -140,14 +307,14 @@
     }
   },
   {
-    "id": "76561198258212817",
+    "id": "76561198370443347",
     "name": "",
     "nick": "AdriKilka",
     "platform": "steam",
     "role": "",
-    "team": "Vanguard",
+    "team": "",
     "twitch": "",
-    "twitter": "AdriRK_",
+    "twitter": "AdriKilka",
     "v1": {
       "deltaMmr": 0,
       "deltaPos": -1,
