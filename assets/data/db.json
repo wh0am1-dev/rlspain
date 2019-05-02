@@ -1,5 +1,33 @@
 [
   {
+    "id": "76561197981783337",
+    "name": "",
+    "nick": "Langostinessi",
+    "platform": "steam",
+    "role": "",
+    "team": "LRC",
+    "twitch": "",
+    "twitter": "Meloncillo29",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 653,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1153,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1017,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -8239,7 +8267,7 @@
     "role": "",
     "team": "",
     "twitch": "",
-    "twitter": "ZACARIAS17",
+    "twitter": "zacarias17",
     "v1": {
       "deltaMmr": 0,
       "deltaPos": 4,
