@@ -1,5 +1,33 @@
 [
   {
+    "id": "76561198128827188",
+    "name": "",
+    "nick": "Okis.",
+    "platform": "steam",
+    "role": "",
+    "team": "Jugones Team",
+    "twitch": "Okiss",
+    "twitter": "OkisRL",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1098,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1506,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1581,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -6837,7 +6865,7 @@
     "nick": "Seru",
     "platform": "steam",
     "role": "",
-    "team": "Hunters Beta",
+    "team": "Bad Monkeys Academy",
     "twitch": "",
     "twitter": "XSergiGamerX",
     "v1": {
