@@ -1,5 +1,117 @@
 [
   {
+    "id": "76561198148248635",
+    "name": "",
+    "nick": "Nipo",
+    "platform": "steam",
+    "role": "Retirado",
+    "team": "",
+    "twitch": "NipoRL",
+    "twitter": "carloslag99",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 864,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1517,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1404,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198085458804",
+    "name": "",
+    "nick": "Tiink",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "t11nk",
+    "twitter": "TiinkkPaco",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 742,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1395,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1125,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198322000319",
+    "name": "",
+    "nick": "VitalSnow",
+    "platform": "steam",
+    "role": "",
+    "team": "Jugones Team",
+    "twitch": "vitalsnow313",
+    "twitter": "VitalSnowRL",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1121,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1498,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1457,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198415225807",
+    "name": "",
+    "nick": "KroNer60",
+    "platform": "steam",
+    "role": "Manager",
+    "team": "bLarsUnited",
+    "twitch": "gabriel_kroner60",
+    "twitter": "blars_kr0nEr60",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 767,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1349,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1200,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -8148,9 +8260,9 @@
     }
   },
   {
-    "id": "xX_amaadoor_Xx",
+    "id": "Jleoro-rl",
     "name": "",
-    "nick": "xX_amaadoor_Xx",
+    "nick": "Jleoro-rl",
     "platform": "ps",
     "role": "",
     "team": "bLarsUnited",
