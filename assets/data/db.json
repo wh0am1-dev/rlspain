@@ -1,5 +1,61 @@
 [
   {
+    "id": "76561198881272948",
+    "name": "",
+    "nick": "Pol",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "PolRL",
+    "twitter": "PolRL1",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1502,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198148474123",
+    "name": "",
+    "nick": "Jotacr",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "jcr26",
+    "twitter": "jeytwentysix",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1347,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -2637,7 +2693,7 @@
     "nick": "Espumita",
     "platform": "steam",
     "role": "",
-    "team": "Villarreal CF",
+    "team": "",
     "twitch": "",
     "twitter": "EspumitaRL",
     "v1": {
@@ -6053,7 +6109,7 @@
     "nick": "NekoMasterGaming",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "NightSkills Esports",
     "twitch": "",
     "twitter": "NekoMasterRL",
     "v1": {
@@ -7252,12 +7308,12 @@
     }
   },
   {
-    "id": "TheAnYeLo",
+    "id": "76561198348345558",
     "name": "",
     "nick": "Sphooky",
-    "platform": "ps",
+    "platform": "steam",
     "role": "",
-    "team": "Team SynTex",
+    "team": "SharKing's",
     "twitch": "",
     "twitter": "SphookyRL",
     "v1": {
