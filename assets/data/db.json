@@ -1,5 +1,61 @@
 [
   {
+    "id": "76561198142430233",
+    "name": "",
+    "nick": "Esca2202",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "EsCa2202",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1006,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1400,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1447,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198328031340",
+    "name": "",
+    "nick": "StarloMx",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "StarloM",
+    "twitter": "StarloMx",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1328,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -1484,9 +1540,9 @@
     }
   },
   {
-    "id": "cidmar01",
+    "id": "CID_RuBiiLaX",
     "name": "",
-    "nick": "cidmar01",
+    "nick": "CID_RuBiiLaX",
     "platform": "ps",
     "role": "",
     "team": "",
@@ -4734,7 +4790,7 @@
   {
     "id": "76561198339384251",
     "name": "",
-    "nick": "kiermonster",
+    "nick": "KierMonsteR",
     "platform": "steam",
     "role": "",
     "team": "Crazy Crew",
@@ -6697,7 +6753,7 @@
     "nick": "Reinox",
     "platform": "steam",
     "role": "",
-    "team": "Hawks Gaming",
+    "team": "",
     "twitch": "zReinox",
     "twitter": "xReinox",
     "v1": {
