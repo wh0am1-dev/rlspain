@@ -3024,10 +3024,10 @@
     }
   },
   {
-    "id": "freisa_",
+    "id": "76561198337938976",
     "name": "",
     "nick": "Freisa",
-    "platform": "ps",
+    "platform": "steam",
     "role": "",
     "team": "",
     "twitch": "",
@@ -3040,15 +3040,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 6,
-      "mmr": 0,
-      "pos": 266
+      "deltaPos": 0,
+      "mmr": 1418,
+      "pos": 0
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 11,
-      "mmr": 0,
-      "pos": 232
+      "deltaPos": 0,
+      "mmr": 1515,
+      "pos": 0
     }
   },
   {
