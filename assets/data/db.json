@@ -1,4 +1,32 @@
 [
+ {
+    "id": "ByMijo15",
+    "name": "",
+    "nick": "ByMijo15",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "ByMijo15",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1486,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1446,
+      "pos": 0
+    }
+  },
   {
     "id": "76561198249127056",
     "name": "",
@@ -33,7 +61,7 @@
     "nick": "AaronSenta",
     "platform": "steam",
     "role": "",
-    "team": "Baobab Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "AaronSenta",
     "v1": {
@@ -957,7 +985,7 @@
     "nick": "Binarydem0n",
     "platform": "steam",
     "role": "",
-    "team": "Baobab Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "B1naryDem0nRL",
     "v1": {
@@ -1069,7 +1097,7 @@
     "nick": "Borex",
     "platform": "steam",
     "role": "",
-    "team": "Baobab Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "BorexRL",
     "v1": {
