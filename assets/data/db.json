@@ -1,5 +1,61 @@
 [
   {
+    "id": "76561198355948997",
+    "name": "",
+    "nick": "JaTioX",
+    "platform": "steam",
+    "role": "",
+    "team": "Number 7",
+    "twitch": "jatiox",
+    "twitter": "joseemii27",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1205,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198082882133",
+    "name": "",
+    "nick": "iFrNx",
+    "platform": "steam",
+    "role": "",
+    "team": "Number 7",
+    "twitch": "zfrn",
+    "twitter": "fraaan_jimenezz",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1063,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
