@@ -10,21 +10,21 @@
     "twitter": "Zhanath_0",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -32,
+      "deltaPos": 156,
       "mmr": 0,
-      "pos": 126
+      "pos": 282
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 3,
       "mmr": 1484,
-      "pos": 69
+      "pos": 72
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 4,
       "mmr": 1374,
-      "pos": 177
+      "pos": 181
     }
   },
   {
@@ -38,21 +38,21 @@
     "twitter": "AaronceteSP",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -42,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 158
     },
     "v2": {
-      "deltaMmr": 8,
-      "deltaPos": -3,
+      "deltaMmr": 0,
+      "deltaPos": 5,
       "mmr": 1528,
-      "pos": 43
+      "pos": 48
     },
     "v3": {
-      "deltaMmr": 10,
-      "deltaPos": -2,
-      "mmr": 1396,
-      "pos": 162
+      "deltaMmr": 7,
+      "deltaPos": -8,
+      "mmr": 1403,
+      "pos": 154
     }
   },
   {
@@ -66,9 +66,9 @@
     "twitter": "acasa47",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -23,
+      "deltaPos": -11,
       "mmr": 0,
-      "pos": 186
+      "pos": 175
     },
     "v2": {
       "deltaMmr": 0,
@@ -94,19 +94,19 @@
     "twitter": "Adriandro_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -71,
+      "deltaPos": -7,
       "mmr": 0,
-      "pos": 200
+      "pos": 193
     },
     "v2": {
-      "deltaMmr": -18,
-      "deltaPos": 2,
-      "mmr": 1603,
-      "pos": 20
+      "deltaMmr": 14,
+      "deltaPos": -6,
+      "mmr": 1617,
+      "pos": 14
     },
     "v3": {
-      "deltaMmr": 12,
-      "deltaPos": 1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1752,
       "pos": 2
     }
@@ -122,9 +122,9 @@
     "twitter": "AdriantorsRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -26,
+      "deltaPos": -20,
       "mmr": 0,
-      "pos": 261
+      "pos": 241
     },
     "v2": {
       "deltaMmr": 0,
@@ -133,10 +133,10 @@
       "pos": 311
     },
     "v3": {
-      "deltaMmr": 9,
-      "deltaPos": -1,
-      "mmr": 1574,
-      "pos": 27
+      "deltaMmr": 23,
+      "deltaPos": -10,
+      "mmr": 1597,
+      "pos": 17
     }
   },
   {
@@ -150,9 +150,9 @@
     "twitter": "AdriKilka",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 128,
+      "deltaPos": -7,
       "mmr": 0,
-      "pos": 271
+      "pos": 264
     },
     "v2": {
       "deltaMmr": 0,
@@ -162,7 +162,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 311
     }
@@ -180,19 +180,19 @@
       "deltaMmr": 0,
       "deltaPos": 3,
       "mmr": 1013,
-      "pos": 85
+      "pos": 88
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 3,
-      "mmr": 1437,
-      "pos": 103
+      "deltaMmr": 7,
+      "deltaPos": 4,
+      "mmr": 1444,
+      "pos": 107
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1307,
-      "pos": 219
+      "deltaMmr": 52,
+      "deltaPos": -28,
+      "mmr": 1359,
+      "pos": 191
     }
   },
   {
@@ -206,21 +206,21 @@
     "twitter": "",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -31,
+      "deltaPos": 154,
       "mmr": 0,
-      "pos": 156
+      "pos": 310
     },
     "v2": {
-      "deltaMmr": 12,
-      "deltaPos": 1,
-      "mmr": 1312,
-      "pos": 210
+      "deltaMmr": -16,
+      "deltaPos": 5,
+      "mmr": 1296,
+      "pos": 215
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 1,
       "mmr": 1282,
-      "pos": 227
+      "pos": 228
     }
   },
   {
@@ -234,21 +234,21 @@
     "twitter": "AleformulaRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -10,
+      "deltaPos": -8,
       "mmr": 0,
-      "pos": 182
+      "pos": 174
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": -3,
       "mmr": 1375,
-      "pos": 184
+      "pos": 181
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 5,
       "mmr": 1358,
-      "pos": 187
+      "pos": 192
     }
   },
   {
@@ -261,22 +261,22 @@
     "twitch": "truedustrl",
     "twitter": "Alemz_RL",
     "v1": {
-      "deltaMmr": 19,
-      "deltaPos": -11,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1147,
       "pos": 37
     },
     "v2": {
-      "deltaMmr": 40,
-      "deltaPos": -18,
+      "deltaMmr": 0,
+      "deltaPos": 4,
       "mmr": 1521,
-      "pos": 50
+      "pos": 54
     },
     "v3": {
-      "deltaMmr": 2,
+      "deltaMmr": -3,
       "deltaPos": 6,
-      "mmr": 1388,
-      "pos": 169
+      "mmr": 1385,
+      "pos": 175
     }
   },
   {
@@ -290,21 +290,21 @@
     "twitter": "Alexbc_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -11,
+      "deltaPos": -13,
       "mmr": 0,
-      "pos": 191
+      "pos": 178
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 9,
       "mmr": 1443,
-      "pos": 99
+      "pos": 108
     },
     "v3": {
-      "deltaMmr": 43,
-      "deltaPos": -54,
-      "mmr": 1428,
-      "pos": 111
+      "deltaMmr": -31,
+      "deltaPos": 49,
+      "mmr": 1397,
+      "pos": 160
     }
   },
   {
@@ -320,19 +320,19 @@
       "deltaMmr": 0,
       "deltaPos": 1,
       "mmr": 998,
-      "pos": 90
+      "pos": 91
     },
     "v2": {
-      "deltaMmr": 43,
-      "deltaPos": -45,
+      "deltaMmr": 0,
+      "deltaPos": 5,
       "mmr": 1459,
-      "pos": 84
+      "pos": 89
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": -1,
-      "mmr": 1355,
-      "pos": 192
+      "deltaMmr": 17,
+      "deltaPos": -8,
+      "mmr": 1372,
+      "pos": 184
     }
   },
   {
@@ -346,21 +346,21 @@
     "twitter": "Allaann17",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -38,
+      "deltaPos": -4,
       "mmr": 0,
-      "pos": 203
+      "pos": 199
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 7,
       "mmr": 1434,
-      "pos": 109
+      "pos": 116
     },
     "v3": {
       "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 1462,
-      "pos": 81
+      "pos": 83
     }
   },
   {
@@ -374,21 +374,21 @@
     "twitter": "aLmeLa_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -13,
+      "deltaPos": -9,
       "mmr": 0,
-      "pos": 237
+      "pos": 228
     },
     "v2": {
-      "deltaMmr": -45,
-      "deltaPos": 40,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1341,
       "pos": 205
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 6,
       "mmr": 1338,
-      "pos": 203
+      "pos": 209
     }
   },
   {
@@ -402,21 +402,21 @@
     "twitter": "AlruRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -28,
+      "deltaPos": -9,
       "mmr": 0,
-      "pos": 241
+      "pos": 232
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 7,
       "mmr": 1476,
-      "pos": 75
+      "pos": 82
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 11,
+      "deltaPos": -3,
       "mmr": 1404,
-      "pos": 154
+      "pos": 151
     }
   },
   {
@@ -435,16 +435,16 @@
       "pos": 67
     },
     "v2": {
-      "deltaMmr": 34,
-      "deltaPos": -28,
-      "mmr": 1458,
-      "pos": 85
+      "deltaMmr": -30,
+      "deltaPos": 35,
+      "mmr": 1428,
+      "pos": 120
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1456,
-      "pos": 85
+      "deltaMmr": -19,
+      "deltaPos": 18,
+      "mmr": 1437,
+      "pos": 103
     }
   },
   {
@@ -458,19 +458,19 @@
     "twitter": "ByMarcote",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": -19,
       "mmr": 0,
-      "pos": 269
+      "pos": 250
     },
     "v2": {
-      "deltaMmr": -28,
-      "deltaPos": 3,
-      "mmr": 1145,
-      "pos": 242
+      "deltaMmr": -49,
+      "deltaPos": 9,
+      "mmr": 1096,
+      "pos": 251
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -6,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 303
     }
@@ -486,21 +486,21 @@
     "twitter": "Anthony_RL1",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 837,
-      "pos": 107
+      "pos": 110
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1221,
-      "pos": 233
+      "deltaMmr": 40,
+      "deltaPos": -9,
+      "mmr": 1261,
+      "pos": 224
     },
     "v3": {
-      "deltaMmr": -14,
-      "deltaPos": 8,
-      "mmr": 1360,
-      "pos": 185
+      "deltaMmr": 66,
+      "deltaPos": -68,
+      "mmr": 1426,
+      "pos": 117
     }
   },
   {
@@ -514,21 +514,21 @@
     "twitter": "PIOF12",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": -18,
       "mmr": 0,
-      "pos": 284
+      "pos": 266
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 6,
       "mmr": 1527,
-      "pos": 44
+      "pos": 50
     },
     "v3": {
-      "deltaMmr": -16,
-      "deltaPos": 20,
+      "deltaMmr": 0,
+      "deltaPos": 1,
       "mmr": 1432,
-      "pos": 108
+      "pos": 109
     }
   },
   {
@@ -542,21 +542,21 @@
     "twitter": "Arturozh",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -10,
+      "deltaPos": -20,
       "mmr": 0,
-      "pos": 287
+      "pos": 267
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 8,
+      "deltaPos": -4,
       "mmr": 1388,
-      "pos": 170
+      "pos": 166
     },
     "v3": {
-      "deltaMmr": 40,
-      "deltaPos": -12,
-      "mmr": 1582,
-      "pos": 24
+      "deltaMmr": -22,
+      "deltaPos": 8,
+      "mmr": 1560,
+      "pos": 32
     }
   },
   {
@@ -570,21 +570,21 @@
     "twitter": "ashdaystar",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 164,
+      "deltaPos": -19,
       "mmr": 0,
-      "pos": 292
+      "pos": 273
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": -1,
       "mmr": 1404,
-      "pos": 144
+      "pos": 143
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -6,
+      "deltaPos": 1,
       "mmr": 0,
-      "pos": 301
+      "pos": 302
     }
   },
   {
@@ -598,20 +598,20 @@
     "twitter": "ASN_RuBiiX",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 1215,
-      "pos": 8
+      "pos": 11
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 1638,
-      "pos": 13
+      "deltaMmr": -35,
+      "deltaPos": 7,
+      "mmr": 1603,
+      "pos": 20
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1529,
+      "deltaMmr": 12,
+      "deltaPos": 0,
+      "mmr": 1541,
       "pos": 43
     }
   },
@@ -626,21 +626,21 @@
     "twitter": "",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -18,
+      "deltaPos": 156,
       "mmr": 0,
-      "pos": 141
+      "pos": 297
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": -6,
       "mmr": 0,
-      "pos": 294
+      "pos": 288
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -6,
+      "deltaPos": 1,
       "mmr": 0,
-      "pos": 300
+      "pos": 301
     }
   },
   {
@@ -654,21 +654,21 @@
     "twitter": "08Blizzard",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 1045,
-      "pos": 75
+      "pos": 78
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 3,
-      "mmr": 1435,
-      "pos": 107
+      "deltaMmr": -7,
+      "deltaPos": 12,
+      "mmr": 1428,
+      "pos": 119
     },
     "v3": {
-      "deltaMmr": -16,
-      "deltaPos": 9,
-      "mmr": 1269,
-      "pos": 232
+      "deltaMmr": -2,
+      "deltaPos": 2,
+      "mmr": 1267,
+      "pos": 234
     }
   },
   {
@@ -682,21 +682,21 @@
     "twitter": "",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": -17,
       "mmr": 0,
-      "pos": 166
+      "pos": 149
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": -2,
       "mmr": 1369,
-      "pos": 188
+      "pos": 186
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 8,
+      "deltaPos": 2,
       "mmr": 1389,
-      "pos": 168
+      "pos": 170
     }
   },
   {
@@ -710,20 +710,20 @@
     "twitter": "AdryLeonhart",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": -17,
       "mmr": 0,
-      "pos": 173
+      "pos": 156
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -11,
+      "deltaPos": -1,
       "mmr": 0,
-      "pos": 283
+      "pos": 282
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1373,
+      "deltaMmr": 2,
+      "deltaPos": 0,
+      "mmr": 1375,
       "pos": 179
     }
   },
@@ -738,21 +738,21 @@
     "twitter": "y_b00mquick13",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -5,
+      "deltaPos": -8,
       "mmr": 0,
-      "pos": 174
+      "pos": 166
     },
     "v2": {
-      "deltaMmr": 36,
-      "deltaPos": -8,
-      "mmr": 1659,
-      "pos": 9
+      "deltaMmr": 40,
+      "deltaPos": -5,
+      "mmr": 1699,
+      "pos": 4
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": -1,
-      "mmr": 1439,
-      "pos": 99
+      "deltaMmr": 35,
+      "deltaPos": -22,
+      "mmr": 1474,
+      "pos": 77
     }
   },
   {
@@ -766,21 +766,21 @@
     "twitter": "alejandrojbaena",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -5,
+      "deltaPos": -11,
       "mmr": 0,
-      "pos": 178
+      "pos": 167
     },
     "v2": {
       "deltaMmr": 0,
       "deltaPos": 1,
       "mmr": 1128,
-      "pos": 245
+      "pos": 246
     },
     "v3": {
-      "deltaMmr": 20,
-      "deltaPos": -2,
-      "mmr": 1247,
-      "pos": 237
+      "deltaMmr": -6,
+      "deltaPos": 1,
+      "mmr": 1241,
+      "pos": 238
     }
   },
   {
@@ -794,21 +794,21 @@
     "twitter": "Baenaryy",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 2,
       "mmr": 995,
-      "pos": 91
+      "pos": 93
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": -3,
       "mmr": 1379,
-      "pos": 181
+      "pos": 178
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 4,
       "mmr": 1375,
-      "pos": 176
+      "pos": 180
     }
   },
   {
@@ -822,21 +822,21 @@
     "twitter": "barrusca1",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 1048,
-      "pos": 74
+      "pos": 77
     },
     "v2": {
       "deltaMmr": 0,
       "deltaPos": 3,
       "mmr": 1492,
-      "pos": 63
+      "pos": 66
     },
     "v3": {
-      "deltaMmr": -16,
-      "deltaPos": 22,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 1384,
-      "pos": 173
+      "pos": 176
     }
   },
   {
@@ -850,21 +850,21 @@
     "twitter": "La_Baticao",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 880,
-      "pos": 105
+      "pos": 108
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 1262,
-      "pos": 221
+      "deltaMmr": 51,
+      "deltaPos": -9,
+      "mmr": 1313,
+      "pos": 212
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 6,
       "mmr": 1338,
-      "pos": 202
+      "pos": 208
     }
   },
   {
@@ -878,19 +878,19 @@
     "twitter": "Itezaaaa",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": -13,
       "mmr": 0,
-      "pos": 199
+      "pos": 186
     },
     "v2": {
       "deltaMmr": 0,
       "deltaPos": 3,
       "mmr": 1451,
-      "pos": 94
+      "pos": 97
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1428,
       "pos": 114
     }
@@ -905,22 +905,22 @@
     "twitch": "",
     "twitter": "11j1996",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": -1,
-      "mmr": 1097,
-      "pos": 63
+      "deltaMmr": -19,
+      "deltaPos": 7,
+      "mmr": 1078,
+      "pos": 70
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 3,
-      "mmr": 1429,
-      "pos": 112
+      "deltaMmr": -16,
+      "deltaPos": 22,
+      "mmr": 1413,
+      "pos": 134
     },
     "v3": {
       "deltaMmr": 0,
       "deltaPos": -1,
       "mmr": 1428,
-      "pos": 113
+      "pos": 112
     }
   },
   {
@@ -934,21 +934,21 @@
     "twitter": "Diego13Na",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 201
+      "pos": 196
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": -1,
       "mmr": 1375,
-      "pos": 183
+      "pos": 182
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 4,
-      "mmr": 1479,
-      "pos": 72
+      "deltaMmr": -11,
+      "deltaPos": 8,
+      "mmr": 1468,
+      "pos": 80
     }
   },
   {
@@ -968,15 +968,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 5,
       "mmr": 1520,
-      "pos": 51
+      "pos": 56
     },
     "v3": {
-      "deltaMmr": 24,
-      "deltaPos": -13,
-      "mmr": 1482,
-      "pos": 69
+      "deltaMmr": 6,
+      "deltaPos": 3,
+      "mmr": 1488,
+      "pos": 72
     }
   },
   {
@@ -990,21 +990,21 @@
     "twitter": "BlackRocketeer",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -21,
+      "deltaPos": -8,
       "mmr": 0,
-      "pos": 208
+      "pos": 200
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 23,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 308
     },
     "v3": {
-      "deltaMmr": -33,
-      "deltaPos": 42,
-      "mmr": 1414,
-      "pos": 131
+      "deltaMmr": -19,
+      "deltaPos": 33,
+      "mmr": 1395,
+      "pos": 164
     }
   },
   {
@@ -1018,21 +1018,21 @@
     "twitter": "martinhoblanco",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": -27,
       "mmr": 0,
-      "pos": 228
+      "pos": 201
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 15,
+      "deltaPos": 6,
       "mmr": 0,
-      "pos": 298
+      "pos": 304
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -9,
+      "deltaPos": 4,
       "mmr": 0,
-      "pos": 293
+      "pos": 297
     }
   },
   {
@@ -1048,19 +1048,19 @@
       "deltaMmr": 0,
       "deltaPos": -8,
       "mmr": 0,
-      "pos": 230
+      "pos": 222
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -6,
+      "deltaPos": 13,
       "mmr": 0,
-      "pos": 276
+      "pos": 289
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -9,
+      "deltaPos": 3,
       "mmr": 0,
-      "pos": 292
+      "pos": 295
     }
   },
   {
@@ -1074,21 +1074,21 @@
     "twitter": "BorexRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1240,
       "pos": 6
     },
     "v2": {
-      "deltaMmr": -10,
-      "deltaPos": 20,
-      "mmr": 1415,
-      "pos": 132
+      "deltaMmr": 128,
+      "deltaPos": -92,
+      "mmr": 1543,
+      "pos": 40
     },
     "v3": {
-      "deltaMmr": 1412,
-      "deltaPos": -167,
-      "mmr": 1412,
-      "pos": 133
+      "deltaMmr": 6,
+      "deltaPos": 1,
+      "mmr": 1418,
+      "pos": 134
     }
   },
   {
@@ -1102,21 +1102,21 @@
     "twitter": "",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 884,
-      "pos": 104
+      "pos": 107
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 2,
       "mmr": 1259,
-      "pos": 223
+      "pos": 225
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 5,
       "mmr": 1333,
-      "pos": 206
+      "pos": 211
     }
   },
   {
@@ -1130,21 +1130,21 @@
     "twitter": "Byivan15",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": -16,
       "mmr": 0,
-      "pos": 250
+      "pos": 234
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 7,
       "mmr": 1463,
-      "pos": 79
+      "pos": 86
     },
     "v3": {
-      "deltaMmr": 18,
-      "deltaPos": -17,
-      "mmr": 1456,
-      "pos": 84
+      "deltaMmr": 43,
+      "deltaPos": -18,
+      "mmr": 1499,
+      "pos": 66
     }
   },
   {
@@ -1158,21 +1158,21 @@
     "twitter": "ByJesuxEsP",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": -16,
       "mmr": 0,
-      "pos": 253
+      "pos": 237
     },
     "v2": {
-      "deltaMmr": -13,
-      "deltaPos": 6,
-      "mmr": 1237,
-      "pos": 230
+      "deltaMmr": -17,
+      "deltaPos": 8,
+      "mmr": 1220,
+      "pos": 238
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 1,
       "mmr": 1310,
-      "pos": 217
+      "pos": 218
     }
   },
   {
@@ -1186,9 +1186,9 @@
     "twitter": "ByMateos",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -2,
       "mmr": 1164,
-      "pos": 28
+      "pos": 26
     },
     "v2": {
       "deltaMmr": 0,
@@ -1198,9 +1198,9 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": -1,
       "mmr": 1589,
-      "pos": 21
+      "pos": 20
     }
   },
   {
@@ -1214,21 +1214,21 @@
     "twitter": "ByMijo15",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 1,
       "mmr": 1103,
-      "pos": 60
+      "pos": 61
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": -3,
-      "mmr": 1462,
-      "pos": 80
+      "deltaMmr": 42,
+      "deltaPos": -18,
+      "mmr": 1504,
+      "pos": 62
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": 4,
       "mmr": 1433,
-      "pos": 104
+      "pos": 108
     }
   },
   {
@@ -1242,21 +1242,21 @@
     "twitter": "Mark_Cerda__",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 574,
-      "pos": 122
+      "pos": 125
     },
     "v2": {
       "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 928,
-      "pos": 258
+      "pos": 260
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 6,
-      "mmr": 1264,
-      "pos": 233
+      "deltaMmr": -44,
+      "deltaPos": 9,
+      "mmr": 1220,
+      "pos": 242
     }
   },
   {
@@ -1269,22 +1269,22 @@
     "twitch": "",
     "twitter": "El_Davo_4_YT",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": -12,
-      "mmr": 0,
-      "pos": 272
+      "deltaMmr": 950,
+      "deltaPos": -172,
+      "mmr": 950,
+      "pos": 100
     },
     "v2": {
-      "deltaMmr": -40,
-      "deltaPos": 9,
-      "mmr": 1186,
-      "pos": 238
+      "deltaMmr": 13,
+      "deltaPos": 2,
+      "mmr": 1199,
+      "pos": 240
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 4,
-      "mmr": 1280,
-      "pos": 229
+      "deltaMmr": 22,
+      "deltaPos": -6,
+      "mmr": 1302,
+      "pos": 223
     }
   },
   {
@@ -1298,21 +1298,21 @@
     "twitter": "CajoNasTeupas",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 2,
       "mmr": 977,
-      "pos": 94
+      "pos": 96
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": -1,
       "mmr": 0,
-      "pos": 272
+      "pos": 271
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 4,
-      "mmr": 1440,
-      "pos": 97
+      "deltaMmr": -2,
+      "deltaPos": 5,
+      "mmr": 1438,
+      "pos": 102
     }
   },
   {
@@ -1325,22 +1325,22 @@
     "twitch": "",
     "twitter": "CarcaPro17",
     "v1": {
-      "deltaMmr": 47,
-      "deltaPos": -10,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1243,
       "pos": 5
     },
     "v2": {
-      "deltaMmr": 24,
-      "deltaPos": -6,
-      "mmr": 1624,
-      "pos": 15
+      "deltaMmr": 9,
+      "deltaPos": -3,
+      "mmr": 1633,
+      "pos": 12
     },
     "v3": {
-      "deltaMmr": 64,
-      "deltaPos": -54,
+      "deltaMmr": 0,
+      "deltaPos": 6,
       "mmr": 1488,
-      "pos": 65
+      "pos": 71
     }
   },
   {
@@ -1354,20 +1354,20 @@
     "twitter": "C4rlos_t",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -5,
+      "deltaPos": -11,
       "mmr": 0,
-      "pos": 288
+      "pos": 277
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 935,
-      "pos": 257
+      "deltaMmr": 46,
+      "deltaPos": 1,
+      "mmr": 981,
+      "pos": 258
     },
     "v3": {
       "deltaMmr": 1,
-      "deltaPos": 3,
-      "mmr": 1180,
+      "deltaPos": 0,
+      "mmr": 1181,
       "pos": 253
     }
   },
@@ -1384,19 +1384,19 @@
       "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 1130,
-      "pos": 46
+      "pos": 48
     },
     "v2": {
-      "deltaMmr": 1,
+      "deltaMmr": 0,
       "deltaPos": 4,
       "mmr": 1523,
-      "pos": 49
+      "pos": 53
     },
     "v3": {
-      "deltaMmr": 13,
-      "deltaPos": -13,
+      "deltaMmr": 0,
+      "deltaPos": 1,
       "mmr": 1406,
-      "pos": 145
+      "pos": 146
     }
   },
   {
@@ -1410,21 +1410,21 @@
     "twitter": "TheCasaprima",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -12,
+      "deltaPos": -6,
       "mmr": 0,
-      "pos": 293
+      "pos": 287
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 9,
-      "mmr": 1545,
-      "pos": 37
+      "deltaMmr": 33,
+      "deltaPos": -13,
+      "mmr": 1578,
+      "pos": 24
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1514,
-      "pos": 54
+      "deltaMmr": 35,
+      "deltaPos": -14,
+      "mmr": 1549,
+      "pos": 40
     }
   },
   {
@@ -1438,21 +1438,21 @@
     "twitter": "Choco_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": -16,
       "mmr": 0,
-      "pos": 304
+      "pos": 288
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 40,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 304
+      "pos": 299
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -20,
+      "deltaPos": 2,
       "mmr": 0,
-      "pos": 274
+      "pos": 276
     }
   },
   {
@@ -1466,21 +1466,21 @@
     "twitter": "ChogerRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": -16,
       "mmr": 0,
-      "pos": 305
+      "pos": 289
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 50,
+      "deltaPos": -46,
       "mmr": 0,
-      "pos": 312
+      "pos": 266
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -20,
+      "deltaPos": 2,
       "mmr": 0,
-      "pos": 273
+      "pos": 275
     }
   },
   {
@@ -1494,21 +1494,21 @@
     "twitter": "chukyrl",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 183,
+      "deltaPos": -17,
       "mmr": 0,
-      "pos": 310
+      "pos": 293
     },
     "v2": {
-      "deltaMmr": -1,
-      "deltaPos": 3,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1487,
-      "pos": 68
+      "pos": 70
     },
     "v3": {
-      "deltaMmr": -14,
-      "deltaPos": 9,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1521,
-      "pos": 49
+      "pos": 51
     }
   },
   {
@@ -1521,22 +1521,22 @@
     "twitch": "",
     "twitter": "cidmar01",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 1115,
-      "pos": 56
+      "deltaMmr": 42,
+      "deltaPos": -26,
+      "mmr": 1157,
+      "pos": 30
     },
     "v2": {
-      "deltaMmr": 14,
-      "deltaPos": 1,
-      "mmr": 1555,
-      "pos": 31
+      "deltaMmr": -10,
+      "deltaPos": 6,
+      "mmr": 1545,
+      "pos": 37
     },
     "v3": {
-      "deltaMmr": 41,
-      "deltaPos": -16,
+      "deltaMmr": 0,
+      "deltaPos": -1,
       "mmr": 1562,
-      "pos": 31
+      "pos": 30
     }
   },
   {
@@ -1550,21 +1550,21 @@
     "twitter": "Cierbot",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -13,
+      "deltaPos": 178,
       "mmr": 0,
-      "pos": 127
+      "pos": 305
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 3,
-      "mmr": 1365,
-      "pos": 193
+      "deltaMmr": 22,
+      "deltaPos": -26,
+      "mmr": 1387,
+      "pos": 167
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 3,
-      "mmr": 1472,
-      "pos": 77
+      "deltaMmr": -12,
+      "deltaPos": 7,
+      "mmr": 1460,
+      "pos": 84
     }
   },
   {
@@ -1578,20 +1578,20 @@
     "twitter": "Cisco6944",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 170,
       "mmr": 0,
-      "pos": 139
+      "pos": 309
     },
     "v2": {
-      "deltaMmr": 10,
-      "deltaPos": 1,
-      "mmr": 1053,
-      "pos": 253
+      "deltaMmr": -20,
+      "deltaPos": 4,
+      "mmr": 1033,
+      "pos": 257
     },
     "v3": {
-      "deltaMmr": -26,
-      "deltaPos": 5,
-      "mmr": 1130,
+      "deltaMmr": 18,
+      "deltaPos": 0,
+      "mmr": 1148,
       "pos": 260
     }
   },
@@ -1605,22 +1605,22 @@
     "twitch": "",
     "twitter": "ClayX_Rl",
     "v1": {
-      "deltaMmr": -7,
-      "deltaPos": -1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1286,
       "pos": 1
     },
     "v2": {
-      "deltaMmr": 1,
-      "deltaPos": 1,
-      "mmr": 1650,
+      "deltaMmr": -14,
+      "deltaPos": 0,
+      "mmr": 1636,
       "pos": 11
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": -1,
       "mmr": 1567,
-      "pos": 29
+      "pos": 28
     }
   },
   {
@@ -1634,19 +1634,19 @@
     "twitter": "ChicoAndroidYT",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": -3,
       "mmr": 0,
-      "pos": 142
+      "pos": 139
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 3,
       "mmr": 973,
-      "pos": 256
+      "pos": 259
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1215,
       "pos": 244
     }
@@ -1662,21 +1662,21 @@
     "twitter": "CogoRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -5,
+      "deltaPos": -4,
       "mmr": 0,
-      "pos": 145
+      "pos": 141
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -19,
+      "deltaPos": 3,
       "mmr": 0,
-      "pos": 271
+      "pos": 274
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -22,
+      "deltaPos": 5,
       "mmr": 0,
-      "pos": 266
+      "pos": 271
     }
   },
   {
@@ -1692,19 +1692,19 @@
       "deltaMmr": 0,
       "deltaPos": -7,
       "mmr": 0,
-      "pos": 149
+      "pos": 142
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 1,
       "mmr": 1348,
-      "pos": 201
+      "pos": 202
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 23,
+      "deltaPos": -41,
       "mmr": 0,
-      "pos": 310
+      "pos": 269
     }
   },
   {
@@ -1718,21 +1718,21 @@
     "twitter": "cowisis",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": -10,
       "mmr": 0,
-      "pos": 155
+      "pos": 145
     },
     "v2": {
-      "deltaMmr": -8,
-      "deltaPos": 7,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1351,
       "pos": 199
     },
     "v3": {
-      "deltaMmr": -17,
-      "deltaPos": 15,
+      "deltaMmr": 0,
+      "deltaPos": 5,
       "mmr": 1344,
-      "pos": 199
+      "pos": 204
     }
   },
   {
@@ -1745,22 +1745,22 @@
     "twitch": "",
     "twitter": "BossxXxcristian",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1146,
-      "pos": 38
+      "deltaMmr": -9,
+      "deltaPos": 5,
+      "mmr": 1137,
+      "pos": 43
     },
     "v2": {
-      "deltaMmr": 32,
-      "deltaPos": -41,
-      "mmr": 1425,
-      "pos": 115
+      "deltaMmr": -48,
+      "deltaPos": 65,
+      "mmr": 1377,
+      "pos": 180
     },
     "v3": {
-      "deltaMmr": 5,
-      "deltaPos": 2,
-      "mmr": 1479,
-      "pos": 73
+      "deltaMmr": 21,
+      "deltaPos": -9,
+      "mmr": 1500,
+      "pos": 64
     }
   },
   {
@@ -1774,21 +1774,21 @@
     "twitter": "CruzzRL_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -9,
       "mmr": 0,
-      "pos": 164
+      "pos": 155
     },
     "v2": {
-      "deltaMmr": 51,
-      "deltaPos": -27,
+      "deltaMmr": 0,
+      "deltaPos": 5,
       "mmr": 1517,
-      "pos": 53
+      "pos": 58
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 1610,
-      "pos": 14
+      "deltaMmr": -23,
+      "deltaPos": 8,
+      "mmr": 1587,
+      "pos": 22
     }
   },
   {
@@ -1802,21 +1802,21 @@
     "twitter": "DamiDelevingne",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": -1,
       "mmr": 1153,
-      "pos": 34
+      "pos": 33
     },
     "v2": {
-      "deltaMmr": 27,
-      "deltaPos": -21,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 1451,
-      "pos": 93
+      "pos": 96
     },
     "v3": {
-      "deltaMmr": 12,
-      "deltaPos": -4,
+      "deltaMmr": 0,
+      "deltaPos": 1,
       "mmr": 1512,
-      "pos": 56
+      "pos": 57
     }
   },
   {
@@ -1830,21 +1830,21 @@
     "twitter": "DaniCule97",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -3,
       "mmr": 0,
-      "pos": 167
+      "pos": 164
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": -3,
       "mmr": 1403,
-      "pos": 147
+      "pos": 144
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 5,
       "mmr": 1423,
-      "pos": 120
+      "pos": 125
     }
   },
   {
@@ -1860,19 +1860,19 @@
       "deltaMmr": 0,
       "deltaPos": 1,
       "mmr": 1193,
-      "pos": 17
+      "pos": 18
     },
     "v2": {
-      "deltaMmr": 41,
-      "deltaPos": -8,
-      "mmr": 1613,
-      "pos": 18
+      "deltaMmr": -12,
+      "deltaPos": 3,
+      "mmr": 1601,
+      "pos": 21
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 2,
       "mmr": 1503,
-      "pos": 60
+      "pos": 62
     }
   },
   {
@@ -1885,22 +1885,22 @@
     "twitch": "DaniZamax",
     "twitter": "DaniZamax",
     "v1": {
-      "deltaMmr": 39,
-      "deltaPos": 1,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 460,
-      "pos": 124
+      "pos": 127
     },
     "v2": {
-      "deltaMmr": -56,
+      "deltaMmr": 66,
       "deltaPos": 2,
-      "mmr": 635,
-      "pos": 261
+      "mmr": 701,
+      "pos": 263
     },
     "v3": {
-      "deltaMmr": -31,
-      "deltaPos": 4,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1084,
-      "pos": 261
+      "pos": 263
     }
   },
   {
@@ -1914,21 +1914,21 @@
     "twitter": "DarkryxGm",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -2,
       "mmr": 0,
-      "pos": 175
+      "pos": 173
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -4,
       "mmr": 1413,
-      "pos": 135
+      "pos": 131
     },
     "v3": {
-      "deltaMmr": -59,
-      "deltaPos": 67,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1406,
-      "pos": 143
+      "pos": 145
     }
   },
   {
@@ -1942,19 +1942,19 @@
     "twitter": "xTheDarkSlimex",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 815,
-      "pos": 110
+      "pos": 113
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 23,
+      "deltaPos": 5,
       "mmr": 0,
-      "pos": 293
+      "pos": 298
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 22,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 305
     }
@@ -1969,22 +1969,22 @@
     "twitch": "Darkydooda",
     "twitter": "Darkydooda",
     "v1": {
-      "deltaMmr": 24,
-      "deltaPos": -4,
-      "mmr": 1036,
-      "pos": 79
+      "deltaMmr": -11,
+      "deltaPos": 3,
+      "mmr": 1025,
+      "pos": 82
     },
     "v2": {
-      "deltaMmr": -14,
-      "deltaPos": 15,
-      "mmr": 1420,
-      "pos": 121
+      "deltaMmr": 28,
+      "deltaPos": -21,
+      "mmr": 1448,
+      "pos": 100
     },
     "v3": {
-      "deltaMmr": -21,
-      "deltaPos": 17,
-      "mmr": 1335,
-      "pos": 205
+      "deltaMmr": 10,
+      "deltaPos": -3,
+      "mmr": 1345,
+      "pos": 202
     }
   },
   {
@@ -1998,21 +1998,21 @@
     "twitter": "dvzeh",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 2,
       "mmr": 1014,
-      "pos": 84
+      "pos": 86
     },
     "v2": {
-      "deltaMmr": -10,
-      "deltaPos": 11,
+      "deltaMmr": 0,
+      "deltaPos": -1,
       "mmr": 1357,
-      "pos": 197
+      "pos": 196
     },
     "v3": {
-      "deltaMmr": -36,
-      "deltaPos": 58,
+      "deltaMmr": 0,
+      "deltaPos": -3,
       "mmr": 1404,
-      "pos": 153
+      "pos": 150
     }
   },
   {
@@ -2026,21 +2026,21 @@
     "twitter": "de_Boer_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 187
+      "pos": 182
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": -2,
       "mmr": 1359,
-      "pos": 195
+      "pos": 193
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": -3,
-      "mmr": 1423,
-      "pos": 118
+      "deltaMmr": 19,
+      "deltaPos": -22,
+      "mmr": 1442,
+      "pos": 96
     }
   },
   {
@@ -2054,21 +2054,21 @@
     "twitter": "demkey_rl",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 2,
       "mmr": 1017,
-      "pos": 83
+      "pos": 85
     },
     "v2": {
-      "deltaMmr": 35,
-      "deltaPos": -28,
+      "deltaMmr": 0,
+      "deltaPos": -5,
       "mmr": 1392,
-      "pos": 166
+      "pos": 161
     },
     "v3": {
-      "deltaMmr": 25,
-      "deltaPos": -34,
+      "deltaMmr": 0,
+      "deltaPos": 5,
       "mmr": 1423,
-      "pos": 119
+      "pos": 124
     }
   },
   {
@@ -2082,21 +2082,21 @@
     "twitter": "hdemoGG_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 192
+      "pos": 187
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 2,
       "mmr": 1275,
-      "pos": 215
+      "pos": 217
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 4,
       "mmr": 1350,
-      "pos": 195
+      "pos": 199
     }
   },
   {
@@ -2110,21 +2110,21 @@
     "twitter": "costas_garcia98",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -2,
       "mmr": 0,
-      "pos": 193
+      "pos": 191
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 7,
+      "deltaPos": -27,
       "mmr": 0,
-      "pos": 307
+      "pos": 280
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": -1,
       "mmr": 1275,
-      "pos": 231
+      "pos": 230
     }
   },
   {
@@ -2138,21 +2138,21 @@
     "twitter": "Dezysh",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -4,
       "mmr": 0,
-      "pos": 196
+      "pos": 192
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 1290,
-      "pos": 213
+      "pos": 216
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 1317,
-      "pos": 211
+      "deltaMmr": -32,
+      "deltaPos": 16,
+      "mmr": 1285,
+      "pos": 227
     }
   },
   {
@@ -2166,21 +2166,21 @@
     "twitter": "DiegostarmoRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 895,
-      "pos": 102
+      "pos": 105
     },
     "v2": {
-      "deltaMmr": -22,
-      "deltaPos": 5,
-      "mmr": 1291,
-      "pos": 212
+      "deltaMmr": 78,
+      "deltaPos": -25,
+      "mmr": 1369,
+      "pos": 187
     },
     "v3": {
-      "deltaMmr": 69,
-      "deltaPos": -14,
-      "mmr": 1303,
-      "pos": 222
+      "deltaMmr": 11,
+      "deltaPos": -6,
+      "mmr": 1314,
+      "pos": 216
     }
   },
   {
@@ -2193,22 +2193,22 @@
     "twitch": "",
     "twitter": "DiLegacyDL",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1168,
-      "pos": 25
+      "deltaMmr": -9,
+      "deltaPos": 4,
+      "mmr": 1159,
+      "pos": 29
     },
     "v2": {
-      "deltaMmr": 10,
-      "deltaPos": -9,
-      "mmr": 1462,
-      "pos": 81
+      "deltaMmr": -17,
+      "deltaPos": 21,
+      "mmr": 1445,
+      "pos": 102
     },
     "v3": {
-      "deltaMmr": 2,
-      "deltaPos": -2,
-      "mmr": 1438,
-      "pos": 101
+      "deltaMmr": 28,
+      "deltaPos": -20,
+      "mmr": 1466,
+      "pos": 81
     }
   },
   {
@@ -2224,19 +2224,19 @@
       "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 1200,
-      "pos": 15
+      "pos": 17
     },
     "v2": {
-      "deltaMmr": -20,
-      "deltaPos": 3,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1576,
       "pos": 25
     },
     "v3": {
-      "deltaMmr": -6,
-      "deltaPos": 3,
+      "deltaMmr": 0,
+      "deltaPos": -1,
       "mmr": 1588,
-      "pos": 22
+      "pos": 21
     }
   },
   {
@@ -2250,21 +2250,21 @@
     "twitter": "RafaMG9",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 3,
       "mmr": 1012,
-      "pos": 86
+      "pos": 89
     },
     "v2": {
-      "deltaMmr": -35,
-      "deltaPos": 30,
+      "deltaMmr": 0,
+      "deltaPos": 8,
       "mmr": 1437,
-      "pos": 104
+      "pos": 112
     },
     "v3": {
-      "deltaMmr": 10,
-      "deltaPos": -3,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1385,
-      "pos": 172
+      "pos": 174
     }
   },
   {
@@ -2277,22 +2277,22 @@
     "twitch": "drcole17",
     "twitter": "DrCole17",
     "v1": {
-      "deltaMmr": 16,
-      "deltaPos": -1,
-      "mmr": 1037,
-      "pos": 78
+      "deltaMmr": -16,
+      "deltaPos": 6,
+      "mmr": 1021,
+      "pos": 84
     },
     "v2": {
-      "deltaMmr": -2,
+      "deltaMmr": -10,
       "deltaPos": 10,
-      "mmr": 1417,
-      "pos": 129
+      "mmr": 1407,
+      "pos": 139
     },
     "v3": {
-      "deltaMmr": -1,
-      "deltaPos": 5,
-      "mmr": 1474,
-      "pos": 75
+      "deltaMmr": 61,
+      "deltaPos": -29,
+      "mmr": 1535,
+      "pos": 46
     }
   },
   {
@@ -2306,21 +2306,21 @@
     "twitter": "MarioGarciaCore",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -7,
       "mmr": 0,
-      "pos": 210
+      "pos": 203
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 4,
       "mmr": 1512,
-      "pos": 56
+      "pos": 60
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 2,
       "mmr": 1435,
-      "pos": 103
+      "pos": 105
     }
   },
   {
@@ -2334,21 +2334,21 @@
     "twitter": "d_avi_d_2311",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -10,
       "mmr": 0,
-      "pos": 218
+      "pos": 208
     },
     "v2": {
-      "deltaMmr": -11,
-      "deltaPos": 15,
+      "deltaMmr": 0,
+      "deltaPos": 5,
       "mmr": 1429,
-      "pos": 113
+      "pos": 118
     },
     "v3": {
-      "deltaMmr": -2,
-      "deltaPos": 2,
+      "deltaMmr": 0,
+      "deltaPos": 6,
       "mmr": 1409,
-      "pos": 137
+      "pos": 143
     }
   },
   {
@@ -2362,21 +2362,21 @@
     "twitter": "DualViewYT",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -10,
       "mmr": 0,
-      "pos": 220
+      "pos": 210
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": -3,
       "mmr": 1402,
-      "pos": 148
+      "pos": 145
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 1525,
-      "pos": 46
+      "pos": 49
     }
   },
   {
@@ -2390,21 +2390,21 @@
     "twitter": "Super_Duvy",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -4,
       "mmr": 0,
-      "pos": 222
+      "pos": 218
     },
     "v2": {
-      "deltaMmr": 0,
+      "deltaMmr": 2,
       "deltaPos": 2,
-      "mmr": 1114,
-      "pos": 247
+      "mmr": 1116,
+      "pos": 249
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 3,
-      "mmr": 1229,
-      "pos": 241
+      "deltaMmr": -42,
+      "deltaPos": 10,
+      "mmr": 1187,
+      "pos": 251
     }
   },
   {
@@ -2418,21 +2418,21 @@
     "twitter": "EddyyRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -3,
       "mmr": 0,
-      "pos": 223
+      "pos": 220
     },
     "v2": {
-      "deltaMmr": -37,
-      "deltaPos": 52,
-      "mmr": 1395,
-      "pos": 159
+      "deltaMmr": -45,
+      "deltaPos": 41,
+      "mmr": 1350,
+      "pos": 200
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 1,
       "mmr": 1309,
-      "pos": 218
+      "pos": 219
     }
   },
   {
@@ -2445,22 +2445,22 @@
     "twitch": "",
     "twitter": "EDU09881",
     "v1": {
-      "deltaMmr": -3,
+      "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 1116,
-      "pos": 55
+      "pos": 57
     },
     "v2": {
-      "deltaMmr": 27,
-      "deltaPos": -23,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 1456,
-      "pos": 87
+      "pos": 90
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 3,
       "mmr": 1441,
-      "pos": 94
+      "pos": 97
     }
   },
   {
@@ -2474,21 +2474,21 @@
     "twitter": "ElectrikRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -6,
       "mmr": 0,
-      "pos": 229
+      "pos": 223
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 6,
       "mmr": 1477,
-      "pos": 74
+      "pos": 80
     },
     "v3": {
-      "deltaMmr": -33,
-      "deltaPos": 23,
-      "mmr": 1471,
-      "pos": 78
+      "deltaMmr": -48,
+      "deltaPos": 45,
+      "mmr": 1423,
+      "pos": 123
     }
   },
   {
@@ -2502,21 +2502,21 @@
     "twitter": "eljoselillo7",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 1,
       "mmr": 1154,
-      "pos": 31
+      "pos": 32
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": -2,
-      "mmr": 1461,
-      "pos": 83
+      "deltaMmr": -11,
+      "deltaPos": 16,
+      "mmr": 1450,
+      "pos": 99
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 2,
       "mmr": 1433,
-      "pos": 105
+      "pos": 107
     }
   },
   {
@@ -2530,21 +2530,21 @@
     "twitter": "aristides_mt",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -2,
       "mmr": 0,
-      "pos": 231
+      "pos": 229
     },
     "v2": {
-      "deltaMmr": -12,
-      "deltaPos": 23,
-      "mmr": 1388,
-      "pos": 171
+      "deltaMmr": 38,
+      "deltaPos": -50,
+      "mmr": 1426,
+      "pos": 121
     },
     "v3": {
-      "deltaMmr": -40,
-      "deltaPos": 49,
-      "mmr": 1409,
-      "pos": 136
+      "deltaMmr": 11,
+      "deltaPos": -5,
+      "mmr": 1420,
+      "pos": 131
     }
   },
   {
@@ -2558,21 +2558,21 @@
     "twitter": "EnergY1881",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -2,
       "mmr": 0,
-      "pos": 232
+      "pos": 230
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 8,
+      "deltaPos": -5,
       "mmr": 1386,
-      "pos": 175
+      "pos": 170
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 7,
-      "mmr": 1383,
-      "pos": 174
+      "deltaMmr": 10,
+      "deltaPos": -8,
+      "mmr": 1393,
+      "pos": 166
     }
   },
   {
@@ -2586,21 +2586,21 @@
     "twitter": "Enri_TC",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -3,
       "mmr": 0,
-      "pos": 234
+      "pos": 231
     },
     "v2": {
-      "deltaMmr": 29,
-      "deltaPos": -4,
-      "mmr": 1346,
-      "pos": 202
+      "deltaMmr": 26,
+      "deltaPos": -19,
+      "mmr": 1372,
+      "pos": 183
     },
     "v3": {
-      "deltaMmr": 1,
-      "deltaPos": -1,
-      "mmr": 1347,
-      "pos": 197
+      "deltaMmr": 36,
+      "deltaPos": -20,
+      "mmr": 1383,
+      "pos": 177
     }
   },
   {
@@ -2613,22 +2613,22 @@
     "twitch": "",
     "twitter": "AleJimne5",
     "v1": {
-      "deltaMmr": 0,
+      "deltaMmr": -10,
       "deltaPos": 1,
-      "mmr": 1231,
-      "pos": 7
+      "mmr": 1221,
+      "pos": 8
     },
     "v2": {
-      "deltaMmr": -32,
-      "deltaPos": 7,
-      "mmr": 1594,
-      "pos": 23
+      "deltaMmr": -35,
+      "deltaPos": 9,
+      "mmr": 1559,
+      "pos": 32
     },
     "v3": {
-      "deltaMmr": 42,
-      "deltaPos": -59,
-      "mmr": 1445,
-      "pos": 90
+      "deltaMmr": -15,
+      "deltaPos": 20,
+      "mmr": 1430,
+      "pos": 110
     }
   },
   {
@@ -2642,21 +2642,21 @@
     "twitter": "EsCa2202",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 2,
       "mmr": 980,
-      "pos": 93
+      "pos": 95
     },
     "v2": {
-      "deltaMmr": -17,
-      "deltaPos": 22,
-      "mmr": 1396,
-      "pos": 158
+      "deltaMmr": 4,
+      "deltaPos": -11,
+      "mmr": 1400,
+      "pos": 147
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 4,
       "mmr": 1411,
-      "pos": 134
+      "pos": 138
     }
   },
   {
@@ -2670,21 +2670,21 @@
     "twitter": "Eescobar8",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -8,
       "mmr": 0,
-      "pos": 244
+      "pos": 236
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 10,
+      "deltaPos": -4,
       "mmr": 1387,
-      "pos": 173
+      "pos": 169
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 7,
+      "deltaPos": -1,
       "mmr": 1402,
-      "pos": 157
+      "pos": 156
     }
   },
   {
@@ -2697,21 +2697,21 @@
     "twitch": "",
     "twitter": "EspumitaRL",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1141,
-      "pos": 39
+      "deltaMmr": -6,
+      "deltaPos": 6,
+      "mmr": 1135,
+      "pos": 45
     },
     "v2": {
-      "deltaMmr": -12,
+      "deltaMmr": -5,
       "deltaPos": 2,
-      "mmr": 1569,
-      "pos": 26
+      "mmr": 1564,
+      "pos": 28
     },
     "v3": {
-      "deltaMmr": 56,
-      "deltaPos": -3,
-      "mmr": 1760,
+      "deltaMmr": 1,
+      "deltaPos": 0,
+      "mmr": 1761,
       "pos": 1
     }
   },
@@ -2726,21 +2726,21 @@
     "twitter": "Estrupa27",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -2,
       "mmr": 1159,
-      "pos": 30
+      "pos": 28
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 8,
       "mmr": 1467,
-      "pos": 77
+      "pos": 85
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1521,
-      "pos": 48
+      "deltaMmr": 21,
+      "deltaPos": -7,
+      "mmr": 1542,
+      "pos": 41
     }
   },
   {
@@ -2754,19 +2754,19 @@
     "twitter": "esva_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -16,
       "mmr": 0,
-      "pos": 260
+      "pos": 244
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": -1,
       "mmr": 1416,
-      "pos": 130
+      "pos": 129
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 8,
+      "deltaPos": 0,
       "mmr": 1395,
       "pos": 163
     }
@@ -2781,22 +2781,22 @@
     "twitch": "",
     "twitter": "EvilWolf_RL",
     "v1": {
-      "deltaMmr": 12,
-      "deltaPos": -10,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1137,
       "pos": 42
     },
     "v2": {
-      "deltaMmr": -46,
-      "deltaPos": 31,
-      "mmr": 1491,
-      "pos": 64
+      "deltaMmr": 39,
+      "deltaPos": -17,
+      "mmr": 1530,
+      "pos": 47
     },
     "v3": {
-      "deltaMmr": 12,
-      "deltaPos": -1,
-      "mmr": 1561,
-      "pos": 32
+      "deltaMmr": 35,
+      "deltaPos": -14,
+      "mmr": 1596,
+      "pos": 18
     }
   },
   {
@@ -2810,21 +2810,21 @@
     "twitter": "PuPiTsu",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -9,
       "mmr": 0,
-      "pos": 262
+      "pos": 253
     },
     "v2": {
-      "deltaMmr": 27,
-      "deltaPos": -30,
-      "mmr": 1403,
+      "deltaMmr": -2,
+      "deltaPos": 0,
+      "mmr": 1401,
       "pos": 146
     },
     "v3": {
-      "deltaMmr": 1405,
-      "deltaPos": -124,
-      "mmr": 1405,
-      "pos": 149
+      "deltaMmr": 51,
+      "deltaPos": -61,
+      "mmr": 1456,
+      "pos": 88
     }
   },
   {
@@ -2838,19 +2838,19 @@
     "twitter": "FariusZX",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -4,
       "mmr": 0,
-      "pos": 264
+      "pos": 260
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 1298,
-      "pos": 211
+      "pos": 214
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1216,
       "pos": 243
     }
@@ -2866,21 +2866,21 @@
     "twitter": "FEIROZYT",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 266
+      "pos": 261
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -19,
+      "deltaPos": 24,
       "mmr": 0,
-      "pos": 285
+      "pos": 309
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 9,
-      "mmr": 1404,
-      "pos": 156
+      "deltaMmr": -9,
+      "deltaPos": 6,
+      "mmr": 1395,
+      "pos": 162
     }
   },
   {
@@ -2894,21 +2894,21 @@
     "twitter": "FikXes_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 267
+      "pos": 262
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": 4,
       "mmr": 0,
-      "pos": 292
+      "pos": 296
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 0,
-      "pos": 270
+      "pos": 273
     }
   },
   {
@@ -2922,21 +2922,21 @@
     "twitter": "Fiizno",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 1,
       "mmr": 1075,
-      "pos": 70
+      "pos": 71
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 1458,
-      "pos": 86
+      "deltaMmr": 18,
+      "deltaPos": -5,
+      "mmr": 1476,
+      "pos": 81
     },
     "v3": {
-      "deltaMmr": -1,
-      "deltaPos": 2,
-      "mmr": 1520,
-      "pos": 50
+      "deltaMmr": 12,
+      "deltaPos": -3,
+      "mmr": 1532,
+      "pos": 47
     }
   },
   {
@@ -2950,19 +2950,19 @@
     "twitter": "ClatEsports",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 700,
-      "pos": 118
+      "pos": 121
     },
     "v2": {
-      "deltaMmr": 21,
-      "deltaPos": -3,
-      "mmr": 1241,
-      "pos": 229
+      "deltaMmr": 24,
+      "deltaPos": -8,
+      "mmr": 1265,
+      "pos": 221
     },
     "v3": {
-      "deltaMmr": -1,
-      "deltaPos": 5,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1239,
       "pos": 239
     }
@@ -2978,21 +2978,21 @@
     "twitter": "FR5DDY",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 2,
       "mmr": 781,
-      "pos": 113
+      "pos": 115
     },
     "v2": {
-      "deltaMmr": 123,
-      "deltaPos": -53,
-      "mmr": 1393,
-      "pos": 163
+      "deltaMmr": -56,
+      "deltaPos": 47,
+      "mmr": 1337,
+      "pos": 210
     },
     "v3": {
-      "deltaMmr": 19,
-      "deltaPos": -3,
-      "mmr": 1222,
-      "pos": 242
+      "deltaMmr": 4,
+      "deltaPos": -1,
+      "mmr": 1226,
+      "pos": 241
     }
   },
   {
@@ -3006,21 +3006,21 @@
     "twitter": "RLFredy",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -4,
       "mmr": 0,
-      "pos": 273
+      "pos": 269
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 0,
-      "pos": 277
+      "deltaMmr": 1407,
+      "deltaPos": -139,
+      "mmr": 1407,
+      "pos": 138
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 43,
-      "mmr": 0,
-      "pos": 307
+      "deltaMmr": 1344,
+      "deltaPos": -104,
+      "mmr": 1344,
+      "pos": 203
     }
   },
   {
@@ -3034,21 +3034,21 @@
     "twitter": "AironArroyo",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -6,
       "mmr": 0,
-      "pos": 277
+      "pos": 271
     },
     "v2": {
-      "deltaMmr": -7,
-      "deltaPos": 18,
+      "deltaMmr": 0,
+      "deltaPos": -4,
       "mmr": 1413,
-      "pos": 136
+      "pos": 132
     },
     "v3": {
-      "deltaMmr": 18,
-      "deltaPos": -23,
+      "deltaMmr": 0,
+      "deltaPos": 4,
       "mmr": 1422,
-      "pos": 122
+      "pos": 126
     }
   },
   {
@@ -3062,21 +3062,21 @@
     "twitter": "RLFreisa",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -10,
       "mmr": 0,
-      "pos": 282
+      "pos": 272
     },
     "v2": {
       "deltaMmr": -9,
-      "deltaPos": 21,
-      "mmr": 1386,
-      "pos": 174
+      "deltaPos": 5,
+      "mmr": 1377,
+      "pos": 179
     },
     "v3": {
-      "deltaMmr": 5,
-      "deltaPos": 0,
-      "mmr": 1507,
-      "pos": 58
+      "deltaMmr": -6,
+      "deltaPos": 5,
+      "mmr": 1501,
+      "pos": 63
     }
   },
   {
@@ -3089,22 +3089,22 @@
     "twitch": "",
     "twitter": "Gabriel89011",
     "v1": {
-      "deltaMmr": -10,
+      "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 783,
-      "pos": 112
+      "pos": 114
     },
     "v2": {
-      "deltaMmr": -10,
-      "deltaPos": 3,
-      "mmr": 1284,
-      "pos": 214
+      "deltaMmr": -14,
+      "deltaPos": 4,
+      "mmr": 1270,
+      "pos": 218
     },
     "v3": {
-      "deltaMmr": -4,
-      "deltaPos": 4,
-      "mmr": 1285,
-      "pos": 226
+      "deltaMmr": 21,
+      "deltaPos": -5,
+      "mmr": 1306,
+      "pos": 221
     }
   },
   {
@@ -3117,21 +3117,21 @@
     "twitch": "",
     "twitter": "GaiadeRL",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1209,
-      "pos": 10
+      "deltaMmr": 15,
+      "deltaPos": -3,
+      "mmr": 1224,
+      "pos": 7
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 7,
+      "deltaPos": 4,
       "mmr": 1525,
-      "pos": 47
+      "pos": 51
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1674,
+      "deltaMmr": -12,
+      "deltaPos": 0,
+      "mmr": 1662,
       "pos": 7
     }
   },
@@ -3146,19 +3146,19 @@
     "twitter": "GCR710_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 3,
       "mmr": 1203,
-      "pos": 13
+      "pos": 16
     },
     "v2": {
-      "deltaMmr": 0,
+      "deltaMmr": -29,
       "deltaPos": 0,
-      "mmr": 1763,
+      "mmr": 1734,
       "pos": 3
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1630,
       "pos": 11
     }
@@ -3174,21 +3174,21 @@
     "twitter": "Geribtlol",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 289
+      "pos": 284
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 21,
+      "deltaPos": 12,
       "mmr": 0,
-      "pos": 288
+      "pos": 300
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -12,
+      "deltaPos": -3,
       "mmr": 0,
-      "pos": 299
+      "pos": 296
     }
   },
   {
@@ -3201,22 +3201,22 @@
     "twitch": "gerkee_",
     "twitter": "Gerkee_",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": -2,
-      "mmr": 0,
-      "pos": 290
+      "deltaMmr": 1074,
+      "deltaPos": -218,
+      "mmr": 1074,
+      "pos": 72
     },
     "v2": {
-      "deltaMmr": -19,
-      "deltaPos": 31,
+      "deltaMmr": 0,
+      "deltaPos": -2,
       "mmr": 1398,
-      "pos": 154
+      "pos": 152
     },
     "v3": {
-      "deltaMmr": -21,
-      "deltaPos": 35,
-      "mmr": 1419,
-      "pos": 129
+      "deltaMmr": -25,
+      "deltaPos": 36,
+      "mmr": 1394,
+      "pos": 165
     }
   },
   {
@@ -3230,21 +3230,21 @@
     "twitter": "itsgrillo",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -2,
       "mmr": 1174,
-      "pos": 23
+      "pos": 21
     },
     "v2": {
-      "deltaMmr": -44,
-      "deltaPos": 10,
-      "mmr": 1598,
-      "pos": 22
+      "deltaMmr": -22,
+      "deltaPos": 4,
+      "mmr": 1576,
+      "pos": 26
     },
     "v3": {
-      "deltaMmr": 5,
-      "deltaPos": -2,
-      "mmr": 1592,
-      "pos": 19
+      "deltaMmr": 24,
+      "deltaPos": -7,
+      "mmr": 1616,
+      "pos": 12
     }
   },
   {
@@ -3258,21 +3258,21 @@
     "twitter": "ELGRINGORL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 910,
-      "pos": 100
+      "pos": 103
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1369,
-      "pos": 187
+      "deltaMmr": 12,
+      "deltaPos": -12,
+      "mmr": 1381,
+      "pos": 175
     },
     "v3": {
-      "deltaMmr": 37,
-      "deltaPos": -40,
-      "mmr": 1408,
-      "pos": 140
+      "deltaMmr": -20,
+      "deltaPos": 32,
+      "mmr": 1388,
+      "pos": 172
     }
   },
   {
@@ -3286,21 +3286,21 @@
     "twitter": "GrovexRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -7,
       "mmr": 0,
-      "pos": 297
+      "pos": 290
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -17,
+      "deltaPos": 30,
       "mmr": 0,
-      "pos": 275
+      "pos": 305
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -10,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 298
+      "pos": 293
     }
   },
   {
@@ -3316,19 +3316,19 @@
       "deltaMmr": 0,
       "deltaPos": -6,
       "mmr": 0,
-      "pos": 298
+      "pos": 292
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 2,
       "mmr": 1453,
-      "pos": 91
+      "pos": 93
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 2,
       "mmr": 1440,
-      "pos": 96
+      "pos": 98
     }
   },
   {
@@ -3341,21 +3341,21 @@
     "twitch": "",
     "twitter": "RocketHadry",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1181,
-      "pos": 21
+      "deltaMmr": 26,
+      "deltaPos": -8,
+      "mmr": 1207,
+      "pos": 13
     },
     "v2": {
-      "deltaMmr": 8,
-      "deltaPos": -5,
-      "mmr": 1496,
-      "pos": 61
+      "deltaMmr": 54,
+      "deltaPos": -27,
+      "mmr": 1550,
+      "pos": 34
     },
     "v3": {
-      "deltaMmr": 42,
-      "deltaPos": -2,
-      "mmr": 1661,
+      "deltaMmr": -7,
+      "deltaPos": 0,
+      "mmr": 1654,
       "pos": 8
     }
   },
@@ -3369,22 +3369,22 @@
     "twitch": "",
     "twitter": "HANDRIU_RL",
     "v1": {
-      "deltaMmr": 12,
-      "deltaPos": -5,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1127,
-      "pos": 50
+      "pos": 52
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1416,
-      "pos": 131
+      "deltaMmr": 22,
+      "deltaPos": -20,
+      "mmr": 1438,
+      "pos": 111
     },
     "v3": {
-      "deltaMmr": 10,
-      "deltaPos": -7,
-      "mmr": 1529,
-      "pos": 42
+      "deltaMmr": -9,
+      "deltaPos": 11,
+      "mmr": 1520,
+      "pos": 53
     }
   },
   {
@@ -3398,21 +3398,21 @@
     "twitter": "HappySausagee",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": -9,
       "mmr": 0,
-      "pos": 307
+      "pos": 298
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": 21,
       "mmr": 0,
-      "pos": 266
+      "pos": 287
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 2,
       "mmr": 1439,
-      "pos": 98
+      "pos": 100
     }
   },
   {
@@ -3426,21 +3426,21 @@
     "twitter": "Harlemsiti",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 309
+      "pos": 304
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 34,
+      "deltaPos": -20,
       "mmr": 0,
-      "pos": 305
+      "pos": 285
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": -7,
       "mmr": 0,
-      "pos": 296
+      "pos": 289
     }
   },
   {
@@ -3454,21 +3454,21 @@
     "twitter": "Hate_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 5,
       "mmr": 1058,
-      "pos": 71
+      "pos": 76
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 6,
       "mmr": 1431,
-      "pos": 111
+      "pos": 117
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 2,
       "mmr": 1409,
-      "pos": 138
+      "pos": 140
     }
   },
   {
@@ -3482,21 +3482,21 @@
     "twitter": "HawkMJ23",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 187,
+      "deltaPos": -6,
       "mmr": 0,
-      "pos": 313
+      "pos": 307
     },
     "v2": {
       "deltaMmr": 0,
       "deltaPos": 3,
       "mmr": 1242,
-      "pos": 228
+      "pos": 231
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 1,
       "mmr": 1304,
-      "pos": 221
+      "pos": 222
     }
   },
   {
@@ -3510,21 +3510,21 @@
     "twitter": "",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 1005,
-      "pos": 87
+      "pos": 90
     },
     "v2": {
-      "deltaMmr": -4,
-      "deltaPos": 9,
-      "mmr": 1368,
-      "pos": 190
+      "deltaMmr": -10,
+      "deltaPos": 4,
+      "mmr": 1358,
+      "pos": 194
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": -16,
-      "mmr": 0,
-      "pos": 281
+      "deltaMmr": 1330,
+      "deltaPos": -68,
+      "mmr": 1330,
+      "pos": 213
     }
   },
   {
@@ -3537,20 +3537,20 @@
     "twitch": "",
     "twitter": "hugoo_gb",
     "v1": {
-      "deltaMmr": 12,
-      "deltaPos": -5,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1120,
-      "pos": 53
+      "pos": 55
     },
     "v2": {
-      "deltaMmr": -3,
-      "deltaPos": 10,
+      "deltaMmr": 0,
+      "deltaPos": -4,
       "mmr": 1400,
-      "pos": 152
+      "pos": 148
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 0,
       "mmr": 1503,
       "pos": 61
     }
@@ -3566,21 +3566,21 @@
     "twitter": "HunayRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 185,
       "mmr": 0,
-      "pos": 128
+      "pos": 313
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -39,
+      "deltaPos": 30,
       "mmr": 0,
-      "pos": 273
+      "pos": 303
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -18,
+      "deltaPos": 3,
       "mmr": 0,
-      "pos": 278
+      "pos": 281
     }
   },
   {
@@ -3594,21 +3594,21 @@
     "twitter": "IBONAKORL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 129
     },
     "v2": {
-      "deltaMmr": -5,
+      "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 1559,
-      "pos": 29
+      "pos": 31
     },
     "v3": {
-      "deltaMmr": 60,
-      "deltaPos": -25,
-      "mmr": 1546,
-      "pos": 39
+      "deltaMmr": 16,
+      "deltaPos": -8,
+      "mmr": 1562,
+      "pos": 31
     }
   },
   {
@@ -3622,19 +3622,19 @@
     "twitter": "ibrahimovic9RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 130
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 4,
       "mmr": 1515,
-      "pos": 55
+      "pos": 59
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1559,
       "pos": 34
     }
@@ -3650,21 +3650,21 @@
     "twitter": "",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 131
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 10,
       "mmr": 1442,
-      "pos": 100
+      "pos": 110
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 11,
+      "deltaPos": -3,
       "mmr": 1404,
-      "pos": 155
+      "pos": 152
     }
   },
   {
@@ -3678,21 +3678,21 @@
     "twitter": "iDrkRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 132
     },
     "v2": {
-      "deltaMmr": -15,
-      "deltaPos": 3,
-      "mmr": 1314,
-      "pos": 208
+      "deltaMmr": 27,
+      "deltaPos": -1,
+      "mmr": 1341,
+      "pos": 207
     },
     "v3": {
-      "deltaMmr": -49,
-      "deltaPos": 44,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1347,
-      "pos": 198
+      "pos": 200
     }
   },
   {
@@ -3706,21 +3706,21 @@
     "twitter": "fraaan_jimenezz",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 133
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1060,
-      "pos": 251
+      "deltaMmr": 66,
+      "deltaPos": -3,
+      "mmr": 1126,
+      "pos": 248
     },
     "v3": {
-      "deltaMmr": 1168,
-      "deltaPos": -27,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1168,
-      "pos": 257
+      "pos": 259
     }
   },
   {
@@ -3734,21 +3734,21 @@
     "twitter": "_iiNFiNiTe__",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 134
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 0,
-      "pos": 267
+      "deltaMmr": 1251,
+      "deltaPos": -38,
+      "mmr": 1251,
+      "pos": 229
     },
     "v3": {
-      "deltaMmr": -14,
-      "deltaPos": 6,
-      "mmr": 1314,
-      "pos": 215
+      "deltaMmr": -33,
+      "deltaPos": 14,
+      "mmr": 1281,
+      "pos": 229
     }
   },
   {
@@ -3762,13 +3762,13 @@
     "twitter": "ILuZziOnYT",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 135
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1417,
       "pos": 128
     },
@@ -3776,7 +3776,7 @@
       "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 1442,
-      "pos": 93
+      "pos": 95
     }
   },
   {
@@ -3790,21 +3790,21 @@
     "twitter": "trblrl",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 136
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -23,
+      "deltaPos": 26,
       "mmr": 0,
-      "pos": 264
+      "pos": 290
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": -1,
-      "mmr": 1422,
-      "pos": 121
+      "deltaMmr": 5,
+      "deltaPos": -6,
+      "mmr": 1427,
+      "pos": 115
     }
   },
   {
@@ -3818,21 +3818,21 @@
     "twitter": "Asderel992",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 137
     },
     "v2": {
-      "deltaMmr": 27,
-      "deltaPos": -9,
-      "mmr": 1361,
-      "pos": 194
+      "deltaMmr": -20,
+      "deltaPos": 12,
+      "mmr": 1341,
+      "pos": 206
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 2,
       "mmr": 1204,
-      "pos": 245
+      "pos": 247
     }
   },
   {
@@ -3846,21 +3846,21 @@
     "twitter": "Irving_ASF",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 138
     },
     "v2": {
-      "deltaMmr": 31,
-      "deltaPos": -41,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1417,
       "pos": 127
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 5,
       "mmr": 1419,
-      "pos": 128
+      "pos": 133
     }
   },
   {
@@ -3880,15 +3880,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 4,
       "mmr": 1478,
-      "pos": 73
+      "pos": 77
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 1421,
-      "pos": 124
+      "pos": 127
     }
   },
   {
@@ -3902,20 +3902,20 @@
     "twitter": "Itsulen",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 140
     },
     "v2": {
-      "deltaMmr": 7,
-      "deltaPos": -1,
-      "mmr": 1636,
-      "pos": 14
+      "deltaMmr": -21,
+      "deltaPos": 1,
+      "mmr": 1615,
+      "pos": 15
     },
     "v3": {
-      "deltaMmr": 41,
-      "deltaPos": -2,
-      "mmr": 1690,
+      "deltaMmr": -10,
+      "deltaPos": 0,
+      "mmr": 1680,
       "pos": 5
     }
   },
@@ -3929,22 +3929,22 @@
     "twitch": "itszalgo",
     "twitter": "kill01241",
     "v1": {
-      "deltaMmr": 13,
-      "deltaPos": 0,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 977,
-      "pos": 95
+      "pos": 97
     },
     "v2": {
-      "deltaMmr": 8,
-      "deltaPos": -5,
-      "mmr": 1411,
-      "pos": 139
+      "deltaMmr": -43,
+      "deltaPos": 51,
+      "mmr": 1368,
+      "pos": 190
     },
     "v3": {
-      "deltaMmr": 16,
-      "deltaPos": -8,
-      "mmr": 1350,
-      "pos": 196
+      "deltaMmr": -5,
+      "deltaPos": 5,
+      "mmr": 1345,
+      "pos": 201
     }
   },
   {
@@ -3958,21 +3958,21 @@
     "twitter": "RLivan2",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1186,
       "pos": 20
     },
     "v2": {
-      "deltaMmr": 42,
-      "deltaPos": -17,
-      "mmr": 1565,
-      "pos": 27
+      "deltaMmr": -3,
+      "deltaPos": 2,
+      "mmr": 1562,
+      "pos": 29
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 4,
-      "mmr": 1474,
-      "pos": 76
+      "deltaMmr": 17,
+      "deltaPos": -7,
+      "mmr": 1491,
+      "pos": 69
     }
   },
   {
@@ -3986,21 +3986,21 @@
     "twitter": "Ivanero2003",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 143
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": -4,
       "mmr": 1398,
-      "pos": 155
+      "pos": 151
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": -2,
       "mmr": 0,
-      "pos": 276
+      "pos": 274
     }
   },
   {
@@ -4014,21 +4014,21 @@
     "twitter": "iXeToXx",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 144
     },
     "v2": {
-      "deltaMmr": -7,
-      "deltaPos": 5,
-      "mmr": 1498,
-      "pos": 60
+      "deltaMmr": -21,
+      "deltaPos": 19,
+      "mmr": 1477,
+      "pos": 79
     },
     "v3": {
-      "deltaMmr": 13,
-      "deltaPos": -21,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 1443,
-      "pos": 91
+      "pos": 94
     }
   },
   {
@@ -4041,22 +4041,22 @@
     "twitch": "",
     "twitter": "SrJafifu",
     "v1": {
-      "deltaMmr": 35,
-      "deltaPos": -10,
-      "mmr": 1030,
-      "pos": 80
+      "deltaMmr": -2,
+      "deltaPos": 1,
+      "mmr": 1028,
+      "pos": 81
     },
     "v2": {
-      "deltaMmr": 32,
-      "deltaPos": -23,
-      "mmr": 1388,
-      "pos": 172
+      "deltaMmr": 26,
+      "deltaPos": -42,
+      "mmr": 1414,
+      "pos": 130
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1376,
-      "pos": 175
+      "deltaMmr": -4,
+      "deltaPos": 8,
+      "mmr": 1372,
+      "pos": 183
     }
   },
   {
@@ -4070,21 +4070,21 @@
     "twitter": "JairoFernandez_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 146
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 8,
+      "deltaPos": -3,
       "mmr": 1380,
-      "pos": 180
+      "pos": 177
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 4,
       "mmr": 1420,
-      "pos": 126
+      "pos": 130
     }
   },
   {
@@ -4098,21 +4098,21 @@
     "twitter": "JandroCaro",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 147
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 1,
       "mmr": 0,
-      "pos": 282
+      "pos": 283
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 3,
       "mmr": 1145,
-      "pos": 258
+      "pos": 261
     }
   },
   {
@@ -4126,7 +4126,7 @@
     "twitter": "JapiKailer",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 148
     },
@@ -4134,13 +4134,13 @@
       "deltaMmr": 0,
       "deltaPos": 1,
       "mmr": 1169,
-      "pos": 241
+      "pos": 242
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 4,
       "mmr": 1355,
-      "pos": 191
+      "pos": 195
     }
   },
   {
@@ -4154,19 +4154,19 @@
     "twitter": "joseemii27",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 4,
       "mmr": 769,
-      "pos": 114
+      "pos": 118
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1174,
-      "pos": 240
+      "deltaMmr": 57,
+      "deltaPos": -7,
+      "mmr": 1231,
+      "pos": 233
     },
     "v3": {
-      "deltaMmr": 19,
-      "deltaPos": -2,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1192,
       "pos": 250
     }
@@ -4182,21 +4182,21 @@
     "twitter": "JaviGamesYT_xX",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 150
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 3,
-      "mmr": 1422,
-      "pos": 118
+      "deltaMmr": 76,
+      "deltaPos": -54,
+      "mmr": 1498,
+      "pos": 64
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 36,
+      "deltaPos": -4,
       "mmr": 0,
-      "pos": 308
+      "pos": 304
     }
   },
   {
@@ -4210,21 +4210,21 @@
     "twitter": "javirm2000",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 151
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 18,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 297
+      "pos": 292
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 31,
+      "deltaPos": -14,
       "mmr": 0,
-      "pos": 302
+      "pos": 288
     }
   },
   {
@@ -4238,20 +4238,20 @@
     "twitter": "javitownzz",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 152
     },
     "v2": {
-      "deltaMmr": -10,
-      "deltaPos": 8,
-      "mmr": 1451,
-      "pos": 92
+      "deltaMmr": 27,
+      "deltaPos": -14,
+      "mmr": 1478,
+      "pos": 78
     },
     "v3": {
-      "deltaMmr": -5,
-      "deltaPos": 9,
-      "mmr": 1407,
+      "deltaMmr": 2,
+      "deltaPos": 0,
+      "mmr": 1409,
       "pos": 142
     }
   },
@@ -4266,19 +4266,19 @@
     "twitter": "JeyTiJey",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 153
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1417,
       "pos": 126
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": 0,
       "mmr": 1405,
       "pos": 148
     }
@@ -4294,21 +4294,21 @@
     "twitter": "",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 154
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 52,
+      "deltaPos": -22,
       "mmr": 0,
-      "pos": 315
+      "pos": 293
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 26,
+      "deltaPos": -23,
       "mmr": 0,
-      "pos": 295
+      "pos": 272
     }
   },
   {
@@ -4321,22 +4321,22 @@
     "twitch": "",
     "twitter": "JiiYee",
     "v1": {
-      "deltaMmr": -10,
-      "deltaPos": 3,
-      "mmr": 1109,
-      "pos": 57
-    },
-    "v2": {
-      "deltaMmr": 9,
-      "deltaPos": -1,
-      "mmr": 1533,
-      "pos": 42
-    },
-    "v3": {
       "deltaMmr": 0,
       "deltaPos": 1,
-      "mmr": 1614,
-      "pos": 12
+      "mmr": 1109,
+      "pos": 58
+    },
+    "v2": {
+      "deltaMmr": -5,
+      "deltaPos": 7,
+      "mmr": 1528,
+      "pos": 49
+    },
+    "v3": {
+      "deltaMmr": -23,
+      "deltaPos": 7,
+      "mmr": 1591,
+      "pos": 19
     }
   },
   {
@@ -4355,16 +4355,16 @@
       "pos": 35
     },
     "v2": {
-      "deltaMmr": 16,
-      "deltaPos": -9,
+      "deltaMmr": 0,
+      "deltaPos": 4,
       "mmr": 1533,
-      "pos": 41
+      "pos": 45
     },
     "v3": {
-      "deltaMmr": -24,
-      "deltaPos": 30,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1409,
-      "pos": 139
+      "pos": 141
     }
   },
   {
@@ -4378,21 +4378,21 @@
     "twitter": "RLJuanma_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 32,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 157
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": -3,
       "mmr": 1397,
-      "pos": 157
+      "pos": 154
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 4,
       "mmr": 1491,
-      "pos": 64
+      "pos": 68
     }
   },
   {
@@ -4405,22 +4405,22 @@
     "twitch": "",
     "twitter": "jofosu1",
     "v1": {
-      "deltaMmr": -10,
-      "deltaPos": 2,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 946,
-      "pos": 98
+      "pos": 101
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": -3,
       "mmr": 1397,
-      "pos": 156
+      "pos": 153
     },
     "v3": {
-      "deltaMmr": -73,
-      "deltaPos": 45,
-      "mmr": 1455,
-      "pos": 87
+      "deltaMmr": 1,
+      "deltaPos": 2,
+      "mmr": 1456,
+      "pos": 89
     }
   },
   {
@@ -4434,21 +4434,21 @@
     "twitter": "talavero17",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 159
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 10,
+      "deltaPos": -5,
       "mmr": 1386,
-      "pos": 176
+      "pos": 171
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 9,
+      "deltaPos": 3,
       "mmr": 1388,
-      "pos": 170
+      "pos": 173
     }
   },
   {
@@ -4462,21 +4462,21 @@
     "twitter": "jeytwentysix",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 160
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 8,
       "mmr": 1469,
-      "pos": 76
+      "pos": 84
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 3,
       "mmr": 1466,
-      "pos": 79
+      "pos": 82
     }
   },
   {
@@ -4490,7 +4490,7 @@
     "twitter": "juanbl982",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 161
     },
@@ -4498,13 +4498,13 @@
       "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 1055,
-      "pos": 252
+      "pos": 254
     },
     "v3": {
-      "deltaMmr": -2,
-      "deltaPos": 3,
-      "mmr": 1229,
-      "pos": 240
+      "deltaMmr": 14,
+      "deltaPos": -3,
+      "mmr": 1243,
+      "pos": 237
     }
   },
   {
@@ -4518,21 +4518,21 @@
     "twitter": "Juanlu_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 162
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 2,
       "mmr": 1491,
-      "pos": 65
+      "pos": 67
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 5,
       "mmr": 1421,
-      "pos": 123
+      "pos": 128
     }
   },
   {
@@ -4546,21 +4546,21 @@
     "twitter": "Juanma_lokko",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 163
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 28,
+      "deltaPos": -33,
       "mmr": 0,
-      "pos": 309
+      "pos": 276
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 14,
+      "deltaPos": 30,
       "mmr": 0,
-      "pos": 280
+      "pos": 310
     }
   },
   {
@@ -4574,21 +4574,21 @@
     "twitter": "Sweet0RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 1038,
-      "pos": 76
+      "pos": 79
     },
     "v2": {
-      "deltaMmr": 54,
-      "deltaPos": -29,
+      "deltaMmr": 0,
+      "deltaPos": 6,
       "mmr": 1525,
-      "pos": 46
+      "pos": 52
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 5,
-      "mmr": 1406,
-      "pos": 144
+      "deltaMmr": -11,
+      "deltaPos": 17,
+      "mmr": 1395,
+      "pos": 161
     }
   },
   {
@@ -4602,21 +4602,21 @@
     "twitter": "KaelThx",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 165
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 1,
       "mmr": 0,
-      "pos": 306
+      "pos": 307
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 12,
+      "deltaPos": 34,
       "mmr": 0,
-      "pos": 275
+      "pos": 309
     }
   },
   {
@@ -4630,21 +4630,21 @@
     "twitter": "KAISER_ESP_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 2,
       "mmr": 1132,
-      "pos": 45
+      "pos": 47
     },
     "v2": {
-      "deltaMmr": 41,
-      "deltaPos": -48,
-      "mmr": 1406,
-      "pos": 141
+      "deltaMmr": 38,
+      "deltaPos": -35,
+      "mmr": 1444,
+      "pos": 106
     },
     "v3": {
-      "deltaMmr": -14,
-      "deltaPos": 19,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1430,
-      "pos": 109
+      "pos": 111
     }
   },
   {
@@ -4657,22 +4657,22 @@
     "twitch": "",
     "twitter": "kappa_rl",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 1049,
-      "pos": 73
+      "deltaMmr": 9,
+      "deltaPos": 1,
+      "mmr": 1058,
+      "pos": 74
     },
     "v2": {
-      "deltaMmr": -50,
-      "deltaPos": 40,
-      "mmr": 1441,
-      "pos": 101
+      "deltaMmr": -33,
+      "deltaPos": 36,
+      "mmr": 1408,
+      "pos": 137
     },
     "v3": {
-      "deltaMmr": -12,
-      "deltaPos": 5,
-      "mmr": 1601,
-      "pos": 17
+      "deltaMmr": -20,
+      "deltaPos": 7,
+      "mmr": 1581,
+      "pos": 24
     }
   },
   {
@@ -4686,21 +4686,21 @@
     "twitter": "Karsten_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 168
     },
     "v2": {
-      "deltaMmr": 8,
-      "deltaPos": -1,
+      "deltaMmr": 0,
+      "deltaPos": 6,
       "mmr": 1533,
-      "pos": 40
+      "pos": 46
     },
     "v3": {
-      "deltaMmr": 7,
-      "deltaPos": 2,
-      "mmr": 1554,
-      "pos": 37
+      "deltaMmr": 12,
+      "deltaPos": -8,
+      "mmr": 1566,
+      "pos": 29
     }
   },
   {
@@ -4714,21 +4714,21 @@
     "twitter": "Kassaaa2",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 169
     },
     "v2": {
-      "deltaMmr": 3,
-      "deltaPos": 3,
+      "deltaMmr": 0,
+      "deltaPos": 4,
       "mmr": 1508,
-      "pos": 57
+      "pos": 61
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 5,
       "mmr": 1356,
-      "pos": 188
+      "pos": 193
     }
   },
   {
@@ -4742,21 +4742,21 @@
     "twitter": "koala898",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 170
     },
     "v2": {
-      "deltaMmr": -48,
-      "deltaPos": 7,
-      "mmr": 1128,
+      "deltaMmr": 18,
+      "deltaPos": 0,
+      "mmr": 1146,
       "pos": 244
     },
     "v3": {
-      "deltaMmr": 2,
-      "deltaPos": 2,
-      "mmr": 1313,
-      "pos": 216
+      "deltaMmr": 20,
+      "deltaPos": -6,
+      "mmr": 1333,
+      "pos": 210
     }
   },
   {
@@ -4770,21 +4770,21 @@
     "twitter": "Kxdron",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 171
     },
     "v2": {
-      "deltaMmr": 49,
-      "deltaPos": -25,
-      "mmr": 1385,
-      "pos": 177
+      "deltaMmr": -17,
+      "deltaPos": 11,
+      "mmr": 1368,
+      "pos": 188
     },
     "v3": {
-      "deltaMmr": 44,
-      "deltaPos": -8,
+      "deltaMmr": 0,
+      "deltaPos": 1,
       "mmr": 1296,
-      "pos": 223
+      "pos": 224
     }
   },
   {
@@ -4798,21 +4798,21 @@
     "twitter": "KeNNNNN1Twitch",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 172
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 2,
       "mmr": 1254,
-      "pos": 224
+      "pos": 226
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 25,
       "mmr": 0,
-      "pos": 282
+      "pos": 307
     }
   },
   {
@@ -4825,22 +4825,22 @@
     "twitch": "",
     "twitter": "xXKhaelaNXx",
     "v1": {
-      "deltaMmr": 26,
-      "deltaPos": -8,
-      "mmr": 1192,
-      "pos": 18
+      "deltaMmr": 13,
+      "deltaPos": -4,
+      "mmr": 1205,
+      "pos": 14
     },
     "v2": {
-      "deltaMmr": 28,
-      "deltaPos": -8,
-      "mmr": 1556,
-      "pos": 30
+      "deltaMmr": 16,
+      "deltaPos": -3,
+      "mmr": 1572,
+      "pos": 27
     },
     "v3": {
       "deltaMmr": 0,
       "deltaPos": 4,
       "mmr": 1538,
-      "pos": 41
+      "pos": 45
     }
   },
   {
@@ -4854,20 +4854,20 @@
     "twitter": "KierMonsteR_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": -2,
       "mmr": 1167,
-      "pos": 26
+      "pos": 24
     },
     "v2": {
-      "deltaMmr": 29,
-      "deltaPos": -7,
-      "mmr": 1562,
-      "pos": 28
+      "deltaMmr": 52,
+      "deltaPos": -12,
+      "mmr": 1614,
+      "pos": 16
     },
     "v3": {
-      "deltaMmr": 57,
-      "deltaPos": -14,
-      "mmr": 1634,
+      "deltaMmr": 5,
+      "deltaPos": 0,
+      "mmr": 1639,
       "pos": 10
     }
   },
@@ -4881,22 +4881,22 @@
     "twitch": "",
     "twitter": "KilleroRL",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1140,
+      "deltaMmr": 1,
+      "deltaPos": 0,
+      "mmr": 1141,
       "pos": 40
     },
     "v2": {
-      "deltaMmr": -7,
-      "deltaPos": 7,
+      "deltaMmr": 0,
+      "deltaPos": 5,
       "mmr": 1481,
-      "pos": 71
+      "pos": 76
     },
     "v3": {
-      "deltaMmr": 27,
-      "deltaPos": -6,
-      "mmr": 1582,
-      "pos": 25
+      "deltaMmr": -23,
+      "deltaPos": 8,
+      "mmr": 1559,
+      "pos": 33
     }
   },
   {
@@ -4910,21 +4910,21 @@
     "twitter": "",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 176
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 7,
       "mmr": 1444,
-      "pos": 97
+      "pos": 104
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 31,
+      "deltaPos": -10,
       "mmr": 0,
-      "pos": 309
+      "pos": 299
     }
   },
   {
@@ -4938,21 +4938,21 @@
     "twitter": "KleinakoRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 177
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 14,
+      "deltaPos": 25,
       "mmr": 0,
-      "pos": 287
+      "pos": 312
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 7,
+      "deltaPos": -6,
       "mmr": 0,
-      "pos": 284
+      "pos": 278
     }
   },
   {
@@ -4966,19 +4966,19 @@
     "twitter": "KontrolRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 2,
       "mmr": 1102,
-      "pos": 61
+      "pos": 63
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -2,
       "mmr": 1412,
-      "pos": 137
+      "pos": 135
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1713,
       "pos": 4
     }
@@ -4994,21 +4994,21 @@
     "twitter": "kratosRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 179
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 7,
+      "deltaPos": -7,
       "mmr": 1392,
-      "pos": 167
+      "pos": 160
     },
     "v3": {
-      "deltaMmr": -48,
-      "deltaPos": 64,
-      "mmr": 1405,
-      "pos": 150
+      "deltaMmr": 16,
+      "deltaPos": -21,
+      "mmr": 1421,
+      "pos": 129
     }
   },
   {
@@ -5022,21 +5022,21 @@
     "twitter": "blars_kr0nEr60",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 180
     },
     "v2": {
-      "deltaMmr": 40,
-      "deltaPos": -9,
+      "deltaMmr": 0,
+      "deltaPos": 1,
       "mmr": 1268,
-      "pos": 218
+      "pos": 219
     },
     "v3": {
-      "deltaMmr": 1170,
-      "deltaPos": -19,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1170,
-      "pos": 255
+      "pos": 257
     }
   },
   {
@@ -5050,21 +5050,21 @@
     "twitter": "kucilla11",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 181
     },
     "v2": {
-      "deltaMmr": 39,
-      "deltaPos": -48,
-      "mmr": 1419,
-      "pos": 122
+      "deltaMmr": -9,
+      "deltaPos": 14,
+      "mmr": 1410,
+      "pos": 136
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 7,
+      "deltaPos": 14,
       "mmr": 0,
-      "pos": 269
+      "pos": 283
     }
   },
   {
@@ -5078,21 +5078,21 @@
     "twitter": "Meloncillo29",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 2,
       "mmr": 631,
-      "pos": 121
+      "pos": 123
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1091,
-      "pos": 249
+      "deltaMmr": 1,
+      "deltaPos": 3,
+      "mmr": 1092,
+      "pos": 252
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -28,
+      "deltaPos": -1,
       "mmr": 0,
-      "pos": 271
+      "pos": 270
     }
   },
   {
@@ -5106,21 +5106,21 @@
     "twitter": "Leia_AryaYT",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 183
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": 26,
       "mmr": 0,
-      "pos": 280
+      "pos": 306
     },
     "v3": {
-      "deltaMmr": -31,
-      "deltaPos": 24,
-      "mmr": 1350,
-      "pos": 194
+      "deltaMmr": 73,
+      "deltaPos": -72,
+      "mmr": 1423,
+      "pos": 122
     }
   },
   {
@@ -5134,21 +5134,21 @@
     "twitter": "leiiartxer",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 184
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 1,
       "mmr": 1418,
-      "pos": 124
+      "pos": 125
     },
     "v3": {
       "deltaMmr": 0,
       "deltaPos": 3,
       "mmr": 1408,
-      "pos": 141
+      "pos": 144
     }
   },
   {
@@ -5162,7 +5162,7 @@
     "twitter": "leo1983_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 185
     },
@@ -5170,13 +5170,13 @@
       "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 895,
-      "pos": 259
+      "pos": 261
     },
     "v3": {
-      "deltaMmr": -26,
-      "deltaPos": 8,
-      "mmr": 1184,
-      "pos": 251
+      "deltaMmr": -9,
+      "deltaPos": 5,
+      "mmr": 1175,
+      "pos": 256
     }
   },
   {
@@ -5190,21 +5190,21 @@
     "twitter": "LeonFlameRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 2,
       "mmr": 956,
-      "pos": 97
+      "pos": 99
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 1270,
-      "pos": 217
+      "deltaMmr": -17,
+      "deltaPos": 10,
+      "mmr": 1253,
+      "pos": 227
     },
     "v3": {
-      "deltaMmr": 23,
-      "deltaPos": -11,
-      "mmr": 1340,
-      "pos": 201
+      "deltaMmr": 3,
+      "deltaPos": 4,
+      "mmr": 1343,
+      "pos": 205
     }
   },
   {
@@ -5218,21 +5218,21 @@
     "twitter": "Lete7RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -2,
       "mmr": 1163,
-      "pos": 29
+      "pos": 27
     },
     "v2": {
-      "deltaMmr": 8,
-      "deltaPos": 0,
-      "mmr": 1500,
-      "pos": 59
+      "deltaMmr": -1,
+      "deltaPos": 4,
+      "mmr": 1499,
+      "pos": 63
     },
     "v3": {
-      "deltaMmr": 25,
-      "deltaPos": -11,
-      "mmr": 1487,
-      "pos": 67
+      "deltaMmr": 20,
+      "deltaPos": -7,
+      "mmr": 1507,
+      "pos": 60
     }
   },
   {
@@ -5246,21 +5246,21 @@
     "twitter": "luis_05_96",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 188
     },
     "v2": {
-      "deltaMmr": -15,
-      "deltaPos": 6,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 1263,
-      "pos": 220
+      "pos": 223
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 1,
       "mmr": 1252,
-      "pos": 234
+      "pos": 235
     }
   },
   {
@@ -5274,21 +5274,21 @@
     "twitter": "xBlacKzyy",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 189
     },
     "v2": {
-      "deltaMmr": -15,
-      "deltaPos": 18,
-      "mmr": 1428,
-      "pos": 114
+      "deltaMmr": 22,
+      "deltaPos": -16,
+      "mmr": 1450,
+      "pos": 98
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 5,
       "mmr": 1419,
-      "pos": 127
+      "pos": 132
     }
   },
   {
@@ -5302,21 +5302,21 @@
     "twitter": "JustLoriti",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 190
     },
     "v2": {
-      "deltaMmr": -40,
-      "deltaPos": 8,
-      "mmr": 1271,
-      "pos": 216
+      "deltaMmr": 69,
+      "deltaPos": -8,
+      "mmr": 1340,
+      "pos": 208
     },
     "v3": {
-      "deltaMmr": 69,
-      "deltaPos": -47,
-      "mmr": 1397,
-      "pos": 161
+      "deltaMmr": 6,
+      "deltaPos": -6,
+      "mmr": 1403,
+      "pos": 155
     }
   },
   {
@@ -5329,22 +5329,22 @@
     "twitch": "ltk_atomik1",
     "twitter": "rlatomik",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1201,
-      "pos": 14
+      "deltaMmr": 15,
+      "deltaPos": -4,
+      "mmr": 1216,
+      "pos": 10
     },
     "v2": {
-      "deltaMmr": 13,
-      "deltaPos": -2,
-      "mmr": 1646,
-      "pos": 12
+      "deltaMmr": -34,
+      "deltaPos": 5,
+      "mmr": 1612,
+      "pos": 17
     },
     "v3": {
-      "deltaMmr": 7,
-      "deltaPos": 1,
-      "mmr": 1513,
-      "pos": 55
+      "deltaMmr": -15,
+      "deltaPos": 12,
+      "mmr": 1498,
+      "pos": 67
     }
   },
   {
@@ -5357,22 +5357,22 @@
     "twitch": "",
     "twitter": "LuiisP_03",
     "v1": {
-      "deltaMmr": 22,
-      "deltaPos": -9,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1151,
       "pos": 36
     },
     "v2": {
-      "deltaMmr": -29,
+      "deltaMmr": -27,
       "deltaPos": 7,
-      "mmr": 1621,
-      "pos": 16
+      "mmr": 1594,
+      "pos": 23
     },
     "v3": {
-      "deltaMmr": -8,
-      "deltaPos": 3,
-      "mmr": 1600,
-      "pos": 18
+      "deltaMmr": 14,
+      "deltaPos": -5,
+      "mmr": 1614,
+      "pos": 13
     }
   },
   {
@@ -5386,21 +5386,21 @@
     "twitter": "LuXxoR_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 2,
       "mmr": 1128,
-      "pos": 47
+      "pos": 49
     },
     "v2": {
-      "deltaMmr": -6,
-      "deltaPos": 8,
-      "mmr": 1525,
-      "pos": 45
+      "deltaMmr": 8,
+      "deltaPos": -1,
+      "mmr": 1533,
+      "pos": 44
     },
     "v3": {
-      "deltaMmr": -31,
-      "deltaPos": 21,
-      "mmr": 1506,
-      "pos": 59
+      "deltaMmr": 35,
+      "deltaPos": -15,
+      "mmr": 1541,
+      "pos": 44
     }
   },
   {
@@ -5414,7 +5414,7 @@
     "twitter": "pintocarlo97",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 194
     },
@@ -5422,13 +5422,13 @@
       "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 1097,
-      "pos": 248
+      "pos": 250
     },
     "v3": {
       "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 1169,
-      "pos": 256
+      "pos": 258
     }
   },
   {
@@ -5442,21 +5442,21 @@
     "twitter": "MagicZondixYT",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 195
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 5,
-      "mmr": 1376,
-      "pos": 182
+      "deltaMmr": 9,
+      "deltaPos": -10,
+      "mmr": 1385,
+      "pos": 172
     },
     "v3": {
-      "deltaMmr": 36,
-      "deltaPos": -41,
-      "mmr": 1420,
-      "pos": 125
+      "deltaMmr": 16,
+      "deltaPos": -21,
+      "mmr": 1436,
+      "pos": 104
     }
   },
   {
@@ -5470,21 +5470,21 @@
     "twitter": "Magiiiks",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 3,
       "mmr": 1203,
-      "pos": 12
+      "pos": 15
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1593,
-      "pos": 24
+      "deltaMmr": 15,
+      "deltaPos": -6,
+      "mmr": 1608,
+      "pos": 18
     },
     "v3": {
-      "deltaMmr": -4,
-      "deltaPos": 0,
+      "deltaMmr": 0,
+      "deltaPos": -1,
       "mmr": 1602,
-      "pos": 16
+      "pos": 15
     }
   },
   {
@@ -5498,21 +5498,21 @@
     "twitter": "Maillooo_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 197
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": -1,
       "mmr": 1358,
-      "pos": 196
+      "pos": 195
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 4,
       "mmr": 1410,
-      "pos": 135
+      "pos": 139
     }
   },
   {
@@ -5526,21 +5526,21 @@
     "twitter": "malag53",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 198
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 7,
+      "deltaPos": -5,
       "mmr": 1394,
-      "pos": 161
+      "pos": 156
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 6,
-      "mmr": 1404,
-      "pos": 152
+      "deltaMmr": 48,
+      "deltaPos": -60,
+      "mmr": 1452,
+      "pos": 92
     }
   },
   {
@@ -5565,8 +5565,8 @@
       "pos": 1
     },
     "v3": {
-      "deltaMmr": -4,
-      "deltaPos": 6,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1557,
       "pos": 35
     }
@@ -5584,19 +5584,19 @@
       "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 973,
-      "pos": 96
+      "pos": 98
     },
     "v2": {
-      "deltaMmr": -27,
-      "deltaPos": 42,
+      "deltaMmr": 0,
+      "deltaPos": -4,
       "mmr": 1400,
-      "pos": 153
+      "pos": 149
     },
     "v3": {
-      "deltaMmr": 33,
-      "deltaPos": -23,
-      "mmr": 1388,
-      "pos": 171
+      "deltaMmr": -33,
+      "deltaPos": 25,
+      "mmr": 1355,
+      "pos": 196
     }
   },
   {
@@ -5609,22 +5609,22 @@
     "twitch": "",
     "twitter": "AimMarkinyo",
     "v1": {
-      "deltaMmr": 11,
-      "deltaPos": -2,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 898,
-      "pos": 101
+      "pos": 104
     },
     "v2": {
-      "deltaMmr": -11,
-      "deltaPos": 13,
-      "mmr": 1424,
-      "pos": 116
+      "deltaMmr": 19,
+      "deltaPos": -7,
+      "mmr": 1443,
+      "pos": 109
     },
     "v3": {
       "deltaMmr": 4,
-      "deltaPos": -7,
-      "mmr": 1429,
-      "pos": 110
+      "deltaPos": -4,
+      "mmr": 1433,
+      "pos": 106
     }
   },
   {
@@ -5638,21 +5638,21 @@
     "twitter": "MeliodasRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 202
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -42,
+      "deltaPos": 31,
       "mmr": 0,
-      "pos": 263
+      "pos": 294
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 22,
       "mmr": 0,
-      "pos": 272
+      "pos": 294
     }
   },
   {
@@ -5665,22 +5665,22 @@
     "twitch": "",
     "twitter": "MelkorRl",
     "v1": {
-      "deltaMmr": 7,
-      "deltaPos": -3,
-      "mmr": 1018,
-      "pos": 82
+      "deltaMmr": -21,
+      "deltaPos": 10,
+      "mmr": 997,
+      "pos": 92
     },
     "v2": {
-      "deltaMmr": -20,
-      "deltaPos": 5,
+      "deltaMmr": 0,
+      "deltaPos": 4,
       "mmr": 1312,
-      "pos": 209
+      "pos": 213
     },
     "v3": {
-      "deltaMmr": 28,
-      "deltaPos": -4,
+      "deltaMmr": 0,
+      "deltaPos": 1,
       "mmr": 1287,
-      "pos": 225
+      "pos": 226
     }
   },
   {
@@ -5694,21 +5694,21 @@
     "twitter": "MeltingRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 204
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": -2,
       "mmr": 1406,
-      "pos": 142
+      "pos": 140
     },
     "v3": {
       "deltaMmr": 0,
       "deltaPos": 3,
       "mmr": 1500,
-      "pos": 62
+      "pos": 65
     }
   },
   {
@@ -5722,21 +5722,21 @@
     "twitter": "",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 205
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": -3,
       "mmr": 1380,
-      "pos": 179
+      "pos": 176
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -26,
+      "deltaPos": 29,
       "mmr": 0,
-      "pos": 277
+      "pos": 306
     }
   },
   {
@@ -5750,21 +5750,21 @@
     "twitter": "MigolRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 206
     },
     "v2": {
-      "deltaMmr": 10,
-      "deltaPos": 3,
-      "mmr": 1550,
-      "pos": 34
+      "deltaMmr": 9,
+      "deltaPos": -4,
+      "mmr": 1559,
+      "pos": 30
     },
     "v3": {
-      "deltaMmr": 105,
-      "deltaPos": -83,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 1522,
-      "pos": 47
+      "pos": 50
     }
   },
   {
@@ -5778,21 +5778,21 @@
     "twitter": "iMikito",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 207
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": -4,
       "mmr": 1393,
-      "pos": 162
+      "pos": 158
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 7,
       "mmr": 1488,
-      "pos": 66
+      "pos": 73
     }
   },
   {
@@ -5805,22 +5805,22 @@
     "twitch": "minesmas",
     "twitter": "MinesmasYT",
     "v1": {
-      "deltaMmr": 0,
+      "deltaMmr": 25,
       "deltaPos": 1,
-      "mmr": 750,
-      "pos": 115
+      "mmr": 775,
+      "pos": 116
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": -1,
       "mmr": 1405,
-      "pos": 143
+      "pos": 142
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 6,
       "mmr": 1342,
-      "pos": 200
+      "pos": 206
     }
   },
   {
@@ -5834,21 +5834,21 @@
     "twitter": "Misa_RL_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 209
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 27,
+      "deltaPos": -15,
       "mmr": 0,
-      "pos": 299
+      "pos": 284
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 1,
       "mmr": 1554,
-      "pos": 36
+      "pos": 37
     }
   },
   {
@@ -5861,20 +5861,20 @@
     "twitch": "",
     "twitter": "MiSTeR_uBe_",
     "v1": {
-      "deltaMmr": -11,
-      "deltaPos": 5,
-      "mmr": 1174,
-      "pos": 24
+      "deltaMmr": -28,
+      "deltaPos": 14,
+      "mmr": 1146,
+      "pos": 38
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1655,
+      "deltaMmr": -8,
+      "deltaPos": 0,
+      "mmr": 1647,
       "pos": 10
     },
     "v3": {
-      "deltaMmr": -6,
-      "deltaPos": 3,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1645,
       "pos": 9
     }
@@ -5890,21 +5890,21 @@
     "twitter": "MisteralRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 211
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 1417,
-      "pos": 125
+      "deltaMmr": -34,
+      "deltaPos": 48,
+      "mmr": 1383,
+      "pos": 173
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1371,
-      "pos": 180
+      "deltaMmr": 18,
+      "deltaPos": -9,
+      "mmr": 1389,
+      "pos": 171
     }
   },
   {
@@ -5918,21 +5918,21 @@
     "twitter": "MixXrl",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 212
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1400,
       "pos": 150
     },
     "v3": {
-      "deltaMmr": -31,
-      "deltaPos": 15,
-      "mmr": 1314,
-      "pos": 214
+      "deltaMmr": -24,
+      "deltaPos": 11,
+      "mmr": 1290,
+      "pos": 225
     }
   },
   {
@@ -5946,21 +5946,21 @@
     "twitter": "moltapor",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 213
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 20,
+      "deltaPos": 19,
       "mmr": 0,
-      "pos": 296
+      "pos": 315
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -9,
+      "deltaPos": 15,
       "mmr": 0,
-      "pos": 267
+      "pos": 282
     }
   },
   {
@@ -5974,21 +5974,21 @@
     "twitter": "josemawia",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 214
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": -2,
       "mmr": 0,
-      "pos": 281
+      "pos": 279
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 4,
       "mmr": 1330,
-      "pos": 208
+      "pos": 212
     }
   },
   {
@@ -6002,21 +6002,21 @@
     "twitter": "GameGDRN",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 215
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 3,
       "mmr": 1340,
-      "pos": 206
+      "pos": 209
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 5,
       "mmr": 1356,
-      "pos": 189
+      "pos": 194
     }
   },
   {
@@ -6030,21 +6030,21 @@
     "twitter": "MisterSoulman",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 216
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 9,
+      "deltaPos": -4,
       "mmr": 1382,
-      "pos": 178
+      "pos": 174
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 1367,
-      "pos": 182
+      "pos": 185
     }
   },
   {
@@ -6058,19 +6058,19 @@
     "twitter": "MrMochu_Twitch",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 217
     },
     "v2": {
-      "deltaMmr": 14,
-      "deltaPos": -15,
-      "mmr": 1401,
-      "pos": 149
+      "deltaMmr": -35,
+      "deltaPos": 43,
+      "mmr": 1366,
+      "pos": 192
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1249,
       "pos": 236
     }
@@ -6085,22 +6085,22 @@
     "twitch": "mrvag93",
     "twitter": "MVag93",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 786,
-      "pos": 111
+      "deltaMmr": -15,
+      "deltaPos": 6,
+      "mmr": 771,
+      "pos": 117
     },
     "v2": {
-      "deltaMmr": 34,
-      "deltaPos": -4,
-      "mmr": 1180,
-      "pos": 239
+      "deltaMmr": -20,
+      "deltaPos": 4,
+      "mmr": 1160,
+      "pos": 243
     },
     "v3": {
-      "deltaMmr": 19,
-      "deltaPos": -8,
-      "mmr": 1316,
-      "pos": 212
+      "deltaMmr": 64,
+      "deltaPos": -34,
+      "mmr": 1380,
+      "pos": 178
     }
   },
   {
@@ -6114,21 +6114,21 @@
     "twitter": "CRISTIAN_MV_18",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 219
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 5,
-      "mmr": 1496,
-      "pos": 62
+      "deltaMmr": -10,
+      "deltaPos": 9,
+      "mmr": 1486,
+      "pos": 71
     },
     "v3": {
-      "deltaMmr": 37,
-      "deltaPos": -11,
-      "mmr": 1574,
-      "pos": 28
+      "deltaMmr": -33,
+      "deltaPos": 14,
+      "mmr": 1541,
+      "pos": 42
     }
   },
   {
@@ -6142,21 +6142,21 @@
     "twitter": "NachitowRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 1209,
-      "pos": 9
+      "pos": 12
     },
     "v2": {
-      "deltaMmr": 41,
-      "deltaPos": -4,
-      "mmr": 1687,
-      "pos": 7
+      "deltaMmr": -12,
+      "deltaPos": 1,
+      "mmr": 1675,
+      "pos": 8
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 1,
       "mmr": 1611,
-      "pos": 13
+      "pos": 14
     }
   },
   {
@@ -6170,21 +6170,21 @@
     "twitter": "Navarrito4RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 221
     },
     "v2": {
-      "deltaMmr": -8,
-      "deltaPos": 2,
-      "mmr": 1186,
+      "deltaMmr": 34,
+      "deltaPos": 0,
+      "mmr": 1220,
       "pos": 237
     },
     "v3": {
-      "deltaMmr": -13,
-      "deltaPos": 4,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1200,
-      "pos": 246
+      "pos": 248
     }
   },
   {
@@ -6198,21 +6198,21 @@
     "twitter": "NekoMasterRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 3,
       "mmr": 1103,
-      "pos": 59
+      "pos": 62
     },
     "v2": {
-      "deltaMmr": 33,
-      "deltaPos": -28,
-      "mmr": 1454,
-      "pos": 89
+      "deltaMmr": -1,
+      "deltaPos": 5,
+      "mmr": 1453,
+      "pos": 94
     },
     "v3": {
-      "deltaMmr": -9,
-      "deltaPos": 9,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1476,
-      "pos": 74
+      "pos": 76
     }
   },
   {
@@ -6226,19 +6226,19 @@
     "twitter": "Nel_garcia_xd",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 928,
-      "pos": 99
+      "pos": 102
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": -3,
       "mmr": 1392,
-      "pos": 165
+      "pos": 162
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1306,
       "pos": 220
     }
@@ -6254,21 +6254,21 @@
     "twitter": "NiNjA96pk",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 224
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1413,
       "pos": 133
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": -1,
-      "mmr": 1440,
-      "pos": 95
+      "deltaMmr": -2,
+      "deltaPos": 6,
+      "mmr": 1438,
+      "pos": 101
     }
   },
   {
@@ -6282,21 +6282,21 @@
     "twitter": "carloslag99",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 225
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -36,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 270
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 12,
+      "deltaPos": -10,
       "mmr": 0,
-      "pos": 287
+      "pos": 277
     }
   },
   {
@@ -6310,21 +6310,21 @@
     "twitter": "NocivOEA",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 226
     },
     "v2": {
-      "deltaMmr": -16,
-      "deltaPos": 3,
-      "mmr": 1202,
-      "pos": 236
+      "deltaMmr": 33,
+      "deltaPos": -4,
+      "mmr": 1235,
+      "pos": 232
     },
     "v3": {
-      "deltaMmr": 3,
-      "deltaPos": 1,
-      "mmr": 1194,
-      "pos": 249
+      "deltaMmr": 10,
+      "deltaPos": -3,
+      "mmr": 1204,
+      "pos": 246
     }
   },
   {
@@ -6338,21 +6338,21 @@
     "twitter": "nolichu13",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 227
     },
     "v2": {
-      "deltaMmr": 2,
-      "deltaPos": 4,
-      "mmr": 1448,
-      "pos": 96
+      "deltaMmr": 48,
+      "deltaPos": -31,
+      "mmr": 1496,
+      "pos": 65
     },
     "v3": {
-      "deltaMmr": 0,
+      "deltaMmr": -2,
       "deltaPos": 4,
-      "mmr": 1480,
-      "pos": 71
+      "mmr": 1478,
+      "pos": 75
     }
   },
   {
@@ -6366,21 +6366,21 @@
     "twitter": "SoyNowa",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1137,
       "pos": 41
     },
     "v2": {
-      "deltaMmr": -1,
-      "deltaPos": 5,
-      "mmr": 1412,
-      "pos": 138
+      "deltaMmr": 32,
+      "deltaPos": -35,
+      "mmr": 1444,
+      "pos": 103
     },
     "v3": {
       "deltaMmr": 0,
       "deltaPos": 3,
       "mmr": 1454,
-      "pos": 88
+      "pos": 91
     }
   },
   {
@@ -6393,22 +6393,22 @@
     "twitch": "Okiss",
     "twitter": "OkisRL",
     "v1": {
-      "deltaMmr": -15,
-      "deltaPos": 5,
-      "mmr": 1092,
-      "pos": 64
+      "deltaMmr": 29,
+      "deltaPos": -10,
+      "mmr": 1121,
+      "pos": 54
     },
     "v2": {
-      "deltaMmr": 69,
-      "deltaPos": -76,
-      "mmr": 1449,
-      "pos": 95
+      "deltaMmr": 7,
+      "deltaPos": -4,
+      "mmr": 1456,
+      "pos": 91
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1495,
-      "pos": 63
+      "deltaMmr": -8,
+      "deltaPos": 11,
+      "mmr": 1487,
+      "pos": 74
     }
   },
   {
@@ -6422,21 +6422,21 @@
     "twitter": "orimndz28_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 1058,
-      "pos": 72
+      "pos": 75
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 8,
       "mmr": 1436,
-      "pos": 106
+      "pos": 114
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 7,
+      "deltaPos": 2,
       "mmr": 1393,
-      "pos": 166
+      "pos": 168
     }
   },
   {
@@ -6450,21 +6450,21 @@
     "twitter": "PepsyRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 2,
       "mmr": 1132,
-      "pos": 44
+      "pos": 46
     },
     "v2": {
-      "deltaMmr": 14,
-      "deltaPos": -12,
-      "mmr": 1431,
-      "pos": 110
+      "deltaMmr": 31,
+      "deltaPos": -22,
+      "mmr": 1462,
+      "pos": 88
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 7,
-      "mmr": 1393,
-      "pos": 164
+      "deltaMmr": 11,
+      "deltaPos": -11,
+      "mmr": 1404,
+      "pos": 153
     }
   },
   {
@@ -6477,22 +6477,22 @@
     "twitch": "",
     "twitter": "PhenozRL",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 635,
-      "pos": 120
+      "deltaMmr": -14,
+      "deltaPos": 4,
+      "mmr": 621,
+      "pos": 124
     },
     "v2": {
-      "deltaMmr": -8,
-      "deltaPos": 4,
-      "mmr": 1259,
-      "pos": 222
+      "deltaMmr": -38,
+      "deltaPos": 14,
+      "mmr": 1221,
+      "pos": 236
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1199,
-      "pos": 247
+      "deltaMmr": -17,
+      "deltaPos": 5,
+      "mmr": 1182,
+      "pos": 252
     }
   },
   {
@@ -6506,21 +6506,21 @@
     "twitter": "Playerz551",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 233
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 29,
+      "deltaPos": -15,
       "mmr": 0,
-      "pos": 290
+      "pos": 275
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 2,
       "mmr": 1425,
-      "pos": 116
+      "pos": 118
     }
   },
   {
@@ -6533,22 +6533,22 @@
     "twitch": "PolRL",
     "twitter": "PolRL1",
     "v1": {
-      "deltaMmr": -14,
-      "deltaPos": 11,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1117,
-      "pos": 54
+      "pos": 56
     },
     "v2": {
-      "deltaMmr": 2,
-      "deltaPos": 0,
-      "mmr": 1455,
-      "pos": 88
+      "deltaMmr": -9,
+      "deltaPos": 13,
+      "mmr": 1446,
+      "pos": 101
     },
     "v3": {
-      "deltaMmr": 50,
-      "deltaPos": -42,
-      "mmr": 1483,
-      "pos": 68
+      "deltaMmr": 68,
+      "deltaPos": -29,
+      "mmr": 1551,
+      "pos": 39
     }
   },
   {
@@ -6562,21 +6562,21 @@
     "twitter": "manu_088",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 235
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 7,
+      "deltaPos": -5,
       "mmr": 1391,
-      "pos": 168
+      "pos": 163
     },
     "v3": {
-      "deltaMmr": 14,
-      "deltaPos": -11,
-      "mmr": 1369,
-      "pos": 181
+      "deltaMmr": -8,
+      "deltaPos": 7,
+      "mmr": 1361,
+      "pos": 188
     }
   },
   {
@@ -6589,22 +6589,22 @@
     "twitch": "",
     "twitter": "PuxiRL",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": -1,
-      "mmr": 0,
-      "pos": 236
+      "deltaMmr": 1109,
+      "deltaPos": -177,
+      "mmr": 1109,
+      "pos": 59
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1478,
-      "pos": 72
+      "deltaMmr": -7,
+      "deltaPos": 11,
+      "mmr": 1471,
+      "pos": 83
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 3,
-      "mmr": 1464,
-      "pos": 80
+      "deltaMmr": -9,
+      "deltaPos": 10,
+      "mmr": 1455,
+      "pos": 90
     }
   },
   {
@@ -6618,21 +6618,21 @@
     "twitter": "Rubenmartinezt7",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 2,
       "mmr": 1128,
-      "pos": 48
+      "pos": 50
     },
     "v2": {
-      "deltaMmr": 10,
+      "deltaMmr": 0,
       "deltaPos": 1,
       "mmr": 1547,
-      "pos": 35
+      "pos": 36
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": -3,
       "mmr": 1567,
-      "pos": 30
+      "pos": 27
     }
   },
   {
@@ -6646,21 +6646,21 @@
     "twitter": "R1B3R_13",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 238
     },
     "v2": {
-      "deltaMmr": -20,
+      "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 1141,
-      "pos": 243
+      "pos": 245
     },
     "v3": {
-      "deltaMmr": -29,
-      "deltaPos": 13,
+      "deltaMmr": 0,
+      "deltaPos": 5,
       "mmr": 1319,
-      "pos": 210
+      "pos": 215
     }
   },
   {
@@ -6674,21 +6674,21 @@
     "twitter": "Ragner_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 239
     },
     "v2": {
-      "deltaMmr": 27,
-      "deltaPos": -27,
+      "deltaMmr": 0,
+      "deltaPos": -3,
       "mmr": 1394,
-      "pos": 160
+      "pos": 157
     },
     "v3": {
-      "deltaMmr": -17,
-      "deltaPos": 13,
-      "mmr": 1456,
-      "pos": 86
+      "deltaMmr": 15,
+      "deltaPos": -8,
+      "mmr": 1471,
+      "pos": 78
     }
   },
   {
@@ -6702,21 +6702,21 @@
     "twitter": "jose_ramosr",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 73,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 240
     },
     "v2": {
-      "deltaMmr": 1251,
-      "deltaPos": -90,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 1251,
-      "pos": 225
+      "pos": 228
     },
     "v3": {
-      "deltaMmr": -26,
-      "deltaPos": 14,
-      "mmr": 1293,
-      "pos": 224
+      "deltaMmr": -23,
+      "deltaPos": 7,
+      "mmr": 1270,
+      "pos": 231
     }
   },
   {
@@ -6730,21 +6730,21 @@
     "twitter": "",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 546,
-      "pos": 123
+      "pos": 126
     },
     "v2": {
       "deltaMmr": 0,
       "deltaPos": 2,
       "mmr": 886,
-      "pos": 260
+      "pos": 262
     },
     "v3": {
-      "deltaMmr": 39,
-      "deltaPos": 5,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1061,
-      "pos": 263
+      "pos": 265
     }
   },
   {
@@ -6763,14 +6763,14 @@
       "pos": 242
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 2,
-      "mmr": 1348,
-      "pos": 200
+      "deltaMmr": 1,
+      "deltaPos": 1,
+      "mmr": 1349,
+      "pos": 201
     },
     "v3": {
-      "deltaMmr": -30,
-      "deltaPos": 45,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1399,
       "pos": 158
     }
@@ -6792,15 +6792,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -15,
+      "deltaPos": -2,
       "mmr": 0,
-      "pos": 269
+      "pos": 267
     },
     "v3": {
       "deltaMmr": 0,
       "deltaPos": 1,
       "mmr": 1199,
-      "pos": 248
+      "pos": 249
     }
   },
   {
@@ -6814,21 +6814,21 @@
     "twitter": "ReDgAr5",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 347,
-      "pos": 125
+      "pos": 128
     },
     "v2": {
-      "deltaMmr": 0,
+      "deltaMmr": 88,
       "deltaPos": 2,
-      "mmr": 344,
-      "pos": 262
+      "mmr": 432,
+      "pos": 264
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 2,
       "mmr": 559,
-      "pos": 265
+      "pos": 267
     }
   },
   {
@@ -6847,16 +6847,16 @@
       "pos": 245
     },
     "v2": {
-      "deltaMmr": 19,
-      "deltaPos": -10,
-      "mmr": 1490,
-      "pos": 66
+      "deltaMmr": -1,
+      "deltaPos": 3,
+      "mmr": 1489,
+      "pos": 69
     },
     "v3": {
-      "deltaMmr": 32,
-      "deltaPos": -36,
-      "mmr": 1414,
-      "pos": 132
+      "deltaMmr": -14,
+      "deltaPos": 25,
+      "mmr": 1400,
+      "pos": 157
     }
   },
   {
@@ -6876,15 +6876,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -15,
+      "deltaPos": 7,
       "mmr": 0,
-      "pos": 274
+      "pos": 281
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": -3,
       "mmr": 0,
-      "pos": 283
+      "pos": 280
     }
   },
   {
@@ -6903,16 +6903,16 @@
       "pos": 247
     },
     "v2": {
-      "deltaMmr": -6,
-      "deltaPos": 4,
-      "mmr": 1461,
-      "pos": 82
+      "deltaMmr": -8,
+      "deltaPos": 13,
+      "mmr": 1453,
+      "pos": 95
     },
     "v3": {
-      "deltaMmr": 32,
-      "deltaPos": -19,
-      "mmr": 1391,
-      "pos": 167
+      "deltaMmr": -1,
+      "deltaPos": 2,
+      "mmr": 1390,
+      "pos": 169
     }
   },
   {
@@ -6932,15 +6932,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": -4,
       "mmr": 1369,
-      "pos": 189
+      "pos": 185
     },
     "v3": {
-      "deltaMmr": -16,
-      "deltaPos": 13,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 1459,
-      "pos": 82
+      "pos": 85
     }
   },
   {
@@ -6960,15 +6960,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -14,
+      "deltaPos": -10,
       "mmr": 0,
-      "pos": 279
+      "pos": 269
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -20,
       "mmr": 0,
-      "pos": 288
+      "pos": 268
     }
   },
   {
@@ -6981,22 +6981,22 @@
     "twitch": "",
     "twitter": "rubenchuki_6",
     "v1": {
-      "deltaMmr": -24,
-      "deltaPos": 2,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 825,
-      "pos": 108
+      "pos": 111
     },
     "v2": {
-      "deltaMmr": -17,
-      "deltaPos": 6,
-      "mmr": 1249,
-      "pos": 226
+      "deltaMmr": -3,
+      "deltaPos": 4,
+      "mmr": 1246,
+      "pos": 230
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 289
+      "pos": 284
     }
   },
   {
@@ -7016,15 +7016,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -13,
+      "deltaPos": -12,
       "mmr": 0,
-      "pos": 284
+      "pos": 272
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -7,
       "mmr": 0,
-      "pos": 294
+      "pos": 287
     }
   },
   {
@@ -7044,15 +7044,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -10,
+      "deltaPos": -16,
       "mmr": 0,
-      "pos": 289
+      "pos": 273
     },
     "v3": {
-      "deltaMmr": 90,
-      "deltaPos": -96,
-      "mmr": 1451,
-      "pos": 89
+      "deltaMmr": 40,
+      "deltaPos": -19,
+      "mmr": 1491,
+      "pos": 70
     }
   },
   {
@@ -7065,22 +7065,22 @@
     "twitch": "",
     "twitter": "_sebitas15",
     "v1": {
-      "deltaMmr": -13,
-      "deltaPos": 5,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1098,
-      "pos": 62
+      "pos": 64
     },
     "v2": {
-      "deltaMmr": -1,
-      "deltaPos": 2,
+      "deltaMmr": 0,
+      "deltaPos": 1,
       "mmr": 1406,
-      "pos": 140
+      "pos": 141
     },
     "v3": {
-      "deltaMmr": 12,
-      "deltaPos": -20,
+      "deltaMmr": 0,
+      "deltaPos": 1,
       "mmr": 1428,
-      "pos": 112
+      "pos": 113
     }
   },
   {
@@ -7100,15 +7100,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": -18,
       "mmr": 0,
-      "pos": 295
+      "pos": 277
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 297
+      "pos": 292
     }
   },
   {
@@ -7128,15 +7128,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 1,
       "mmr": 1051,
-      "pos": 255
+      "pos": 256
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 1,
       "mmr": 1180,
-      "pos": 254
+      "pos": 255
     }
   },
   {
@@ -7155,16 +7155,16 @@
       "pos": 256
     },
     "v2": {
-      "deltaMmr": 9,
-      "deltaPos": 0,
-      "mmr": 1503,
-      "pos": 58
+      "deltaMmr": 31,
+      "deltaPos": -15,
+      "mmr": 1534,
+      "pos": 43
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 6,
-      "mmr": 1405,
-      "pos": 147
+      "deltaMmr": 12,
+      "deltaPos": -10,
+      "mmr": 1417,
+      "pos": 137
     }
   },
   {
@@ -7183,16 +7183,16 @@
       "pos": 257
     },
     "v2": {
-      "deltaMmr": -9,
-      "deltaPos": 7,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1346,
       "pos": 203
     },
     "v3": {
-      "deltaMmr": -24,
-      "deltaPos": 18,
-      "mmr": 1355,
-      "pos": 190
+      "deltaMmr": 10,
+      "deltaPos": -3,
+      "mmr": 1365,
+      "pos": 187
     }
   },
   {
@@ -7212,15 +7212,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -7,
+      "deltaPos": -5,
       "mmr": 0,
-      "pos": 300
+      "pos": 295
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": -6,
       "mmr": 0,
-      "pos": 304
+      "pos": 298
     }
   },
   {
@@ -7240,15 +7240,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -5,
+      "deltaPos": -6,
       "mmr": 0,
-      "pos": 303
+      "pos": 297
     },
     "v3": {
-      "deltaMmr": -21,
-      "deltaPos": 33,
-      "mmr": 1399,
-      "pos": 159
+      "deltaMmr": 25,
+      "deltaPos": -39,
+      "mmr": 1424,
+      "pos": 120
     }
   },
   {
@@ -7262,21 +7262,21 @@
     "twitter": "SlaimRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 2,
       "mmr": 1106,
-      "pos": 58
+      "pos": 60
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 5,
-      "mmr": 1400,
-      "pos": 151
+      "deltaMmr": -11,
+      "deltaPos": 14,
+      "mmr": 1389,
+      "pos": 165
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": -6,
       "mmr": 0,
-      "pos": 306
+      "pos": 300
     }
   },
   {
@@ -7290,21 +7290,21 @@
     "twitter": "SmOoTh_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 1,
       "mmr": 1136,
-      "pos": 43
+      "pos": 44
     },
     "v2": {
-      "deltaMmr": 11,
-      "deltaPos": -10,
-      "mmr": 1404,
-      "pos": 145
+      "deltaMmr": -7,
+      "deltaPos": 10,
+      "mmr": 1397,
+      "pos": 155
     },
     "v3": {
-      "deltaMmr": 5,
+      "deltaMmr": 10,
       "deltaPos": -9,
-      "mmr": 1438,
-      "pos": 102
+      "mmr": 1448,
+      "pos": 93
     }
   },
   {
@@ -7320,19 +7320,19 @@
       "deltaMmr": 0,
       "deltaPos": 1,
       "mmr": 1125,
-      "pos": 52
+      "pos": 53
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 2,
       "mmr": 1453,
-      "pos": 90
+      "pos": 92
     },
     "v3": {
-      "deltaMmr": 12,
-      "deltaPos": -1,
-      "mmr": 1560,
-      "pos": 33
+      "deltaMmr": 38,
+      "deltaPos": -17,
+      "mmr": 1598,
+      "pos": 16
     }
   },
   {
@@ -7351,16 +7351,16 @@
       "pos": 263
     },
     "v2": {
-      "deltaMmr": -10,
-      "deltaPos": 2,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 1068,
-      "pos": 250
+      "pos": 253
     },
     "v3": {
-      "deltaMmr": 1082,
-      "deltaPos": 1,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1082,
-      "pos": 262
+      "pos": 264
     }
   },
   {
@@ -7373,22 +7373,22 @@
     "twitch": "soniclitzer",
     "twitter": "sonicxito1",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1126,
-      "pos": 51
+      "deltaMmr": 19,
+      "deltaPos": -12,
+      "mmr": 1145,
+      "pos": 39
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 6,
-      "mmr": 1525,
-      "pos": 48
+      "deltaMmr": 19,
+      "deltaPos": -10,
+      "mmr": 1544,
+      "pos": 38
     },
     "v3": {
-      "deltaMmr": 56,
-      "deltaPos": -28,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 1515,
-      "pos": 53
+      "pos": 56
     }
   },
   {
@@ -7414,9 +7414,9 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 47,
+      "deltaPos": -4,
       "mmr": 0,
-      "pos": 312
+      "pos": 308
     }
   },
   {
@@ -7430,21 +7430,21 @@
     "twitter": "SphookyRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 3,
       "mmr": 1037,
-      "pos": 77
+      "pos": 80
     },
     "v2": {
-      "deltaMmr": 25,
-      "deltaPos": -33,
+      "deltaMmr": 0,
+      "deltaPos": 5,
       "mmr": 1423,
-      "pos": 117
+      "pos": 122
     },
     "v3": {
-      "deltaMmr": -7,
-      "deltaPos": 9,
+      "deltaMmr": 0,
+      "deltaPos": 4,
       "mmr": 1374,
-      "pos": 178
+      "pos": 182
     }
   },
   {
@@ -7458,21 +7458,21 @@
     "twitter": "",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 894,
-      "pos": 103
+      "pos": 106
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 5,
       "mmr": 1217,
-      "pos": 234
+      "pos": 239
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 2,
       "mmr": 1239,
-      "pos": 238
+      "pos": 240
     }
   },
   {
@@ -7498,9 +7498,9 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 44,
       "mmr": 0,
-      "pos": 268
+      "pos": 312
     }
   },
   {
@@ -7514,21 +7514,21 @@
     "twitter": "StakeYT",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": -1,
       "mmr": 1154,
-      "pos": 32
+      "pos": 31
     },
     "v2": {
-      "deltaMmr": 23,
-      "deltaPos": -2,
-      "mmr": 1713,
-      "pos": 4
+      "deltaMmr": -32,
+      "deltaPos": 3,
+      "mmr": 1681,
+      "pos": 7
     },
     "v3": {
-      "deltaMmr": -4,
-      "deltaPos": 3,
-      "mmr": 1575,
-      "pos": 26
+      "deltaMmr": -19,
+      "deltaPos": 10,
+      "mmr": 1556,
+      "pos": 36
     }
   },
   {
@@ -7548,15 +7548,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 1,
       "mmr": 1267,
-      "pos": 219
+      "pos": 220
     },
     "v3": {
-      "deltaMmr": 6,
-      "deltaPos": -2,
-      "mmr": 1337,
-      "pos": 204
+      "deltaMmr": -8,
+      "deltaPos": 10,
+      "mmr": 1329,
+      "pos": 214
     }
   },
   {
@@ -7570,21 +7570,21 @@
     "twitter": "Stormz_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1191,
       "pos": 19
     },
     "v2": {
-      "deltaMmr": 18,
-      "deltaPos": -3,
-      "mmr": 1550,
-      "pos": 33
+      "deltaMmr": -29,
+      "deltaPos": 22,
+      "mmr": 1521,
+      "pos": 55
     },
     "v3": {
-      "deltaMmr": 11,
-      "deltaPos": -3,
-      "mmr": 1538,
-      "pos": 40
+      "deltaMmr": -29,
+      "deltaPos": 18,
+      "mmr": 1509,
+      "pos": 58
     }
   },
   {
@@ -7598,21 +7598,21 @@
     "twitter": "strixZombis",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 720,
-      "pos": 116
+      "pos": 119
     },
     "v2": {
-      "deltaMmr": 24,
-      "deltaPos": -1,
-      "mmr": 1211,
-      "pos": 235
+      "deltaMmr": -19,
+      "deltaPos": 6,
+      "mmr": 1192,
+      "pos": 241
     },
     "v3": {
-      "deltaMmr": -11,
-      "deltaPos": 7,
-      "mmr": 1280,
-      "pos": 228
+      "deltaMmr": -12,
+      "deltaPos": 4,
+      "mmr": 1268,
+      "pos": 232
     }
   },
   {
@@ -7626,20 +7626,20 @@
     "twitter": "Swazer_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 1,
       "mmr": 1153,
-      "pos": 33
+      "pos": 34
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": -2,
-      "mmr": 1620,
-      "pos": 17
+      "deltaMmr": 3,
+      "deltaPos": -4,
+      "mmr": 1623,
+      "pos": 13
     },
     "v3": {
-      "deltaMmr": 42,
-      "deltaPos": -2,
-      "mmr": 1687,
+      "deltaMmr": -10,
+      "deltaPos": 0,
+      "mmr": 1677,
       "pos": 6
     }
   },
@@ -7660,15 +7660,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 7,
       "mmr": 1444,
-      "pos": 98
+      "pos": 105
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": 1,
       "mmr": 1405,
-      "pos": 146
+      "pos": 147
     }
   },
   {
@@ -7687,16 +7687,16 @@
       "pos": 275
     },
     "v2": {
-      "deltaMmr": 19,
-      "deltaPos": -23,
-      "mmr": 1435,
-      "pos": 108
+      "deltaMmr": 47,
+      "deltaPos": -33,
+      "mmr": 1482,
+      "pos": 75
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 9,
+      "deltaPos": 2,
       "mmr": 1393,
-      "pos": 165
+      "pos": 167
     }
   },
   {
@@ -7716,15 +7716,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": -5,
       "mmr": 1393,
-      "pos": 164
+      "pos": 159
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 3,
-      "mmr": 1404,
-      "pos": 151
+      "deltaMmr": 14,
+      "deltaPos": -15,
+      "mmr": 1418,
+      "pos": 136
     }
   },
   {
@@ -7738,21 +7738,21 @@
     "twitter": "TellMeSac",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 681,
-      "pos": 119
+      "pos": 122
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 3,
       "mmr": 1225,
-      "pos": 232
+      "pos": 235
     },
     "v3": {
-      "deltaMmr": 19,
-      "deltaPos": 2,
-      "mmr": 1279,
-      "pos": 230
+      "deltaMmr": -12,
+      "deltaPos": 3,
+      "mmr": 1267,
+      "pos": 233
     }
   },
   {
@@ -7777,10 +7777,10 @@
       "pos": 278
     },
     "v3": {
-      "deltaMmr": -20,
-      "deltaPos": 15,
+      "deltaMmr": 0,
+      "deltaPos": 4,
       "mmr": 1359,
-      "pos": 186
+      "pos": 190
     }
   },
   {
@@ -7800,7 +7800,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1343,
       "pos": 204
     },
@@ -7827,16 +7827,16 @@
       "pos": 280
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 5,
-      "mmr": 1372,
-      "pos": 185
+      "deltaMmr": -4,
+      "deltaPos": 4,
+      "mmr": 1368,
+      "pos": 189
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 4,
       "mmr": 1314,
-      "pos": 213
+      "pos": 217
     }
   },
   {
@@ -7855,16 +7855,16 @@
       "pos": 281
     },
     "v2": {
-      "deltaMmr": 25,
-      "deltaPos": -5,
+      "deltaMmr": 0,
+      "deltaPos": 4,
       "mmr": 1318,
-      "pos": 207
+      "pos": 211
     },
     "v3": {
-      "deltaMmr": 11,
-      "deltaPos": -1,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1181,
-      "pos": 252
+      "pos": 254
     }
   },
   {
@@ -7878,21 +7878,21 @@
     "twitter": "TimoRL_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 2,
       "mmr": 1024,
-      "pos": 81
+      "pos": 83
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 1413,
-      "pos": 134
+      "deltaMmr": 70,
+      "deltaPos": -61,
+      "mmr": 1483,
+      "pos": 73
     },
     "v3": {
-      "deltaMmr": -25,
-      "deltaPos": 21,
-      "mmr": 1363,
-      "pos": 183
+      "deltaMmr": 2,
+      "deltaPos": 3,
+      "mmr": 1365,
+      "pos": 186
     }
   },
   {
@@ -7912,15 +7912,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 11,
       "mmr": 1437,
-      "pos": 102
+      "pos": 113
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 4,
       "mmr": 1458,
-      "pos": 83
+      "pos": 87
     }
   },
   {
@@ -7934,21 +7934,21 @@
     "twitter": "DviserRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 818,
-      "pos": 109
+      "pos": 112
     },
     "v2": {
-      "deltaMmr": -14,
-      "deltaPos": 18,
-      "mmr": 1365,
-      "pos": 192
+      "deltaMmr": -10,
+      "deltaPos": 5,
+      "mmr": 1355,
+      "pos": 197
     },
     "v3": {
-      "deltaMmr": -31,
-      "deltaPos": 25,
-      "mmr": 1332,
-      "pos": 207
+      "deltaMmr": 18,
+      "deltaPos": -9,
+      "mmr": 1350,
+      "pos": 198
     }
   },
   {
@@ -7968,9 +7968,9 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 4,
       "mmr": 1421,
-      "pos": 119
+      "pos": 123
     },
     "v3": {
       "deltaMmr": 0,
@@ -8017,22 +8017,22 @@
     "twitch": "",
     "twitter": "Torresesp7910",
     "v1": {
-      "deltaMmr": 44,
-      "deltaPos": -6,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 990,
-      "pos": 92
+      "pos": 94
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 1,
       "mmr": 1490,
-      "pos": 67
+      "pos": 68
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 2,
       "mmr": 1509,
-      "pos": 57
+      "pos": 59
     }
   },
   {
@@ -8051,16 +8051,16 @@
       "pos": 4
     },
     "v2": {
-      "deltaMmr": 22,
-      "deltaPos": -4,
-      "mmr": 1600,
-      "pos": 21
+      "deltaMmr": 8,
+      "deltaPos": -2,
+      "mmr": 1608,
+      "pos": 19
     },
     "v3": {
-      "deltaMmr": -9,
+      "deltaMmr": -8,
       "deltaPos": 3,
-      "mmr": 1591,
-      "pos": 20
+      "mmr": 1583,
+      "pos": 23
     }
   },
   {
@@ -8073,22 +8073,22 @@
     "twitch": "",
     "twitter": "TronsRock_GG",
     "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1004,
-      "pos": 88
+      "deltaMmr": 9,
+      "deltaPos": -1,
+      "mmr": 1013,
+      "pos": 87
     },
     "v2": {
-      "deltaMmr": 10,
-      "deltaPos": 1,
-      "mmr": 1248,
-      "pos": 227
+      "deltaMmr": 16,
+      "deltaPos": -5,
+      "mmr": 1264,
+      "pos": 222
     },
     "v3": {
-      "deltaMmr": -22,
-      "deltaPos": 9,
-      "mmr": 1320,
-      "pos": 209
+      "deltaMmr": 18,
+      "deltaPos": -2,
+      "mmr": 1338,
+      "pos": 207
     }
   },
   {
@@ -8101,16 +8101,16 @@
     "twitch": "",
     "twitter": "",
     "v1": {
-      "deltaMmr": 877,
-      "deltaPos": -184,
+      "deltaMmr": 0,
+      "deltaPos": 3,
       "mmr": 877,
-      "pos": 106
+      "pos": 109
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": -2,
       "mmr": 1370,
-      "pos": 186
+      "pos": 184
     },
     "v3": {
       "deltaMmr": 0,
@@ -8163,16 +8163,16 @@
       "pos": 68
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 3,
-      "mmr": 1419,
-      "pos": 123
+      "deltaMmr": -32,
+      "deltaPos": 45,
+      "mmr": 1387,
+      "pos": 168
     },
     "v3": {
-      "deltaMmr": -3,
-      "deltaPos": 3,
-      "mmr": 1432,
-      "pos": 107
+      "deltaMmr": -28,
+      "deltaPos": 42,
+      "mmr": 1404,
+      "pos": 149
     }
   },
   {
@@ -8191,16 +8191,16 @@
       "pos": 65
     },
     "v2": {
-      "deltaMmr": -25,
-      "deltaPos": 42,
+      "deltaMmr": 0,
+      "deltaPos": -5,
       "mmr": 1391,
-      "pos": 169
+      "pos": 164
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": -1,
-      "mmr": 1433,
-      "pos": 106
+      "deltaMmr": -9,
+      "deltaPos": 15,
+      "mmr": 1424,
+      "pos": 121
     }
   },
   {
@@ -8219,16 +8219,16 @@
       "pos": 294
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1693,
+      "deltaMmr": -3,
+      "deltaPos": 0,
+      "mmr": 1690,
       "pos": 6
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1362,
-      "pos": 184
+      "deltaMmr": -1,
+      "deltaPos": 5,
+      "mmr": 1361,
+      "pos": 189
     }
   },
   {
@@ -8247,16 +8247,16 @@
       "pos": 295
     },
     "v2": {
-      "deltaMmr": 1421,
-      "deltaPos": -175,
+      "deltaMmr": 0,
+      "deltaPos": 4,
       "mmr": 1421,
-      "pos": 120
+      "pos": 124
     },
     "v3": {
-      "deltaMmr": 10,
-      "deltaPos": -16,
+      "deltaMmr": 0,
+      "deltaPos": 1,
       "mmr": 1426,
-      "pos": 115
+      "pos": 116
     }
   },
   {
@@ -8275,16 +8275,16 @@
       "pos": 296
     },
     "v2": {
-      "deltaMmr": 0,
+      "deltaMmr": -1,
       "deltaPos": 3,
-      "mmr": 1226,
-      "pos": 231
+      "mmr": 1225,
+      "pos": 234
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 3,
-      "mmr": 1250,
-      "pos": 235
+      "deltaMmr": -42,
+      "deltaPos": 10,
+      "mmr": 1208,
+      "pos": 245
     }
   },
   {
@@ -8303,16 +8303,16 @@
       "pos": 22
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": -1,
-      "mmr": 1604,
-      "pos": 19
+      "deltaMmr": -9,
+      "deltaPos": 3,
+      "mmr": 1595,
+      "pos": 22
     },
     "v3": {
-      "deltaMmr": 23,
-      "deltaPos": -7,
-      "mmr": 1604,
-      "pos": 15
+      "deltaMmr": -33,
+      "deltaPos": 11,
+      "mmr": 1571,
+      "pos": 26
     }
   },
   {
@@ -8325,22 +8325,22 @@
     "twitch": "",
     "twitter": "wilfredusRL",
     "v1": {
-      "deltaMmr": 8,
-      "deltaPos": -3,
-      "mmr": 1208,
-      "pos": 11
+      "deltaMmr": 9,
+      "deltaPos": -2,
+      "mmr": 1217,
+      "pos": 9
     },
     "v2": {
-      "deltaMmr": 8,
-      "deltaPos": 3,
+      "deltaMmr": 0,
+      "deltaPos": 1,
       "mmr": 1551,
-      "pos": 32
+      "pos": 33
     },
     "v3": {
-      "deltaMmr": 6,
-      "deltaPos": -10,
-      "mmr": 1443,
-      "pos": 92
+      "deltaMmr": 27,
+      "deltaPos": -13,
+      "mmr": 1470,
+      "pos": 79
     }
   },
   {
@@ -8360,13 +8360,13 @@
     },
     "v2": {
       "deltaMmr": 1,
-      "deltaPos": 1,
-      "mmr": 1482,
-      "pos": 70
+      "deltaPos": 4,
+      "mmr": 1483,
+      "pos": 74
     },
     "v3": {
-      "deltaMmr": -20,
-      "deltaPos": 13,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1553,
       "pos": 38
     }
@@ -8387,14 +8387,14 @@
       "pos": 300
     },
     "v2": {
-      "deltaMmr": 21,
+      "deltaMmr": -19,
       "deltaPos": 1,
-      "mmr": 1684,
-      "pos": 8
+      "mmr": 1665,
+      "pos": 9
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1719,
       "pos": 3
     }
@@ -8422,9 +8422,9 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 5,
       "mmr": 1418,
-      "pos": 130
+      "pos": 135
     }
   },
   {
@@ -8450,9 +8450,9 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 8,
+      "deltaPos": -1,
       "mmr": 1398,
-      "pos": 160
+      "pos": 159
     }
   },
   {
@@ -8471,16 +8471,16 @@
       "pos": 303
     },
     "v2": {
-      "deltaMmr": 31,
-      "deltaPos": -15,
-      "mmr": 1547,
-      "pos": 36
+      "deltaMmr": 2,
+      "deltaPos": -1,
+      "mmr": 1549,
+      "pos": 35
     },
     "v3": {
-      "deltaMmr": -12,
-      "deltaPos": 5,
-      "mmr": 1583,
-      "pos": 23
+      "deltaMmr": -11,
+      "deltaPos": 2,
+      "mmr": 1572,
+      "pos": 25
     }
   },
   {
@@ -8494,21 +8494,21 @@
     "twitter": "tonipb_15",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 713,
-      "pos": 117
+      "pos": 120
     },
     "v2": {
-      "deltaMmr": 24,
+      "deltaMmr": 0,
       "deltaPos": 1,
       "mmr": 1053,
-      "pos": 254
+      "pos": 255
     },
     "v3": {
-      "deltaMmr": 14,
-      "deltaPos": 5,
+      "deltaMmr": 0,
+      "deltaPos": 2,
       "mmr": 1028,
-      "pos": 264
+      "pos": 266
     }
   },
   {
@@ -8521,22 +8521,22 @@
     "twitch": "elnacayt",
     "twitter": "ytnaca",
     "v1": {
-      "deltaMmr": 1,
-      "deltaPos": 1,
-      "mmr": 1000,
-      "pos": 89
+      "deltaMmr": 61,
+      "deltaPos": -16,
+      "mmr": 1061,
+      "pos": 73
     },
     "v2": {
-      "deltaMmr": 12,
-      "deltaPos": -2,
-      "mmr": 1516,
-      "pos": 54
+      "deltaMmr": 24,
+      "deltaPos": -12,
+      "mmr": 1540,
+      "pos": 42
     },
     "v3": {
-      "deltaMmr": 68,
-      "deltaPos": -36,
-      "mmr": 1529,
-      "pos": 44
+      "deltaMmr": -9,
+      "deltaPos": 8,
+      "mmr": 1520,
+      "pos": 52
     }
   },
   {
@@ -8556,15 +8556,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1353,
       "pos": 198
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 2,
       "mmr": 1425,
-      "pos": 117
+      "pos": 119
     }
   },
   {
@@ -8577,22 +8577,22 @@
     "twitch": "",
     "twitter": "YoLiD_GG",
     "v1": {
-      "deltaMmr": 17,
-      "deltaPos": -5,
-      "mmr": 1194,
-      "pos": 16
+      "deltaMmr": -21,
+      "deltaPos": 7,
+      "mmr": 1173,
+      "pos": 23
     },
     "v2": {
-      "deltaMmr": 18,
-      "deltaPos": -9,
-      "mmr": 1537,
-      "pos": 39
+      "deltaMmr": 5,
+      "deltaPos": 2,
+      "mmr": 1542,
+      "pos": 41
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1525,
-      "pos": 45
+      "deltaMmr": 7,
+      "deltaPos": 3,
+      "mmr": 1532,
+      "pos": 48
     }
   },
   {
@@ -8611,16 +8611,16 @@
       "pos": 308
     },
     "v2": {
-      "deltaMmr": -29,
-      "deltaPos": 4,
+      "deltaMmr": 0,
+      "deltaPos": 1,
       "mmr": 1127,
-      "pos": 246
+      "pos": 247
     },
     "v3": {
-      "deltaMmr": -41,
-      "deltaPos": 8,
-      "mmr": 1132,
-      "pos": 259
+      "deltaMmr": -5,
+      "deltaPos": 3,
+      "mmr": 1127,
+      "pos": 262
     }
   },
   {
@@ -8634,21 +8634,21 @@
     "twitter": "Josee_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": -2,
       "mmr": 1164,
-      "pos": 27
+      "pos": 25
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 5,
       "mmr": 1518,
-      "pos": 52
+      "pos": 57
     },
     "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 4,
-      "mmr": 1482,
-      "pos": 70
+      "deltaMmr": -23,
+      "deltaPos": 16,
+      "mmr": 1459,
+      "pos": 86
     }
   },
   {
@@ -8661,22 +8661,22 @@
     "twitch": "",
     "twitter": "ZamueRL",
     "v1": {
-      "deltaMmr": -38,
-      "deltaPos": 1,
-      "mmr": 1276,
+      "deltaMmr": 7,
+      "deltaPos": 0,
+      "mmr": 1283,
       "pos": 2
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 1,
-      "mmr": 1710,
+      "deltaMmr": -12,
+      "deltaPos": 0,
+      "mmr": 1698,
       "pos": 5
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 1516,
-      "pos": 52
+      "pos": 55
     }
   },
   {
@@ -8696,15 +8696,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": 9,
       "mmr": 1463,
-      "pos": 78
+      "pos": 87
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": -1,
       "mmr": 1439,
-      "pos": 100
+      "pos": 99
     }
   },
   {
@@ -8724,15 +8724,15 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1367,
       "pos": 191
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 4,
       "mmr": 1351,
-      "pos": 193
+      "pos": 197
     }
   },
   {
@@ -8746,21 +8746,21 @@
     "twitter": "ZombieRL_Yt",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 0,
+      "deltaPos": 2,
       "mmr": 1127,
-      "pos": 49
+      "pos": 51
     },
     "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 6,
-      "mmr": 1538,
-      "pos": 38
+      "deltaMmr": 5,
+      "deltaPos": 1,
+      "mmr": 1543,
+      "pos": 39
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 3,
       "mmr": 1518,
-      "pos": 51
+      "pos": 54
     }
   },
   {
@@ -8808,9 +8808,9 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 10,
       "mmr": 1436,
-      "pos": 105
+      "pos": 115
     },
     "v3": {
       "deltaMmr": 0,
