@@ -1,5 +1,61 @@
 [
   {
+    "id": "76561198959772543",
+    "name": "",
+    "nick": "Arelch",
+    "platform": "steam",
+    "role": "",
+    "team": "BlackBirds",
+    "twitch": "",
+    "twitter": "Arelch1",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1071,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1528,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1483,
+      "pos": 0
+    }
+  },
+  {
+    "id": "SlyX-_-MakexX",
+    "name": "",
+    "nick": "SlyX-_-MakexX",
+    "platform": "ps",
+    "role": "",
+    "team": "Vykings",
+    "twitch": "MakexX_",
+    "twitter": "_MakexX",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1155,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1488,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1484,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -5801,7 +5857,7 @@
     "nick": "Minesmas",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "NoSense",
     "twitch": "minesmas",
     "twitter": "MinesmasYT",
     "v1": {
@@ -7117,7 +7173,7 @@
     "nick": "Seru",
     "platform": "steam",
     "role": "",
-    "team": "Bad Monkeys Academy",
+    "team": "Neek Society",
     "twitch": "",
     "twitter": "XSergiGamerX",
     "v1": {
