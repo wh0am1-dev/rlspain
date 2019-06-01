@@ -1,5 +1,61 @@
 [
   {
+    "id": "76561198210248969",
+    "name": "",
+    "nick": "Lechu",
+    "platform": "steam",
+    "role": "",
+    "team": "churra gaming",
+    "twitch": "Lechutoni",
+    "twitter": "toguiju",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 944,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1478,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1465,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198332575134",
+    "name": "",
+    "nick": "Silas",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "silasesp",
+    "twitter": "Silas_aot",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1238,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1423,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1337,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -3558,7 +3614,7 @@
   {
     "id": "76561198271033632",
     "name": "",
-    "nick": "Hugoo",
+    "nick": "hugogaben",
     "platform": "steam",
     "role": "",
     "team": "",
