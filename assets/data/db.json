@@ -1,5 +1,33 @@
 [
   {
+    "id": "76561198120028164",
+    "name": "",
+    "nick": "auchan",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "nosumable",
+    "twitter": "nosumable",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1158,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1482,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1553,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -8265,7 +8293,7 @@
     "nick": "Vila",
     "platform": "steam",
     "role": "",
-    "team": "Mort Subite eSports",
+    "team": "",
     "twitch": "",
     "twitter": "Vila_RL",
     "v1": {
