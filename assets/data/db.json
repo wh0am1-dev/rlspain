@@ -1,5 +1,89 @@
 [
   {
+    "id": "76561198888385496",
+    "name": "",
+    "nick": "Lasa.",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "lasarl",
+    "twitter": "LasaRL_",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1147,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1543,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1440,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198344944759",
+    "name": "",
+    "nick": "Germy.",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "Germyexteam",
+    "twitter": "Germy_15",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1040,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1389,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1521,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198018245826",
+    "name": "",
+    "nick": "Arcadia",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "ArcadiaRL",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1536,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1525,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
