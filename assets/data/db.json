@@ -1,5 +1,33 @@
 [
   {
+    "id": "76561198198235542",
+    "name": "",
+    "nick": "Pmircos",
+    "platform": "steam",
+    "role": "",
+    "team": "Koalis Gaming Beta",
+    "twitch": "",
+    "twitter": "Pmircos",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 627,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1126,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 996,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -4849,7 +4877,7 @@
     "nick": "KawaiiKoala898",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "Koalis Gaming Beta",
     "twitch": "",
     "twitter": "koala898",
     "v1": {
@@ -6333,7 +6361,7 @@
     "nick": "Navarrito4",
     "platform": "steam",
     "role": "",
-    "team": "Koalis Gaming",
+    "team": "Koalis Gaming Beta",
     "twitch": "",
     "twitter": "Navarrito4RL",
     "v1": {
@@ -7677,7 +7705,7 @@
     "nick": "Sphooky",
     "platform": "steam",
     "role": "",
-    "team": "SharKing's",
+    "team": "SharKings E.C.",
     "twitch": "",
     "twitter": "SphookyRL",
     "v1": {
