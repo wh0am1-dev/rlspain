@@ -1,5 +1,61 @@
 [
   {
+    "id": "76561198260539999",
+    "name": "",
+    "nick": "Scream.",
+    "platform": "steam",
+    "role": "",
+    "team": "Team_Bizz",
+    "twitch": "ScreamRL_",
+    "twitter": "TeenPaladine",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 964,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1421,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1368,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198309850931",
+    "name": "",
+    "nick": "Sterlo_Oficial",
+    "platform": "steam",
+    "role": "Manager",
+    "team": "NightSkills",
+    "twitch": "Sterlo_Oficial",
+    "twitter": "Mvillag68",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1275,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1228,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -173,7 +229,7 @@
     "nick": "adrisfera",
     "platform": "steam",
     "role": "",
-    "team": "SnowFlocks",
+    "team": "team bizz",
     "twitch": "adrisfera",
     "twitter": "Adrisfera",
     "v1": {
@@ -4452,7 +4508,7 @@
     }
   },
   {
-    "id": "Jleoro-rl",
+    "id": "Ojalasalgavox",
     "name": "",
     "nick": "Jleoro-rl",
     "platform": "ps",
