@@ -1,5 +1,229 @@
 [
   {
+    "id": "76561198192787555",
+    "name": "",
+    "nick": "solunime",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "solunime",
+    "twitter": "solunime_HD",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 994,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1502,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1507,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198303060025",
+    "name": "",
+    "nick": "John Travolta",
+    "platform": "steam",
+    "role": "CEO",
+    "team": "Churragaming",
+    "twitch": "churragaming",
+    "twitter": "churragaming",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 703,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1145,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1278,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198834840756",
+    "name": "",
+    "nick": "KlazyXS",
+    "platform": "steam",
+    "role": "",
+    "team": "Death Killers EC",
+    "twitch": "",
+    "twitter": "KlazyXS",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 728,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1200,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1109,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198030278852",
+    "name": "",
+    "nick": "joselete745",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "joselete745",
+    "twitter": "josedavidmonros",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1344,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1382,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Linos15",
+    "name": "",
+    "nick": "Linosss",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Linosss00",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1268,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1344,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198309011455",
+    "name": "",
+    "nick": "Rikytan",
+    "platform": "steam",
+    "role": "",
+    "team": "Elite Squad",
+    "twitch": "rikytan33",
+    "twitter": "rikytan11",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1045,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1429,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1577,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198260524402",
+    "name": "",
+    "nick": "Sfc_Apa_Esp",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Sfc_Apa_Esp",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 825,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1401,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1303,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Anuuel-brrrrrrrr",
+    "name": "",
+    "nick": "Anuuel-brrrrrrrr",
+    "platform": "ps",
+    "role": "",
+    "team": "South Monkeys",
+    "twitch": "Anuuelrl",
+    "twitter": "Marc__ps4",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1030,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1401,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1384,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198164043219",
     "name": "",
     "nick": "Kone!",
@@ -6725,7 +6949,7 @@
     "nick": "Migol",
     "platform": "steam",
     "role": "",
-    "team": "Vandaval",
+    "team": "",
     "twitch": "MigolRL",
     "twitter": "MigolRL",
     "v1": {
