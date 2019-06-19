@@ -17,7 +17,7 @@
   "maintenance": false,
   "faq": [
     {
-      "q": "Soy español y no estoy en la lista, ¿cómo puedo acceder?",
+      "q": "Soy de España y no estoy en la lista, ¿cómo puedo acceder?",
       "a": "Haz click en el botón \"Peticiones\" y rellena el formulario"
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "q": "He indicado un equipo o club pero no aparece en la lista",
-      "a": "Solamente se añadirán clubes o equipos relevantes o que estén activos en redes sociales"
+      "a": "Solamente se añadirán clubes o equipos que sean relevantes o que estén activos en redes sociales"
     },
     {
       "q": "¿Tenéis planeado añadir Switch?",
