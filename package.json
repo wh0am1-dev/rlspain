@@ -18,15 +18,15 @@
   "faq": [
     {
       "q": "Soy español y no estoy en la lista, ¿cómo puedo acceder?",
-      "a": "Haz click en el botón \"Peticiones\" y rellena el formulario."
+      "a": "Haz click en el botón \"Peticiones\" y rellena el formulario"
     },
     {
       "q": "¿Cuáles son los requisitos para poder entrar en la lista?",
-      "a": "Residir en España, tener más de 600 (1v1) o 1000 (2v2 y 3v3) de rating o ser una personalidad de la comunidad"
+      "a": "Residir en España, tener más de 600 (1v1) o 1000 (2v2 y 3v3) de rating y tener una cuenta de Twitter activa"
     },
     {
       "q": "¿Cada cuánto se actualiza la lista?",
-      "a": "La lista se actualiza diaria y automáticamente a las 00:00"
+      "a": "La lista se actualiza diaria y automáticamente a las 00:50"
     },
     {
       "q": "Hay información asociada a mí que es errónea",
@@ -39,6 +39,14 @@
     {
       "q": "He rellenado el formulario pero no aparezco en la lista",
       "a": "Revisa tu correo, puede que te hayamos escrito. A veces, los cambios en la página pueden tardar más de lo previsto"
+    },
+    {
+      "q": "He indicado un equipo o club pero no aparece en la lista",
+      "a": "Solamente se añadirán clubes o equipos relevantes o que estén activos en redes sociales"
+    },
+    {
+      "q": "¿Tenéis planeado añadir Switch?",
+      "a": "No way dude ¯\_(ツ)_/¯"
     }
   ],
   "scripts": {
