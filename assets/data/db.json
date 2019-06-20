@@ -1,5 +1,89 @@
 [
   {
+    "id": "76561198074711091",
+    "name": "",
+    "nick": "Lewii",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "xlewiii",
+    "twitter": "ekislewi",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 831,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1218,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1368,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198375155783",
+    "name": "",
+    "nick": "Toorr3s",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "@toorr3s",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1094,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 802,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198275468215",
+    "name": "",
+    "nick": "WoxterproYT",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "woxterpro",
+    "twitter": "Woxterpro",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 933,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1364,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1376,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198210475233",
     "name": "",
     "nick": "Ivans",
