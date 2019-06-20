@@ -1,5 +1,341 @@
 [
   {
+    "id": "76561198210475233",
+    "name": "",
+    "nick": "Ivans",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "IvaNsRL",
+    "twitter": "ivanshp9",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1401,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1408,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198012936582",
+    "name": "",
+    "nick": "KrezniK",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "Kreznikg",
+    "twitter": "Kreznik_YT",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1253,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1162,
+      "pos": 0
+    }
+  },
+  {
+    "id": "ro-sa_ol",
+    "name": "",
+    "nick": "ro-sa_ol",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "roman_olmedo",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 552,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 775,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 990,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Adrian__2007",
+    "name": "",
+    "nick": "Adrian__2007",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "EnriquengelCab3",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 767,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1134,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1154,
+      "pos": 0
+    }
+  },
+  {
+    "id": "lusiionX",
+    "name": "",
+    "nick": "lusiionX",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "lusiionX24",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 835,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1314,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1275,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198248138152",
+    "name": "",
+    "nick": "QuiqueConSusNike",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "ItzQuiquePvP",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 641,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1089,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1123,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561197960747770",
+    "name": "",
+    "nick": "pkN!",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "pkN_CSGo",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1189,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1182,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198271048800",
+    "name": "",
+    "nick": "senisius123",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "senisius123",
+    "twitter": "Ancarpx_",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 695,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1267,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1374,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198215684919",
+    "name": "",
+    "nick": "BlvcK",
+    "platform": "steam",
+    "role": "",
+    "team": "Jungle Gaming",
+    "twitch": "",
+    "twitter": "blvckyisus",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 690,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1235,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1181,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198298816257",
+    "name": "",
+    "nick": "itsDidac143",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Didac_143",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 891,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1291,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1331,
+      "pos": 0
+    }
+  },
+  {
+    "id": "TrislexQualityES",
+    "name": "",
+    "nick": "TrislexQualityES",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "Alejandrog26",
+    "twitter": "alexlunrer",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 864,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1394,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1243,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198233661728",
+    "name": "",
+    "nick": "ElAngelTG",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "ElAngelTG",
+    "twitter": "miturko3",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 722,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1224,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1160,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
