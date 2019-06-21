@@ -1,5 +1,33 @@
 [
   {
+    "id": "76561198260757849",
+    "name": "",
+    "nick": "Bad Gyal",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "jtoledano_",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1059,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1405,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198165920069",
     "name": "",
     "nick": "ValbuSenpai",
@@ -8183,7 +8211,7 @@
     "role": "",
     "team": "",
     "twitch": "",
-    "twitter": "CRISTIAN_MV_18",
+    "twitter": "CristianMV_RL",
     "v1": {
       "deltaMmr": 0,
       "deltaPos": 3,
