@@ -1,5 +1,33 @@
 [
   {
+    "id": "76561198037013014",
+    "name": "",
+    "nick": "eltirito",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "pablomoran10",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1137,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1102,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198260757849",
     "name": "",
     "nick": "Bad Gyal",
