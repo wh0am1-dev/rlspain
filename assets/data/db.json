@@ -1,5 +1,89 @@
 [
   {
+    "id": "ROCKET-ESP",
+    "name": "",
+    "nick": "ROCKET-ESP",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "@rodrif1gta",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 854,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1221,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1190,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Jarsenet97",
+    "name": "",
+    "nick": "Jarsenet97",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "jarsenet",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 794,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1275,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1173,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198291348689",
+    "name": "",
+    "nick": "ERAXX",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "eraxx_",
+    "twitter": "eraXx99",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 647,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1247,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1309,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -8825,7 +8909,7 @@
     "nick": "Pøns",
     "platform": "steam",
     "role": "",
-    "team": "S1X6EES",
+    "team": "",
     "twitch": "impons_rl",
     "twitter": "Pons__RL",
     "v1": {
