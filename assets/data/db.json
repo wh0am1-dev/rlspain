@@ -1,5 +1,117 @@
 [
   {
+    "id": "76561197960368742",
+    "name": "",
+    "nick": "Retewe",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "reteweee",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 532,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1075,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1204,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Pelaaex",
+    "name": "",
+    "nick": "Pelaex",
+    "platform": "ps",
+    "role": "Manager",
+    "team": "",
+    "twitch": "",
+    "twitter": "PELAEX1",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561197998315947",
+    "name": "",
+    "nick": "Chirlin69",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Chirlin69",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1035,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1082,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198277596090",
+    "name": "",
+    "nick": "Mingolism",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "mingolisim",
+    "twitter": "mingolism",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1239,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1861,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1616,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
