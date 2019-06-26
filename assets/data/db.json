@@ -1,5 +1,145 @@
 [
   {
+    "id": "76561198000075777",
+    "name": "",
+    "nick": "Boosted Animal",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "franciscorupto",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 763,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1111,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1225,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198339470321",
+    "name": "",
+    "nick": "Danitronki1711",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "itsdanitronki",
+    "twitter": "Danitronki1711",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 767,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1407,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1174,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198314912996",
+    "name": "",
+    "nick": "oskiro98",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "oskiro98",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 638,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1243,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1149,
+      "pos": 0
+    }
+  },
+  {
+    "id": "FranJLF",
+    "name": "",
+    "nick": "FranJLF",
+    "platform": "xbox",
+    "role": "",
+    "team": "",
+    "twitch": "FranjlfLopez",
+    "twitter": "FranJLF",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1269,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1294,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198311931080",
+    "name": "",
+    "nick": "Arsené Lupin",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "arsenelupin00",
+    "twitter": "arsene_lupin00",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 871,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1341,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1329,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -2468,7 +2608,7 @@
     "name": "",
     "nick": "Cowisis",
     "platform": "steam",
-    "role": "",
+    "role": "Retirado",
     "team": "",
     "twitch": "",
     "twitter": "cowisis",
