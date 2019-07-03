@@ -509,7 +509,7 @@
     "nick": "Alexyquemas",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "Blows Esports",
     "twitch": "",
     "twitter": "alexyquemas",
     "v1": {
@@ -592,7 +592,7 @@
     "name": "",
     "nick": "Alru",
     "platform": "steam",
-    "role": "",
+    "role": "Retirado",
     "team": "",
     "twitch": "",
     "twitter": "AlruRL",
@@ -3085,7 +3085,7 @@
     "nick": "diegostarmo",
     "platform": "steam",
     "role": "Manager",
-    "team": "",
+    "team": "Blows Esports",
     "twitch": "",
     "twitter": "DiegostarmoRL",
     "v1": {
@@ -3112,8 +3112,8 @@
     "name": "",
     "nick": "DiLegacy",
     "platform": "steam",
-    "role": "",
-    "team": "",
+    "role": "Coach",
+    "team": "Blows Esports",
     "twitch": "",
     "twitter": "DiLegacyDL",
     "v1": {
@@ -4121,7 +4121,7 @@
     "nick": "Fredy",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "Blows Esports",
     "twitch": "",
     "twitter": "RLFredy",
     "v1": {
@@ -8713,7 +8713,7 @@
     "nick": "Okis.",
     "platform": "steam",
     "role": "",
-    "team": "Jugones Team",
+    "team": "",
     "twitch": "Okiss",
     "twitter": "OkisRL",
     "v1": {
@@ -11452,12 +11452,12 @@
     }
   },
   {
-    "id": "Urii_15",
+    "id": "76561198858691129",
     "name": "",
     "nick": "Uri",
-    "platform": "ps",
+    "platform": "steam",
     "role": "Manager",
-    "team": "FekyX",
+    "team": "",
     "twitch": "",
     "twitter": "Urii15_",
     "v1": {
