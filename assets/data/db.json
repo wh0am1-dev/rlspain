@@ -1,5 +1,89 @@
 [
   {
+    "id": "76561198867474287",
+    "name": "",
+    "nick": "Visuals",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "diegoxluna_",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 401,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 957,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1026,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198891960972",
+    "name": "",
+    "nick": "Stigma.",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "dani8",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 910,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1327,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1356,
+      "pos": 0
+    }
+  },
+  {
+    "id": "ImNoootSmurf--",
+    "name": "",
+    "nick": "ImNoootSmurf--",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "imnoootsmurf",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 772,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1157,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1146,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -4541,7 +4625,7 @@
     "nick": "Grillo",
     "platform": "steam",
     "role": "",
-    "team": "Pushing Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "grilloRL",
     "v1": {
@@ -11681,7 +11765,7 @@
     "nick": "vSnity",
     "platform": "steam",
     "role": "",
-    "team": "Pushing Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "vSnityRL",
     "v1": {
