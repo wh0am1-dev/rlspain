@@ -1,5 +1,201 @@
 [
   {
+    "id": "76561198180608397",
+    "name": "",
+    "nick": "BattleGear",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "BattleGear7",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1232,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1650,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1582,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Elrjboss",
+    "name": "",
+    "nick": "Elrjboss",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Elrjboss",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1489,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1346,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Tumeu10",
+    "name": "",
+    "nick": "Tumeu10",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "hugomeamiawilly",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1002,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1396,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1174,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198150286778",
+    "name": "",
+    "nick": "Er1K",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "eriikpalomino",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 720,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1020,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 931,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198061540697",
+    "name": "",
+    "nick": "Dax4Ever",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "Mrdaxi",
+    "twitter": "mrdax4ever",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1378,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1213,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198332668398",
+    "name": "",
+    "nick": "Maestro kogg",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "luengo_tello",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 646,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1304,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1146,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198106822906",
+    "name": "",
+    "nick": "Sad Moai",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "SadMoai",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 834,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -789,7 +985,7 @@
     "nick": "Arcadia",
     "platform": "steam",
     "role": "",
-    "team": "ARKINOS E.C.",
+    "team": "",
     "twitch": "",
     "twitter": "ArcadiaRL",
     "v1": {
@@ -1769,7 +1965,7 @@
     "nick": "byivan15",
     "platform": "steam",
     "role": "",
-    "team": "ARKINOS E.C.",
+    "team": "",
     "twitch": "byivaan15",
     "twitter": "Byivan15",
     "v1": {
@@ -6697,7 +6893,7 @@
     "nick": "Killero",
     "platform": "steam",
     "role": "",
-    "team": "Pushing Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "KilleroRL",
     "v1": {
@@ -8685,7 +8881,7 @@
     "nick": "Nolichu",
     "platform": "steam",
     "role": "",
-    "team": "ARKINOS E.C.",
+    "team": "",
     "twitch": "",
     "twitter": "nolichu13",
     "v1": {
