@@ -1,5 +1,61 @@
 [
   {
+    "id": "76561198080519078",
+    "name": "",
+    "nick": "LadyPinya",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "ladypinya_",
+    "twitter": "LadyPinya_",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 746,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1089,
+      "pos": 0
+    }
+  },
+  {
+    "id": "CristianGazquez",
+    "name": "",
+    "nick": "CristianGazquez",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "CristianGazquez",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 975,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1462,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1378,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
