@@ -1,5 +1,117 @@
 [
   {
+    "id": "76561198409778944",
+    "name": "",
+    "nick": "Jota (JandroLoops)",
+    "platform": "steam",
+    "role": "",
+    "team": "Koalis Gaming Beta",
+    "twitch": "",
+    "twitter": "JandroLoops",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 974,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1278,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1318,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198226645080",
+    "name": "",
+    "nick": "Tabla",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Msr_K01",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 692,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1162,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1180,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198264017888",
+    "name": "",
+    "nick": "Mzno ツ",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "btrayrl",
+    "twitter": "MznoRl",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 616,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1134,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1128,
+      "pos": 0
+    }
+  },
+  {
+    "id": "ItZzDani__",
+    "name": "",
+    "nick": "ItZzDani__",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "ItZzDani__",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1582,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1528,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
