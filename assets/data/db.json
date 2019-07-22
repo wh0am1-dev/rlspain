@@ -1,5 +1,257 @@
 [
   {
+    "id": "VGIA-Danitronki",
+    "name": "",
+    "nick": "DaniiMendii",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "ItsDanitronki",
+    "twitter": "Daniimendii1",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 856,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1524,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1261,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198968354007",
+    "name": "",
+    "nick": "Rife31",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "EricRod73249041",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 828,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1301,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1453,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198391881185",
+    "name": "",
+    "nick": "Woti",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "JimenezMoji",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1013,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1506,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1544,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198253839727",
+    "name": "",
+    "nick": "iTsPablo",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "xsiezz",
+    "twitter": "PabloskyYT",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 442,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1026,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 781,
+      "pos": 0
+    }
+  },
+  {
+    "id": "TOLO009",
+    "name": "",
+    "nick": "Tolo",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "TOLO009_RL",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 999,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1554,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1451,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198174179865",
+    "name": "",
+    "nick": "Aethan",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "AngelJesusLope7",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1061,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1124,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Jarsenet97",
+    "name": "",
+    "nick": "Jarsenet",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "ToreuXx",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 753,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1376,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1245,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198824897313",
+    "name": "",
+    "nick": "Dani_CaD0s",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Dani_c2512",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1235,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1162,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Mate1HC",
+    "name": "",
+    "nick": "Mate1HC",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Mate1HC",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 607,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1103,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 939,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -9382,7 +9634,7 @@
   {
     "id": "76561198288984048",
     "name": "",
-    "nick": "Pøns",
+    "nick": "Pons",
     "platform": "steam",
     "role": "",
     "team": "",
@@ -11484,7 +11736,7 @@
     "name": "",
     "nick": "Tidus",
     "platform": "steam",
-    "role": "Manager",
+    "role": "",
     "team": "",
     "twitch": "Tidus_RL",
     "twitter": "TidusRL",
