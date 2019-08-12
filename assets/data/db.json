@@ -1,5 +1,257 @@
 [
   {
+    "id": "isDarko",
+    "name": "",
+    "nick": "isDarko",
+    "platform": "xbox",
+    "role": "",
+    "team": "",
+    "twitch": "onlydark0",
+    "twitter": "TheDarkoSA",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 955,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1494,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1393,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Jrdi04",
+    "name": "",
+    "nick": "Jrdi.",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Jrdi04",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1038,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1429,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1382,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Romero_RL",
+    "name": "",
+    "nick": "Romero_RL",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "MRomero_RL",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1007,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1391,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1333,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198229842800",
+    "name": "",
+    "nick": "DarkAngels",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "DarkAngels2000",
+    "twitter": "LluisDark",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1033,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1495,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1561,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198947195539",
+    "name": "",
+    "nick": "Pelmento",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "_asuwant",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 600,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 914,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1065,
+      "pos": 0
+    }
+  },
+  {
+    "id": "Borjalexhugo",
+    "name": "",
+    "nick": "Borjalexhugo",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "RXL-BorjaRL",
+    "twitter": "Borjalexhugo",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 896,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1420,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1450,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198309107419",
+    "name": "",
+    "nick": "MaxHunter",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "jose_pg9",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 652,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1105,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1023,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198836612733",
+    "name": "",
+    "nick": "Cherundi",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Gerikin94856818",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 780,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1174,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1195,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198163003498",
+    "name": "",
+    "nick": "harck5",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "harck5",
+    "twitter": "RaulJimenezLo10",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 693,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 845,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 975,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
