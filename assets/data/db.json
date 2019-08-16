@@ -1,5 +1,257 @@
 [
   {
+    "id": "Cowboys_Miguelon",
+    "name": "",
+    "nick": "Cowboys_Miguelon",
+    "platform": "ps",
+    "role": "",
+    "team": "Cowboys-eSports",
+    "twitch": "",
+    "twitter": "Miguelon256",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 676,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1055,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1179,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198376540109",
+    "name": "",
+    "nick": "Rookie v2",
+    "platform": "steam",
+    "role": "",
+    "team": "eGrillos Club",
+    "twitch": "",
+    "twitter": "Rookie__v2",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 604,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1046,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1115,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198428679079",
+    "name": "",
+    "nick": "Isma06",
+    "platform": "steam",
+    "role": "CEO",
+    "team": "SharKings E.C.",
+    "twitch": "isma06",
+    "twitter": "@Isma06_",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 883,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1500,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1374,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198303838733",
+    "name": "",
+    "nick": "angelguimil",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "angel_guimil",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 510,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 726,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 984,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198271864745",
+    "name": "",
+    "nick": "FA Pando",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "ImPandoo",
+    "twitter": "ImPandoo_",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 600,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1219,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1169,
+      "pos": 0
+    }
+  },
+  {
+    "id": "PabliXx_fg",
+    "name": "",
+    "nick": "Pablixx",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "PabloFerreiro9",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 563,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 935,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 782,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198160327506",
+    "name": "",
+    "nick": "Morrisillo.",
+    "platform": "steam",
+    "role": "",
+    "team": "The Unit eSports",
+    "twitch": "bymorris_",
+    "twitter": "ByMorriSs__",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 564,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 929,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1215,
+      "pos": 0
+    }
+  },
+  {
+    "id": "iVaan_05103",
+    "name": "",
+    "nick": "Ivaan_05103 ",
+    "platform": "ps",
+    "role": "",
+    "team": "APJ ESPORTS",
+    "twitch": "",
+    "twitter": "I05103",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1473,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1414,
+      "pos": 0
+    }
+  },
+  {
+    "id": "TORVIC_IBZ6969",
+    "name": "",
+    "nick": "TORVIC_IBZ6969",
+    "platform": "ps",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Victor_IBZ69",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 860,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1464,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1257,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
@@ -257,7 +509,7 @@
     "nick": "Adriantors",
     "platform": "steam",
     "role": "",
-    "team": "x6tence Black",
+    "team": "Firevoid",
     "twitch": "Adriantors",
     "twitter": "AdriantorsRL",
     "v1": {
@@ -1545,7 +1797,7 @@
     "nick": "Black",
     "platform": "steam",
     "role": "Coach",
-    "team": "x6tence Black",
+    "team": "Firevoid",
     "twitch": "",
     "twitter": "BlackRocketeer",
     "v1": {
@@ -2102,8 +2354,8 @@
   {
     "id": "CarcaPro17",
     "name": "",
-    "nick": "CarcaPro17",
-    "platform": "ps",
+    "nick": "76561198422879695",
+    "platform": "steam",
     "role": "",
     "team": "",
     "twitch": "",
@@ -3922,7 +4174,7 @@
   {
     "id": "76561198150286778",
     "name": "",
-    "nick": "Er1K",
+    "nick": "ByErik",
     "platform": "steam",
     "role": "",
     "team": "",
@@ -6445,7 +6697,7 @@
     "nick": "Jeytijey",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "Firevoid",
     "twitch": "",
     "twitter": "JeyTiJey",
     "v1": {
@@ -11233,7 +11485,7 @@
     "nick": "Snax5",
     "platform": "steam",
     "role": "",
-    "team": "x6tence Black",
+    "team": "Firevoid",
     "twitch": "",
     "twitter": "Snax5RL",
     "v1": {
