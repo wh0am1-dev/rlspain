@@ -1,5 +1,33 @@
 [
   {
+    "id": "76561198163508792",
+    "name": "",
+    "nick": "KyNtaa.",
+    "platform": "steam",
+    "role": "",
+    "team": "X6tence",
+    "twitch": "",
+    "twitter": "KyNtuwu",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1228,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1815,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 1711,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
