@@ -481,7 +481,7 @@
     "nick": "Alemz",
     "platform": "steam",
     "role": "",
-    "team": "Invokers",
+    "team": "",
     "twitch": "truedustrl",
     "twitter": "Alemz_RL",
     "v1": {
@@ -1740,8 +1740,8 @@
     "name": "",
     "nick": "Borex",
     "platform": "steam",
-    "role": "",
-    "team": "Baobab Gaming",
+    "role": "Retirado",
+    "team": "",
     "twitch": "",
     "twitter": "BorexRL",
     "v1": {
@@ -1853,7 +1853,7 @@
     "nick": "ByErik",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "Invokers Team",
     "twitch": "",
     "twitter": "eriikpalomino",
     "v1": {
@@ -2721,7 +2721,7 @@
     "nick": "Cristian (Boss)",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "EC4 Gaming",
     "twitch": "",
     "twitter": "BossxXxcristian",
     "v1": {
@@ -3029,7 +3029,7 @@
     "nick": "DaniZamax",
     "platform": "ps",
     "role": "",
-    "team": "",
+    "team": "DarkCats",
     "twitch": "DaniZamax",
     "twitter": "DaniZamax",
     "v1": {
@@ -3785,7 +3785,7 @@
     "nick": "Electrik",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "EC4 Gaming",
     "twitch": "",
     "twitter": "ElectrikRL",
     "v1": {
@@ -4625,7 +4625,7 @@
     "nick": "Gaiade",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "EC4 Gaming",
     "twitch": "",
     "twitter": "GaiadeRL",
     "v1": {
@@ -5325,7 +5325,7 @@
     "nick": "HMystic06",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "Team Invokers",
     "twitch": "",
     "twitter": "HMystic06",
     "v1": {
@@ -5493,9 +5493,9 @@
     "nick": "Ibra",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "x6tence Nebula",
     "twitch": "",
-    "twitter": "ibrahimovic9RL",
+    "twitter": "RL_Ibra",
     "v1": {
       "deltaMmr": -1118,
       "deltaPos": 125,
@@ -6221,7 +6221,7 @@
     "nick": "ivi gamer",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "Dead Rabbits Academy",
     "twitch": "iviirl",
     "twitter": "ivigamer34",
     "v1": {
@@ -6664,10 +6664,10 @@
     }
   },
   {
-    "id": "Ojalasalgavox",
+    "id": "76561198880568573",
     "name": "",
-    "nick": "Jleoro-rl",
-    "platform": "ps",
+    "nick": "Jleoro",
+    "platform": "steam",
     "role": "",
     "team": "",
     "twitch": "Jleoro",
@@ -7117,7 +7117,7 @@
     "nick": "Karsten",
     "platform": "steam",
     "role": "",
-    "team": "Mav3ricks eSports",
+    "team": "",
     "twitch": "",
     "twitter": "Karsten_RL",
     "v1": {
@@ -7560,10 +7560,10 @@
     }
   },
   {
-    "id": "76561198415225807",
+    "id": "KroNer60",
     "name": "",
     "nick": "KroNer60",
-    "platform": "steam",
+    "platform": "ps",
     "role": "",
     "team": "",
     "twitch": "gabriel_kroner60",
@@ -7873,7 +7873,7 @@
     "nick": "lete7",
     "platform": "steam",
     "role": "",
-    "team": "Espectro eSports",
+    "team": "",
     "twitch": "",
     "twitter": "Lete7RL",
     "v1": {
@@ -8825,7 +8825,7 @@
     "nick": "Mingolism",
     "platform": "steam",
     "role": "",
-    "team": "SharKings E.C",
+    "team": "Neek Club",
     "twitch": "mingolisim",
     "twitter": "mingolism",
     "v1": {
@@ -10726,12 +10726,12 @@
   {
     "id": "76561198376540109",
     "name": "",
-    "nick": "Rookie v2",
+    "nick": "Sol",
     "platform": "steam",
     "role": "",
     "team": "eGrillos Club",
     "twitch": "",
-    "twitter": "Rookie__v2",
+    "twitter": "EG_Sol_",
     "v1": {
       "deltaMmr": -694,
       "deltaPos": 151,
@@ -12465,7 +12465,7 @@
     "nick": "Torres",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "EC4 Gaming",
     "twitch": "",
     "twitter": "Torresesp7910",
     "v1": {
@@ -12712,7 +12712,7 @@
     }
   },
   {
-    "id": "76561198133680785",
+    "id": "76561198851888290",
     "name": "",
     "nick": "Vila",
     "platform": "steam",
@@ -13165,7 +13165,7 @@
     "nick": "Wynng",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "S1X6EES",
     "twitch": "wynng7",
     "twitter": "_Wynng",
     "v1": {
@@ -13188,10 +13188,10 @@
     }
   },
   {
-    "id": "CORSAN-2000",
+    "id": "76561198155848960",
     "name": "",
     "nick": "xCorsan",
-    "platform": "ps",
+    "platform": "steam",
     "role": "",
     "team": "",
     "twitch": "xxCorsan",
