@@ -1,5 +1,33 @@
 [ 
   {
+    "id": "76561198126310139",
+    "name": "",
+    "nick": "Syneex.",
+    "platform": "steam",
+    "role": "Coach",
+    "team": "Uniquestars",
+    "twitch": "",
+    "twitter": "SyneexRL",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198297495312",
     "name": "",
     "nick": "Kusmar",
@@ -4513,7 +4541,7 @@
     "nick": "Electrik",
     "platform": "steam",
     "role": "",
-    "team": "EC4 Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "ElectrikRL",
     "v1": {
