@@ -1,5 +1,89 @@
 [
   {
+    "id": "76561198041433359",
+    "name": "",
+    "nick": "Kurama",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "kuramacchi",
+    "twitter": "kuramaRL",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198364586998",
+    "name": "",
+    "nick": "SaltySteak",
+    "platform": "steam",
+    "role": "Retirado",
+    "team": "",
+    "twitch": "",
+    "twitter": "TeaKi_RL",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
+    "id": "76561198880074151",
+    "name": "",
+    "nick": "Kooke",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "",
+    "twitter": "Kooke_RL",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
