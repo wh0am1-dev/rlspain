@@ -228,8 +228,8 @@
     "name": "",
     "nick": "Adri1630",
     "platform": "steam",
-    "role": "CEO",
-    "team": "High Team",
+    "role": "",
+    "team": "",
     "twitch": "adri1630",
     "twitter": "adri1630__",
     "v1": {
@@ -369,7 +369,7 @@
     "nick": "adrisfera",
     "platform": "steam",
     "role": "",
-    "team": "Team Bizz",
+    "team": "",
     "twitch": "adrisfera",
     "twitter": "Adrisfera",
     "v1": {
@@ -509,7 +509,7 @@
     "nick": "Aleformula",
     "platform": "steam",
     "role": "",
-    "team": "Team Fenix",
+    "team": "",
     "twitch": "",
     "twitter": "AleformulaRL",
     "v1": {
@@ -593,7 +593,7 @@
     "nick": "Alexyquemas",
     "platform": "steam",
     "role": "",
-    "team": "Blows Esports",
+    "team": "",
     "twitch": "",
     "twitter": "alexyquemas",
     "v1": {
@@ -705,7 +705,7 @@
     "nick": "Alvarillo_2000",
     "platform": "steam",
     "role": "",
-    "team": "NightSkills Esports",
+    "team": "",
     "twitch": "Alvarillo_2000",
     "twitter": "alvaro_vigo",
     "v1": {
@@ -873,7 +873,7 @@
     "nick": "antoniopn08",
     "platform": "ps",
     "role": "",
-    "team": "X6tence Nebula",
+    "team": "",
     "twitch": "",
     "twitter": "PIOF12",
     "v1": {
@@ -1097,7 +1097,7 @@
     "nick": "ASN_RuBiiX",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "Dead Rabbits",
     "twitch": "",
     "twitter": "ASN_RuBiiX",
     "v1": {
@@ -1153,7 +1153,7 @@
     "nick": "AtomiK",
     "platform": "steam",
     "role": "",
-    "team": "Mav3ricks eSports",
+    "team": "Dead Rabbits",
     "twitch": "ltk_atomik1",
     "twitter": "AtomikRL",
     "v1": {
@@ -1321,7 +1321,7 @@
     "nick": "B00m_Qu!ck13",
     "platform": "steam",
     "role": "",
-    "team": "",
+    "team": "Crazy Crew",
     "twitch": "",
     "twitter": "y_b00mquick13",
     "v1": {
@@ -1486,7 +1486,7 @@
   {
     "id": "76561198430568701",
     "name": "",
-    "nick": "Bati_two PC",
+    "nick": "La Baticao",
     "platform": "steam",
     "role": "CEO",
     "team": "NightSkills eSports",
@@ -1657,7 +1657,7 @@
     "nick": "Binarydem0n",
     "platform": "steam",
     "role": "",
-    "team": "Mort Subite",
+    "team": "",
     "twitch": "",
     "twitter": "B1naryDem0nRL",
     "v1": {
@@ -1769,7 +1769,7 @@
     "nick": "BlvcK",
     "platform": "steam",
     "role": "",
-    "team": "Jungle Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "blvckyisus",
     "v1": {
@@ -1965,7 +1965,7 @@
     "nick": "ByErik",
     "platform": "steam",
     "role": "",
-    "team": "Invokers Team",
+    "team": "",
     "twitch": "",
     "twitter": "eriikpalomino",
     "v1": {
@@ -2161,7 +2161,7 @@
     "nick": "c0d1c3",
     "platform": "steam",
     "role": "",
-    "team": "Koalis Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "Mark_Cerda__",
     "v1": {
@@ -2189,7 +2189,7 @@
     "nick": "C4staFl0w4",
     "platform": "ps",
     "role": "",
-    "team": "NightSkills eSports",
+    "team": "",
     "twitch": "",
     "twitter": "El_Davo_4_YT",
     "v1": {
@@ -2273,7 +2273,7 @@
     "nick": "CarcaPro17",
     "platform": "steam",
     "role": "",
-    "team": "Mort Subite",
+    "team": "",
     "twitch": "",
     "twitter": "CarcaPro17",
     "v1": {
@@ -2357,7 +2357,7 @@
     "nick": "Casaprima",
     "platform": "steam",
     "role": "",
-    "team": "Dead Rabbits",
+    "team": "",
     "twitch": "",
     "twitter": "TheCasaprima",
     "v1": {
@@ -2581,7 +2581,7 @@
     "nick": "cidmar01",
     "platform": "ps",
     "role": "",
-    "team": "Espectro Esports",
+    "team": "",
     "twitch": "",
     "twitter": "cidmar01",
     "v1": {
@@ -2805,7 +2805,7 @@
     "nick": "Cowboys_Miguelon",
     "platform": "ps",
     "role": "",
-    "team": "Cowboys-eSports",
+    "team": "",
     "twitch": "",
     "twitter": "Miguelon256",
     "v1": {
@@ -2861,7 +2861,7 @@
     "nick": "Cristian_Boss",
     "platform": "steam",
     "role": "",
-    "team": "EC4 Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "imCriistian",
     "v1": {
@@ -3197,7 +3197,7 @@
     "nick": "DaniZamax",
     "platform": "ps",
     "role": "",
-    "team": "DarkCats",
+    "team": "",
     "twitch": "DaniZamax",
     "twitter": "DaniZamax",
     "v1": {
@@ -3252,8 +3252,8 @@
     "name": "",
     "nick": "Darkryx",
     "platform": "steam",
-    "role": "Coach",
-    "team": "x6tence Academy",
+    "role": "",
+    "team": "",
     "twitch": "",
     "twitter": "DarkryxGm",
     "v1": {
@@ -3281,7 +3281,7 @@
     "nick": "DarkSlime",
     "platform": "steam",
     "role": "",
-    "team": "DBX Esports",
+    "team": "",
     "twitch": "",
     "twitter": "xTheDarkSlimex",
     "v1": {
@@ -3757,7 +3757,7 @@
     "nick": "Dreyar",
     "platform": "steam",
     "role": "",
-    "team": "Mavericks Esports",
+    "team": "",
     "twitch": "",
     "twitter": "MarioGarciaCore",
     "v1": {
@@ -3841,7 +3841,7 @@
     "nick": "Duvy",
     "platform": "steam",
     "role": "",
-    "team": "Koalis Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "Super_Duvy",
     "v1": {
@@ -4009,7 +4009,7 @@
     "nick": "Elprote",
     "platform": "steam",
     "role": "",
-    "team": "The unit eSport",
+    "team": "",
     "twitch": "",
     "twitter": "aristides_mt",
     "v1": {
@@ -4093,7 +4093,7 @@
     "nick": "EnergY",
     "platform": "steam",
     "role": "",
-    "team": "Team Fenix",
+    "team": "",
     "twitch": "",
     "twitter": "EnergY1881",
     "v1": {
@@ -4148,8 +4148,8 @@
     "name": "",
     "nick": "Enri",
     "platform": "ps",
-    "role": "CEO",
-    "team": "DSG Gaming",
+    "role": "",
+    "team": "",
     "twitch": "",
     "twitter": "Enri_TC",
     "v1": {
@@ -4177,7 +4177,7 @@
     "nick": "ErAle001",
     "platform": "steam",
     "role": "",
-    "team": "Baobab Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "AleJimne5",
     "v1": {
@@ -4373,7 +4373,7 @@
     "nick": "Evilwolf",
     "platform": "steam",
     "role": "",
-    "team": "FeKyX",
+    "team": "",
     "twitch": "",
     "twitter": "EvilWolf_RL",
     "v1": {
@@ -4737,7 +4737,7 @@
     "nick": "Fredy",
     "platform": "steam",
     "role": "",
-    "team": "Blows Esports",
+    "team": "",
     "twitch": "",
     "twitter": "RLFredy",
     "v1": {
@@ -4849,7 +4849,7 @@
     "nick": "Gaiade",
     "platform": "steam",
     "role": "",
-    "team": "EC4 Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "GaiadeRL",
     "v1": {
@@ -5157,7 +5157,7 @@
     "nick": "Grillo",
     "platform": "steam",
     "role": "",
-    "team": "Mort Subite",
+    "team": "",
     "twitch": "",
     "twitter": "grilloRL",
     "v1": {
@@ -5185,7 +5185,7 @@
     "nick": "Gringo",
     "platform": "steam",
     "role": "",
-    "team": "Clat Esports",
+    "team": "",
     "twitch": "diegaso10",
     "twitter": "ELGRINGORL",
     "v1": {
@@ -5465,7 +5465,7 @@
     "nick": "HawK",
     "platform": "steam",
     "role": "",
-    "team": "eGrillos",
+    "team": "",
     "twitch": "h4wk32",
     "twitter": "H4wK32",
     "v1": {
@@ -5549,7 +5549,7 @@
     "nick": "HMystic06",
     "platform": "steam",
     "role": "",
-    "team": "Team Invokers",
+    "team": "",
     "twitch": "",
     "twitter": "HMystic06",
     "v1": {
@@ -5745,7 +5745,7 @@
     "nick": "Ibra",
     "platform": "steam",
     "role": "",
-    "team": "x6tence Nebula",
+    "team": "",
     "twitch": "",
     "twitter": "RL_Ibra",
     "v1": {
@@ -5773,7 +5773,7 @@
     "nick": "Ich bin Joce",
     "platform": "steam",
     "role": "",
-    "team": "Hawks Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "",
     "v1": {
@@ -5829,7 +5829,7 @@
     "nick": "Idrk",
     "platform": "steam",
     "role": "Retirado",
-    "team": "Pushing Gaming",
+    "team": "",
     "twitch": "idrk",
     "twitter": "iDrkRL",
     "v1": {
@@ -5857,7 +5857,7 @@
     "nick": "iFrNx",
     "platform": "steam",
     "role": "",
-    "team": "Number 7",
+    "team": "",
     "twitch": "zfrn",
     "twitter": "fraaan_jimenezz",
     "v1": {
@@ -5941,7 +5941,7 @@
     "nick": "Im_Deyvix",
     "platform": "ps",
     "role": "",
-    "team": "Kinacu eSports Beta",
+    "team": "",
     "twitch": "DeyvixRZ9",
     "twitter": "DeyvixRZ9",
     "v1": {
@@ -6021,8 +6021,8 @@
   },
   {
     "id": "76561198051323404",
-    "name": "Pablo Sabín",
-    "nick": "Incel Teleron",
+    "name": "",
+    "nick": "Asde",
     "platform": "steam",
     "role": "",
     "team": "",
@@ -6108,8 +6108,8 @@
     "name": "",
     "nick": "Isma06",
     "platform": "steam",
-    "role": "CEO",
-    "team": "SharKings E.C.",
+    "role": "",
+    "team": "",
     "twitch": "isma06",
     "twitter": "@Isma06_",
     "v1": {
@@ -6248,7 +6248,7 @@
     "name": "",
     "nick": "Itsulen",
     "platform": "steam",
-    "role": "",
+    "role": "Retirado",
     "team": "",
     "twitch": "",
     "twitter": "Itsulen",
@@ -6277,7 +6277,7 @@
     "nick": "ItsZalgo",
     "platform": "steam",
     "role": "",
-    "team": "Hunters Esports",
+    "team": "",
     "twitch": "itszalgo",
     "twitter": "kill01241",
     "v1": {
@@ -6333,7 +6333,7 @@
     "nick": "Ivaan_05103 ",
     "platform": "ps",
     "role": "",
-    "team": "APJ ESPORTS",
+    "team": "",
     "twitch": "",
     "twitter": "I05103",
     "v1": {
@@ -6361,7 +6361,7 @@
     "nick": "ivaann_rb",
     "platform": "ps",
     "role": "",
-    "team": "Evidence Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "I05103",
     "v1": {
@@ -6389,7 +6389,7 @@
     "nick": "Ivan.",
     "platform": "steam",
     "role": "",
-    "team": "NightSkills eSports",
+    "team": "",
     "twitch": "",
     "twitter": "RLivan2",
     "v1": {
@@ -6612,8 +6612,8 @@
     "name": "",
     "nick": "Japi",
     "platform": "steam",
-    "role": "CEO",
-    "team": "Team Genetic",
+    "role": "",
+    "team": "",
     "twitch": "",
     "twitter": "JapiKailer",
     "v1": {
@@ -6977,7 +6977,7 @@
     "nick": "Jofosu",
     "platform": "steam",
     "role": "",
-    "team": "QBits",
+    "team": "",
     "twitch": "",
     "twitter": "jofosu1",
     "v1": {
@@ -7004,8 +7004,8 @@
     "name": "",
     "nick": "John Travolta",
     "platform": "steam",
-    "role": "CEO",
-    "team": "Churragaming",
+    "role": "",
+    "team": "",
     "twitch": "churragaming",
     "twitter": "churragaming",
     "v1": {
@@ -7229,7 +7229,7 @@
     "nick": "Juanma_lokko",
     "platform": "steam",
     "role": "",
-    "team": "Team Fenix",
+    "team": "",
     "twitch": "",
     "twitter": "Juanma_lokko",
     "v1": {
@@ -7397,7 +7397,7 @@
     "nick": "Karsten",
     "platform": "steam",
     "role": "",
-    "team": "Mav3ricks eSports",
+    "team": "",
     "twitch": "",
     "twitter": "Karsten_RL",
     "v1": {
@@ -7453,7 +7453,7 @@
     "nick": "KawaiiKoala898",
     "platform": "steam",
     "role": "",
-    "team": "Koalis Gaming Beta",
+    "team": "",
     "twitch": "",
     "twitter": "koala898",
     "v1": {
@@ -7705,7 +7705,7 @@
     "nick": "KlazyXS",
     "platform": "steam",
     "role": "",
-    "team": "Death Killers",
+    "team": "",
     "twitch": "",
     "twitter": "KlazyXS",
     "v1": {
@@ -7873,7 +7873,7 @@
     "nick": "Kratos",
     "platform": "steam",
     "role": "",
-    "team": "Mort Subite",
+    "team": "",
     "twitch": "",
     "twitter": "kratosRL",
     "v1": {
@@ -8069,7 +8069,7 @@
     "nick": "KyNtaa.",
     "platform": "steam",
     "role": "",
-    "team": "X6tence",
+    "team": "",
     "twitch": "",
     "twitter": "KyNtuwu",
     "v1": {
@@ -8265,7 +8265,7 @@
     "nick": "Leo",
     "platform": "steam",
     "role": "",
-    "team": "Herd Warriors",
+    "team": "",
     "twitch": "LeoSMC",
     "twitter": "leo1983_",
     "v1": {
@@ -8545,7 +8545,7 @@
     "nick": "LuiisP",
     "platform": "ps",
     "role": "",
-    "team": "Mav3ricks eSports",
+    "team": "Dead Rabbits",
     "twitch": "",
     "twitter": "LuiisP_03",
     "v1": {
@@ -8601,7 +8601,7 @@
     "nick": "Luxxor",
     "platform": "steam",
     "role": "",
-    "team": "Dead Rabbits",
+    "team": "",
     "twitch": "",
     "twitter": "LuXxoR_RL",
     "v1": {
@@ -9048,8 +9048,8 @@
     "name": "",
     "nick": "Melkör",
     "platform": "steam",
-    "role": "Coach",
-    "team": "Team Bizz",
+    "role": "",
+    "team": "",
     "twitch": "",
     "twitter": "MelkorRl",
     "v1": {
@@ -9077,7 +9077,7 @@
     "nick": "Melting",
     "platform": "steam",
     "role": "",
-    "team": "Mort Subite",
+    "team": "",
     "twitch": "",
     "twitter": "MeltingRL",
     "v1": {
@@ -9161,7 +9161,7 @@
     "nick": "Migol",
     "platform": "steam",
     "role": "",
-    "team": "Espectro Esports",
+    "team": "",
     "twitch": "MigolRL",
     "twitter": "MigolRL",
     "v1": {
@@ -9493,7 +9493,7 @@
   },
   {
     "id": "76561198062330381",
-    "name": "José María",
+    "name": "",
     "nick": "Moowette",
     "platform": "steam",
     "role": "",
@@ -9525,7 +9525,7 @@
     "nick": "Morrisillo.",
     "platform": "steam",
     "role": "",
-    "team": "The Unit eSports",
+    "team": "",
     "twitch": "bymorris_",
     "twitter": "ByMorriSs__",
     "v1": {
@@ -9665,7 +9665,7 @@
     "nick": "MrVag",
     "platform": "steam",
     "role": "",
-    "team": "Team Bizz",
+    "team": "",
     "twitch": "mrvag93",
     "twitter": "MVag93",
     "v1": {
@@ -9693,7 +9693,7 @@
     "nick": "Muha",
     "platform": "steam",
     "role": "",
-    "team": "Jungle Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "OhDimiTri",
     "v1": {
@@ -9777,7 +9777,7 @@
     "nick": "Nachitow",
     "platform": "steam",
     "role": "",
-    "team": "RCD Espanyol",
+    "team": "Discombobulators",
     "twitch": "",
     "twitter": "NachitowRL",
     "v1": {
@@ -9833,7 +9833,7 @@
     "nick": "Navarrito4",
     "platform": "steam",
     "role": "",
-    "team": "Koalis Gaming Beta",
+    "team": "",
     "twitch": "",
     "twitter": "NarlosCavarro",
     "v1": {
@@ -9861,7 +9861,7 @@
     "nick": "NekoMasterGaming",
     "platform": "steam",
     "role": "",
-    "team": "NightSkills eSports",
+    "team": "",
     "twitch": "",
     "twitter": "NekoMasterRL",
     "v1": {
@@ -9972,8 +9972,8 @@
     "name": "",
     "nick": "Nipo",
     "platform": "steam",
-    "role": "Coach",
-    "team": "K8-ESports",
+    "role": "",
+    "team": "",
     "twitch": "NipoRL",
     "twitter": "carloslag99",
     "v1": {
@@ -10365,7 +10365,7 @@
     "nick": "Phenoz",
     "platform": "steam",
     "role": "Manager",
-    "team": "",
+    "team": "Discombobulators",
     "twitch": "",
     "twitter": "PhenozRL",
     "v1": {
@@ -10505,7 +10505,7 @@
     "nick": "Pmircos",
     "platform": "steam",
     "role": "",
-    "team": "Koalis Gaming Beta",
+    "team": "",
     "twitch": "",
     "twitter": "Pmircos",
     "v1": {
@@ -10701,7 +10701,7 @@
     "nick": "Puzo.",
     "platform": "steam",
     "role": "",
-    "team": "Baobab Gaming",
+    "team": "",
     "twitch": "PuzoRL",
     "twitter": "PuzoRL",
     "v1": {
@@ -10757,7 +10757,7 @@
     "nick": "R1B3R",
     "platform": "steam",
     "role": "",
-    "team": "CLAT Academy",
+    "team": "",
     "twitch": "R1B3R_13",
     "twitter": "R1B3R_13",
     "v1": {
@@ -11065,7 +11065,7 @@
     "nick": "ReDgAr5",
     "platform": "steam",
     "role": "",
-    "team": "eGrillos",
+    "team": "",
     "twitch": "",
     "twitter": "Ar5Dg",
     "v1": {
@@ -11093,7 +11093,7 @@
     "nick": "Reinox",
     "platform": "steam",
     "role": "",
-    "team": "X6tence Nebula",
+    "team": "",
     "twitch": "zReinox",
     "twitter": "xReinox",
     "v1": {
@@ -11233,7 +11233,7 @@
     "nick": "Rikytan",
     "platform": "steam",
     "role": "",
-    "team": "Espectro Esports",
+    "team": "",
     "twitch": "rikytan33",
     "twitter": "rikytan11",
     "v1": {
@@ -11456,8 +11456,8 @@
     "name": "",
     "nick": "RUBENCHUKI",
     "platform": "steam",
-    "role": "CEO",
-    "team": "eGrillos",
+    "role": "",
+    "team": "",
     "twitch": "",
     "twitter": "rubenchuki_6",
     "v1": {
@@ -11624,7 +11624,7 @@
     "name": "",
     "nick": "Salve",
     "platform": "steam",
-    "role": "Coach",
+    "role": "Retirado",
     "team": "",
     "twitch": "",
     "twitter": "Salve_RL",
@@ -11681,7 +11681,7 @@
     "nick": "Scream.",
     "platform": "steam",
     "role": "",
-    "team": "Team Bizz",
+    "team": "",
     "twitch": "ScreamRL_",
     "twitter": "TeenPaladine",
     "v1": {
@@ -11821,7 +11821,7 @@
     "nick": "sergioMONSTER.",
     "platform": "steam",
     "role": "",
-    "team": "Neek Club",
+    "team": "",
     "twitch": "",
     "twitter": "sergiomonsterr",
     "v1": {
@@ -11877,7 +11877,7 @@
     "nick": "Seru",
     "platform": "steam",
     "role": "",
-    "team": "Neek Society",
+    "team": "",
     "twitch": "",
     "twitter": "Seru5RL",
     "v1": {
@@ -12185,7 +12185,7 @@
     "nick": "SmOoTh",
     "platform": "steam",
     "role": "",
-    "team": "Mav3ricks eSports",
+    "team": "",
     "twitch": "",
     "twitter": "SmOoTh_RL",
     "v1": {
@@ -12241,7 +12241,7 @@
     "nick": "Sol",
     "platform": "steam",
     "role": "",
-    "team": "eGrillos Club",
+    "team": "",
     "twitch": "",
     "twitter": "EG_Sol_",
     "v1": {
@@ -12465,7 +12465,7 @@
     "nick": "Stake",
     "platform": "steam",
     "role": "",
-    "team": "RCD Espanyol",
+    "team": "",
     "twitch": "",
     "twitter": "StakeYT",
     "v1": {
@@ -12520,8 +12520,8 @@
     "name": "",
     "nick": "Sterlo_Oficial",
     "platform": "steam",
-    "role": "Manager",
-    "team": "NightSkills eSports",
+    "role": "",
+    "team": "",
     "twitch": "Sterlo_Oficial",
     "twitter": "Mvillag68",
     "v1": {
@@ -12576,7 +12576,7 @@
     "name": "",
     "nick": "Stormz",
     "platform": "steam",
-    "role": "",
+    "role": "Retirado",
     "team": "",
     "twitch": "",
     "twitter": "Stormz_RL",
@@ -12745,7 +12745,7 @@
     "nick": "Syneex.",
     "platform": "steam",
     "role": "Coach",
-    "team": "Uniquestars",
+    "team": "",
     "twitch": "",
     "twitter": "SyneexRL",
     "v1": {
@@ -12800,7 +12800,7 @@
     "name": "",
     "nick": "Syston",
     "platform": "steam",
-    "role": "Retirado",
+    "role": "",
     "team": "",
     "twitch": "",
     "twitter": "Syston_rl",
@@ -13277,7 +13277,7 @@
     "nick": "Torres",
     "platform": "steam",
     "role": "",
-    "team": "EC4 Gaming",
+    "team": "",
     "twitch": "",
     "twitter": "Torresesp7910",
     "v1": {
@@ -13305,7 +13305,7 @@
     "nick": "TORRES8232",
     "platform": "ps",
     "role": "",
-    "team": "NightSkills eSports",
+    "team": "",
     "twitch": "",
     "twitter": "TORRES_RL29",
     "v1": {
@@ -13472,8 +13472,8 @@
     "name": "",
     "nick": "Uteki",
     "platform": "steam",
-    "role": "CEO",
-    "team": "Rainbow Legends",
+    "role": "",
+    "team": "",
     "twitch": "",
     "twitter": "UtekiRNWL",
     "v1": {
@@ -13641,9 +13641,9 @@
     "nick": "Vk-Sailen",
     "platform": "steam",
     "role": "",
-    "team": "Mav3ricks eSports",
+    "team": "Dead Rabbits",
     "twitch": "",
-    "twitter": "VKSaileeMz",
+    "twitter": "VKSailen",
     "v1": {
       "deltaMmr": 0,
       "deltaPos": 0,
@@ -13668,8 +13668,8 @@
     "name": "",
     "nick": "VorteX",
     "platform": "steam",
-    "role": "Coach",
-    "team": "eGrillos",
+    "role": "",
+    "team": "",
     "twitch": "",
     "twitter": "xVorteX_RL",
     "v1": {
@@ -13697,7 +13697,7 @@
     "nick": "VR",
     "platform": "steam",
     "role": "",
-    "team": "Koalis Gaming",
+    "team": "",
     "twitch": "koalisgaming",
     "twitter": "KLG_VR",
     "v1": {
@@ -13809,7 +13809,7 @@
     "nick": "wilfred.",
     "platform": "steam",
     "role": "",
-    "team": "Mav3ricks eSports",
+    "team": "",
     "twitch": "",
     "twitter": "wilfredusRL",
     "v1": {
@@ -13892,7 +13892,7 @@
     "name": "",
     "nick": "Wolfsonthemoon",
     "platform": "steam",
-    "role": "",
+    "role": "Retirado",
     "team": "",
     "twitch": "",
     "twitter": "Wolfsonthemoon",
@@ -14005,7 +14005,7 @@
     "nick": "Wynng",
     "platform": "steam",
     "role": "",
-    "team": "S1X6EES",
+    "team": "",
     "twitch": "wynng7",
     "twitter": "_Wynng",
     "v1": {
@@ -14257,7 +14257,7 @@
     "nick": "YOLID.",
     "platform": "steam",
     "role": "",
-    "team": "FeKyX",
+    "team": "",
     "twitch": "",
     "twitter": "YoLiD_",
     "v1": {
@@ -14369,7 +14369,7 @@
     "nick": "Zasuj",
     "platform": "steam",
     "role": "",
-    "team": "S1X6EES",
+    "team": "",
     "twitch": "",
     "twitter": "ZasujOfficial",
     "v1": {
