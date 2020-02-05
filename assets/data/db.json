@@ -44,7 +44,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1096,
       "pos": 415
     },
@@ -72,13 +72,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1623,
       "pos": 80
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1436,
       "pos": 238
     }
@@ -128,13 +128,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1027,
       "pos": 429
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1235,
       "pos": 381
     }
@@ -156,7 +156,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1194,
       "pos": 392
     },
@@ -184,13 +184,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1387,
       "pos": 286
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1352,
       "pos": 309
     }
@@ -212,13 +212,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1590,
       "pos": 108
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1679,
       "pos": 50
     }
@@ -240,7 +240,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1076,
       "pos": 417
     },
@@ -296,13 +296,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1588,
       "pos": 111
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1407,
       "pos": 266
     }
@@ -318,13 +318,13 @@
     "twitter": "AdriantorsRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1021,
       "pos": 146
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1651,
       "pos": 66
     },
@@ -386,7 +386,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1704,
       "pos": 40
     }
@@ -408,13 +408,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1152,
       "pos": 402
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1229,
       "pos": 385
     }
@@ -436,7 +436,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 976,
       "pos": 440
     },
@@ -464,7 +464,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1291,
       "pos": 356
     },
@@ -492,7 +492,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1399,
       "pos": 271
     },
@@ -542,13 +542,13 @@
     "twitter": "Alemz_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1116,
       "pos": 80
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1623,
       "pos": 81
     },
@@ -576,13 +576,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1535,
       "pos": 159
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1573,
       "pos": 118
     }
@@ -604,13 +604,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1527,
       "pos": 170
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1588,
       "pos": 111
     }
@@ -632,7 +632,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1483,
       "pos": 203
     },
@@ -660,13 +660,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 0,
       "mmr": 1569,
       "pos": 128
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1500,
       "pos": 197
     }
@@ -688,7 +688,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1595,
       "pos": 106
     },
@@ -710,19 +710,19 @@
     "twitter": "alvaro_vigo",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1076,
       "pos": 112
     },
     "v2": {
-      "deltaMmr": 9,
-      "deltaPos": -8,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1611,
       "pos": 90
     },
     "v3": {
-      "deltaMmr": -73,
-      "deltaPos": 44,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1628,
       "pos": 87
     }
@@ -800,7 +800,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 815,
       "pos": 450
     },
@@ -828,7 +828,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1301,
       "pos": 350
     },
@@ -856,7 +856,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1465,
       "pos": 219
     },
@@ -884,7 +884,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1644,
       "pos": 68
     },
@@ -912,7 +912,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1445,
       "pos": 233
     },
@@ -934,19 +934,19 @@
     "twitter": "Arelch1",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1130,
       "pos": 65
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1632,
       "pos": 76
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1512,
       "pos": 183
     }
@@ -968,13 +968,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1399,
       "pos": 273
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1369,
       "pos": 295
     }
@@ -996,7 +996,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1436,
       "pos": 237
     },
@@ -1024,13 +1024,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1601,
       "pos": 102
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1654,
       "pos": 66
     }
@@ -1052,13 +1052,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1302,
       "pos": 347
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1351,
       "pos": 312
     }
@@ -1080,13 +1080,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1419,
       "pos": 253
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1377,
       "pos": 289
     }
@@ -1108,7 +1108,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1215,
       "pos": 382
     },
@@ -1130,13 +1130,13 @@
     "twitter": "ASN_RuBiiX",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1236,
       "pos": 26
     },
     "v2": {
-      "deltaMmr": -13,
-      "deltaPos": 1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 2139,
       "pos": 2
     },
@@ -1164,7 +1164,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1051,
       "pos": 423
     },
@@ -1185,20 +1185,20 @@
     "twitch": "ltk_atomik1",
     "twitter": "AtomikRL",
     "v1": {
-      "deltaMmr": 8,
+      "deltaMmr": 0,
       "deltaPos": 0,
       "mmr": 1543,
       "pos": 1
     },
     "v2": {
-      "deltaMmr": 18,
-      "deltaPos": -1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 2147,
       "pos": 1
     },
     "v3": {
-      "deltaMmr": -24,
-      "deltaPos": 1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 2071,
       "pos": 2
     }
@@ -1220,13 +1220,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1612,
       "pos": 85
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1692,
       "pos": 46
     }
@@ -1254,7 +1254,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 479
     }
@@ -1282,7 +1282,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 475
     }
@@ -1304,7 +1304,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1293,
       "pos": 353
     },
@@ -1326,19 +1326,19 @@
     "twitter": "AdryLeonhart",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1028,
       "pos": 141
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1561,
       "pos": 138
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1343,
       "pos": 320
     }
@@ -1354,12 +1354,12 @@
     "twitter": "y_b00mquick13",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1221,
       "pos": 30
     },
     "v2": {
-      "deltaMmr": 8,
+      "deltaMmr": 0,
       "deltaPos": 0,
       "mmr": 1894,
       "pos": 16
@@ -1388,7 +1388,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1259,
       "pos": 365
     },
@@ -1444,7 +1444,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1281,
       "pos": 359
     },
@@ -1500,7 +1500,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1591,
       "pos": 107
     },
@@ -1522,7 +1522,7 @@
     "twitter": "BattleGear7",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1189,
       "pos": 34
     },
@@ -1534,7 +1534,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1655,
       "pos": 65
     }
@@ -1562,7 +1562,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1642,
       "pos": 78
     }
@@ -1584,13 +1584,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1637,
       "pos": 73
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1557,
       "pos": 136
     }
@@ -1618,7 +1618,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1433,
       "pos": 239
     }
@@ -1640,7 +1640,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1408,
       "pos": 263
     },
@@ -1662,13 +1662,13 @@
     "twitter": "B1naryDem0nRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1088,
       "pos": 102
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 0,
       "mmr": 1561,
       "pos": 137
     },
@@ -1696,13 +1696,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1352,
       "pos": 308
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1515,
       "pos": 178
     }
@@ -1724,7 +1724,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1306,
       "pos": 342
     },
@@ -1752,13 +1752,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1547,
       "pos": 147
     },
     "v3": {
-      "deltaMmr": -76,
-      "deltaPos": 73,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1511,
       "pos": 186
     }
@@ -1780,7 +1780,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1126,
       "pos": 410
     },
@@ -1808,13 +1808,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1428,
       "pos": 243
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1500,
       "pos": 194
     }
@@ -1836,13 +1836,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1366,
       "pos": 298
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1404,
       "pos": 272
     }
@@ -1864,13 +1864,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1533,
       "pos": 163
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1404,
       "pos": 271
     }
@@ -1892,13 +1892,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1578,
       "pos": 121
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1514,
       "pos": 179
     }
@@ -1920,7 +1920,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1413,
       "pos": 257
     },
@@ -1948,7 +1948,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1440,
       "pos": 235
     },
@@ -1976,7 +1976,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1266,
       "pos": 362
     },
@@ -2004,13 +2004,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 484
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 449
     }
@@ -2032,13 +2032,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1581,
       "pos": 118
     },
     "v3": {
-      "deltaMmr": -34,
-      "deltaPos": 27,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1623,
       "pos": 91
     }
@@ -2060,13 +2060,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 481
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -70,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 447
     }
@@ -2082,19 +2082,19 @@
     "twitter": "ByJesuz",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1076,
       "pos": 113
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1606,
       "pos": 94
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1553,
       "pos": 139
     }
@@ -2115,7 +2115,7 @@
       "pos": 20
     },
     "v2": {
-      "deltaMmr": -1,
+      "deltaMmr": 0,
       "deltaPos": 0,
       "mmr": 2010,
       "pos": 5
@@ -2144,13 +2144,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 479
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 517
     }
@@ -2172,13 +2172,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1055,
       "pos": 422
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1201,
       "pos": 399
     }
@@ -2200,13 +2200,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1423,
       "pos": 250
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1398,
       "pos": 279
     }
@@ -2228,7 +2228,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1396,
       "pos": 279
     },
@@ -2256,13 +2256,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1464,
       "pos": 220
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1533,
       "pos": 158
     }
@@ -2277,20 +2277,20 @@
     "twitch": "",
     "twitter": "CarcaPro17",
     "v1": {
-      "deltaMmr": 16,
-      "deltaPos": -1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1274,
       "pos": 16
     },
     "v2": {
-      "deltaMmr": -13,
-      "deltaPos": 2,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1809,
       "pos": 25
     },
     "v3": {
-      "deltaMmr": -9,
-      "deltaPos": 1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1799,
       "pos": 14
     }
@@ -2312,7 +2312,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 953,
       "pos": 441
     },
@@ -2340,13 +2340,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1556,
       "pos": 140
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1577,
       "pos": 116
     }
@@ -2362,7 +2362,7 @@
     "twitter": "TheCasaprima",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1152,
       "pos": 50
     },
@@ -2374,7 +2374,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1867,
       "pos": 10
     }
@@ -2402,7 +2402,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1452,
       "pos": 225
     }
@@ -2424,13 +2424,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 989,
       "pos": 439
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1089,
       "pos": 431
     }
@@ -2452,7 +2452,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -7,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 508
     },
@@ -2480,7 +2480,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 994,
       "pos": 438
     },
@@ -2507,14 +2507,14 @@
       "pos": 324
     },
     "v2": {
-      "deltaMmr": 1346,
-      "deltaPos": -192,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1346,
       "pos": 313
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1446,
       "pos": 229
     }
@@ -2536,13 +2536,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -7,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 493
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 499
     }
@@ -2598,7 +2598,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 11,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 498
     }
@@ -2620,13 +2620,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1464,
       "pos": 221
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1660,
       "pos": 61
     }
@@ -2648,7 +2648,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1011,
       "pos": 434
     },
@@ -2704,7 +2704,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1355,
       "pos": 306
     },
@@ -2732,13 +2732,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -6,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 472
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 478
     }
@@ -2760,7 +2760,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1187,
       "pos": 397
     },
@@ -2788,13 +2788,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1604,
       "pos": 96
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": 0,
       "mmr": 1526,
       "pos": 161
     }
@@ -2816,7 +2816,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1316,
       "pos": 331
     },
@@ -2843,14 +2843,14 @@
       "pos": 310
     },
     "v2": {
-      "deltaMmr": 29,
-      "deltaPos": -20,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1574,
       "pos": 126
     },
     "v3": {
-      "deltaMmr": -15,
-      "deltaPos": 12,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1519,
       "pos": 171
     }
@@ -2866,13 +2866,13 @@
     "twitter": "imCriistian",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1216,
       "pos": 32
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1708,
       "pos": 42
     },
@@ -2900,13 +2900,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1556,
       "pos": 141
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1535,
       "pos": 155
     }
@@ -2956,7 +2956,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1410,
       "pos": 258
     },
@@ -2984,7 +2984,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1602,
       "pos": 100
     },
@@ -3011,14 +3011,14 @@
       "pos": 261
     },
     "v2": {
-      "deltaMmr": -18,
-      "deltaPos": 10,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1210,
       "pos": 386
     },
     "v3": {
-      "deltaMmr": 39,
-      "deltaPos": -14,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1217,
       "pos": 391
     }
@@ -3034,7 +3034,7 @@
     "twitter": "DamiDelevingne",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1137,
       "pos": 59
     },
@@ -3046,7 +3046,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1652,
       "pos": 69
     }
@@ -3068,13 +3068,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 59,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 515
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 459
     }
@@ -3096,13 +3096,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1540,
       "pos": 152
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1645,
       "pos": 76
     }
@@ -3152,7 +3152,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1307,
       "pos": 340
     },
@@ -3180,13 +3180,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1327,
       "pos": 322
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1368,
       "pos": 298
     }
@@ -3208,7 +3208,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1162,
       "pos": 401
     },
@@ -3242,7 +3242,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1516,
       "pos": 176
     }
@@ -3270,7 +3270,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1507,
       "pos": 187
     }
@@ -3292,13 +3292,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1425,
       "pos": 248
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1437,
       "pos": 237
     }
@@ -3320,13 +3320,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1432,
       "pos": 240
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1394,
       "pos": 282
     }
@@ -3348,13 +3348,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -6,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 467
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 504
     }
@@ -3376,7 +3376,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1406,
       "pos": 266
     },
@@ -3410,7 +3410,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1396,
       "pos": 280
     }
@@ -3460,7 +3460,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1562,
       "pos": 134
     },
@@ -3488,13 +3488,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 56,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 516
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1407,
       "pos": 265
     }
@@ -3516,7 +3516,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1070,
       "pos": 420
     },
@@ -3544,13 +3544,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1310,
       "pos": 334
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1414,
       "pos": 259
     }
@@ -3572,13 +3572,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1307,
       "pos": 339
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1398,
       "pos": 278
     }
@@ -3600,13 +3600,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1248,
       "pos": 372
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1402,
       "pos": 274
     }
@@ -3656,13 +3656,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 488
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 458
     }
@@ -3683,14 +3683,14 @@
       "pos": 2
     },
     "v2": {
-      "deltaMmr": 25,
-      "deltaPos": -1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1992,
       "pos": 10
     },
     "v3": {
-      "deltaMmr": 10,
-      "deltaPos": -9,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1630,
       "pos": 84
     }
@@ -3712,13 +3712,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 485
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -57,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 457
     }
@@ -3734,19 +3734,19 @@
     "twitter": "DrCole17",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1121,
       "pos": 71
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1608,
       "pos": 93
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1557,
       "pos": 137
     }
@@ -3762,19 +3762,19 @@
     "twitter": "MarioGarciaCore",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1133,
       "pos": 64
     },
     "v2": {
-      "deltaMmr": 27,
-      "deltaPos": -10,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1678,
       "pos": 55
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1651,
       "pos": 70
     }
@@ -3790,7 +3790,7 @@
     "twitter": "d_avi_d_2311",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1121,
       "pos": 72
     },
@@ -3802,7 +3802,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1589,
       "pos": 110
     }
@@ -3823,14 +3823,14 @@
       "pos": 501
     },
     "v2": {
-      "deltaMmr": 1367,
-      "deltaPos": -193,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1367,
       "pos": 297
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1698,
       "pos": 44
     }
@@ -3852,7 +3852,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1306,
       "pos": 341
     },
@@ -3880,7 +3880,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1213,
       "pos": 383
     },
@@ -3902,19 +3902,19 @@
     "twitter": "EDU09881",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1079,
       "pos": 109
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1611,
       "pos": 87
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1538,
       "pos": 150
     }
@@ -3936,13 +3936,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1061,
       "pos": 421
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 10,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 509
     }
@@ -3958,18 +3958,18 @@
     "twitter": "ElectrikRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1139,
       "pos": 58
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1709,
       "pos": 41
     },
     "v3": {
-      "deltaMmr": 26,
+      "deltaMmr": 0,
       "deltaPos": 0,
       "mmr": 1900,
       "pos": 8
@@ -3992,13 +3992,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1588,
       "pos": 113
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1577,
       "pos": 115
     }
@@ -4020,13 +4020,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1521,
       "pos": 177
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1567,
       "pos": 123
     }
@@ -4048,13 +4048,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 47,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 514
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 11,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 507
     }
@@ -4076,7 +4076,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1293,
       "pos": 354
     },
@@ -4104,13 +4104,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1493,
       "pos": 196
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1690,
       "pos": 48
     }
@@ -4132,13 +4132,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1304,
       "pos": 344
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1423,
       "pos": 248
     }
@@ -4160,13 +4160,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1326,
       "pos": 324
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 493
     }
@@ -4182,7 +4182,7 @@
     "twitter": "AleJimne5",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1187,
       "pos": 35
     },
@@ -4194,7 +4194,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1518,
       "pos": 174
     }
@@ -4216,13 +4216,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1234,
       "pos": 376
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1265,
       "pos": 372
     }
@@ -4244,13 +4244,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1653,
       "pos": 65
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1703,
       "pos": 42
     }
@@ -4294,18 +4294,18 @@
     "twitter": "EspumitaRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1238,
       "pos": 25
     },
     "v2": {
-      "deltaMmr": -17,
-      "deltaPos": 3,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1723,
       "pos": 37
     },
     "v3": {
-      "deltaMmr": -20,
+      "deltaMmr": 0,
       "deltaPos": 0,
       "mmr": 1963,
       "pos": 4
@@ -4322,7 +4322,7 @@
     "twitter": "Estrupa27",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1156,
       "pos": 45
     },
@@ -4334,7 +4334,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1653,
       "pos": 67
     }
@@ -4356,13 +4356,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1369,
       "pos": 293
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 7,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 484
     }
@@ -4378,19 +4378,19 @@
     "twitter": "EvilWolf_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1068,
       "pos": 119
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1546,
       "pos": 149
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1549,
       "pos": 145
     }
@@ -4411,8 +4411,8 @@
       "pos": 76
     },
     "v2": {
-      "deltaMmr": -17,
-      "deltaPos": 9,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1638,
       "pos": 71
     },
@@ -4440,13 +4440,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1250,
       "pos": 368
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1201,
       "pos": 400
     }
@@ -4468,13 +4468,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1296,
       "pos": 352
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1384,
       "pos": 286
     }
@@ -4496,7 +4496,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1323,
       "pos": 327
     },
@@ -4518,19 +4518,19 @@
     "twitter": "ByFeZz",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1150,
       "pos": 51
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1808,
       "pos": 26
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1669,
       "pos": 56
     }
@@ -4552,13 +4552,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1565,
       "pos": 131
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1564,
       "pos": 130
     }
@@ -4580,13 +4580,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 49,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 501
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 8,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 467
     }
@@ -4607,14 +4607,14 @@
       "pos": 69
     },
     "v2": {
-      "deltaMmr": 52,
-      "deltaPos": -44,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1586,
       "pos": 115
     },
     "v3": {
-      "deltaMmr": -33,
-      "deltaPos": 16,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1673,
       "pos": 52
     }
@@ -4636,7 +4636,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1405,
       "pos": 267
     },
@@ -4657,20 +4657,20 @@
     "twitch": "fr5ddy",
     "twitter": "FR5DDY",
     "v1": {
-      "deltaMmr": -9,
+      "deltaMmr": 0,
       "deltaPos": 0,
       "mmr": 891,
       "pos": 200
     },
     "v2": {
-      "deltaMmr": -9,
-      "deltaPos": 9,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1358,
       "pos": 304
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1465,
       "pos": 216
     }
@@ -4691,14 +4691,14 @@
       "pos": 418
     },
     "v2": {
-      "deltaMmr": 26,
-      "deltaPos": -5,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1164,
       "pos": 400
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1088,
       "pos": 432
     }
@@ -4720,13 +4720,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1324,
       "pos": 326
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1366,
       "pos": 299
     }
@@ -4748,13 +4748,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1430,
       "pos": 241
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1386,
       "pos": 285
     }
@@ -4776,7 +4776,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1347,
       "pos": 311
     },
@@ -4804,13 +4804,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -13,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 500
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 7,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 490
     }
@@ -4832,7 +4832,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1453,
       "pos": 226
     },
@@ -4888,7 +4888,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 894,
       "pos": 447
     },
@@ -4916,7 +4916,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1566,
       "pos": 130
     },
@@ -4938,7 +4938,7 @@
     "twitter": "GCR710_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1244,
       "pos": 19
     },
@@ -4972,7 +4972,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1005,
       "pos": 435
     },
@@ -5000,7 +5000,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1033,
       "pos": 426
     },
@@ -5033,8 +5033,8 @@
       "pos": 194
     },
     "v3": {
-      "deltaMmr": 22,
-      "deltaPos": -25,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1578,
       "pos": 114
     }
@@ -5056,13 +5056,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1393,
       "pos": 280
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1565,
       "pos": 129
     }
@@ -5084,7 +5084,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1303,
       "pos": 345
     },
@@ -5112,13 +5112,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1012,
       "pos": 433
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1213,
       "pos": 393
     }
@@ -5140,13 +5140,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1292,
       "pos": 355
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1430,
       "pos": 244
     }
@@ -5162,13 +5162,13 @@
     "twitter": "grilloRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1240,
       "pos": 23
     },
     "v2": {
-      "deltaMmr": 15,
-      "deltaPos": -1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1764,
       "pos": 32
     },
@@ -5196,13 +5196,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1325,
       "pos": 325
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -6,
+      "deltaPos": 0,
       "mmr": 1521,
       "pos": 166
     }
@@ -5224,13 +5224,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1604,
       "pos": 97
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1512,
       "pos": 182
     }
@@ -5258,7 +5258,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1565,
       "pos": 128
     }
@@ -5279,14 +5279,14 @@
       "pos": 297
     },
     "v2": {
-      "deltaMmr": -14,
-      "deltaPos": 2,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1814,
       "pos": 24
     },
     "v3": {
-      "deltaMmr": -24,
-      "deltaPos": 6,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1720,
       "pos": 30
     }
@@ -5336,13 +5336,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -10,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 496
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1513,
       "pos": 180
     }
@@ -5364,7 +5364,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1249,
       "pos": 369
     },
@@ -5392,13 +5392,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 469
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 9,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 516
     }
@@ -5420,7 +5420,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1415,
       "pos": 255
     },
@@ -5476,13 +5476,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1238,
       "pos": 375
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1421,
       "pos": 250
     }
@@ -5504,13 +5504,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1497,
       "pos": 191
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -5,
+      "deltaPos": 0,
       "mmr": 1525,
       "pos": 162
     }
@@ -5532,13 +5532,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1228,
       "pos": 378
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1203,
       "pos": 398
     }
@@ -5560,7 +5560,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1408,
       "pos": 262
     },
@@ -5588,13 +5588,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1393,
       "pos": 281
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1433,
       "pos": 240
     }
@@ -5616,13 +5616,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -10,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 489
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 480
     }
@@ -5644,7 +5644,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1402,
       "pos": 268
     },
@@ -5672,13 +5672,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -6,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 456
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1505,
       "pos": 189
     }
@@ -5700,13 +5700,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -11,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 490
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -40,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 470
     }
@@ -5722,19 +5722,19 @@
     "twitter": "IBONAKORL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1136,
       "pos": 61
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1609,
       "pos": 92
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1647,
       "pos": 73
     }
@@ -5750,19 +5750,19 @@
     "twitter": "RL_Ibra",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1129,
       "pos": 66
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1577,
       "pos": 124
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1687,
       "pos": 49
     }
@@ -5784,13 +5784,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1614,
       "pos": 84
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1580,
       "pos": 113
     }
@@ -5805,20 +5805,20 @@
     "twitch": "",
     "twitter": "danielcrackote",
     "v1": {
-      "deltaMmr": 7,
-      "deltaPos": -3,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1072,
       "pos": 117
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1636,
       "pos": 74
     },
     "v3": {
-      "deltaMmr": -29,
-      "deltaPos": 21,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1376,
       "pos": 291
     }
@@ -5834,19 +5834,19 @@
     "twitter": "iDrkRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1018,
       "pos": 148
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1523,
       "pos": 174
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1512,
       "pos": 184
     }
@@ -5868,7 +5868,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -13,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 499
     },
@@ -5896,7 +5896,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1301,
       "pos": 349
     },
@@ -5923,14 +5923,14 @@
       "pos": 121
     },
     "v2": {
-      "deltaMmr": 7,
-      "deltaPos": -2,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1580,
       "pos": 119
     },
     "v3": {
-      "deltaMmr": 86,
-      "deltaPos": -35,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1748,
       "pos": 25
     }
@@ -5980,13 +5980,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1113,
       "pos": 413
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -6,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 450
     }
@@ -6014,7 +6014,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1621,
       "pos": 93
     }
@@ -6036,13 +6036,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1454,
       "pos": 225
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1389,
       "pos": 283
     }
@@ -6070,7 +6070,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1366,
       "pos": 300
     }
@@ -6092,13 +6092,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1421,
       "pos": 251
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1437,
       "pos": 236
     }
@@ -6126,7 +6126,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1560,
       "pos": 132
     }
@@ -6176,13 +6176,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1171,
       "pos": 398
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1283,
       "pos": 360
     }
@@ -6204,13 +6204,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 53,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 507
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 464
     }
@@ -6238,7 +6238,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1656,
       "pos": 64
     }
@@ -6254,19 +6254,19 @@
     "twitter": "kill01241",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1035,
       "pos": 139
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 0,
       "mmr": 1569,
       "pos": 127
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1570,
       "pos": 121
     }
@@ -6288,13 +6288,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1611,
       "pos": 89
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1551,
       "pos": 143
     }
@@ -6316,13 +6316,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1383,
       "pos": 209
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1358,
       "pos": 258
     }
@@ -6344,13 +6344,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1473,
       "pos": 209
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1414,
       "pos": 258
     }
@@ -6372,13 +6372,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1900,
       "pos": 15
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1662,
       "pos": 60
     }
@@ -6394,19 +6394,19 @@
     "twitter": "Ivanero2003",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1019,
       "pos": 147
     },
     "v2": {
-      "deltaMmr": -9,
-      "deltaPos": 7,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1450,
       "pos": 228
     },
     "v3": {
-      "deltaMmr": -16,
-      "deltaPos": 18,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1513,
       "pos": 181
     }
@@ -6428,7 +6428,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1445,
       "pos": 232
     },
@@ -6456,13 +6456,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1550,
       "pos": 144
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1521,
       "pos": 168
     }
@@ -6478,19 +6478,19 @@
     "twitter": "iXeToXx",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1145,
       "pos": 53
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1586,
       "pos": 116
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1662,
       "pos": 59
     }
@@ -6540,13 +6540,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1530,
       "pos": 166
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1414,
       "pos": 257
     }
@@ -6568,13 +6568,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1263,
       "pos": 364
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1207,
       "pos": 396
     }
@@ -6596,7 +6596,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1300,
       "pos": 351
     },
@@ -6630,7 +6630,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 10,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 460
     }
@@ -6658,7 +6658,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 10,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 460
     }
@@ -6680,13 +6680,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1203,
       "pos": 388
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1223,
       "pos": 389
     }
@@ -6708,13 +6708,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1360,
       "pos": 301
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1343,
       "pos": 319
     }
@@ -6736,13 +6736,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1424,
       "pos": 249
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1402,
       "pos": 275
     }
@@ -6769,8 +6769,8 @@
       "pos": 45
     },
     "v3": {
-      "deltaMmr": -2,
-      "deltaPos": 2,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1604,
       "pos": 101
     }
@@ -6791,14 +6791,14 @@
       "pos": 408
     },
     "v2": {
-      "deltaMmr": 53,
-      "deltaPos": -22,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1677,
       "pos": 56
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1521,
       "pos": 167
     }
@@ -6826,7 +6826,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1557,
       "pos": 134
     }
@@ -6848,7 +6848,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1360,
       "pos": 303
     },
@@ -6870,19 +6870,19 @@
     "twitter": "JiiYee",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1142,
       "pos": 56
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1586,
       "pos": 114
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1644,
       "pos": 77
     }
@@ -6897,20 +6897,20 @@
     "twitch": "Jleoro",
     "twitter": "jleoro_rl",
     "v1": {
-      "deltaMmr": 37,
-      "deltaPos": -10,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1241,
       "pos": 22
     },
     "v2": {
-      "deltaMmr": 10,
-      "deltaPos": -2,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1907,
       "pos": 13
     },
     "v3": {
-      "deltaMmr": 60,
-      "deltaPos": -23,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1756,
       "pos": 24
     }
@@ -6932,13 +6932,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1409,
       "pos": 260
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1329,
       "pos": 332
     }
@@ -6960,13 +6960,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1409,
       "pos": 261
     },
     "v3": {
-      "deltaMmr": -36,
-      "deltaPos": 28,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1554,
       "pos": 138
     }
@@ -6988,13 +6988,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1143,
       "pos": 407
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1200,
       "pos": 401
     }
@@ -7016,7 +7016,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1504,
       "pos": 187
     },
@@ -7050,7 +7050,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1537,
       "pos": 151
     }
@@ -7072,13 +7072,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1427,
       "pos": 246
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1353,
       "pos": 308
     }
@@ -7100,13 +7100,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1539,
       "pos": 153
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1505,
       "pos": 188
     }
@@ -7122,7 +7122,7 @@
     "twitter": "Jrdi04",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1066,
       "pos": 120
     },
@@ -7156,7 +7156,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -14,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 473
     },
@@ -7184,7 +7184,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1602,
       "pos": 101
     },
@@ -7212,7 +7212,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1455,
       "pos": 223
     },
@@ -7246,7 +7246,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1671,
       "pos": 55
     }
@@ -7290,13 +7290,13 @@
     "twitter": "KaelThx",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1079,
       "pos": 108
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1537,
       "pos": 155
     },
@@ -7318,19 +7318,19 @@
     "twitter": "KAISER_ESP_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1135,
       "pos": 63
     },
     "v2": {
-      "deltaMmr": 55,
-      "deltaPos": -50,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1588,
       "pos": 112
     },
     "v3": {
-      "deltaMmr": -19,
-      "deltaPos": 6,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1717,
       "pos": 31
     }
@@ -7346,13 +7346,13 @@
     "twitter": "kappa_rl",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1152,
       "pos": 49
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1673,
       "pos": 58
     },
@@ -7374,19 +7374,19 @@
     "twitter": "Karsten_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1220,
       "pos": 31
     },
     "v2": {
-      "deltaMmr": -14,
+      "deltaMmr": 0,
       "deltaPos": 0,
       "mmr": 1818,
       "pos": 21
     },
     "v3": {
-      "deltaMmr": -11,
-      "deltaPos": 2,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1833,
       "pos": 12
     }
@@ -7408,13 +7408,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1551,
       "pos": 143
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1535,
       "pos": 156
     }
@@ -7436,7 +7436,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1305,
       "pos": 343
     },
@@ -7464,7 +7464,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1407,
       "pos": 264
     },
@@ -7492,13 +7492,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1228,
       "pos": 379
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1283,
       "pos": 361
     }
@@ -7520,7 +7520,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1078,
       "pos": 416
     },
@@ -7548,7 +7548,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1631,
       "pos": 77
     },
@@ -7575,14 +7575,14 @@
       "pos": 13
     },
     "v2": {
-      "deltaMmr": -29,
-      "deltaPos": 4,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1816,
       "pos": 23
     },
     "v3": {
-      "deltaMmr": 9,
-      "deltaPos": -4,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1641,
       "pos": 79
     }
@@ -7598,13 +7598,13 @@
     "twitter": "KilleroRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1230,
       "pos": 28
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1818,
       "pos": 22
     },
@@ -7632,7 +7632,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1039,
       "pos": 425
     },
@@ -7660,13 +7660,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1657,
       "pos": 63
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1649,
       "pos": 72
     }
@@ -7688,13 +7688,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1316,
       "pos": 329
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1235,
       "pos": 382
     }
@@ -7716,13 +7716,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -15,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 460
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 468
     }
@@ -7750,7 +7750,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1379,
       "pos": 288
     }
@@ -7772,13 +7772,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -9,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 470
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 462
     }
@@ -7794,19 +7794,19 @@
     "twitter": "Kooke_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1121,
       "pos": 73
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 0,
       "mmr": 1578,
       "pos": 122
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1551,
       "pos": 144
     }
@@ -7828,13 +7828,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1641,
       "pos": 69
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1536,
       "pos": 153
     }
@@ -7856,7 +7856,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1842,
       "pos": 19
     },
@@ -7884,13 +7884,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -13,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 491
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -12,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 492
     }
@@ -7967,14 +7967,14 @@
       "pos": 492
     },
     "v2": {
-      "deltaMmr": 42,
-      "deltaPos": -34,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1444,
       "pos": 234
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": 0,
       "mmr": 1518,
       "pos": 173
     }
@@ -7996,13 +7996,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1322,
       "pos": 328
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1450,
       "pos": 226
     }
@@ -8052,7 +8052,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1426,
       "pos": 247
     },
@@ -8080,13 +8080,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1360,
       "pos": 300
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1369,
       "pos": 296
     }
@@ -8108,13 +8108,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1033,
       "pos": 427
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1199,
       "pos": 402
     }
@@ -8136,13 +8136,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1020,
       "pos": 430
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 13,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 473
     }
@@ -8158,13 +8158,13 @@
     "twitter": "LasaRL_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1238,
       "pos": 24
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1658,
       "pos": 61
     },
@@ -8186,19 +8186,19 @@
     "twitter": "toguiju",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1063,
       "pos": 123
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1584,
       "pos": 117
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1657,
       "pos": 62
     }
@@ -8220,7 +8220,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -21,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 477
     },
@@ -8248,13 +8248,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1535,
       "pos": 161
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1422,
       "pos": 249
     }
@@ -8276,7 +8276,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1050,
       "pos": 424
     },
@@ -8304,7 +8304,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1270,
       "pos": 361
     },
@@ -8326,19 +8326,19 @@
     "twitter": "Lete7RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1141,
       "pos": 57
     },
     "v2": {
-      "deltaMmr": -10,
-      "deltaPos": 12,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1516,
       "pos": 182
     },
     "v3": {
-      "deltaMmr": -38,
-      "deltaPos": 19,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1666,
       "pos": 58
     }
@@ -8360,7 +8360,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1270,
       "pos": 360
     },
@@ -8388,13 +8388,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1226,
       "pos": 380
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 11,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 503
     }
@@ -8444,13 +8444,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 53,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 506
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 30,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 496
     }
@@ -8472,7 +8472,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1124,
       "pos": 412
     },
@@ -8500,13 +8500,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1399,
       "pos": 274
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 14,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 483
     }
@@ -8522,13 +8522,13 @@
     "twitter": "JustLoriti",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1025,
       "pos": 145
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1504,
       "pos": 188
     },
@@ -8550,7 +8550,7 @@
     "twitter": "LuiisP_03",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1266,
       "pos": 17
     },
@@ -8584,13 +8584,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -13,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 459
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 472
     }
@@ -8612,13 +8612,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1646,
       "pos": 67
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1710,
       "pos": 35
     }
@@ -8640,7 +8640,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1150,
       "pos": 405
     },
@@ -8668,7 +8668,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1302,
       "pos": 348
     },
@@ -8696,13 +8696,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -13,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 471
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1431,
       "pos": 242
     }
@@ -8723,14 +8723,14 @@
       "pos": 44
     },
     "v2": {
-      "deltaMmr": 7,
-      "deltaPos": 1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1576,
       "pos": 125
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1426,
       "pos": 245
     }
@@ -8752,13 +8752,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1529,
       "pos": 167
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1583,
       "pos": 112
     }
@@ -8780,13 +8780,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -10,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 482
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -30,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 463
     }
@@ -8808,13 +8808,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1604,
       "pos": 98
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1541,
       "pos": 149
     }
@@ -8842,7 +8842,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1806,
       "pos": 13
     }
@@ -8857,20 +8857,20 @@
     "twitch": "",
     "twitter": "Marchess34",
     "v1": {
-      "deltaMmr": -19,
-      "deltaPos": 10,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1017,
       "pos": 149
     },
     "v2": {
-      "deltaMmr": 1,
-      "deltaPos": 1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1634,
       "pos": 75
     },
     "v3": {
-      "deltaMmr": 22,
-      "deltaPos": -9,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1690,
       "pos": 47
     }
@@ -8892,7 +8892,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1221,
       "pos": 381
     },
@@ -8920,13 +8920,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 0,
       "mmr": 1565,
       "pos": 132
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1443,
       "pos": 230
     }
@@ -8948,13 +8948,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -11,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 492
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -53,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 456
     }
@@ -8976,13 +8976,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1030,
       "pos": 428
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1091,
       "pos": 430
     }
@@ -9004,7 +9004,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1126,
       "pos": 411
     },
@@ -9032,7 +9032,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1311,
       "pos": 332
     },
@@ -9060,7 +9060,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1344,
       "pos": 315
     },
@@ -9088,7 +9088,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -14,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 502
     },
@@ -9144,7 +9144,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1396,
       "pos": 278
     },
@@ -9172,13 +9172,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 0,
       "mmr": 1562,
       "pos": 135
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1626,
       "pos": 89
     }
@@ -9194,19 +9194,19 @@
     "twitter": "miguelnuvxd",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1116,
       "pos": 79
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1355,
       "pos": 305
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1430,
       "pos": 243
     }
@@ -9228,13 +9228,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1567,
       "pos": 129
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1703,
       "pos": 41
     }
@@ -9256,13 +9256,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -9,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 454
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 465
     }
@@ -9284,13 +9284,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1506,
       "pos": 186
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1402,
       "pos": 273
     }
@@ -9340,13 +9340,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1709,
       "pos": 40
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1604,
       "pos": 100
     }
@@ -9362,19 +9362,19 @@
     "twitter": "MiSTeR_uBe_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1146,
       "pos": 52
     },
     "v2": {
-      "deltaMmr": 29,
-      "deltaPos": -8,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1831,
       "pos": 20
     },
     "v3": {
-      "deltaMmr": -7,
-      "deltaPos": 6,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1519,
       "pos": 170
     }
@@ -9396,7 +9396,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1483,
       "pos": 204
     },
@@ -9418,7 +9418,7 @@
     "twitter": "MixXrl",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1055,
       "pos": 127
     },
@@ -9430,7 +9430,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1535,
       "pos": 157
     }
@@ -9446,13 +9446,13 @@
     "twitter": "MizoreRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1063,
       "pos": 122
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1610,
       "pos": 91
     },
@@ -9474,7 +9474,7 @@
     "twitter": "moltapor",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1181,
       "pos": 38
     },
@@ -9486,7 +9486,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -5,
+      "deltaPos": 0,
       "mmr": 1522,
       "pos": 164
     }
@@ -9508,7 +9508,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1192,
       "pos": 393
     },
@@ -9536,7 +9536,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1190,
       "pos": 395
     },
@@ -9564,13 +9564,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 483
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 451
     }
@@ -9592,13 +9592,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1309,
       "pos": 336
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 452
     }
@@ -9620,13 +9620,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1368,
       "pos": 295
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 454
     }
@@ -9648,13 +9648,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1470,
       "pos": 214
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1442,
       "pos": 233
     }
@@ -9675,14 +9675,14 @@
       "pos": 231
     },
     "v2": {
-      "deltaMmr": 11,
-      "deltaPos": -7,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1468,
       "pos": 216
     },
     "v3": {
-      "deltaMmr": -32,
-      "deltaPos": 34,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1389,
       "pos": 284
     }
@@ -9704,7 +9704,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1338,
       "pos": 319
     },
@@ -9732,13 +9732,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1598,
       "pos": 105
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1626,
       "pos": 90
     }
@@ -9759,14 +9759,14 @@
       "pos": 245
     },
     "v2": {
-      "deltaMmr": 37,
-      "deltaPos": -25,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1373,
       "pos": 292
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1535,
       "pos": 154
     }
@@ -9788,13 +9788,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1907,
       "pos": 14
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1632,
       "pos": 83
     }
@@ -9816,7 +9816,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1348,
       "pos": 309
     },
@@ -9850,7 +9850,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1352,
       "pos": 310
     }
@@ -9877,8 +9877,8 @@
       "pos": 46
     },
     "v3": {
-      "deltaMmr": 66,
-      "deltaPos": -3,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1891,
       "pos": 9
     }
@@ -9900,13 +9900,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -10,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 504
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 486
     }
@@ -9928,13 +9928,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1199,
       "pos": 389
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 487
     }
@@ -9950,19 +9950,19 @@
     "twitter": "NiNjA96pk",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1114,
       "pos": 82
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1620,
       "pos": 82
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1649,
       "pos": 71
     }
@@ -9984,13 +9984,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1514,
       "pos": 183
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1566,
       "pos": 125
     }
@@ -10012,7 +10012,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1191,
       "pos": 394
     },
@@ -10034,19 +10034,19 @@
     "twitter": "nolichu13",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1103,
       "pos": 89
     },
     "v2": {
-      "deltaMmr": 16,
-      "deltaPos": -5,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1655,
       "pos": 64
     },
     "v3": {
-      "deltaMmr": 7,
-      "deltaPos": -5,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1709,
       "pos": 37
     }
@@ -10096,13 +10096,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -6,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 453
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1500,
       "pos": 195
     }
@@ -10118,19 +10118,19 @@
     "twitter": "OkisRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1088,
       "pos": 104
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1536,
       "pos": 158
     },
     "v3": {
-      "deltaMmr": 10,
-      "deltaPos": -5,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1672,
       "pos": 54
     }
@@ -10151,14 +10151,14 @@
       "pos": 292
     },
     "v2": {
-      "deltaMmr": -2,
-      "deltaPos": 2,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 838,
       "pos": 449
     },
     "v3": {
-      "deltaMmr": 14,
-      "deltaPos": -3,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1092,
       "pos": 429
     }
@@ -10180,7 +10180,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1470,
       "pos": 215
     },
@@ -10208,7 +10208,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1151,
       "pos": 403
     },
@@ -10236,7 +10236,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 927,
       "pos": 443
     },
@@ -10264,7 +10264,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -7,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 463
     },
@@ -10292,7 +10292,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -5,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 466
     },
@@ -10320,7 +10320,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 913,
       "pos": 446
     },
@@ -10376,13 +10376,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1493,
       "pos": 195
     },
     "v3": {
-      "deltaMmr": 8,
-      "deltaPos": -3,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1432,
       "pos": 241
     }
@@ -10404,7 +10404,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 758,
       "pos": 451
     },
@@ -10438,7 +10438,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1522,
       "pos": 165
     }
@@ -10460,7 +10460,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1247,
       "pos": 373
     },
@@ -10488,13 +10488,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -7,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 475
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 466
     }
@@ -10516,13 +10516,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1131,
       "pos": 409
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1265,
       "pos": 373
     }
@@ -10544,13 +10544,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -5,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 480
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 469
     }
@@ -10572,13 +10572,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1198,
       "pos": 390
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1260,
       "pos": 374
     }
@@ -10600,13 +10600,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1284,
       "pos": 358
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1185,
       "pos": 405
     }
@@ -10628,13 +10628,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1554,
       "pos": 142
     },
     "v3": {
-      "deltaMmr": -4,
-      "deltaPos": 5,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1404,
       "pos": 270
     }
@@ -10662,7 +10662,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1531,
       "pos": 159
     }
@@ -10678,19 +10678,19 @@
     "twitter": "PuxiRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1079,
       "pos": 110
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1521,
       "pos": 176
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1557,
       "pos": 135
     }
@@ -10712,13 +10712,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1753,
       "pos": 33
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1709,
       "pos": 36
     }
@@ -10740,7 +10740,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1208,
       "pos": 387
     },
@@ -10768,7 +10768,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1286,
       "pos": 357
     },
@@ -10789,20 +10789,20 @@
     "twitch": "",
     "twitter": "Rafamartin_7",
     "v1": {
-      "deltaMmr": 32,
-      "deltaPos": -21,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1156,
       "pos": 46
     },
     "v2": {
-      "deltaMmr": -87,
-      "deltaPos": 39,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1625,
       "pos": 79
     },
     "v3": {
-      "deltaMmr": -26,
-      "deltaPos": 19,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1459,
       "pos": 220
     }
@@ -10824,13 +10824,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1467,
       "pos": 218
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1546,
       "pos": 146
     }
@@ -10852,13 +10852,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 498
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1350,
       "pos": 314
     }
@@ -10880,13 +10880,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1210,
       "pos": 385
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1329,
       "pos": 333
     }
@@ -10908,7 +10908,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1368,
       "pos": 294
     },
@@ -10942,7 +10942,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1440,
       "pos": 234
     }
@@ -10964,13 +10964,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1543,
       "pos": 151
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1465,
       "pos": 215
     }
@@ -10992,7 +10992,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -5,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 503
     },
@@ -11020,7 +11020,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1387,
       "pos": 285
     },
@@ -11048,7 +11048,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1187,
       "pos": 396
     },
@@ -11076,7 +11076,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 685,
       "pos": 452
     },
@@ -11098,19 +11098,19 @@
     "twitter": "xReinox",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1244,
       "pos": 21
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1805,
       "pos": 27
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1712,
       "pos": 34
     }
@@ -11132,7 +11132,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1345,
       "pos": 314
     },
@@ -11160,7 +11160,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 62,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 513
     },
@@ -11194,7 +11194,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1516,
       "pos": 175
     }
@@ -11215,8 +11215,8 @@
       "pos": 107
     },
     "v2": {
-      "deltaMmr": 96,
-      "deltaPos": -84,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1600,
       "pos": 103
     },
@@ -11244,7 +11244,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1523,
       "pos": 173
     },
@@ -11272,13 +11272,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1513,
       "pos": 184
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": 0,
       "mmr": 1557,
       "pos": 133
     }
@@ -11300,7 +11300,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 945,
       "pos": 442
     },
@@ -11328,13 +11328,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1231,
       "pos": 377
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1215,
       "pos": 392
     }
@@ -11356,7 +11356,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1252,
       "pos": 367
     },
@@ -11384,13 +11384,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1343,
       "pos": 316
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1185,
       "pos": 404
     }
@@ -11412,7 +11412,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1510,
       "pos": 185
     },
@@ -11440,13 +11440,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 462
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1354,
       "pos": 307
     }
@@ -11474,7 +11474,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1351,
       "pos": 311
     }
@@ -11502,7 +11502,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1438,
       "pos": 235
     }
@@ -11524,7 +11524,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1308,
       "pos": 338
     },
@@ -11552,7 +11552,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1013,
       "pos": 432
     },
@@ -11580,13 +11580,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1073,
       "pos": 419
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 51,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 518
     }
@@ -11608,7 +11608,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1420,
       "pos": 252
     },
@@ -11636,13 +11636,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1549,
       "pos": 146
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1541,
       "pos": 148
     }
@@ -11664,7 +11664,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1337,
       "pos": 320
     },
@@ -11686,19 +11686,19 @@
     "twitter": "TeenPaladine",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1144,
       "pos": 54
     },
     "v2": {
-      "deltaMmr": 13,
-      "deltaPos": -9,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1602,
       "pos": 99
     },
     "v3": {
-      "deltaMmr": -32,
-      "deltaPos": 26,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1487,
       "pos": 201
     }
@@ -11714,7 +11714,7 @@
     "twitter": "_sebitas15",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1088,
       "pos": 103
     },
@@ -11748,13 +11748,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 478
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 477
     }
@@ -11770,7 +11770,7 @@
     "twitter": "Ancarpx_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1071,
       "pos": 118
     },
@@ -11804,7 +11804,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1197,
       "pos": 391
     },
@@ -11838,7 +11838,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1707,
       "pos": 38
     }
@@ -11860,7 +11860,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1150,
       "pos": 404
     },
@@ -11888,7 +11888,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1146,
       "pos": 406
     },
@@ -11916,13 +11916,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1804,
       "pos": 28
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1630,
       "pos": 85
     }
@@ -11944,7 +11944,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1309,
       "pos": 335
     },
@@ -11972,7 +11972,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 486
     },
@@ -12000,7 +12000,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 487
     },
@@ -12028,7 +12028,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1468,
       "pos": 217
     },
@@ -12056,7 +12056,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 917,
       "pos": 445
     },
@@ -12090,7 +12090,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1339,
       "pos": 323
     }
@@ -12117,8 +12117,8 @@
       "pos": 44
     },
     "v3": {
-      "deltaMmr": -7,
-      "deltaPos": 1,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1694,
       "pos": 45
     }
@@ -12134,7 +12134,7 @@
     "twitter": "SlaimRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1156,
       "pos": 47
     },
@@ -12162,13 +12162,13 @@
     "twitter": "_MakexX",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1152,
       "pos": 48
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1578,
       "pos": 120
     },
@@ -12196,13 +12196,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1561,
       "pos": 136
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1623,
       "pos": 92
     }
@@ -12224,7 +12224,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1528,
       "pos": 168
     },
@@ -12252,7 +12252,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1212,
       "pos": 384
     },
@@ -12280,7 +12280,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1240,
       "pos": 374
     },
@@ -12314,7 +12314,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1519,
       "pos": 172
     }
@@ -12336,13 +12336,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1537,
       "pos": 156
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1396,
       "pos": 281
     }
@@ -12364,13 +12364,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1473,
       "pos": 210
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1563,
       "pos": 131
     }
@@ -12392,13 +12392,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1545,
       "pos": 150
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1447,
       "pos": 228
     }
@@ -12420,7 +12420,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 505
     },
@@ -12448,13 +12448,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1535,
       "pos": 160
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1525,
       "pos": 163
     }
@@ -12476,7 +12476,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1973,
       "pos": 11
     },
@@ -12504,7 +12504,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1436,
       "pos": 238
     },
@@ -12532,7 +12532,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1334,
       "pos": 321
     },
@@ -12560,7 +12560,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1355,
       "pos": 307
     },
@@ -12581,20 +12581,20 @@
     "twitch": "",
     "twitter": "Stormz_RL",
     "v1": {
-      "deltaMmr": -13,
-      "deltaPos": 3,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1187,
       "pos": 36
     },
     "v2": {
-      "deltaMmr": 67,
-      "deltaPos": -34,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1672,
       "pos": 59
     },
     "v3": {
-      "deltaMmr": 44,
-      "deltaPos": -30,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1502,
       "pos": 190
     }
@@ -12616,7 +12616,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1248,
       "pos": 371
     },
@@ -12644,13 +12644,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1167,
       "pos": 399
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1211,
       "pos": 395
     }
@@ -12672,13 +12672,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1347,
       "pos": 312
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1407,
       "pos": 267
     }
@@ -12700,7 +12700,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1453,
       "pos": 227
     },
@@ -12728,13 +12728,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1673,
       "pos": 57
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1383,
       "pos": 287
     }
@@ -12750,13 +12750,13 @@
     "twitter": "SyneexRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1143,
       "pos": 55
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 6,
+      "deltaPos": 0,
       "mmr": 1537,
       "pos": 157
     },
@@ -12778,13 +12778,13 @@
     "twitter": "SystemRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1182,
       "pos": 37
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1638,
       "pos": 72
     },
@@ -12812,13 +12812,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1533,
       "pos": 162
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1530,
       "pos": 160
     }
@@ -12840,7 +12840,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1310,
       "pos": 333
     },
@@ -12868,7 +12868,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1439,
       "pos": 236
     },
@@ -12924,7 +12924,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1532,
       "pos": 165
     },
@@ -12952,13 +12952,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1316,
       "pos": 330
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1351,
       "pos": 313
     }
@@ -12974,19 +12974,19 @@
     "twitter": "TheWauch",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1103,
       "pos": 88
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1599,
       "pos": 104
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1568,
       "pos": 122
     }
@@ -13002,19 +13002,19 @@
     "twitter": "TidusRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1136,
       "pos": 60
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1590,
       "pos": 109
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1713,
       "pos": 32
     }
@@ -13036,7 +13036,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1416,
       "pos": 254
     },
@@ -13064,7 +13064,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1577,
       "pos": 123
     },
@@ -13098,7 +13098,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1705,
       "pos": 39
     }
@@ -13120,13 +13120,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1620,
       "pos": 83
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1570,
       "pos": 120
     }
@@ -13142,19 +13142,19 @@
     "twitter": "TOLO009_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1027,
       "pos": 143
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 0,
       "mmr": 1590,
       "pos": 110
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1376,
       "pos": 290
     }
@@ -13176,7 +13176,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1016,
       "pos": 431
     },
@@ -13198,19 +13198,19 @@
     "twitter": "toni2510ar",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1227,
       "pos": 29
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1672,
       "pos": 60
     },
     "v3": {
-      "deltaMmr": 24,
-      "deltaPos": -21,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1656,
       "pos": 63
     }
@@ -13232,7 +13232,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1004,
       "pos": 436
     },
@@ -13282,7 +13282,7 @@
     "twitter": "Torress8RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1127,
       "pos": 67
     },
@@ -13344,7 +13344,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1409,
       "pos": 259
     },
@@ -13372,7 +13372,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1399,
       "pos": 272
     },
@@ -13400,13 +13400,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1340,
       "pos": 318
     },
     "v3": {
-      "deltaMmr": 54,
-      "deltaPos": -54,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1454,
       "pos": 224
     }
@@ -13450,19 +13450,19 @@
     "twitter": "Urii15_",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1026,
       "pos": 144
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1558,
       "pos": 139
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1552,
       "pos": 141
     }
@@ -13484,7 +13484,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1104,
       "pos": 414
     },
@@ -13512,13 +13512,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1364,
       "pos": 299
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1339,
       "pos": 325
     }
@@ -13540,13 +13540,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1521,
       "pos": 175
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -3,
+      "deltaPos": 0,
       "mmr": 1516,
       "pos": 177
     }
@@ -13574,7 +13574,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1368,
       "pos": 297
     }
@@ -13596,13 +13596,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1003,
       "pos": 437
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1195,
       "pos": 403
     }
@@ -13624,7 +13624,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1612,
       "pos": 86
     },
@@ -13651,14 +13651,14 @@
       "pos": 6
     },
     "v2": {
-      "deltaMmr": -15,
+      "deltaMmr": 0,
       "deltaPos": 0,
       "mmr": 2094,
       "pos": 3
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 2087,
       "pos": 1
     }
@@ -13674,19 +13674,19 @@
     "twitter": "xVorteX_RL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1236,
       "pos": 27
     },
     "v2": {
-      "deltaMmr": 50,
-      "deltaPos": -16,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1707,
       "pos": 43
     },
     "v3": {
-      "deltaMmr": -9,
-      "deltaPos": 3,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1712,
       "pos": 33
     }
@@ -13708,7 +13708,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1327,
       "pos": 323
     },
@@ -13736,7 +13736,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1265,
       "pos": 363
     },
@@ -13764,7 +13764,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 887,
       "pos": 448
     },
@@ -13792,13 +13792,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 3,
+      "deltaPos": 0,
       "mmr": 1303,
       "pos": 346
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1212,
       "pos": 394
     }
@@ -13814,7 +13814,7 @@
     "twitter": "wilfredusRL",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1114,
       "pos": 81
     },
@@ -13826,7 +13826,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1646,
       "pos": 75
     }
@@ -13876,13 +13876,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 921,
       "pos": 444
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1260,
       "pos": 375
     }
@@ -13932,7 +13932,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1546,
       "pos": 148
     },
@@ -13959,14 +13959,14 @@
       "pos": 226
     },
     "v2": {
-      "deltaMmr": 20,
-      "deltaPos": -8,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1343,
       "pos": 317
     },
     "v3": {
-      "deltaMmr": 18,
-      "deltaPos": -17,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1406,
       "pos": 268
     }
@@ -13988,13 +13988,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1308,
       "pos": 337
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1448,
       "pos": 227
     }
@@ -14010,7 +14010,7 @@
     "twitter": "_Wynng",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1034,
       "pos": 140
     },
@@ -14022,7 +14022,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1511,
       "pos": 185
     }
@@ -14038,13 +14038,13 @@
     "twitter": "xCorsan",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1055,
       "pos": 126
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 5,
+      "deltaPos": 0,
       "mmr": 1550,
       "pos": 145
     },
@@ -14072,13 +14072,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1076,
       "pos": 418
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1223,
       "pos": 388
     }
@@ -14106,7 +14106,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1551,
       "pos": 142
     }
@@ -14128,7 +14128,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1497,
       "pos": 192
     },
@@ -14156,13 +14156,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1133,
       "pos": 408
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1229,
       "pos": 386
     }
@@ -14184,7 +14184,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1256,
       "pos": 366
     },
@@ -14206,7 +14206,7 @@
     "twitter": "ytnaca",
     "v1": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1199,
       "pos": 33
     },
@@ -14218,7 +14218,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1678,
       "pos": 51
     }
@@ -14240,7 +14240,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 4,
+      "deltaPos": 0,
       "mmr": 1564,
       "pos": 133
     },
@@ -14261,14 +14261,14 @@
     "twitch": "",
     "twitter": "YoLiD_",
     "v1": {
-      "deltaMmr": -10,
-      "deltaPos": 3,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1178,
       "pos": 39
     },
     "v2": {
-      "deltaMmr": 21,
-      "deltaPos": -3,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1744,
       "pos": 34
     },
@@ -14324,7 +14324,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 2,
+      "deltaPos": 0,
       "mmr": 1657,
       "pos": 62
     },
@@ -14358,7 +14358,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1701,
       "pos": 43
     }
@@ -14380,13 +14380,13 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": 1,
+      "deltaPos": 0,
       "mmr": 1626,
       "pos": 78
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1566,
       "pos": 126
     }
@@ -14408,7 +14408,7 @@
     },
     "v2": {
       "deltaMmr": 0,
-      "deltaPos": -2,
+      "deltaPos": 0,
       "mmr": 1470,
       "pos": 213
     },
@@ -14435,14 +14435,14 @@
       "pos": 516
     },
     "v2": {
-      "deltaMmr": 24,
-      "deltaPos": -20,
+      "deltaMmr": 0,
+      "deltaPos": 0,
       "mmr": 1605,
       "pos": 95
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -1,
+      "deltaPos": 0,
       "mmr": 1606,
       "pos": 99
     }
@@ -14470,7 +14470,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -4,
+      "deltaPos": 0,
       "mmr": 1520,
       "pos": 169
     }
@@ -14498,7 +14498,7 @@
     },
     "v3": {
       "deltaMmr": 0,
-      "deltaPos": -8,
+      "deltaPos": 0,
       "mmr": 0,
       "pos": 510
     }
