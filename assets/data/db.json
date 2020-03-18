@@ -1,5 +1,33 @@
 [
   {
+    "id": "76561198311433342",
+    "name": "",
+    "nick": "Gonza2074",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "Gonza2074",
+    "twitter": "Gonza2074_RL",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198359616481",
     "name": "",
     "nick": "AleTheTiger",
