@@ -224,34 +224,6 @@
     }
   },
   {
-    "id": "76561199012060510",
-    "name": "",
-    "nick": "Naca.",
-    "platform": "steam",
-    "role": "",
-    "team": "",
-    "twitch": "Naca_rl",
-    "twitter": "Naca_rl",
-    "v1": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "pos": 0
-    },
-    "v2": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "pos": 0
-    },
-    "v3": {
-      "deltaMmr": 0,
-      "deltaPos": 0,
-      "mmr": 0,
-      "pos": 0
-    }
-  },
-  {
     "id": "76561198159551225",
     "name": "",
     "nick": "Kelhash",
@@ -15652,14 +15624,14 @@
     }
   },
   {
-    "id": "XxsergiiooxX_103",
+    "id": "76561199012060510",
     "name": "",
-    "nick": "XxsergiiooxX_103",
-    "platform": "ps",
+    "nick": "Naca.",
+    "platform": "steam",
     "role": "",
     "team": "",
-    "twitch": "elnacayt",
-    "twitter": "ytnaca",
+    "twitch": "Naca_rl",
+    "twitter": "Naca_rl",
     "v1": {
       "deltaMmr": 0,
       "deltaPos": 0,
