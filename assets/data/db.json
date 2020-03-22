@@ -1,5 +1,33 @@
 [
   {
+    "id": "76561199006232536",
+    "name": "",
+    "nick": "Flayrex",
+    "platform": "steam",
+    "role": "",
+    "team": "",
+    "twitch": "Flayrex_",
+    "twitter": "Flayrex_",
+    "v1": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v2": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    },
+    "v3": {
+      "deltaMmr": 0,
+      "deltaPos": 0,
+      "mmr": 0,
+      "pos": 0
+    }
+  },
+  {
     "id": "76561198249127056",
     "name": "",
     "nick": ".Zhanath",
