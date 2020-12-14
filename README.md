@@ -1,8 +1,8 @@
 <div align="center">
 
-# :soccer: rlscrapper :car:
+# :soccer: rlspain :car:
 
-[website @ rlspain.cf](https://rlspain.cf)
+[website](https://wh0am1.dev/rlspain)
 
 rocket league spanish database pwa
 
