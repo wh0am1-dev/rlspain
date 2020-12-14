@@ -19,6 +19,9 @@ module.exports = () => html`
       ${link('neko250', 'https://github.com/neko250', true)} &
       ${link('Salve', 'https://twitter.com/Salve_RL', true)}
     </section>
+    <section>
+      <span class="f6">last updated: 2020/08/26</span>
+    </section>
     <section class="mt4">
       <span class="yellow hover-near-black hover-bg-yellow bg-animate ba b--yellow br2 pv1 ph2">
         v${require('../../package.json').version} beta
