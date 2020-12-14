@@ -9,7 +9,7 @@ module.exports = (state, emit) => {
       style="z-index: 9999;"
     >
       <img
-        src="assets/img/rlscrapper.svg"
+        src="assets/img/rlspain.svg"
         onclick=${() => emit(state.events.PUSHSTATE, '/')}
         class="h2 mr4 shadow-5 br-pill bl bt b--yellow pointer"
       />

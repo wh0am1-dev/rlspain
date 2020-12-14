@@ -19,7 +19,7 @@ script:
   - npm run build
   - git add assets/data/db.json
   - git commit -m "travis db update"
-  - git remote add github git@github.com:Neko250/rlscrapper.git
+  - git remote add github git@github.com:Neko250/rlspain.git
   - git push github master
 
 after_success:

@@ -18,10 +18,7 @@ module.exports = (state, emit) => {
 
       <main class="w-100 tc min-vh-100 dt pt6">
         <section class="dtc v-mid">
-          <img
-            src="assets/img/rlscrapper.svg"
-            class="w5 bt bl b--yellow bw2 br-pill shadow-5 grow"
-          />
+          <img src="assets/img/rlspain.svg" class="w5 bt bl b--yellow bw2 br-pill shadow-5 grow" />
 
           <h1 class="f3 mt4">
             <span class="bg-yellow near-black ph3 pv2 shadow-5 br2"> rlspain.cf </span>
