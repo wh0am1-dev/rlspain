@@ -7,13 +7,14 @@ module.exports = (text, href, external = false, classes = '') => {
   let rel = external ? 'noopener noreferrer' : ''
 
   return html`
-    <a href=${href} target=${target} rel=${rel} onclick=${blur}
-      class="link yellow hover-near-black hover-bg-yellow bg-animate pa1 br2 ${classes}">
+    <a
+      href=${href}
+      target=${target}
+      rel=${rel}
+      onclick=${ev => ev.target.blur()}
+      class="link yellow hover-near-black hover-bg-yellow bg-animate pa1 br2 ${classes}"
+    >
       ${text}
     </a>
   `
-
-  function blur (ev) {
-    ev.target.blur()
-  }
 }
