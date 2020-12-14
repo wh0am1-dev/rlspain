@@ -2,6 +2,7 @@
   "name": "rlscrapper",
   "version": "0.5.7",
   "description": "rocket league spanish database pwa",
+  "homepage": "https://wh0am1.dev/rlspain",
   "main": "index.js",
   "private": true,
   "author": "neko250",
