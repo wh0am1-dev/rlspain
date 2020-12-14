@@ -3,24 +3,26 @@ language: node_js
 node_js:
   - 10.15.3
 
-before_install:
-  - openssl aes-256-cbc -K $encrypted_f73abf23e737_key -iv $encrypted_f73abf23e737_iv -in .travis/travis_rsa.enc -out .travis/travis_rsa -d
+# before_install:
+#   - openssl aes-256-cbc -K $encrypted_f73abf23e737_key -iv $encrypted_f73abf23e737_iv -in .travis/travis_rsa.enc -out .travis/travis_rsa -d
 
 install:
-  - npm install
-
+  - yarn
 script:
-  - npm test
-  - eval "$(ssh-agent -s)"
-  - chmod 600 .travis/travis_rsa
-  - ssh-add .travis/travis_rsa
-  - git checkout master
-  - npm run crawl
-  - npm run build
-  - git add assets/data/db.json
-  - git commit -m "travis db update"
-  - git remote add github git@github.com:Neko250/rlspain.git
-  - git push github master
+  - yarn build
+
+# script:
+# - npm test
+# - eval "$(ssh-agent -s)"
+# - chmod 600 .travis/travis_rsa
+# - ssh-add .travis/travis_rsa
+# - git checkout master
+# - npm run crawl
+# - npm run build
+# - git add assets/data/db.json
+# - git commit -m "travis db update"
+# - git remote add github git@github.com:Neko250/rlspain.git
+# - git push github master
 
 after_success:
   - chmod +x .bin/discord.sh
@@ -37,6 +39,6 @@ deploy:
   target_branch: gh-pages
   keep_history: false
   local_dir: dist/
-  fqdn: rlspain.cf
+  # fqdn: rlspain.cf
   on:
     branch: master
