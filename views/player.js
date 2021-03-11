@@ -54,7 +54,7 @@ module.exports = (state, emit) => {
 
       <footer class="tc w-100 dt mv5">
         <section class="dtc v-mid">
-          ${button('Volver', () => emit(state.events.PUSHSTATE, '/'))}
+          ${button('Volver', () => emit(state.events.PUSHSTATE, '/rlspain'))}
         </section>
       </footer>
     </body>
