@@ -15,6 +15,7 @@ module.exports = (state, emit) => {
   let from = state.components.list.page * state.components.list.PAGE_SIZE
   let to = from + state.components.list.PAGE_SIZE
   let page = state.db.filteredData.slice(from, to)
+  let category = state.params.category.slice(1)
 
   return container(
     html`
@@ -31,7 +32,7 @@ module.exports = (state, emit) => {
 
       ${pagination()}
       <ul class="list pl0 mt4">
-        ${page.map(item)}
+        ${page.map(player => item(player, category))}
       </ul>
       ${pagination()}
     `

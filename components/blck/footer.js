@@ -2,7 +2,6 @@
 
 const html = require('choo/html')
 
-const button = require('../el/button')
 const link = require('../el/link')
 const heart = require('../el/heart')
 

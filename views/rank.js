@@ -3,7 +3,6 @@
 const html = require('choo/html')
 const title = 'rlspain · '
 
-const notFound = require('./404')
 const nav = require('../components/blck/nav')
 const header = require('../components/el/header')
 const list = require('../components/blck/list')

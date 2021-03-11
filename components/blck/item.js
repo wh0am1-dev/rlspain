@@ -4,8 +4,7 @@ const html = require('choo/html')
 
 const delta = require('../el/delta')
 
-module.exports = player => {
-  let category = state.params.category.slice(1)
+module.exports = (player, category) => {
   let team = player.team ? html`<span class="f6 db silver">${player.team}</span>` : ''
   let role = player.role ? html`<span class="f6 light-purple ml2">[${player.role}]</span>` : ''
   let colour =
