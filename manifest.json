@@ -8,7 +8,7 @@
   "theme_color": "#111111",
   "icons": [
     {
-      "src": "assets/img/rlspain.png",
+      "src": "/rlspain/assets/img/rlspain.png",
       "type": "image/png",
       "sizes": "512x512"
     }

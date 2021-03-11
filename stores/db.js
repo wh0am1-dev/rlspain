@@ -23,7 +23,7 @@ module.exports = (state, emitter) => {
 
   emitter.on(state.events.DB_FETCH, () => {
     window
-      .fetch('assets/data/db.json')
+      .fetch('/rlspain/assets/data/db.json')
       .then(res => res.json())
       .then(data => {
         state.db.filter = ''

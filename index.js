@@ -1,6 +1,6 @@
 // 🚂🚋🚋 choo 🚋🚋🚋
 const choo = require('choo')
-const app = choo()
+const app = choo({ hash: true })
 
 // ==== styles ====
 const css = require('sheetify')
