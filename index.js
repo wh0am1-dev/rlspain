@@ -35,10 +35,10 @@ const notFound = require('./views/404')
 
 // ==== routes ====
 app.route('/rlspain', home)
-app.route('/rlspain/rank/:category', rank)
-app.route('/rlspain/player/:id', player)
-app.route('/rlspain/faq', faq)
-app.route('/rlspain/404', notFound)
+app.route('/rlspain/#rank/:category', rank)
+app.route('/rlspain/#player/:id', player)
+app.route('/rlspain/#faq', faq)
+app.route('/rlspain/#404', notFound)
 app.route('/rlspain/*', notFound)
 
 // ==== app ====
