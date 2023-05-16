@@ -1,11 +1,11 @@
 {
   "name": "rlspain",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "description": "rocket league spanish database pwa",
-  "homepage": "https://wh0am1.dev/rlspain",
+  "homepage": "https://carlos-aguilar.com/rlspain",
   "main": "index.js",
   "private": true,
-  "author": "neko250",
+  "author": "Carlos Aguilar <hey@carlos-aguilar.com>",
   "license": "MIT",
   "keywords": [
     "rocket",
@@ -54,7 +54,7 @@
     "start": "bankai start index.js",
     "gen": "choo g",
     "clean": "rm -r dist/",
-    "build": "bankai build index.js",
+    "build": "bankai build index.js --base rlspain",
     "deploy": "gh-pages -d dist",
     "lint": "standard --verbose | snazzy",
     "deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons",

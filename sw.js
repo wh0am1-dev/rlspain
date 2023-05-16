@@ -3,13 +3,12 @@
 var VERSION = require('./package.json').version
 
 var URLS = [
-  '/rlspain',
-  '/rlspain/index.html',
+  'index.html',
   ...process.env.STYLE_LIST,
   ...process.env.SCRIPT_LIST,
   ...process.env.MANIFEST_LIST,
-  '/rlspain/assets/img/rlspain.png',
-  '/rlspain/assets/img/rlspain.svg'
+  'assets/img/rlspain.png',
+  'assets/img/rlspain.svg'
 ]
 
 // Respond with cached resources

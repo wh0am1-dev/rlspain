@@ -2,7 +2,7 @@
 
 # :soccer: rlspain :car:
 
-[website](https://wh0am1.dev/rlspain)
+[website](https://carlos-aguilar.com/rlspain)
 
 rocket league spanish database pwa
 
@@ -10,28 +10,28 @@ rocket league spanish database pwa
 
 ## :computer: how-to
 
-:hammer: __`npm start`__<br>
+:hammer: **`npm start`**<br>
 local development server
 
-:triangular_ruler: __`npm run gen`__<br>
+:triangular_ruler: **`npm run gen`**<br>
 scaffold new components
 
-:construction: __`npm run build`__<br>
+:construction: **`npm run build`**<br>
 compile files into `dist/`
 
-:rocket: __`npm run deploy`__<br>
+:rocket: **`npm run deploy`**<br>
 deploy website to gh-pages
 
-:microscope: __`npm test`__<br>
+:microscope: **`npm test`**<br>
 lint and validate deps
 
-:mag: __`npm run inspect`__<br>
+:mag: **`npm run inspect`**<br>
 visualise the app structure
 
 <br>
 
 ---
 
-![](https://img.shields.io/badge/neko250-333333.svg?style=for-the-badge) [![](https://img.shields.io/badge/based_on-choof-333333.svg?style=for-the-badge)](https://github.com/neko250/choof)
+![](https://img.shields.io/badge/wh0am1-333333.svg?style=for-the-badge) [![](https://img.shields.io/badge/based_on-choof-333333.svg?style=for-the-badge)](https://github.com/neko250/choof)
 
 </div>

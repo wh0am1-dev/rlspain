@@ -14,7 +14,7 @@ if (process.env.NODE_ENV !== 'production') {
 }
 
 // ==== service worker ====
-app.use(require('choo-service-worker')())
+// app.use(require('choo-service-worker')())
 
 // ==== disable auto scroll ====
 if (typeof window !== 'undefined' && window.history.scrollRestoration) {
@@ -34,12 +34,12 @@ const faq = require('./views/faq')
 const notFound = require('./views/404')
 
 // ==== routes ====
-app.route('/rlspain', home)
-app.route('/rlspain/#rank/:category', rank)
-app.route('/rlspain/#player/:id', player)
-app.route('/rlspain/#faq', faq)
-app.route('/rlspain/#404', notFound)
-app.route('/rlspain/*', notFound)
+app.route('/', home)
+app.route('#rank/:category', rank)
+app.route('#player/:id', player)
+app.route('#faq', faq)
+app.route('#404', notFound)
+app.route('#*', notFound)
 
 // ==== app ====
 module.exports = app.mount('body')

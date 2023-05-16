@@ -9,15 +9,13 @@ module.exports = (state, emit) => {
       style="z-index: 9999;"
     >
       <img
-        src="/rlspain/assets/img/rlspain.svg"
-        onclick=${() => emit(state.events.PUSHSTATE, '/rlspain')}
+        src="assets/img/rlspain.svg"
+        onclick=${() => emit(state.events.PUSHSTATE, '/')}
         class="h2 mr4 shadow-5 br-pill bl bt b--yellow pointer"
       />
       <nav class="f6 fw6 tracked ttu tc">
-        ${link('#1v1', '/rlspain/#rank/1v1', false, 'mr3')}
-        ${link('#2v2', '/rlspain/#rank/2v2', false, 'mr3')}
-        ${link('#3v3', '/rlspain/#rank/3v3', false, 'mr3')}
-        ${link('#FAQ', '/rlspain/#faq', false, 'mr3')}
+        ${link('#1v1', '#rank/1v1', false, 'mr3')} ${link('#2v2', '#rank/2v2', false, 'mr3')}
+        ${link('#3v3', '#rank/3v3', false, 'mr3')} ${link('#FAQ', '#faq', false, 'mr3')}
       </nav>
     </header>
   `
