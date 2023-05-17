@@ -1,8 +1,6 @@
-// button component
-
 const html = require('choo/html')
 
-module.exports = (text, handler, classes = '') => {
+module.exports = ({ text, handler, classes = '' }) => {
   return html`
     <button
       onclick=${_handler}

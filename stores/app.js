@@ -1,5 +1,3 @@
-// app store
-
 const pkg = require('../package.json')
 
 module.exports = (state, emitter) => {

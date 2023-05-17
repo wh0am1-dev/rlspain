@@ -1,8 +1,6 @@
-// link component
-
 const html = require('choo/html')
 
-module.exports = (text, href, external = false, classes = '') => {
+module.exports = ({ text, href, external = false, classes = '' }) => {
   let target = external ? '_blank' : ''
   let rel = external ? 'noopener noreferrer' : ''
 

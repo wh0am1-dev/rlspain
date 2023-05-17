@@ -1,9 +1,7 @@
-// player view
-
 const html = require('choo/html')
-const title = 'rlspain · '
-
 const button = require('../components/el/button')
+
+const title = 'rlspain · '
 
 module.exports = (state, emit) => {
   let idx = state.db.data.findIndex(p => p.id === state.params.id)
@@ -54,7 +52,7 @@ module.exports = (state, emit) => {
 
       <footer class="tc w-100 dt mv5">
         <section class="dtc v-mid">
-          ${button('Volver', () => emit(state.events.PUSHSTATE, '/'))}
+          ${button({ text: 'Volver', handler: () => emit(state.events.PUSHSTATE, '/') })}
         </section>
       </footer>
     </body>

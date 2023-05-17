@@ -1,9 +1,7 @@
-// delta component
-
 const html = require('choo/html')
 
-module.exports = delta => {
-  if (delta < 0) {
+module.exports = ({ d }) => {
+  if (d < 0) {
     return html`
       <span class="flex flex-column fl mr2">
         <svg
@@ -17,15 +15,15 @@ module.exports = delta => {
             d="M165,75 L165,75 L75,255 L75,255 L255,255 L255,255 L165,75 "
           />
         </svg>
-        <span class="f6 green w-100 tc relative" style="top: -2px;"> ${Math.abs(delta)} </span>
+        <span class="f6 green w-100 tc relative" style="top: -2px;"> ${Math.abs(d)} </span>
       </span>
     `
   }
 
-  if (delta > 0) {
+  if (d > 0) {
     return html`
       <span class="flex flex-column fl mr2">
-        <span class="f6 red w-100 tc relative" style="top: 2px;"> ${Math.abs(delta)} </span>
+        <span class="f6 red w-100 tc relative" style="top: 2px;"> ${Math.abs(d)} </span>
         <svg
           class="w1 red w-100 relative"
           xmlns="http://www.w3.org/2000/svg"

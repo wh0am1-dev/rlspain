@@ -1,6 +1,6 @@
 projectName: rlspain
 template:
-  url: https://github.com/neko250/choof
+  url: https://github.com/wh0am1-dev/choof
   name: choof
 generators:
   component:

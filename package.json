@@ -1,6 +1,6 @@
 {
   "name": "rlspain",
-  "version": "0.5.8",
+  "version": "1.0.0",
   "description": "rocket league spanish database pwa",
   "homepage": "https://carlos-aguilar.com/rlspain",
   "main": "index.js",
@@ -19,7 +19,7 @@
   "faq": [
     {
       "q": "Soy de España y no estoy en la lista, ¿cómo puedo acceder?",
-      "a": "Haz click en el botón \"Peticiones\" y rellena el formulario"
+      "a": "rlspain no esta operativo desde el 26/08/2020"
     },
     {
       "q": "¿Cuáles son los requisitos para poder entrar en la lista?",
@@ -31,7 +31,7 @@
     },
     {
       "q": "Hay información asociada a mí que es errónea",
-      "a": "Haz click en el botón \"Peticiones\" y rellena el formulario"
+      "a": "Envía un email a hey@carlos-aguilar.com"
     },
     {
       "q": "¿Qué son los números en verde o rojo debajo del rating?",
@@ -54,7 +54,7 @@
     "start": "bankai start index.js",
     "gen": "choo g",
     "clean": "rm -r dist/",
-    "build": "bankai build index.js --base rlspain",
+    "build": "bankai build index.js",
     "deploy": "gh-pages -d dist",
     "lint": "standard --verbose | snazzy",
     "deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons",

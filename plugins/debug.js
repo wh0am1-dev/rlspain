@@ -1,5 +1,3 @@
-// debug plugin
-
 module.exports = (state, emitter, app) => {
   // events
   state.events.DEBUG_ON = 'debug:on'

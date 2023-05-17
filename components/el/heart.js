@@ -1,5 +1,3 @@
-// heart component
-
 const html = require('choo/html')
 
 module.exports = () => html`

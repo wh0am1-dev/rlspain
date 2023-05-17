@@ -1,10 +1,7 @@
-// item component
-
 const html = require('choo/html')
-
 const delta = require('../el/delta')
 
-module.exports = (player, category) => {
+module.exports = ({ player, category }) => {
   let team = player.team ? html`<span class="f6 db silver">${player.team}</span>` : ''
   let role = player.role ? html`<span class="f6 light-purple ml2">[${player.role}]</span>` : ''
   let colour =
@@ -21,7 +18,7 @@ module.exports = (player, category) => {
       onclick="${() => window.open(`https://twitter.com/${player.twitter}`, '_blank')}"
     >
       <span class="flex items-center f3 f2-l yellow">
-        ${delta(player[category].deltaPos)} ${player[category].pos}
+        ${delta({ d: player[category].deltaPos })} ${player[category].pos}
       </span>
 
       <div class="pl3 flex-auto">

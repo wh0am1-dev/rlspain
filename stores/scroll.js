@@ -1,5 +1,3 @@
-// scroll store
-
 module.exports = (state, emitter) => {
   // events
   state.events.SCROLL_XY = 'scroll:xy'

@@ -1,5 +1,3 @@
-// db store
-
 module.exports = (state, emitter) => {
   // events
   state.events.DB_FETCH = 'db:fetch'

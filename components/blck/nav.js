@@ -1,12 +1,10 @@
-// nav component
-
 const html = require('choo/html')
 
-module.exports = (state, emit) => {
+module.exports = ({ state, emit }) => {
   return html`
     <header
       class="bg-near-black fixed w-100 ph3 pv2 pv4-ns ph4-m ph5-l flex items-center bb b--dark-gray"
-      style="z-index: 9999;"
+      style="z-index: 9999"
     >
       <img
         src="assets/img/rlspain.svg"
@@ -14,13 +12,15 @@ module.exports = (state, emit) => {
         class="h2 mr4 shadow-5 br-pill bl bt b--yellow pointer"
       />
       <nav class="f6 fw6 tracked ttu tc">
-        ${link('#1v1', '#rank/1v1', false, 'mr3')} ${link('#2v2', '#rank/2v2', false, 'mr3')}
-        ${link('#3v3', '#rank/3v3', false, 'mr3')} ${link('#FAQ', '#faq', false, 'mr3')}
+        ${link({ text: '#1v1', href: '#rank/1v1', external: false, classes: 'mr3' })}
+        ${link({ text: '#2v2', href: '#rank/2v2', external: false, classes: 'mr3' })}
+        ${link({ text: '#3v3', href: '#rank/3v3', external: false, classes: 'mr3' })}
+        ${link({ text: '#FAQ', href: '#faq', external: false, classes: 'mr3' })}
       </nav>
     </header>
   `
 
-  function link(text, href, external = false, classes = '') {
+  function link({ text, href, external = false, classes = '' }) {
     let target = external ? '_blank' : ''
     let rel = external ? 'noopener noreferrer' : ''
     let inactive = 'yellow hover-near-black hover-bg-yellow'
