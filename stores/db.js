@@ -27,10 +27,7 @@ module.exports = (state, emitter) => {
         state.db.filter = ''
         state.db.data = data
 
-        if (
-          state.route === state.routes.RANK &&
-          ['1v1', '2v2', '3v3'].indexOf(state.params.category) > -1
-        ) {
+        if (['1v1', '2v2', '3v3'].includes(state.params.category)) {
           let category = state.params.category.slice(1)
           state.db.data.sort((a, b) => {
             return Math.sign(a[category].pos - b[category].pos)
@@ -72,26 +69,24 @@ module.exports = (state, emitter) => {
   })
 
   emitter.on(state.events.NAVIGATE, () => {
-    if (state.route === state.routes.RANK) {
-      if (state.components.list) state.components.list.page = 0
-      state.db.filter = ''
+    if (state.components.list) state.components.list.page = 0
+    state.db.filter = ''
 
-      if (['1v1', '2v2', '3v3'].indexOf(state.params.category) > -1) {
-        let category = state.params.category.slice(1)
+    if (['1v1', '2v2', '3v3'].includes(state.params.category)) {
+      let category = state.params.category.slice(1)
 
-        state.db.data.sort((a, b) => {
-          return Math.sign(a[category].pos - b[category].pos)
-        })
+      state.db.data.sort((a, b) => {
+        return Math.sign(a[category].pos - b[category].pos)
+      })
 
-        state.db.filteredData = state.db.data.filter(
-          p => p[category].mmr >= state.db.cutoffs[category]
-        )
-      } else {
-        return
-      }
-
-      emitter.emit(state.events.RENDER)
+      state.db.filteredData = state.db.data.filter(
+        p => p[category].mmr >= state.db.cutoffs[category]
+      )
+    } else {
+      return
     }
+
+    emitter.emit(state.events.RENDER)
   })
 
   emitter.on(state.events.DOMCONTENTLOADED, () => {

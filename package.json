@@ -54,7 +54,7 @@
     "start": "bankai start index.js",
     "gen": "choo g",
     "clean": "rm -r dist/",
-    "build": "bankai build index.js",
+    "build": "bankai build index.js --base /rlspain",
     "deploy": "gh-pages -d dist",
     "lint": "standard --verbose | snazzy",
     "deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons",
@@ -64,20 +64,20 @@
     "datafix": "node .bin/datafix.js"
   },
   "dependencies": {
-    "choo": "^6.13.1",
-    "choo-service-worker": "^2.4.0",
-    "sheetify": "^7.3.3",
+    "choo": "^7.1.0",
+    "choo-service-worker": "^3.0.0",
+    "sheetify": "^8.0.0",
     "tachyons": "^4.11.1"
   },
   "devDependencies": {
     "bankai": "^9.15.0",
     "choo-cli": "^2.1.0",
-    "choo-devtools": "^2.5.1",
+    "choo-devtools": "^3.0.4",
     "crawler": "^1.2.0",
-    "dependency-check": "^3.3.0",
-    "gh-pages": "^2.0.1",
+    "dependency-check": "^4.1.0",
+    "gh-pages": "^5.0.0",
     "json-stable-stringify": "^1.0.1",
-    "snazzy": "^8.0.0",
-    "standard": "^12.0.1"
+    "snazzy": "^9.0.0",
+    "standard": "^17.0.0"
   }
 }

@@ -18,18 +18,18 @@ module.exports = (state, emitter) => {
 
   // listeners
   emitter.on(state.events.APP_NOT_FOUND, () => {
-    emitter.emit(state.events.REPLACESTATE, '#404')
+    emitter.emit(state.events.REPLACESTATE, '/rlspain#404')
   })
 
   emitter.on(state.events.DOMCONTENTLOADED, () => {
     if (state.maintenance) {
-      emitter.emit(state.events.REPLACESTATE, '/')
+      emitter.emit(state.events.REPLACESTATE, '/rlspain')
     }
   })
 
   emitter.on(state.events.NAVIGATE, () => {
     if (state.maintenance) {
-      emitter.emit(state.events.REPLACESTATE, '/')
+      emitter.emit(state.events.REPLACESTATE, '/rlspain')
     }
   })
 }

@@ -8,7 +8,7 @@ module.exports = ({ state, emit }) => {
     >
       <img
         src="assets/img/rlspain.svg"
-        onclick=${() => emit(state.events.PUSHSTATE, '/')}
+        onclick=${() => emit(state.events.PUSHSTATE, '#')}
         class="h2 mr4 shadow-5 br-pill bl bt b--yellow pointer"
       />
       <nav class="f6 fw6 tracked ttu tc">

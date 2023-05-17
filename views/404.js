@@ -24,7 +24,7 @@ module.exports = (state, emit) => {
               <h1 class="f4 f3-m f2-l w-50 center">No hay nada aquí...</h1>
             </div>
 
-            ${button({ text: 'Inicio', handler: () => emit(state.events.PUSHSTATE, '/') })}
+            ${button({ text: 'Inicio', handler: () => emit(state.events.PUSHSTATE, '#') })}
           </div>
         </section>
       </main>
