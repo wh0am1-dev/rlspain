@@ -19,9 +19,13 @@ module.exports = () => html`
       <span class="f6">última actualización: 26/08/2020</span>
     </section>
     <section class="mt4">
-      <span class="yellow hover-near-black hover-bg-yellow bg-animate ba b--yellow br2 pv1 ph2">
-        v${require('../../package.json').version} legacy
-      </span>
+      <a
+        href="https://github.com/wh0am1-dev/rlspain"
+        class="yellow hover-near-black hover-bg-yellow bg-animate ba b--yellow br2 pv1 ph2 no-underline relative"
+      >
+        v${require('../../package.json').version}
+        <span class="absolute top-2 right-0 f7 yellow">legacy</span>
+      </a>
     </section>
   </footer>
 `
