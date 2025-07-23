@@ -33,24 +33,23 @@ const player = require('./views/player')
 const faq = require('./views/faq')
 const notFound = require('./views/404')
 
-// ==== routes ====
-app.route('/', home)
-app.route('#rank/:category', rank)
-app.route('#player/:id', player)
-app.route('#faq', faq)
-app.route('#404', notFound)
-app.route('#*', notFound)
-
-// ==== deployment test routes ====
-// app.route('/', home)
-// app.route('/rlspain', home)
-// app.route('/rlspain/', home)
-// app.route('/rlspain/#rank/:category', rank)
-// app.route('/rlspain/#player/:id', player)
-// app.route('/rlspain/#faq', faq)
-// app.route('/rlspain/#404', notFound)
-// app.route('/rlspain/#*', notFound)
-// app.route('#*', notFound)
+// ==== dev routes ====
+if (process.env.NODE_ENV !== 'production') {
+  app.route('/', home)
+  app.route('#rank/:category', rank)
+  app.route('#player/:id', player)
+  app.route('#faq', faq)
+  app.route('#404', notFound)
+  app.route('#*', notFound)
+} else {
+  app.route('/', home)
+  app.route('/rlspain', home)
+  app.route('/rlspain/rank/:category', rank)
+  app.route('/rlspain/player/:id', player)
+  app.route('/rlspain/faq', faq)
+  app.route('/rlspain/404', notFound)
+  app.route('/rlspain/*', notFound)
+}
 
 // ==== mount app ====
 module.exports = app.mount('body')
