@@ -1,12 +1,13 @@
 {
   "name": "rlspain",
   "version": "1.0.0",
-  "description": "rocket league spanish database pwa",
-  "homepage": "https://carlos-aguilar.com/rlspain",
-  "main": "index.js",
   "private": true,
+  "homepage": "https://carlos-aguilar.com/rlspain",
+  "description": "rocket league spanish database pwa",
   "author": "Carlos Aguilar <hey@carlos-aguilar.com>",
   "license": "MIT",
+  "main": "index.js",
+  "maintenance": false,
   "keywords": [
     "rocket",
     "league",
@@ -15,7 +16,36 @@
     "website",
     "salve"
   ],
-  "maintenance": false,
+  "scripts": {
+    "start": "bankai start index.js",
+    "gen": "choo g",
+    "clean": "rm -r dist/",
+    "build": "bankai build index.js --base /rlspain",
+    "deploy": "gh-pages -d dist",
+    "lint": "standard --verbose | snazzy",
+    "deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons",
+    "test": "npm run lint && npm run deps",
+    "inspect": "bankai inspect index.js",
+    "crawl": "node .bin/crawler.js",
+    "datafix": "node .bin/datafix.js"
+  },
+  "dependencies": {
+    "choo": "^7.1.0",
+    "choo-service-worker": "^3.0.0",
+    "sheetify": "^8.0.0",
+    "tachyons": "^4.11.1"
+  },
+  "devDependencies": {
+    "bankai": "9.15.0",
+    "choo-cli": "^2.1.0",
+    "choo-devtools": "^3.0.4",
+    "crawler": "^1.2.0",
+    "dependency-check": "^4.1.0",
+    "gh-pages": "^5.0.0",
+    "json-stable-stringify": "^1.0.1",
+    "snazzy": "^9.0.0",
+    "standard": "^17.0.0"
+  },
   "faq": [
     {
       "q": "Soy de España y no estoy en la lista, ¿cómo puedo acceder?",
@@ -49,35 +79,5 @@
       "q": "¿Tenéis planeado añadir Switch?",
       "a": "No way dude ¯\\_(ツ)_/¯"
     }
-  ],
-  "scripts": {
-    "start": "bankai start index.js",
-    "gen": "choo g",
-    "clean": "rm -r dist/",
-    "build": "bankai build index.js --base /rlspain",
-    "deploy": "gh-pages -d dist",
-    "lint": "standard --verbose | snazzy",
-    "deps": "dependency-check . && dependency-check . --extra --no-dev -i tachyons",
-    "test": "npm run lint && npm run deps",
-    "inspect": "bankai inspect index.js",
-    "crawl": "node .bin/crawler.js",
-    "datafix": "node .bin/datafix.js"
-  },
-  "dependencies": {
-    "choo": "^7.1.0",
-    "choo-service-worker": "^3.0.0",
-    "sheetify": "^8.0.0",
-    "tachyons": "^4.11.1"
-  },
-  "devDependencies": {
-    "bankai": "^9.15.0",
-    "choo-cli": "^2.1.0",
-    "choo-devtools": "^3.0.4",
-    "crawler": "^1.2.0",
-    "dependency-check": "^4.1.0",
-    "gh-pages": "^5.0.0",
-    "json-stable-stringify": "^1.0.1",
-    "snazzy": "^9.0.0",
-    "standard": "^17.0.0"
-  }
+  ]
 }
