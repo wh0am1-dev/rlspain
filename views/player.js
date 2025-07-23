@@ -19,7 +19,7 @@ module.exports = (state, emit) => {
 
   let team = player.team !== '' ? html`<span class="f6 db silver">${player.team}</span>` : ''
   let role = player.role !== '' ? html`<span class="f6 light-purple">[${player.role}]</span>` : ''
-  let colour = player.vs3.deltaMmr < 0 ? 'red' : player.vs3.deltaMmr > 0 ? 'green' : 'silver'
+  let colour = player.v3.deltaMmr < 0 ? 'red' : player.v3.deltaMmr > 0 ? 'green' : 'silver'
 
   return html`
     <body
@@ -41,18 +41,18 @@ module.exports = (state, emit) => {
         </section>
         <section class="fl w-100 h-100 pa4 tc">
           <h2 class="f5 f4-m f3-l yellow">Rating</h2>
-          <p class="f6 f5-m f4-l">pos: ${player.vs3.pos}</p>
-          <p class="f6 f5-m f4-l">mmr: ${player.vs3.mmr}</p>
+          <p class="f6 f5-m f4-l">pos: ${player.v3.pos}</p>
+          <p class="f6 f5-m f4-l">mmr: ${player.v3.mmr}</p>
           <p class="f6 f5-m f4-l">
             delta:
-            <span class="${colour}"> ${player.vs3.deltaMmr} </span>
+            <span class="${colour}"> ${player.v3.deltaMmr} </span>
           </p>
         </section>
       </main>
 
       <footer class="tc w-100 dt mv5">
         <section class="dtc v-mid">
-          ${button({ text: 'Volver', handler: () => emit(state.events.PUSHSTATE, '#') })}
+          ${button({ text: 'Volver', handler: () => history.go(-1) })}
         </section>
       </footer>
     </body>
