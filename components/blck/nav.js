@@ -25,7 +25,7 @@ module.exports = ({ state, emit }) => {
     let rel = external ? 'noopener noreferrer' : ''
     let inactive = 'yellow hover-near-black hover-bg-yellow'
     let active = 'near-black bg-yellow'
-    let isActive = state.href.slice(1) === href.slice(2)
+    let isActive = state.href.includes(href.slice(1))
 
     return html`
       <a
